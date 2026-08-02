@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1955650933980901376"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955651009373511687",
+    "created_at": "2025-08-13T15:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T16:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955651009373511687"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 12,
+          "start": 9,
+          "tag": "门槛"
+        },
+        {
+          "end": 17,
+          "start": 13,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "求入门"
+        },
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "女高"
+        },
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "反差"
+        },
+        {
+          "end": 35,
+          "start": 31,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 40,
+          "start": 36,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 44,
+          "start": 41,
+          "tag": "金主"
+        },
+        {
+          "end": 48,
+          "start": 45,
+          "tag": "非绿"
+        },
+        {
+          "end": 51,
+          "start": 49,
+          "tag": "m"
+        },
+        {
+          "end": 56,
+          "start": 53,
+          "tag": "反差"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ANA6ecrcEm",
+          "end": 80,
+          "expanded_url": "https://x.com/a23937117/status/1955651009373511687/video/1",
+          "media_key": "13_1955650933980901376",
+          "start": 57,
+          "url": "https://t.co/ANA6ecrcEm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955651009373511687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早期摸小猫视频\n\n#门槛 #门槛妹 #求入门 #女高 #反差 #爸爸活 #妈妈活 #金主 #非绿 #m  #反差 https://t.co/ANA6ecrcEm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955651009373511687].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955651009373511687",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955651009373511687"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20266,
+        "height": 1280,
+        "media_key": "13_1955650933980901376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1955650933980901376/img/4n6wZzrTyDTQwl3Z.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955650933980901376/vid/avc1/320x568/qS3qALPibly-N859.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955650933980901376/vid/avc1/480x852/_nnW_DTHmFxsd3Hb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955650933980901376/vid/avc1/720x1280/HL_OJFtaFfjnhwgl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1955650933980901376/pl/smZgAYO32t0gH0oR.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 228,
+          "like_count": 1078,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 572
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945859360577462272",
+        "13_1945859360636186624"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1945859579771773379",
+    "created_at": "2025-07-17T14:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T15:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945859579771773379"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ggYdziGRCg",
+          "end": 46,
+          "expanded_url": "https://x.com/a23937117/status/1945859579771773379/video/1",
+          "media_key": "3_1945859360577462272",
+          "start": 23,
+          "url": "https://t.co/ggYdziGRCg"
+        },
+        {
+          "display_url": "pic.x.com/ggYdziGRCg",
+          "end": 46,
+          "expanded_url": "https://x.com/a23937117/status/1945859579771773379/video/1",
+          "media_key": "13_1945859360636186624",
+          "start": 23,
+          "url": "https://t.co/ggYdziGRCg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945859579771773379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看我们在车里开船，有意思吗，底盘进水就老实了 https://t.co/ggYdziGRCg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1945859579771773379].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1945859579771773379",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1945859579771773379"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1945859360577462272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwEUx2IWoAAgTs_.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 4125,
+        "height": 1280,
+        "media_key": "13_1945859360636186624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1945859360636186624/img/VPJk9p5l2WkvnOo6.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945859360636186624/vid/avc1/320x568/dQXHBSuAaeQ6Gtzo.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945859360636186624/vid/avc1/480x852/7fE4W95kEmMRMo_0.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945859360636186624/vid/avc1/720x1280/7dYEvPF6jqXZirow.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1945859360636186624/pl/lulrmyGdWR4IaDAx.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 163,
+          "like_count": 955,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 376
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

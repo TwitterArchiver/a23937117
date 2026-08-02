@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1954882094435533130",
+    "created_at": "2025-08-11T15:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T16:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954924172842242460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1813560885459202048",
+          "start": 0,
+          "username": "XWXbl00dbunn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954924172842242460",
+    "in_reply_to_user_id": "1813560885459202048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954882094435533130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XWXbl00dbunn1 求你等我回国，我猛猛吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1954882094435533130",
+        "created_at": "2025-08-11T15:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T16:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954924172842242460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813560885459202048",
+              "start": 0,
+              "username": "XWXbl00dbunn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954924172842242460",
+        "in_reply_to_user_id": "1813560885459202048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954882094435533130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XWXbl00dbunn1 求你等我回国，我猛猛吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813560885459202048",
+        "conversation_id": "1954882094435533130",
+        "created_at": "2025-08-11T12:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T13:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954882094435533130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954882094435533130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要磕药搭子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954923487753339077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 188,
+          "like_count": 1048,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 488
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:06:32.000Z",
+        "description": "一个智障精神病 🚪 58/88 可怜可怜我的话那我可以给我赞赏码扫点谢谢谢谢",
+        "id": "1813560885459202048",
+        "location": "上海",
+        "name": "xwx恨你。",
+        "pinned_tweet_id": "1947156619030364176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936753742759485440/GZoZyotf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 643,
+          "like_count": 8671,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 1215
+        },
+        "username": "XWXbl00dbunn1",
+        "verified": false
+      }
+    ]
+  }
+}

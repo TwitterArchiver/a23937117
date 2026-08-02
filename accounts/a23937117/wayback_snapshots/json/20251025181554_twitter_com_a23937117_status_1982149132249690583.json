@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1982149132249690583",
+    "created_at": "2025-10-25T18:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T19:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982149132249690583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1956595273108738048",
+          "start": 3,
+          "username": "lockrui008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982149132249690583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981993358966116855",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lockrui008: 吱 可爱的我又回来啦\n我是小锁 不喜欢重口暴力的美少女\n坐标广东 具体坐标来私信我\ncosplay/jk/sm 双属性\n🚪188/520/888/999 不要骗我的验证..\n请多多溺爱小锁吧，爱你！\n接爸爸活妈妈活 总之我很缺钱 https://…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1982149132249690583].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1982149132249690583",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1982149132249690583"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1981993346663960577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4F0cp8X0AE8KWa.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1915,
+        "media_key": "3_1981993346638778368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4F0cp2XkAAfabU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981993346663960577",
+            "3_1981993346638778368"
+          ]
+        },
+        "author_id": "1956595273108738048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1981993358966116855",
+        "created_at": "2025-10-25T07:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T08:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981993358966116855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qsqGTy4frP",
+              "end": 138,
+              "expanded_url": "https://x.com/lockrui008/status/1981993358966116855/photo/1",
+              "media_key": "3_1981993346663960577",
+              "start": 115,
+              "url": "https://t.co/qsqGTy4frP"
+            },
+            {
+              "display_url": "pic.x.com/qsqGTy4frP",
+              "end": 138,
+              "expanded_url": "https://x.com/lockrui008/status/1981993358966116855/photo/1",
+              "media_key": "3_1981993346638778368",
+              "start": 115,
+              "url": "https://t.co/qsqGTy4frP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981993358966116855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 328,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "吱 可爱的我又回来啦\n我是小锁 不喜欢重口暴力的美少女\n坐标广东 具体坐标来私信我\ncosplay/jk/sm 双属性\n🚪188/520/888/999 不要骗我的验证..\n请多多溺爱小锁吧，爱你！\n接爸爸活妈妈活 总之我很缺钱 https://t.co/qsqGTy4frP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 219,
+          "like_count": 1308,
+          "listed_count": 3,
+          "media_count": 200,
+          "tweet_count": 734
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T05:54:41.000Z",
+        "description": "爱是小锁送给您的第一份见面礼../锁推防炸/双属性",
+        "id": "1956595273108738048",
+        "name": "锁2.0",
+        "pinned_tweet_id": "1981993358966116855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981993406390829056/4bhZ6f0W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 12,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 125
+        },
+        "username": "lockrui008",
+        "verified": false
+      }
+    ]
+  }
+}

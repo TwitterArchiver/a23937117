@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2046395167293198669",
+    "created_at": "2026-04-21T01:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T02:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046395167293198669"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046395167293198669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "但是我发涩图也没有人会夸夸我，给我点赞，给我过门，所以为什么我还要发自己的黄图呢，还不如发点碎碎念，和自己喜欢的东西，如果想看我发涩图就给我打钱啊，不付钱还要骂我干什么(⑉꒦ິ^꒦ິ⑉)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2046395167293198669",
+        "created_at": "2026-04-21T01:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T02:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046395167293198669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046395167293198669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "但是我发涩图也没有人会夸夸我，给我点赞，给我过门，所以为什么我还要发自己的黄图呢，还不如发点碎碎念，和自己喜欢的东西，如果想看我发涩图就给我打钱啊，不付钱还要骂我干什么(⑉꒦ິ^꒦ິ⑉)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 201,
+          "like_count": 1401,
+          "listed_count": 2,
+          "media_count": 211,
+          "tweet_count": 694
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

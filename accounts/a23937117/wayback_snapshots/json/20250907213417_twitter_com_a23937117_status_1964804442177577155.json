@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1964804442177577155",
+    "created_at": "2025-09-07T21:34:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T22:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964804442177577155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "850547197275889665",
+          "start": 3,
+          "username": "NnnonTra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964804442177577155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964748452195340366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NnnonTra: 🔝大家好 我是琪琪 发个新置顶\n喜欢我的哥哥多多投喂琪琪qwq\n🉑接全国✈️（机票你付）\n接线上陪聊 线下也接 \n求金主爸爸怜爱我 会提供情绪价值\n🚪520及以上有图包福利\n线下会主动找话题 不会冷场 约会时会要亲亲抱抱\n以上，转关赞抽3个188，抽…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1964804442177577155].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1964804442177577155",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1964804442177577155"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964748444968656896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0QwTQ9boAABdFL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1413,
+        "media_key": "3_1964748449833992192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0QwTjFawAAstZ1.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964748444968656896",
+            "3_1964748449833992192"
+          ]
+        },
+        "author_id": "850547197275889665",
+        "conversation_id": "1964748452195340366",
+        "created_at": "2025-09-07T17:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T18:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964748452195340366"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 154,
+              "start": 149,
+              "tag": "非绿线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AXcvYcPeck",
+              "end": 178,
+              "expanded_url": "https://x.com/NnnonTra/status/1964748452195340366/photo/1",
+              "media_key": "3_1964748444968656896",
+              "start": 155,
+              "url": "https://t.co/AXcvYcPeck"
+            },
+            {
+              "display_url": "pic.x.com/AXcvYcPeck",
+              "end": 178,
+              "expanded_url": "https://x.com/NnnonTra/status/1964748452195340366/photo/1",
+              "media_key": "3_1964748449833992192",
+              "start": 155,
+              "url": "https://t.co/AXcvYcPeck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964748452195340366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 338,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "🔝大家好 我是琪琪 发个新置顶\n喜欢我的哥哥多多投喂琪琪qwq\n🉑接全国✈️（机票你付）\n接线上陪聊 线下也接 \n求金主爸爸怜爱我 会提供情绪价值\n🚪520及以上有图包福利\n线下会主动找话题 不会冷场 约会时会要亲亲抱抱\n以上，转关赞抽3个188，抽到直接私信口令🧧（抽到的哥哥姐姐帮我多转发一下\n#非绿线下 https://t.co/AXcvYcPeck"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 209,
+          "like_count": 1159,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 657
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-08T03:13:49.000Z",
+        "description": "喜欢我的哥哥直接口令 脾气不好 不入🚪勿扰 不要废话  欢迎女孩子互转互fo 🉑线下 问坐标 20r",
+        "id": "850547197275889665",
+        "name": "琪琪",
+        "pinned_tweet_id": "1964748452195340366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951934854280695808/VKWerAqx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 90,
+          "like_count": 25,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 177
+        },
+        "username": "NnnonTra",
+        "verified": false
+      }
+    ]
+  }
+}

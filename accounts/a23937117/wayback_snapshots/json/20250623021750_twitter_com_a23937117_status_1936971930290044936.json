@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936971921683275776",
+        "3_1936971921708433408",
+        "3_1936971921683304448",
+        "3_1936971921674891264"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1936971930290044936",
+    "created_at": "2025-06-23T02:17:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T03:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936971930290044936"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gC4GWHT75y",
+          "end": 39,
+          "expanded_url": "https://x.com/a23937117/status/1936971930290044936/photo/1",
+          "media_key": "3_1936971921683275776",
+          "start": 16,
+          "url": "https://t.co/gC4GWHT75y"
+        },
+        {
+          "display_url": "pic.x.com/gC4GWHT75y",
+          "end": 39,
+          "expanded_url": "https://x.com/a23937117/status/1936971930290044936/photo/1",
+          "media_key": "3_1936971921708433408",
+          "start": 16,
+          "url": "https://t.co/gC4GWHT75y"
+        },
+        {
+          "display_url": "pic.x.com/gC4GWHT75y",
+          "end": 39,
+          "expanded_url": "https://x.com/a23937117/status/1936971930290044936/photo/1",
+          "media_key": "3_1936971921683304448",
+          "start": 16,
+          "url": "https://t.co/gC4GWHT75y"
+        },
+        {
+          "display_url": "pic.x.com/gC4GWHT75y",
+          "end": 39,
+          "expanded_url": "https://x.com/a23937117/status/1936971930290044936/photo/1",
+          "media_key": "3_1936971921674891264",
+          "start": 16,
+          "url": "https://t.co/gC4GWHT75y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936971930290044936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉好凶……还是喜欢温柔的…… https://t.co/gC4GWHT75y"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1936971930290044936].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1936971930290044936",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1936971930290044936"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1936971921683275776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuGBs0PWYAArJeu.jpg",
+        "width": 945
+      },
+      {
+        "height": 1829,
+        "media_key": "3_1936971921708433408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuGBs0VWQAA_qP9.jpg",
+        "width": 1269
+      },
+      {
+        "height": 1427,
+        "media_key": "3_1936971921683304448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuGBs0PW0AALJrx.jpg",
+        "width": 971
+      },
+      {
+        "height": 1967,
+        "media_key": "3_1936971921674891264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuGBs0NWcAADJLB.jpg",
+        "width": 1267
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "kissing",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 121,
+          "like_count": 776,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 122
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

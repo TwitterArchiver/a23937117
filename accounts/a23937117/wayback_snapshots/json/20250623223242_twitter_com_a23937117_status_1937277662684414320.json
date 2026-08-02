@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937277655591563264"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1937277662684414320",
+    "created_at": "2025-06-23T22:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T23:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937277662684414320"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ls4lsR5snz",
+          "end": 79,
+          "expanded_url": "https://x.com/a23937117/status/1937277662684414320/photo/1",
+          "media_key": "3_1937277655591563264",
+          "start": 56,
+          "url": "https://t.co/Ls4lsR5snz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937277662684414320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小豹就这样闲着没事在宿舍用皮带把自己绑起来然后解不开了了……\n（最后舍友宝宝来解救的我，并且激情拍照留念……） https://t.co/Ls4lsR5snz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1937277662684414320].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1937277662684414320",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1937277662684414320"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_1937277655591563264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuKXw3zWMAAJKzp.jpg",
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "kissing",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 125,
+          "like_count": 807,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 144
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

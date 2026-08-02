@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1985734445593223459",
+    "created_at": "2025-11-04T15:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T16:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985734445593223459"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 90,
+          "start": 86,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 96,
+          "start": 91,
+          "tag": "女高中生"
+        },
+        {
+          "end": 101,
+          "start": 97,
+          "tag": "江浙沪"
+        },
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "门槛"
+        },
+        {
+          "end": 110,
+          "start": 106,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "金主"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "援交"
+        },
+        {
+          "end": 122,
+          "start": 119,
+          "tag": "非绿"
+        },
+        {
+          "end": 126,
+          "start": 123,
+          "tag": "半绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1950034756328161280",
+          "start": 3,
+          "username": "ZhiMao3444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985734445593223459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985384251953688771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZhiMao3444: 未成年高中生 ip浙江 可跑江浙沪闽\n验证费10r防皮下男盗验证\n包天已经优惠过了 半绿口+150/h包天也加价\n欢迎女孩子来互fo互转\n\n#爸爸活 #女高中生 #江浙沪 #门槛 #门槛哥 #金主 #援交 #非绿 #半绿 https://t.co…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1985734445593223459].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1985734445593223459",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1985734445593223459"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985384243946774528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G42Ac2sa4AAnTAc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1058,
+        "media_key": "3_1985384244118732800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G42Ac3VawAAgKhd.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985384243946774528",
+            "3_1985384244118732800"
+          ]
+        },
+        "author_id": "1950034756328161280",
+        "conversation_id": "1985384251953688771",
+        "created_at": "2025-11-03T16:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T17:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985384251953688771"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 80,
+              "start": 75,
+              "tag": "女高中生"
+            },
+            {
+              "end": 85,
+              "start": 81,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "门槛"
+            },
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "金主"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "援交"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "非绿"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "半绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CQslNg8JyN",
+              "end": 134,
+              "expanded_url": "https://x.com/ZhiMao3444/status/1985384251953688771/photo/1",
+              "media_key": "3_1985384243946774528",
+              "start": 111,
+              "url": "https://t.co/CQslNg8JyN"
+            },
+            {
+              "display_url": "pic.x.com/CQslNg8JyN",
+              "end": 134,
+              "expanded_url": "https://x.com/ZhiMao3444/status/1985384251953688771/photo/1",
+              "media_key": "3_1985384244118732800",
+              "start": 111,
+              "url": "https://t.co/CQslNg8JyN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985384251953688771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3007,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "未成年高中生 ip浙江 可跑江浙沪闽\n验证费10r防皮下男盗验证\n包天已经优惠过了 半绿口+150/h包天也加价\n欢迎女孩子来互fo互转\n\n#爸爸活 #女高中生 #江浙沪 #门槛 #门槛哥 #金主 #援交 #非绿 #半绿 https://t.co/CQslNg8JyN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 220,
+          "like_count": 1339,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 751
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-29T03:25:12.000Z",
+        "description": "🚪99/188/288/520/1314… 线下需提前两周预定，不退门",
+        "id": "1950034756328161280",
+        "name": "猫重置",
+        "pinned_tweet_id": "1985384251953688771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975016247575420928/CzPdvj5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 40,
+          "like_count": 24,
+          "listed_count": 3,
+          "media_count": 7,
+          "tweet_count": 322
+        },
+        "username": "ZhiMao3444",
+        "verified": false
+      }
+    ]
+  }
+}

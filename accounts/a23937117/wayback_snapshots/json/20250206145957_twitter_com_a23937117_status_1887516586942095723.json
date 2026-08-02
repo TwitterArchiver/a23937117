@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1887333033960751131",
+    "created_at": "2025-02-06T14:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T15:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887516586942095723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1386648157895888897",
+          "start": 0,
+          "username": "liqingfeng1984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887516586942095723",
+    "in_reply_to_user_id": "1386648157895888897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887457356390539687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liqingfeng1984 ₍˄·͈༝·͈˄₎ฅ˒˒喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1887333033960751131",
+        "created_at": "2025-02-06T14:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T15:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887516586942095723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1386648157895888897",
+              "start": 0,
+              "username": "liqingfeng1984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887516586942095723",
+        "in_reply_to_user_id": "1386648157895888897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887457356390539687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liqingfeng1984 ₍˄·͈༝·͈˄₎ฅ˒˒喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386648157895888897",
+        "conversation_id": "1887333033960751131",
+        "created_at": "2025-02-06T11:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T12:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887457356390539687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442350932977610752",
+              "start": 0,
+              "username": "a23937117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887457356390539687",
+        "in_reply_to_user_id": "1442350932977610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887333033960751131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a23937117 你这个属性，好像有点复杂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——严重露出lover  中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877871932521009152/ENngS7iN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 72,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 31
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-26T11:47:54.000Z",
+        "description": "80后环境设计师，资深抑郁症患者",
+        "id": "1386648157895888897",
+        "location": "西安",
+        "name": "李青峰",
+        "pinned_tweet_id": "1547198846756724737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1386648863084142593/DqKv5Fa2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 218,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 178
+        },
+        "username": "liqingfeng1984",
+        "verified": false
+      }
+    ]
+  }
+}

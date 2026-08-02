@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962581368463917534",
+    "created_at": "2025-09-01T18:20:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T19:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962581368463917534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1714008587012612097",
+          "start": 3,
+          "username": "angelkawaii2P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962581368463917534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957720438660034884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @angelkawaii2P: ∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴\n\n03｜抑鬱焦慮｜OD自傷｜重加工女子\n女寶互fo互轉大歡迎♡男請入🚪再說(*^^*)\nzsm在後面沒事可以歡迎投餵喵\n\n感謝點讚以及轉發（^ ̥_  ̫ _ ̥^）\n\n∴∵∴ ୨୧ ∴∵∴…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962581368463917534].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962581368463917534",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962581368463917534"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_1957720431001235459",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gys4XAtacAM1gcu.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1957720431005429760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gys4XAuacAAs3nc.jpg",
+        "width": 1636
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1957720431022288896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gys4XAybsAAoy3A.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2000,
+        "media_key": "3_1957720431022206976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gys4XAyacAAVqnY.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957720431001235459",
+            "3_1957720431005429760",
+            "3_1957720431022288896",
+            "3_1957720431022206976"
+          ]
+        },
+        "author_id": "1714008587012612097",
+        "conversation_id": "1957720438660034884",
+        "created_at": "2025-08-19T08:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T09:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957720438660034884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qNgjcLlzJY",
+              "end": 158,
+              "expanded_url": "https://x.com/angelkawaii2P/status/1957720438660034884/photo/1",
+              "media_key": "3_1957720431001235459",
+              "start": 135,
+              "url": "https://t.co/qNgjcLlzJY"
+            },
+            {
+              "display_url": "pic.x.com/qNgjcLlzJY",
+              "end": 158,
+              "expanded_url": "https://x.com/angelkawaii2P/status/1957720438660034884/photo/1",
+              "media_key": "3_1957720431005429760",
+              "start": 135,
+              "url": "https://t.co/qNgjcLlzJY"
+            },
+            {
+              "display_url": "pic.x.com/qNgjcLlzJY",
+              "end": 158,
+              "expanded_url": "https://x.com/angelkawaii2P/status/1957720438660034884/photo/1",
+              "media_key": "3_1957720431022288896",
+              "start": 135,
+              "url": "https://t.co/qNgjcLlzJY"
+            },
+            {
+              "display_url": "pic.x.com/qNgjcLlzJY",
+              "end": 158,
+              "expanded_url": "https://x.com/angelkawaii2P/status/1957720438660034884/photo/1",
+              "media_key": "3_1957720431022206976",
+              "start": 135,
+              "url": "https://t.co/qNgjcLlzJY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957720438660034884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4798,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴\n\n03｜抑鬱焦慮｜OD自傷｜重加工女子\n女寶互fo互轉大歡迎♡男請入🚪再說(*^^*)\nzsm在後面沒事可以歡迎投餵喵\n\n感謝點讚以及轉發（^ ̥_  ̫ _ ̥^）\n\n∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴ https://t.co/qNgjcLlzJY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 201,
+          "like_count": 1136,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 683
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T20:01:18.000Z",
+        "description": "20↑｜病み垢｜置頂必読｜餐券od妹｜只回覆過🚪相關｜✝️昇天✝️",
+        "id": "1714008587012612097",
+        "name": "天国用マイスリー",
+        "pinned_tweet_id": "1957720438660034884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958168458832822272/DoO-KXyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 82,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 265
+        },
+        "username": "angelkawaii2P",
+        "verified": false
+      }
+    ]
+  }
+}

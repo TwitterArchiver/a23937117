@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962481707870798275",
+    "created_at": "2025-09-01T11:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T12:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962481707870798275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1755369367624110080",
+          "start": 3,
+          "username": "nanakau_le"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962481707870798275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942673920471228540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nanakau_le: 这里是小言₍˄·͈༝·͈˄*₎◞这个小女孩也太可怜了吧!前世5k fo账号被封 所以能支持萌萌的小言再次回归嘛!\n门槛详情p3哦 喜欢小言可以入小言的🚪嘛我很需要钱...小言154/35kg坐标深圳 快来快来找我吧*͈ᴗ͈ˬᴗ͈ෆ\n转发此帖抽3个…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962481707870798275].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962481707870798275",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962481707870798275"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942673897780043779",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvXDngeaYAMxht8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1942673907418279936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvXDoEYWMAA0yLt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2110,
+        "media_key": "3_1942673913038659584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvXDoZUWYAAuQdM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1942673918218887168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvXDosnaYAAnMRf.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942673897780043779",
+            "3_1942673907418279936",
+            "3_1942673913038659584",
+            "3_1942673918218887168"
+          ]
+        },
+        "author_id": "1755369367624110080",
+        "conversation_id": "1942673920471228540",
+        "created_at": "2025-07-08T19:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T20:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942673920471228540"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 145,
+              "start": 141,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 151,
+              "start": 146,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 155,
+              "start": 152,
+              "tag": "金主"
+            },
+            {
+              "end": 161,
+              "start": 156,
+              "tag": "电子女友"
+            },
+            {
+              "end": 165,
+              "start": 162,
+              "tag": "母狗"
+            },
+            {
+              "end": 169,
+              "start": 166,
+              "tag": "萝莉"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WLiyd2dnM8",
+              "end": 193,
+              "expanded_url": "https://x.com/nanakau_lun/status/1942673920471228540/photo/1",
+              "media_key": "3_1942673897780043779",
+              "start": 170,
+              "url": "https://t.co/WLiyd2dnM8"
+            },
+            {
+              "display_url": "pic.x.com/WLiyd2dnM8",
+              "end": 193,
+              "expanded_url": "https://x.com/nanakau_lun/status/1942673920471228540/photo/1",
+              "media_key": "3_1942673907418279936",
+              "start": 170,
+              "url": "https://t.co/WLiyd2dnM8"
+            },
+            {
+              "display_url": "pic.x.com/WLiyd2dnM8",
+              "end": 193,
+              "expanded_url": "https://x.com/nanakau_lun/status/1942673920471228540/photo/1",
+              "media_key": "3_1942673913038659584",
+              "start": 170,
+              "url": "https://t.co/WLiyd2dnM8"
+            },
+            {
+              "display_url": "pic.x.com/WLiyd2dnM8",
+              "end": 193,
+              "expanded_url": "https://x.com/nanakau_lun/status/1942673920471228540/photo/1",
+              "media_key": "3_1942673918218887168",
+              "start": 170,
+              "url": "https://t.co/WLiyd2dnM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942673920471228540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 48192,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "这里是小言₍˄·͈༝·͈˄*₎◞这个小女孩也太可怜了吧!前世5k fo账号被封 所以能支持萌萌的小言再次回归嘛!\n门槛详情p3哦 喜欢小言可以入小言的🚪嘛我很需要钱...小言154/35kg坐标深圳 快来快来找我吧*͈ᴗ͈ˬᴗ͈ෆ\n转发此帖抽3个52和1个520的🚪哦～两周后开奖\n#门槛妹 #ATM奴 #金主 #电子女友 #母狗 #萝莉 https://t.co/WLiyd2dnM8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 211,
+          "like_count": 1133,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 645
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T23:14:21.000Z",
+        "description": "小言第四世!!! 坐标深圳 154/35kg\n这个小女孩很可怜可以支持她嘛˃ʍ˂\n不接线下了哦\n                                                          提问箱：https://t.co/3pNBx40xs3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nanakau_lun",
+                "end": 133,
+                "expanded_url": "https://ngl.link/nanakau_lun",
+                "start": 110,
+                "url": "https://t.co/3pNBx40xs3"
+              }
+            ]
+          }
+        },
+        "id": "1755369367624110080",
+        "name": "nanakau",
+        "pinned_tweet_id": "1942673920471228540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942655867322552320/cSu50SPU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 133,
+          "like_count": 282,
+          "listed_count": 7,
+          "media_count": 88,
+          "tweet_count": 262
+        },
+        "username": "nanakau_le",
+        "verified": false
+      }
+    ]
+  }
+}

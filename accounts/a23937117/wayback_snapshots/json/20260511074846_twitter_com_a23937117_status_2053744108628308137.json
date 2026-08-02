@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053744108628308137",
+    "created_at": "2026-05-11T07:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T08:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053744108628308137"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 125,
+          "start": 121,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1883316366226382848",
+          "start": 3,
+          "username": "kufzwy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053744108628308137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037169316651815388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kufzwy: 置顶🔝\n大家好这里是小桃 我性格很好 问问题20口令红包 线下线上都接 下雨了我会往家跑不用担心我的安慰 求你们帮我转发 我给你们抽红包 关注 转发 评论里面我给大家抽一个188🧧 五个52🧧 三个88🧧 谢谢你们  #门槛妹 https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1333,
+        "media_key": "3_2037169306929422343",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEV6sPbbYAcS4wO.jpg",
+        "width": 999
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2037169306950336512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEV6sPgagAAHyZs.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2037169306937810948",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEV6sPdbYAQvdnB.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1621,
+        "media_key": "3_2037169306933616643",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEV6sPcbYAMlku1.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2053744108628308137",
+        "created_at": "2026-05-11T07:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T08:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053744108628308137"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "门槛妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1883316366226382848",
+              "start": 3,
+              "username": "kufzwy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053744108628308137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037169316651815388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kufzwy: 置顶🔝\n大家好这里是小桃 我性格很好 问问题20口令红包 线下线上都接 下雨了我会往家跑不用担心我的安慰 求你们帮我转发 我给你们抽红包 关注 转发 评论里面我给大家抽一个188🧧 五个52🧧 三个88🧧 谢谢你们  #门槛妹 https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037169306929422343",
+            "3_2037169306950336512",
+            "3_2037169306937810948",
+            "3_2037169306933616643"
+          ]
+        },
+        "author_id": "1883316366226382848",
+        "conversation_id": "2037169316651815388",
+        "created_at": "2026-03-26T14:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T15:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037169316651815388"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 109,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I54cYOKWta",
+              "end": 137,
+              "expanded_url": "https://x.com/bobo7hhk/status/2037169316651815388/photo/1",
+              "media_key": "3_2037169306929422343",
+              "start": 114,
+              "url": "https://t.co/I54cYOKWta"
+            },
+            {
+              "display_url": "pic.x.com/I54cYOKWta",
+              "end": 137,
+              "expanded_url": "https://x.com/bobo7hhk/status/2037169316651815388/photo/1",
+              "media_key": "3_2037169306950336512",
+              "start": 114,
+              "url": "https://t.co/I54cYOKWta"
+            },
+            {
+              "display_url": "pic.x.com/I54cYOKWta",
+              "end": 137,
+              "expanded_url": "https://x.com/bobo7hhk/status/2037169316651815388/photo/1",
+              "media_key": "3_2037169306937810948",
+              "start": 114,
+              "url": "https://t.co/I54cYOKWta"
+            },
+            {
+              "display_url": "pic.x.com/I54cYOKWta",
+              "end": 137,
+              "expanded_url": "https://x.com/bobo7hhk/status/2037169316651815388/photo/1",
+              "media_key": "3_2037169306933616643",
+              "start": 114,
+              "url": "https://t.co/I54cYOKWta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037169316651815388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14946,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "置顶🔝\n大家好这里是小桃 我性格很好 问问题20口令红包 线下线上都接 下雨了我会往家跑不用担心我的安慰 求你们帮我转发 我给你们抽红包 关注 转发 评论里面我给大家抽一个188🧧 五个52🧧 三个88🧧 谢谢你们  #门槛妹 https://t.co/I54cYOKWta"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 202,
+          "like_count": 1406,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 751
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-26T00:49:55.000Z",
+        "description": "可线下 欢迎女宝互fo 问坐标详细位置 20 口令🧧不过门别问杂七杂八！",
+        "id": "1883316366226382848",
+        "name": "小桃",
+        "pinned_tweet_id": "2037169316651815388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990571598102065153/yJmpdjwJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 113,
+          "like_count": 132,
+          "listed_count": 6,
+          "media_count": 20,
+          "tweet_count": 172
+        },
+        "username": "kufzwy",
+        "verified": false
+      }
+    ]
+  }
+}

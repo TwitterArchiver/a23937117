@@ -1,0 +1,472 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954783473656610816",
+        "3_1954783471928549376",
+        "3_1954783472209563648",
+        "3_1954783472213807104"
+      ],
+      "media_source_tweet_id": [
+        "1954783496985334039",
+        "1954783496985334039",
+        "1954783496985334039",
+        "1954783496985334039"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955983670008787152",
+    "created_at": "2025-08-14T13:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T14:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955983670008787152"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "门槛"
+        },
+        {
+          "end": 71,
+          "start": 67,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 75,
+          "start": 72,
+          "tag": "非绿"
+        },
+        {
+          "end": 81,
+          "start": 76,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "线下"
+        },
+        {
+          "end": 90,
+          "start": 86,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 95,
+          "start": 91,
+          "tag": "求包养"
+        },
+        {
+          "end": 101,
+          "start": 96,
+          "tag": "女友系列"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1950510425042546689",
+          "start": 3,
+          "username": "miaomiaojiangyi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5JLP2vHyHB",
+          "end": 125,
+          "expanded_url": "https://x.com/miaomiaojiangyi/status/1954783496985334039/photo/1",
+          "media_key": "3_1954783473656610816",
+          "start": 102,
+          "url": "https://t.co/5JLP2vHyHB"
+        },
+        {
+          "display_url": "pic.x.com/5JLP2vHyHB",
+          "end": 125,
+          "expanded_url": "https://x.com/miaomiaojiangyi/status/1954783496985334039/photo/1",
+          "media_key": "3_1954783471928549376",
+          "start": 102,
+          "url": "https://t.co/5JLP2vHyHB"
+        },
+        {
+          "display_url": "pic.x.com/5JLP2vHyHB",
+          "end": 125,
+          "expanded_url": "https://x.com/miaomiaojiangyi/status/1954783496985334039/photo/1",
+          "media_key": "3_1954783472209563648",
+          "start": 102,
+          "url": "https://t.co/5JLP2vHyHB"
+        },
+        {
+          "display_url": "pic.x.com/5JLP2vHyHB",
+          "end": 125,
+          "expanded_url": "https://x.com/miaomiaojiangyi/status/1954783496985334039/photo/1",
+          "media_key": "3_1954783472213807104",
+          "start": 102,
+          "url": "https://t.co/5JLP2vHyHB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955983670008787152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954783496985334039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miaomiaojiangyi: 缺钱喵\n想去好多地方玩！\n哥哥要是入门的话保证哥哥会开心的！\n欢迎宝贝互转互fo～\n#门槛 #门槛妹 #非绿 #金主爸爸 #线下 #爸爸活 #求包养 #女友系列 https://t.co/5JLP2vHyHB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 658,
+        "media_key": "3_1954783473656610816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDJNmAbQAAWNvx.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1954783471928549376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDJNfkbIAA3iIG.jpg",
+        "width": 736
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1954783472209563648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDJNgnbEAAe3Mq.jpg",
+        "width": 720
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1954783472213807104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDJNgob0AAQ8qV.jpg",
+        "width": 752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954783473656610816",
+            "3_1954783471928549376",
+            "3_1954783472209563648",
+            "3_1954783472213807104"
+          ],
+          "media_source_tweet_id": [
+            "1954783496985334039",
+            "1954783496985334039",
+            "1954783496985334039",
+            "1954783496985334039"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "1955983670008787152",
+        "created_at": "2025-08-14T13:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T14:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955983670008787152"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "门槛"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "非绿"
+            },
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "线下"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "求包养"
+            },
+            {
+              "end": 101,
+              "start": 96,
+              "tag": "女友系列"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1950510425042546689",
+              "start": 3,
+              "username": "miaomiaojiangyi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5JLP2vHyHB",
+              "end": 125,
+              "expanded_url": "https://x.com/miaomiaojiangyi/status/1954783496985334039/photo/1",
+              "media_key": "3_1954783473656610816",
+              "start": 102,
+              "url": "https://t.co/5JLP2vHyHB"
+            },
+            {
+              "display_url": "pic.x.com/5JLP2vHyHB",
+              "end": 125,
+              "expanded_url": "https://x.com/miaomiaojiangyi/status/1954783496985334039/photo/1",
+              "media_key": "3_1954783471928549376",
+              "start": 102,
+              "url": "https://t.co/5JLP2vHyHB"
+            },
+            {
+              "display_url": "pic.x.com/5JLP2vHyHB",
+              "end": 125,
+              "expanded_url": "https://x.com/miaomiaojiangyi/status/1954783496985334039/photo/1",
+              "media_key": "3_1954783472209563648",
+              "start": 102,
+              "url": "https://t.co/5JLP2vHyHB"
+            },
+            {
+              "display_url": "pic.x.com/5JLP2vHyHB",
+              "end": 125,
+              "expanded_url": "https://x.com/miaomiaojiangyi/status/1954783496985334039/photo/1",
+              "media_key": "3_1954783472213807104",
+              "start": 102,
+              "url": "https://t.co/5JLP2vHyHB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955983670008787152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954783496985334039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miaomiaojiangyi: 缺钱喵\n想去好多地方玩！\n哥哥要是入门的话保证哥哥会开心的！\n欢迎宝贝互转互fo～\n#门槛 #门槛妹 #非绿 #金主爸爸 #线下 #爸爸活 #求包养 #女友系列 https://t.co/5JLP2vHyHB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954783473656610816",
+            "3_1954783471928549376",
+            "3_1954783472209563648",
+            "3_1954783472213807104"
+          ]
+        },
+        "author_id": "1950510425042546689",
+        "conversation_id": "1954783496985334039",
+        "created_at": "2025-08-11T05:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T06:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954783496985334039"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "门槛"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "非绿"
+            },
+            {
+              "end": 60,
+              "start": 55,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "线下"
+            },
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "求包养"
+            },
+            {
+              "end": 80,
+              "start": 75,
+              "tag": "女友系列"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5JLP2vHyHB",
+              "end": 104,
+              "expanded_url": "https://x.com/miaomiaojiangyi/status/1954783496985334039/photo/1",
+              "media_key": "3_1954783473656610816",
+              "start": 81,
+              "url": "https://t.co/5JLP2vHyHB"
+            },
+            {
+              "display_url": "pic.x.com/5JLP2vHyHB",
+              "end": 104,
+              "expanded_url": "https://x.com/miaomiaojiangyi/status/1954783496985334039/photo/1",
+              "media_key": "3_1954783471928549376",
+              "start": 81,
+              "url": "https://t.co/5JLP2vHyHB"
+            },
+            {
+              "display_url": "pic.x.com/5JLP2vHyHB",
+              "end": 104,
+              "expanded_url": "https://x.com/miaomiaojiangyi/status/1954783496985334039/photo/1",
+              "media_key": "3_1954783472209563648",
+              "start": 81,
+              "url": "https://t.co/5JLP2vHyHB"
+            },
+            {
+              "display_url": "pic.x.com/5JLP2vHyHB",
+              "end": 104,
+              "expanded_url": "https://x.com/miaomiaojiangyi/status/1954783496985334039/photo/1",
+              "media_key": "3_1954783472213807104",
+              "start": 81,
+              "url": "https://t.co/5JLP2vHyHB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954783496985334039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1286,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "缺钱喵\n想去好多地方玩！\n哥哥要是入门的话保证哥哥会开心的！\n欢迎宝贝互转互fo～\n#门槛 #门槛妹 #非绿 #金主爸爸 #线下 #爸爸活 #求包养 #女友系列 https://t.co/5JLP2vHyHB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 234,
+          "like_count": 1089,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 599
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T10:55:04.000Z",
+        "description": "看到都会回复的 坐标20r 喜欢有礼貌的哥哥！",
+        "id": "1950510425042546689",
+        "name": "一只面包猫（重启版",
+        "pinned_tweet_id": "1954783496985334039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950511294286864385/Ei_b2r63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 50,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 115
+        },
+        "username": "miaomiaojiangyi",
+        "verified": false
+      }
+    ]
+  }
+}

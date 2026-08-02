@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975445446534569987",
+        "3_1975445446559735810"
+      ],
+      "media_source_tweet_id": [
+        "1975445458479948227",
+        "1975445458479948227"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1985297434671554920",
+    "created_at": "2025-11-03T10:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T11:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985297434671554920"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "门槛"
+        },
+        {
+          "end": 70,
+          "start": 66,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "非绿"
+        },
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "金主"
+        },
+        {
+          "end": 83,
+          "start": 79,
+          "tag": "求包养"
+        },
+        {
+          "end": 88,
+          "start": 84,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 92,
+          "start": 89,
+          "tag": "女大"
+        },
+        {
+          "end": 96,
+          "start": 93,
+          "tag": "反差"
+        },
+        {
+          "end": 100,
+          "start": 97,
+          "tag": "线下"
+        },
+        {
+          "end": 105,
+          "start": 101,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 110,
+          "start": 106,
+          "tag": "求入门"
+        },
+        {
+          "end": 116,
+          "start": 111,
+          "tag": "一日女友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1268918008354942977",
+          "start": 3,
+          "username": "Nirart_s"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9Lodz1DYMa",
+          "end": 140,
+          "expanded_url": "https://x.com/Nirart_s/status/1975445458479948227/photo/1",
+          "media_key": "3_1975445446534569987",
+          "start": 117,
+          "url": "https://t.co/9Lodz1DYMa"
+        },
+        {
+          "display_url": "pic.x.com/9Lodz1DYMa",
+          "end": 140,
+          "expanded_url": "https://x.com/Nirart_s/status/1975445458479948227/photo/1",
+          "media_key": "3_1975445446559735810",
+          "start": 117,
+          "url": "https://t.co/9Lodz1DYMa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985297434671554920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975445458479948227",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nirart_s: 04 女大\n希望开一个属于自己的花店\n主打一个情绪价值\n欢迎哥哥入🚪找我玩\n互转互fo大欢迎！\n#门槛 #门槛妹 #非绿 #金主 #求包养 #爸爸活 #女大 #反差 #线下 #爸爸活 #求入门 #一日女友 https://t.co/9Lodz1DYMa"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1985297434671554920].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1985297434671554920",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1985297434671554920"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1112,
+        "media_key": "3_1975445446534569987",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2oxKtHbIAMvmKu.jpg",
+        "width": 1284
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1975445446559735810",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2oxKtNbIAI7rCt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975445446534569987",
+            "3_1975445446559735810"
+          ]
+        },
+        "author_id": "1268918008354942977",
+        "conversation_id": "1975445458479948227",
+        "created_at": "2025-10-07T06:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T07:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975445458479948227"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "门槛"
+            },
+            {
+              "end": 56,
+              "start": 52,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "非绿"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "金主"
+            },
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "求包养"
+            },
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "女大"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "反差"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "线下"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 96,
+              "start": 92,
+              "tag": "求入门"
+            },
+            {
+              "end": 102,
+              "start": 97,
+              "tag": "一日女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Lodz1DYMa",
+              "end": 126,
+              "expanded_url": "https://x.com/Nirart_s/status/1975445458479948227/photo/1",
+              "media_key": "3_1975445446534569987",
+              "start": 103,
+              "url": "https://t.co/9Lodz1DYMa"
+            },
+            {
+              "display_url": "pic.x.com/9Lodz1DYMa",
+              "end": 126,
+              "expanded_url": "https://x.com/Nirart_s/status/1975445458479948227/photo/1",
+              "media_key": "3_1975445446559735810",
+              "start": 103,
+              "url": "https://t.co/9Lodz1DYMa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975445458479948227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 19240,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "04 女大\n希望开一个属于自己的花店\n主打一个情绪价值\n欢迎哥哥入🚪找我玩\n互转互fo大欢迎！\n#门槛 #门槛妹 #非绿 #金主 #求包养 #爸爸活 #女大 #反差 #线下 #爸爸活 #求入门 #一日女友 https://t.co/9Lodz1DYMa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 220,
+          "like_count": 1338,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 746
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-05T14:50:13.000Z",
+        "description": "04 女大 坐标20r 欢迎女宝找我互转互fo ！",
+        "id": "1268918008354942977",
+        "name": "小欣（接线下版）",
+        "pinned_tweet_id": "1975445458479948227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945682979142926336/jcUAZO01_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 190,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 462
+        },
+        "username": "Nirart_s",
+        "verified": false
+      }
+    ]
+  }
+}

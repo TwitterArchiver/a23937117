@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944961210140459008",
+        "3_1944961210140577792"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1944961217405317229",
+    "created_at": "2025-07-15T03:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T04:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944961217405317229"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ke8ZjDX2Ox",
+          "end": 36,
+          "expanded_url": "https://x.com/a23937117/status/1944961217405317229/photo/1",
+          "media_key": "3_1944961210140459008",
+          "start": 13,
+          "url": "https://t.co/Ke8ZjDX2Ox"
+        },
+        {
+          "display_url": "pic.x.com/Ke8ZjDX2Ox",
+          "end": 36,
+          "expanded_url": "https://x.com/a23937117/status/1944961217405317229/photo/1",
+          "media_key": "3_1944961210140577792",
+          "start": 13,
+          "url": "https://t.co/Ke8ZjDX2Ox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944961217405317229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "等会见你一定比想象美—— https://t.co/Ke8ZjDX2Ox"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1944961217405317229].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1944961217405317229",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1944961217405317229"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944961210140459008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv3j6nBWAAAlD2S.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1944961210140577792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv3j6nBX0AA4De-.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 155,
+          "like_count": 927,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 322
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073279180620562432"
+      ],
+      "media_source_tweet_id": [
+        "2073279188531036378"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2074134900693754279",
+    "created_at": "2026-07-06T14:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T15:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074134900693754279"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "门槛"
+        },
+        {
+          "end": 28,
+          "start": 24,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1980229679538950144",
+          "start": 3,
+          "username": "sammy52_0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8WxZUjObmQ",
+          "end": 52,
+          "expanded_url": "https://x.com/sammy52_0/status/2073279188531036378/photo/1",
+          "media_key": "3_2073279180620562432",
+          "start": 29,
+          "url": "https://t.co/8WxZUjObmQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074134900693754279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073279188531036378",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sammy52_0: 热死我了 #门槛 #门槛妹 https://t.co/8WxZUjObmQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1868,
+        "media_key": "3_2073279180620562432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXEbhkaAAAqKQT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073279180620562432"
+          ],
+          "media_source_tweet_id": [
+            "2073279188531036378"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2074134900693754279",
+        "created_at": "2026-07-06T14:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T15:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074134900693754279"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "门槛"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "门槛妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1980229679538950144",
+              "start": 3,
+              "username": "sammy52_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8WxZUjObmQ",
+              "end": 52,
+              "expanded_url": "https://x.com/sammy52_0/status/2073279188531036378/photo/1",
+              "media_key": "3_2073279180620562432",
+              "start": 29,
+              "url": "https://t.co/8WxZUjObmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074134900693754279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073279188531036378",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sammy52_0: 热死我了 #门槛 #门槛妹 https://t.co/8WxZUjObmQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073279180620562432"
+          ]
+        },
+        "author_id": "1980229679538950144",
+        "conversation_id": "2073279188531036378",
+        "created_at": "2026-07-04T05:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073279188531036378"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "门槛"
+            },
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8WxZUjObmQ",
+              "end": 37,
+              "expanded_url": "https://x.com/sammy52_0/status/2073279188531036378/photo/1",
+              "media_key": "3_2073279180620562432",
+              "start": 14,
+              "url": "https://t.co/8WxZUjObmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073279188531036378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2090,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "热死我了 #门槛 #门槛妹 https://t.co/8WxZUjObmQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 189,
+          "like_count": 1421,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 783
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-20T11:08:51.000Z",
+        "description": "只回关同类，sh/ed/bd，精神状态不稳定\n@yi_smokq 求关注求过门我宝宝! \n线下🚪210。520我爱你🥰\n坐标10详细价格表25。可以抵🚪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "yi_smokq"
+              }
+            ]
+          }
+        },
+        "id": "1980229679538950144",
+        "location": "🚪88/210/333//520/1314",
+        "name": "4.0诊疗室(四代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071853401743253504/0khq91Hp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 88,
+          "like_count": 327,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 200
+        },
+        "url": "",
+        "username": "sammy52_0",
+        "verified": false
+      }
+    ]
+  }
+}

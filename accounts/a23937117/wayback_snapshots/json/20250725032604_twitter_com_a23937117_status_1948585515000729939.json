@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1948303170394034447",
+    "created_at": "2025-07-25T03:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T04:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948585515000729939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1218758725214916608",
+          "start": 0,
+          "username": "CanuhearME_0012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948585515000729939",
+    "in_reply_to_user_id": "1218758725214916608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948303170394034447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CanuhearME_0012 能不能和我互关呜呜呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1948303170394034447",
+        "created_at": "2025-07-25T03:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T04:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948585515000729939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1218758725214916608",
+              "start": 0,
+              "username": "CanuhearME_0012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948585515000729939",
+        "in_reply_to_user_id": "1218758725214916608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948303170394034447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CanuhearME_0012 能不能和我互关呜呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1218758725214916608",
+        "conversation_id": "1948303170394034447",
+        "created_at": "2025-07-24T08:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T09:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948303170394034447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948303170394034447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14496,
+          "like_count": 151,
+          "quote_count": 0,
+          "reply_count": 96,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有宝宝和我互关 很喜欢看碎碎念和好看的照片 也喜欢装熟评论能不能来和我玩🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 167,
+          "like_count": 971,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 422
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-19T05:02:37.000Z",
+        "description": "喜欢漂亮脸蛋和好听声音和小猫和一切萌萌的事物",
+        "id": "1218758725214916608",
+        "name": "谁教你这么说的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929562057873272832/A6dh6lvY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 176,
+          "like_count": 2789,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 775
+        },
+        "username": "CanuhearME_0012",
+        "verified": false
+      }
+    ]
+  }
+}

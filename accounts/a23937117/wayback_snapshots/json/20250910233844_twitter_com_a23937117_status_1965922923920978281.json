@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965512417322078208"
+      ],
+      "media_source_tweet_id": [
+        "1965512428491595865"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1965922923920978281",
+    "created_at": "2025-09-10T23:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T00:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965922923920978281"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 27,
+          "start": 23,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "门槛"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "线下"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "陪玩"
+        },
+        {
+          "end": 43,
+          "start": 40,
+          "tag": "广州"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "深圳"
+        },
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "佛山"
+        },
+        {
+          "end": 55,
+          "start": 52,
+          "tag": "东莞"
+        },
+        {
+          "end": 60,
+          "start": 56,
+          "tag": "地雷系"
+        },
+        {
+          "end": 65,
+          "start": 61,
+          "tag": "求入门"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1937160859262025729",
+          "start": 3,
+          "username": "sequeliscute"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zr6d3lFGpD",
+          "end": 89,
+          "expanded_url": "https://x.com/sequeliscute/status/1965512428491595865/photo/1",
+          "media_key": "3_1965512417322078208",
+          "start": 66,
+          "url": "https://t.co/zr6d3lFGpD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965922923920978281",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965512428491595865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sequeliscute: #爸爸活 #妈妈活 #门槛 #线下 #陪玩 #广州 #深圳 #佛山 #东莞 #地雷系 #求入门 https://t.co/zr6d3lFGpD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965512417322078208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0bnITwaEAAxCxW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965512417322078208"
+          ],
+          "media_source_tweet_id": [
+            "1965512428491595865"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "1965922923920978281",
+        "created_at": "2025-09-10T23:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T00:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965922923920978281"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "门槛"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "线下"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "陪玩"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "广州"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "深圳"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "佛山"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "东莞"
+            },
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "地雷系"
+            },
+            {
+              "end": 65,
+              "start": 61,
+              "tag": "求入门"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1937160859262025729",
+              "start": 3,
+              "username": "sequeliscute"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zr6d3lFGpD",
+              "end": 89,
+              "expanded_url": "https://x.com/sequeliscute/status/1965512428491595865/photo/1",
+              "media_key": "3_1965512417322078208",
+              "start": 66,
+              "url": "https://t.co/zr6d3lFGpD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965922923920978281",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965512428491595865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sequeliscute: #爸爸活 #妈妈活 #门槛 #线下 #陪玩 #广州 #深圳 #佛山 #东莞 #地雷系 #求入门 https://t.co/zr6d3lFGpD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965512417322078208"
+          ]
+        },
+        "author_id": "1937160859262025729",
+        "conversation_id": "1965512428491595865",
+        "created_at": "2025-09-09T20:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T21:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965512428491595865"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "门槛"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "线下"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "陪玩"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "广州"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "深圳"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "佛山"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "东莞"
+            },
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "地雷系"
+            },
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "求入门"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zr6d3lFGpD",
+              "end": 71,
+              "expanded_url": "https://x.com/sequeliscute/status/1965512428491595865/photo/1",
+              "media_key": "3_1965512417322078208",
+              "start": 48,
+              "url": "https://t.co/zr6d3lFGpD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965512428491595865",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2051,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "#爸爸活 #妈妈活 #门槛 #线下 #陪玩 #广州 #深圳 #佛山 #东莞 #地雷系 #求入门 https://t.co/zr6d3lFGpD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 210,
+          "like_count": 1191,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 657
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T14:48:56.000Z",
+        "description": "我告诉你我根本就是没有错",
+        "id": "1937160859262025729",
+        "location": "88/188/520",
+        "name": "续集",
+        "pinned_tweet_id": "1965512428491595865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962506696481472513/BmrEPlux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 15,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 102
+        },
+        "username": "sequeliscute",
+        "verified": false
+      }
+    ]
+  }
+}

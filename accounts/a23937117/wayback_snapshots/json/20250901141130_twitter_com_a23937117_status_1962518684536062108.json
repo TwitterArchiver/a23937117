@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962518684536062108",
+    "created_at": "2025-09-01T14:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T15:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962518684536062108"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "门槛"
+        },
+        {
+          "end": 131,
+          "start": 126,
+          "tag": "一日女友"
+        },
+        {
+          "end": 136,
+          "start": 132,
+          "tag": "爸爸活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1791114658113273856",
+          "start": 3,
+          "username": "takemyhand_117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962518684536062108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948390511753957767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @takemyhand_117: 小灵给各位请安！\n07/esfp/双子 158/43kg\n爰玩抽象 有中度躁郁症\n朋友圈偶尔有负能\n欢迎小女孩找我互fo互转≥V≤\n我是真人 可报时手势验证\n前三个入128及以上打九折\n问坐标15r/次\n#门槛 #一日女友 #爸爸活 #爸…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1948390495522091008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwoS1SlXcAASlPu.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1948390495484321792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwoS1ScXIAA1R93.jpg",
+        "width": 1183
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1962518684536062108",
+        "created_at": "2025-09-01T14:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T15:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962518684536062108"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "门槛"
+            },
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "一日女友"
+            },
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "爸爸活"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1791114658113273856",
+              "start": 3,
+              "username": "takemyhand_117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962518684536062108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948390511753957767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @takemyhand_117: 小灵给各位请安！\n07/esfp/双子 158/43kg\n爰玩抽象 有中度躁郁症\n朋友圈偶尔有负能\n欢迎小女孩找我互fo互转≥V≤\n我是真人 可报时手势验证\n前三个入128及以上打九折\n问坐标15r/次\n#门槛 #一日女友 #爸爸活 #爸…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948390495522091008",
+            "3_1948390495484321792"
+          ]
+        },
+        "author_id": "1791114658113273856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1948390511753957767",
+        "created_at": "2025-07-24T14:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T15:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948390511753957767"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "门槛"
+            },
+            {
+              "end": 111,
+              "start": 106,
+              "tag": "一日女友"
+            },
+            {
+              "end": 116,
+              "start": 112,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 127,
+              "start": 122,
+              "tag": "bart"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "k8"
+            },
+            {
+              "end": 137,
+              "start": 132,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "线下"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "非绿"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "骚货"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "线上"
+            },
+            {
+              "end": 157,
+              "start": 154,
+              "tag": "陪聊"
+            },
+            {
+              "end": 161,
+              "start": 158,
+              "tag": "原味"
+            },
+            {
+              "end": 167,
+              "start": 162,
+              "tag": "女高中生"
+            },
+            {
+              "end": 171,
+              "start": 168,
+              "tag": "反差"
+            },
+            {
+              "end": 177,
+              "start": 172,
+              "tag": "电子女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iPHV4IYCT1",
+              "end": 201,
+              "expanded_url": "https://x.com/takemyhand_117/status/1948390511753957767/photo/1",
+              "media_key": "3_1948390495522091008",
+              "start": 178,
+              "url": "https://t.co/iPHV4IYCT1"
+            },
+            {
+              "display_url": "pic.x.com/iPHV4IYCT1",
+              "end": 201,
+              "expanded_url": "https://x.com/takemyhand_117/status/1948390511753957767/photo/1",
+              "media_key": "3_1948390495484321792",
+              "start": 178,
+              "url": "https://t.co/iPHV4IYCT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948390511753957767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 80198,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "小灵给各位请安！\n07/esfp/双子 158/43kg\n爰玩抽象 有中度躁郁症\n朋友圈偶尔有负能\n欢迎小女孩找我互fo互转≥V≤\n我是真人 可报时手势验证\n前三个入128及以上打九折\n问坐标15r/次\n#门槛 #一日女友 #爸爸活 #爸爸活 #bart #k8 #金主爸爸 #线下 #非绿 #骚货 #线上 #陪聊 #原味 #女高中生 #反差 #电子女友 https://t.co/iPHV4IYCT1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 211,
+          "like_count": 1134,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 660
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-16T14:33:13.000Z",
+        "description": "这里是小灵~ 🚪52/128/288/520/1314/5200 不闲聊 入🚪直接发口令+lxfs 详情业务请看置顶 不退门槛 已过大叔 日理万姬验证 唯一小号@LingTwT_ 没有别的号 请擦亮眼睛别被骗啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "LingTwT_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/takemyhand_1172",
+                "end": 23,
+                "expanded_url": "https://ngl.link/takemyhand_1172",
+                "start": 0,
+                "url": "https://t.co/qKRCryA7uo"
+              }
+            ]
+          }
+        },
+        "id": "1791114658113273856",
+        "location": "提问箱指路⬇️ 回答会发在小号！",
+        "name": "恶毒千金女配",
+        "pinned_tweet_id": "1948390511753957767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801871545952047107/JQdwAju8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2633,
+          "following_count": 86,
+          "like_count": 2517,
+          "listed_count": 12,
+          "media_count": 145,
+          "tweet_count": 1158
+        },
+        "url": "https://t.co/qKRCryA7uo",
+        "username": "takemyhand_117",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1979574870037205422",
+    "created_at": "2025-10-18T15:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T16:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979574870037205422"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 115,
+          "start": 111,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 120,
+          "start": 116,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 126,
+          "start": 121,
+          "tag": "电子女友"
+        },
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "原味"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1848064715811090432",
+          "start": 3,
+          "username": "diamonna0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979574870037205422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 130
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853137352358604975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @diamonna0: 前世登不上了，重生3.0求互fo互转\n这是一个顶置  \n大家好我是丸梓 \n很高兴认识你 \n🚪188/288/520/1314  \n出原味/接福州线下爸爸活  \n欢迎小女孩互fo互转！！！  \n#爸爸活 #妈妈活 #电子女友 #原味 #线下\n📷 ht…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1853137021990252544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbeqTZvasAA0IHs.jpg",
+        "width": 669
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1853137105125552128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbeqYPcasAAhE1L.jpg",
+        "width": 960
+      },
+      {
+        "height": 759,
+        "media_key": "3_1853137104043376640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbeqYLaaAAAgAT1.jpg",
+        "width": 574
+      },
+      {
+        "height": 747,
+        "media_key": "3_1853137104093794304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbeqYLmbUAA7slQ.jpg",
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1979574870037205422",
+        "created_at": "2025-10-18T15:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T16:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979574870037205422"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 120,
+              "start": 116,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 126,
+              "start": 121,
+              "tag": "电子女友"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "原味"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "线下"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1848064715811090432",
+              "start": 3,
+              "username": "diamonna0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979574870037205422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 130
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853137352358604975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @diamonna0: 前世登不上了，重生3.0求互fo互转\n这是一个顶置  \n大家好我是丸梓 \n很高兴认识你 \n🚪188/288/520/1314  \n出原味/接福州线下爸爸活  \n欢迎小女孩互fo互转！！！  \n#爸爸活 #妈妈活 #电子女友 #原味 #线下\n📷 ht…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853137021990252544",
+            "3_1853137105125552128",
+            "3_1853137104043376640",
+            "3_1853137104093794304"
+          ]
+        },
+        "author_id": "1848064715811090432",
+        "conversation_id": "1853137352358604975",
+        "created_at": "2024-11-03T18:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T19:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853137352358604975"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 111,
+              "start": 106,
+              "tag": "电子女友"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "原味"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m8M0ob6M2H",
+              "end": 145,
+              "expanded_url": "https://x.com/PhilipDowm82318/status/1853137352358604975/photo/1",
+              "media_key": "3_1853137021990252544",
+              "start": 122,
+              "url": "https://t.co/m8M0ob6M2H"
+            },
+            {
+              "display_url": "pic.x.com/m8M0ob6M2H",
+              "end": 145,
+              "expanded_url": "https://x.com/PhilipDowm82318/status/1853137352358604975/photo/1",
+              "media_key": "3_1853137105125552128",
+              "start": 122,
+              "url": "https://t.co/m8M0ob6M2H"
+            },
+            {
+              "display_url": "pic.x.com/m8M0ob6M2H",
+              "end": 145,
+              "expanded_url": "https://x.com/PhilipDowm82318/status/1853137352358604975/photo/1",
+              "media_key": "3_1853137104043376640",
+              "start": 122,
+              "url": "https://t.co/m8M0ob6M2H"
+            },
+            {
+              "display_url": "pic.x.com/m8M0ob6M2H",
+              "end": 145,
+              "expanded_url": "https://x.com/PhilipDowm82318/status/1853137352358604975/photo/1",
+              "media_key": "3_1853137104093794304",
+              "start": 122,
+              "url": "https://t.co/m8M0ob6M2H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853137352358604975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 75906,
+          "like_count": 91,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 130
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "前世登不上了，重生3.0求互fo互转\n这是一个顶置  \n大家好我是丸梓 \n很高兴认识你 \n🚪188/288/520/1314  \n出原味/接福州线下爸爸活  \n欢迎小女孩互fo互转！！！  \n#爸爸活 #妈妈活 #电子女友 #原味 #线下\n📷 https://t.co/m8M0ob6M2H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 219,
+          "like_count": 1298,
+          "listed_count": 3,
+          "media_count": 194,
+          "tweet_count": 720
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T18:12:31.000Z",
+        "description": "前世登不上去了，重生3.0\n这里丸梓/接福州爸爸活/出原味\n私信只回口令红包和女孩子",
+        "id": "1848064715811090432",
+        "name": "丸梓3.0",
+        "pinned_tweet_id": "1853137352358604975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853136962317869056/_qQnHoOG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 76,
+          "like_count": 2,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 287
+        },
+        "username": "diamonna0",
+        "verified": false
+      }
+    ]
+  }
+}

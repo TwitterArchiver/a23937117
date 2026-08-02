@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955283332192756200",
+    "created_at": "2025-08-12T15:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T16:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955283332192756200"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "门槛"
+        },
+        {
+          "end": 81,
+          "start": 77,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 86,
+          "start": 82,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 91,
+          "start": 87,
+          "tag": "求入门"
+        },
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "女大"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "反差"
+        },
+        {
+          "end": 104,
+          "start": 100,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 110,
+          "start": 105,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 116,
+          "start": 111,
+          "tag": "女友系列"
+        },
+        {
+          "end": 121,
+          "start": 117,
+          "tag": "求包养"
+        },
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "非绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1908583374173986816",
+          "start": 3,
+          "username": "wudixiaox0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955283332192756200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954780530446401909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wudixiaox0: 无敌小X 🔝\n玻璃心！！！\n真的很需要钱💰\n很用心的在做了\n欢迎哥哥入🚪\n可以简单咨询！\n欢迎找我互转互fo ～\n#门槛 #门槛妹 #门槛哥 #求入门 #女大 #反差 #爸爸活 #金主爸爸 #女友系列 #求包养 #非绿 https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1040,
+        "media_key": "3_1954780508300406784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDGg_MacAA1Dv_.jpg",
+        "width": 1284
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1954780508287889408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDGg_JbcAA_5eS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1955283332192756200",
+        "created_at": "2025-08-12T15:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T16:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955283332192756200"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "门槛"
+            },
+            {
+              "end": 81,
+              "start": 77,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "求入门"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "女大"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "反差"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 110,
+              "start": 105,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 116,
+              "start": 111,
+              "tag": "女友系列"
+            },
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "求包养"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "非绿"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1908583374173986816",
+              "start": 3,
+              "username": "wudixiaox0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955283332192756200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954780530446401909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wudixiaox0: 无敌小X 🔝\n玻璃心！！！\n真的很需要钱💰\n很用心的在做了\n欢迎哥哥入🚪\n可以简单咨询！\n欢迎找我互转互fo ～\n#门槛 #门槛妹 #门槛哥 #求入门 #女大 #反差 #爸爸活 #金主爸爸 #女友系列 #求包养 #非绿 https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954780508300406784",
+            "3_1954780508287889408"
+          ]
+        },
+        "author_id": "1908583374173986816",
+        "conversation_id": "1954780530446401909",
+        "created_at": "2025-08-11T05:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T06:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954780530446401909"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "门槛"
+            },
+            {
+              "end": 65,
+              "start": 61,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 75,
+              "start": 71,
+              "tag": "求入门"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "女大"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "反差"
+            },
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 94,
+              "start": 89,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 100,
+              "start": 95,
+              "tag": "女友系列"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "求包养"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "非绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1iY4gK10ML",
+              "end": 133,
+              "expanded_url": "https://x.com/wudixiaox0/status/1954780530446401909/photo/1",
+              "media_key": "3_1954780508300406784",
+              "start": 110,
+              "url": "https://t.co/1iY4gK10ML"
+            },
+            {
+              "display_url": "pic.x.com/1iY4gK10ML",
+              "end": 133,
+              "expanded_url": "https://x.com/wudixiaox0/status/1954780530446401909/photo/1",
+              "media_key": "3_1954780508287889408",
+              "start": 110,
+              "url": "https://t.co/1iY4gK10ML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954780530446401909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1249,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "无敌小X 🔝\n玻璃心！！！\n真的很需要钱💰\n很用心的在做了\n欢迎哥哥入🚪\n可以简单咨询！\n欢迎找我互转互fo ～\n#门槛 #门槛妹 #门槛哥 #求入门 #女大 #反差 #爸爸活 #金主爸爸 #女友系列 #求包养 #非绿 https://t.co/1iY4gK10ML"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 230,
+          "like_count": 1078,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 565
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T18:11:59.000Z",
+        "description": "哈喽 我是小X 反差女大 喜欢的哥哥可以入🚪 坐标验证20r 欢迎女宝互推互fo ～",
+        "id": "1908583374173986816",
+        "name": "无敌小X",
+        "pinned_tweet_id": "1954780530446401909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908583647797796868/4vF3j79J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 116,
+          "like_count": 429,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 535
+        },
+        "username": "wudixiaox0",
+        "verified": false
+      }
+    ]
+  }
+}

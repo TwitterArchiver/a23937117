@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983466924844687360",
+        "3_1983466924861448193",
+        "3_1983466924865703936",
+        "3_1983466924882427904"
+      ],
+      "media_source_tweet_id": [
+        "1983466936110653614",
+        "1983466936110653614",
+        "1983466936110653614",
+        "1983466936110653614"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1983533440084451794",
+    "created_at": "2025-10-29T13:56:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T14:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983533440084451794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1115809099482980353",
+          "start": 3,
+          "username": "DKR_World"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/drpNaz1WsG",
+          "end": 94,
+          "expanded_url": "https://x.com/DKR_World/status/1983466936110653614/photo/1",
+          "media_key": "3_1983466924844687360",
+          "start": 71,
+          "url": "https://t.co/drpNaz1WsG"
+        },
+        {
+          "display_url": "pic.x.com/drpNaz1WsG",
+          "end": 94,
+          "expanded_url": "https://x.com/DKR_World/status/1983466936110653614/photo/1",
+          "media_key": "3_1983466924861448193",
+          "start": 71,
+          "url": "https://t.co/drpNaz1WsG"
+        },
+        {
+          "display_url": "pic.x.com/drpNaz1WsG",
+          "end": 94,
+          "expanded_url": "https://x.com/DKR_World/status/1983466936110653614/photo/1",
+          "media_key": "3_1983466924865703936",
+          "start": 71,
+          "url": "https://t.co/drpNaz1WsG"
+        },
+        {
+          "display_url": "pic.x.com/drpNaz1WsG",
+          "end": 94,
+          "expanded_url": "https://x.com/DKR_World/status/1983466936110653614/photo/1",
+          "media_key": "3_1983466924882427904",
+          "start": 71,
+          "url": "https://t.co/drpNaz1WsG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983533440084451794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983466936110653614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DKR_World: 1500Fo致謝，點讚轉發該條抽兩個52，三個13.14，謝謝大家對我的喜歡與信任，愿各位生活美滿，幸福安康。 https://t.co/drpNaz1WsG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983466924844687360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4awqMcaoAAREPw.jpg",
+        "width": 945
+      },
+      {
+        "height": 1115,
+        "media_key": "3_1983466924861448193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4awqMgaYAEbHQo.jpg",
+        "width": 1178
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983466924865703936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4awqMhbUAAfInt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 829,
+        "media_key": "3_1983466924882427904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4awqMlagAAvjXL.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983466924844687360",
+            "3_1983466924861448193",
+            "3_1983466924865703936",
+            "3_1983466924882427904"
+          ],
+          "media_source_tweet_id": [
+            "1983466936110653614",
+            "1983466936110653614",
+            "1983466936110653614",
+            "1983466936110653614"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "1983533440084451794",
+        "created_at": "2025-10-29T13:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T14:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983533440084451794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1115809099482980353",
+              "start": 3,
+              "username": "DKR_World"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/drpNaz1WsG",
+              "end": 94,
+              "expanded_url": "https://x.com/DKR_World/status/1983466936110653614/photo/1",
+              "media_key": "3_1983466924844687360",
+              "start": 71,
+              "url": "https://t.co/drpNaz1WsG"
+            },
+            {
+              "display_url": "pic.x.com/drpNaz1WsG",
+              "end": 94,
+              "expanded_url": "https://x.com/DKR_World/status/1983466936110653614/photo/1",
+              "media_key": "3_1983466924861448193",
+              "start": 71,
+              "url": "https://t.co/drpNaz1WsG"
+            },
+            {
+              "display_url": "pic.x.com/drpNaz1WsG",
+              "end": 94,
+              "expanded_url": "https://x.com/DKR_World/status/1983466936110653614/photo/1",
+              "media_key": "3_1983466924865703936",
+              "start": 71,
+              "url": "https://t.co/drpNaz1WsG"
+            },
+            {
+              "display_url": "pic.x.com/drpNaz1WsG",
+              "end": 94,
+              "expanded_url": "https://x.com/DKR_World/status/1983466936110653614/photo/1",
+              "media_key": "3_1983466924882427904",
+              "start": 71,
+              "url": "https://t.co/drpNaz1WsG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983533440084451794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983466936110653614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DKR_World: 1500Fo致謝，點讚轉發該條抽兩個52，三個13.14，謝謝大家對我的喜歡與信任，愿各位生活美滿，幸福安康。 https://t.co/drpNaz1WsG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983466924844687360",
+            "3_1983466924861448193",
+            "3_1983466924865703936",
+            "3_1983466924882427904"
+          ]
+        },
+        "author_id": "1115809099482980353",
+        "conversation_id": "1983466936110653614",
+        "created_at": "2025-10-29T09:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T10:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983466936110653614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/drpNaz1WsG",
+              "end": 79,
+              "expanded_url": "https://x.com/DKR_World/status/1983466936110653614/photo/1",
+              "media_key": "3_1983466924844687360",
+              "start": 56,
+              "url": "https://t.co/drpNaz1WsG"
+            },
+            {
+              "display_url": "pic.x.com/drpNaz1WsG",
+              "end": 79,
+              "expanded_url": "https://x.com/DKR_World/status/1983466936110653614/photo/1",
+              "media_key": "3_1983466924861448193",
+              "start": 56,
+              "url": "https://t.co/drpNaz1WsG"
+            },
+            {
+              "display_url": "pic.x.com/drpNaz1WsG",
+              "end": 79,
+              "expanded_url": "https://x.com/DKR_World/status/1983466936110653614/photo/1",
+              "media_key": "3_1983466924865703936",
+              "start": 56,
+              "url": "https://t.co/drpNaz1WsG"
+            },
+            {
+              "display_url": "pic.x.com/drpNaz1WsG",
+              "end": 79,
+              "expanded_url": "https://x.com/DKR_World/status/1983466936110653614/photo/1",
+              "media_key": "3_1983466924882427904",
+              "start": 56,
+              "url": "https://t.co/drpNaz1WsG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983466936110653614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2071,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "1500Fo致謝，點讚轉發該條抽兩個52，三個13.14，謝謝大家對我的喜歡與信任，愿各位生活美滿，幸福安康。 https://t.co/drpNaz1WsG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 218,
+          "like_count": 1315,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 744
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-10T02:49:54.000Z",
+        "description": "自我破壊と相互扶助の連帯の集団の下で、短命なコミューンを築こう！ 最後の指令：すべてと一緒に滅びろ。これは革命家と彼女の恋愛だ。◆🚪52/101/188",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dkr71262",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dkr71262",
+                "start": 0,
+                "url": "https://t.co/mvmC2vTXvo"
+              }
+            ]
+          }
+        },
+        "id": "1115809099482980353",
+        "location": "東京精神暴動支部",
+        "name": "◎東アジア躁鬱革委會",
+        "pinned_tweet_id": "1981772621143548061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983364790346231810/bUg5Qzt8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1509,
+          "following_count": 600,
+          "like_count": 30133,
+          "listed_count": 9,
+          "media_count": 392,
+          "tweet_count": 4712
+        },
+        "url": "https://t.co/mvmC2vTXvo",
+        "username": "DKR_World",
+        "verified": false
+      }
+    ]
+  }
+}

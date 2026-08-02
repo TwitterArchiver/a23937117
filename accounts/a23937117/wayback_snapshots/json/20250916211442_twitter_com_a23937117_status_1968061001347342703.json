@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1968061001347342703",
+    "created_at": "2025-09-16T21:14:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T22:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968061001347342703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1954163623213076480",
+          "start": 3,
+          "username": "xiao_yi43979"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968061001347342703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967217134829973619",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiao_yi43979: 发个置顶🔝\n🚪188部分福利视频➕随机掉落\n325全部福利视频➕一件免费原味➕随机掉落\n520永久线下九折➕露脸视频定制两条➕两件原味盲盒➕每周非绿视频两次\n777永久线下八折➕露脸定制视频五条➕每周非绿视频四次\n1314虽然知道没人入 \n转…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967217123119489025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0z1jPuaYAEFMj7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1601,
+        "media_key": "3_1967217123136274433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0z1jPyagAEgDlP.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1968061001347342703",
+        "created_at": "2025-09-16T21:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T22:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968061001347342703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1954163623213076480",
+              "start": 3,
+              "username": "xiao_yi43979"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968061001347342703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967217134829973619",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiao_yi43979: 发个置顶🔝\n🚪188部分福利视频➕随机掉落\n325全部福利视频➕一件免费原味➕随机掉落\n520永久线下九折➕露脸视频定制两条➕两件原味盲盒➕每周非绿视频两次\n777永久线下八折➕露脸定制视频五条➕每周非绿视频四次\n1314虽然知道没人入 \n转…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967217123119489025",
+            "3_1967217123136274433"
+          ]
+        },
+        "author_id": "1954163623213076480",
+        "conversation_id": "1967217134829973619",
+        "created_at": "2025-09-14T13:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T14:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967217134829973619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0TO1irKyhi",
+              "end": 157,
+              "expanded_url": "https://x.com/xiao_yi43979/status/1967217134829973619/photo/1",
+              "media_key": "3_1967217123119489025",
+              "start": 134,
+              "url": "https://t.co/0TO1irKyhi"
+            },
+            {
+              "display_url": "pic.x.com/0TO1irKyhi",
+              "end": 157,
+              "expanded_url": "https://x.com/xiao_yi43979/status/1967217134829973619/photo/1",
+              "media_key": "3_1967217123136274433",
+              "start": 134,
+              "url": "https://t.co/0TO1irKyhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967217134829973619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3300,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "发个置顶🔝\n🚪188部分福利视频➕随机掉落\n325全部福利视频➕一件免费原味➕随机掉落\n520永久线下九折➕露脸视频定制两条➕两件原味盲盒➕每周非绿视频两次\n777永久线下八折➕露脸定制视频五条➕每周非绿视频四次\n1314虽然知道没人入 \n转此条参与五个88红包抽奖 https://t.co/0TO1irKyhi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88—谈恋爱了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 214,
+          "like_count": 1204,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 669
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-09T12:51:57.000Z",
+        "description": "坐标江浙沪以及周边 可验证 164/59kg 只回复门槛口令",
+        "id": "1954163623213076480",
+        "location": "🚪188 288 520 1314",
+        "name": "愈合",
+        "pinned_tweet_id": "1967217134829973619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967216983071686658/BPM6H00i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 13,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 242
+        },
+        "username": "xiao_yi43979",
+        "verified": false
+      }
+    ]
+  }
+}

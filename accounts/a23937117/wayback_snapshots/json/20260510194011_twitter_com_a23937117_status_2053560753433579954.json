@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052468946843193344",
+        "3_2052468946843082752",
+        "3_2052468946843160576",
+        "3_2052468946826305536"
+      ],
+      "media_source_tweet_id": [
+        "2052469105194828224",
+        "2052469105194828224",
+        "2052469105194828224",
+        "2052469105194828224"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053560753433579954",
+    "created_at": "2026-05-10T19:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T20:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053560753433579954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765732479238115328",
+          "start": 3,
+          "username": "lx7llyr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T8xdY5KFMD",
+          "end": 107,
+          "expanded_url": "https://x.com/lx7llyr/status/2052469105194828224/photo/1",
+          "media_key": "3_2052468946843193344",
+          "start": 84,
+          "url": "https://t.co/T8xdY5KFMD"
+        },
+        {
+          "display_url": "pic.x.com/T8xdY5KFMD",
+          "end": 107,
+          "expanded_url": "https://x.com/lx7llyr/status/2052469105194828224/photo/1",
+          "media_key": "3_2052468946843082752",
+          "start": 84,
+          "url": "https://t.co/T8xdY5KFMD"
+        },
+        {
+          "display_url": "pic.x.com/T8xdY5KFMD",
+          "end": 107,
+          "expanded_url": "https://x.com/lx7llyr/status/2052469105194828224/photo/1",
+          "media_key": "3_2052468946843160576",
+          "start": 84,
+          "url": "https://t.co/T8xdY5KFMD"
+        },
+        {
+          "display_url": "pic.x.com/T8xdY5KFMD",
+          "end": 107,
+          "expanded_url": "https://x.com/lx7llyr/status/2052469105194828224/photo/1",
+          "media_key": "3_2052468946826305536",
+          "start": 84,
+          "url": "https://t.co/T8xdY5KFMD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053560753433579954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052469105194828224",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lx7llyr: 🚪88/188/288\n🚪88:好友位朋友圈开放\n🚪188:可以聊天每天给你发信息\n🚪288:聊天陪你打游戏可以打语音\n可以语音验证视频验证 https://t.co/T8xdY5KFMD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052468946843193344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHvVofkb0AARU2g.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052468946843082752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHvVofkaIAA_R1H.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052468946843160576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHvVofkbUAALrNt.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052468946826305536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHvVofgaIAA0EnD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052468946843193344",
+            "3_2052468946843082752",
+            "3_2052468946843160576",
+            "3_2052468946826305536"
+          ],
+          "media_source_tweet_id": [
+            "2052469105194828224",
+            "2052469105194828224",
+            "2052469105194828224",
+            "2052469105194828224"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2053560753433579954",
+        "created_at": "2026-05-10T19:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T20:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053560753433579954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765732479238115328",
+              "start": 3,
+              "username": "lx7llyr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T8xdY5KFMD",
+              "end": 107,
+              "expanded_url": "https://x.com/lx7llyr/status/2052469105194828224/photo/1",
+              "media_key": "3_2052468946843193344",
+              "start": 84,
+              "url": "https://t.co/T8xdY5KFMD"
+            },
+            {
+              "display_url": "pic.x.com/T8xdY5KFMD",
+              "end": 107,
+              "expanded_url": "https://x.com/lx7llyr/status/2052469105194828224/photo/1",
+              "media_key": "3_2052468946843082752",
+              "start": 84,
+              "url": "https://t.co/T8xdY5KFMD"
+            },
+            {
+              "display_url": "pic.x.com/T8xdY5KFMD",
+              "end": 107,
+              "expanded_url": "https://x.com/lx7llyr/status/2052469105194828224/photo/1",
+              "media_key": "3_2052468946843160576",
+              "start": 84,
+              "url": "https://t.co/T8xdY5KFMD"
+            },
+            {
+              "display_url": "pic.x.com/T8xdY5KFMD",
+              "end": 107,
+              "expanded_url": "https://x.com/lx7llyr/status/2052469105194828224/photo/1",
+              "media_key": "3_2052468946826305536",
+              "start": 84,
+              "url": "https://t.co/T8xdY5KFMD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053560753433579954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052469105194828224",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lx7llyr: 🚪88/188/288\n🚪88:好友位朋友圈开放\n🚪188:可以聊天每天给你发信息\n🚪288:聊天陪你打游戏可以打语音\n可以语音验证视频验证 https://t.co/T8xdY5KFMD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052468946843193344",
+            "3_2052468946843082752",
+            "3_2052468946843160576",
+            "3_2052468946826305536"
+          ]
+        },
+        "author_id": "1765732479238115328",
+        "conversation_id": "2052469105194828224",
+        "created_at": "2026-05-07T19:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T20:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052469105194828224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T8xdY5KFMD",
+              "end": 94,
+              "expanded_url": "https://x.com/lx7llyr/status/2052469105194828224/photo/1",
+              "media_key": "3_2052468946843193344",
+              "start": 71,
+              "url": "https://t.co/T8xdY5KFMD"
+            },
+            {
+              "display_url": "pic.x.com/T8xdY5KFMD",
+              "end": 94,
+              "expanded_url": "https://x.com/lx7llyr/status/2052469105194828224/photo/1",
+              "media_key": "3_2052468946843082752",
+              "start": 71,
+              "url": "https://t.co/T8xdY5KFMD"
+            },
+            {
+              "display_url": "pic.x.com/T8xdY5KFMD",
+              "end": 94,
+              "expanded_url": "https://x.com/lx7llyr/status/2052469105194828224/photo/1",
+              "media_key": "3_2052468946843160576",
+              "start": 71,
+              "url": "https://t.co/T8xdY5KFMD"
+            },
+            {
+              "display_url": "pic.x.com/T8xdY5KFMD",
+              "end": 94,
+              "expanded_url": "https://x.com/lx7llyr/status/2052469105194828224/photo/1",
+              "media_key": "3_2052468946826305536",
+              "start": 71,
+              "url": "https://t.co/T8xdY5KFMD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052469105194828224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4944,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "🚪88/188/288\n🚪88:好友位朋友圈开放\n🚪188:可以聊天每天给你发信息\n🚪288:聊天陪你打游戏可以打语音\n可以语音验证视频验证 https://t.co/T8xdY5KFMD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 202,
+          "like_count": 1406,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 749
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T13:33:33.000Z",
+        "description": "",
+        "id": "1765732479238115328",
+        "name": "蛋包饭",
+        "pinned_tweet_id": "2052469105194828224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051383279073554432/QSwah_Ji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 223,
+          "like_count": 5293,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 401
+        },
+        "username": "lx7llyr",
+        "verified": false
+      }
+    ]
+  }
+}

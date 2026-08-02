@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1963981077006946624",
+    "created_at": "2025-09-05T15:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T16:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963981077006946624"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gracew895519/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/gracew895519/status/1963776323396272381",
+          "start": 3,
+          "url": "https://t.co/hY9hvyPksr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963981077006946624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963776323396272381",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是的 https://t.co/hY9hvyPksr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1963981077006946624",
+        "created_at": "2025-09-05T15:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T16:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963981077006946624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gracew895519/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/gracew895519/status/1963776323396272381",
+              "start": 3,
+              "url": "https://t.co/hY9hvyPksr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963981077006946624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963776323396272381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的 https://t.co/hY9hvyPksr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801270531255357440",
+        "conversation_id": "1963776323396272381",
+        "created_at": "2025-09-05T01:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T02:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963776323396272381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963776323396272381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12951,
+          "like_count": 280,
+          "quote_count": 9,
+          "reply_count": 39,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "你们不觉得袒露情绪比袒露身体更羞耻吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 204,
+          "like_count": 1147,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 716
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T15:09:06.000Z",
+        "description": "INFP DS DDLG ♋️私信会看 一般不回 想说的可以发ngl信箱 /不参与任何争执 互相包容 谢谢大家喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miaaa_yuyi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miaaa_yuyi",
+                "start": 0,
+                "url": "https://t.co/4VcjyfuVUN"
+              }
+            ]
+          }
+        },
+        "id": "1801270531255357440",
+        "location": "暂无🚪不约不卖 信箱➡️",
+        "name": "Graceee🐾（吃甜食版）",
+        "pinned_tweet_id": "1936095458814050707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949904797542514688/njtOjoul_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6998,
+          "following_count": 210,
+          "like_count": 15749,
+          "listed_count": 28,
+          "media_count": 224,
+          "tweet_count": 1866
+        },
+        "url": "https://t.co/4VcjyfuVUN",
+        "username": "GraceW895519",
+        "verified": false
+      }
+    ]
+  }
+}

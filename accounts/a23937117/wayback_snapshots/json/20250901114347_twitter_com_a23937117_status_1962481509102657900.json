@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958170602222895104",
+        "3_1958170602285789184"
+      ],
+      "media_source_tweet_id": [
+        "1958170615585857937",
+        "1958170615585857937"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962481509102657900",
+    "created_at": "2025-09-01T11:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T12:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962481509102657900"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 38,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "线下"
+        },
+        {
+          "end": 50,
+          "start": 47,
+          "tag": "视频"
+        },
+        {
+          "end": 54,
+          "start": 51,
+          "tag": "福利"
+        },
+        {
+          "end": 61,
+          "start": 55,
+          "tag": "福利姬推荐"
+        },
+        {
+          "end": 66,
+          "start": 62,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "sm"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "原味"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1958102077248573440",
+          "start": 3,
+          "username": "fanfan061012"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oGWOqApjxQ",
+          "end": 98,
+          "expanded_url": "https://x.com/fanfan061012/status/1958170615585857937/photo/1",
+          "media_key": "3_1958170602222895104",
+          "start": 75,
+          "url": "https://t.co/oGWOqApjxQ"
+        },
+        {
+          "display_url": "pic.x.com/oGWOqApjxQ",
+          "end": 98,
+          "expanded_url": "https://x.com/fanfan061012/status/1958170615585857937/photo/1",
+          "media_key": "3_1958170602285789184",
+          "start": 75,
+          "url": "https://t.co/oGWOqApjxQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962481509102657900",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958170615585857937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @fanfan061012: 可怜的反差小狗勾 在线乞讨老公疼爱窝～\n#门槛妹 #线下 #视频 #福利 #福利姬推荐 #爸爸活 #sm #原味 https://t.co/oGWOqApjxQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962481509102657900].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962481509102657900",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962481509102657900"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958170602222895104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyzRybMbwAAcn7D.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1958170602285789184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyzRybbbcAA2B17.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958170602222895104",
+            "3_1958170602285789184"
+          ]
+        },
+        "author_id": "1958102077248573440",
+        "conversation_id": "1958170615585857937",
+        "created_at": "2025-08-20T14:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T15:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958170615585857937"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "线下"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "视频"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "福利"
+            },
+            {
+              "end": 43,
+              "start": 37,
+              "tag": "福利姬推荐"
+            },
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "sm"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "原味"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oGWOqApjxQ",
+              "end": 80,
+              "expanded_url": "https://x.com/fanfan061012/status/1958170615585857937/photo/1",
+              "media_key": "3_1958170602222895104",
+              "start": 57,
+              "url": "https://t.co/oGWOqApjxQ"
+            },
+            {
+              "display_url": "pic.x.com/oGWOqApjxQ",
+              "end": 80,
+              "expanded_url": "https://x.com/fanfan061012/status/1958170615585857937/photo/1",
+              "media_key": "3_1958170602285789184",
+              "start": 57,
+              "url": "https://t.co/oGWOqApjxQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958170615585857937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9482,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "reply_settings": "following",
+        "text": "可怜的反差小狗勾 在线乞讨老公疼爱窝～\n#门槛妹 #线下 #视频 #福利 #福利姬推荐 #爸爸活 #sm #原味 https://t.co/oGWOqApjxQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 211,
+          "like_count": 1133,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 644
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-20T09:41:39.000Z",
+        "description": "新人 请多多指教🥰 ｜20r语音视频验证｜出原味",
+        "id": "1958102077248573440",
+        "location": "距离你3.3km",
+        "name": "不吃早饭（线上线下都接）",
+        "pinned_tweet_id": "1958170615585857937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958102481965383680/CUrI1fcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 1,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 13
+        },
+        "username": "fanfan061012",
+        "verified": false
+      }
+    ]
+  }
+}

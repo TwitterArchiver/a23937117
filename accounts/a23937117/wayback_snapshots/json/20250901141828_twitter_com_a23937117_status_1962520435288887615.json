@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962520435288887615",
+    "created_at": "2025-09-01T14:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T15:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962520435288887615"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 94,
+          "start": 88,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "杭州"
+        },
+        {
+          "end": 104,
+          "start": 99,
+          "tag": "杭州线下"
+        },
+        {
+          "end": 109,
+          "start": 105,
+          "tag": "求包养"
+        },
+        {
+          "end": 113,
+          "start": 110,
+          "tag": "包养"
+        },
+        {
+          "end": 116,
+          "start": 114,
+          "tag": "m"
+        },
+        {
+          "end": 122,
+          "start": 117,
+          "tag": "小狗日记"
+        },
+        {
+          "end": 126,
+          "start": 123,
+          "tag": "门槛"
+        },
+        {
+          "end": 131,
+          "start": 127,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 137,
+          "start": 132,
+          "tag": "线下非绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1945595784260718592",
+          "start": 3,
+          "username": "0616maomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962520435288887615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945689077438988595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0616maomao: 我是猫猫转世！之前的号被封了申诉不回来TT 坐标杭州，88🚪可语音视频网调陪聊，全天热情分享，可爸爸活线下陪玩包养——这条抽两个52发口令红包！#地雷系女子 #杭州 #杭州线下 #求包养 #包养 #m #小狗日记 #门槛 #门槛妹 #线下非绿 #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962520435288887615].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962520435288887615",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962520435288887615"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1433,
+        "media_key": "3_1945689061617754114",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwB55JEW4AII3we.jpg",
+        "width": 2048
+      },
+      {
+        "height": 859,
+        "media_key": "3_1945689049340977152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwB54bVWIAA_-yI.jpg",
+        "width": 2000
+      },
+      {
+        "height": 1292,
+        "media_key": "3_1945689050293104640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwB54e4WcAACFZS.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1638,
+        "media_key": "3_1945689052868734976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwB54oebcAAxtKZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945689061617754114",
+            "3_1945689049340977152",
+            "3_1945689050293104640",
+            "3_1945689052868734976"
+          ]
+        },
+        "author_id": "1945595784260718592",
+        "conversation_id": "1945689077438988595",
+        "created_at": "2025-07-17T03:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T04:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945689077438988595"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 72,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "杭州"
+            },
+            {
+              "end": 88,
+              "start": 83,
+              "tag": "杭州线下"
+            },
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "求包养"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "包养"
+            },
+            {
+              "end": 100,
+              "start": 98,
+              "tag": "m"
+            },
+            {
+              "end": 106,
+              "start": 101,
+              "tag": "小狗日记"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "门槛"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 121,
+              "start": 116,
+              "tag": "线下非绿"
+            },
+            {
+              "end": 126,
+              "start": 122,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "女高"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HlP8eE1DMo",
+              "end": 154,
+              "expanded_url": "https://x.com/0616maomao/status/1945689077438988595/photo/1",
+              "media_key": "3_1945689061617754114",
+              "start": 131,
+              "url": "https://t.co/HlP8eE1DMo"
+            },
+            {
+              "display_url": "pic.x.com/HlP8eE1DMo",
+              "end": 154,
+              "expanded_url": "https://x.com/0616maomao/status/1945689077438988595/photo/1",
+              "media_key": "3_1945689049340977152",
+              "start": 131,
+              "url": "https://t.co/HlP8eE1DMo"
+            },
+            {
+              "display_url": "pic.x.com/HlP8eE1DMo",
+              "end": 154,
+              "expanded_url": "https://x.com/0616maomao/status/1945689077438988595/photo/1",
+              "media_key": "3_1945689050293104640",
+              "start": 131,
+              "url": "https://t.co/HlP8eE1DMo"
+            },
+            {
+              "display_url": "pic.x.com/HlP8eE1DMo",
+              "end": 154,
+              "expanded_url": "https://x.com/0616maomao/status/1945689077438988595/photo/1",
+              "media_key": "3_1945689052868734976",
+              "start": 131,
+              "url": "https://t.co/HlP8eE1DMo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945689077438988595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 28942,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "我是猫猫转世！之前的号被封了申诉不回来TT 坐标杭州，88🚪可语音视频网调陪聊，全天热情分享，可爸爸活线下陪玩包养——这条抽两个52发口令红包！#地雷系女子 #杭州 #杭州线下 #求包养 #包养 #m #小狗日记 #门槛 #门槛妹 #线下非绿 #爸爸活 #女高 https://t.co/HlP8eE1DMo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 211,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 667
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T21:26:20.000Z",
+        "description": "🚪88|188|520|1314|2888|无上限|自残od|双向焦虑|女高|给钱什么都干",
+        "id": "1945595784260718592",
+        "name": "₍˄·͈༝·͈˄₎◞ ̑̑",
+        "pinned_tweet_id": "1945689077438988595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945597091717185536/RDlOzwn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 8,
+          "like_count": 44,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 668
+        },
+        "username": "0616maomao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956357329718304772"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1956357337859404100",
+    "created_at": "2025-08-15T14:08:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T15:08:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956357337859404100"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 8,
+          "tag": "m"
+        },
+        {
+          "end": 16,
+          "start": 12,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "电子女友"
+        },
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "反差女高"
+        },
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "女友"
+        },
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "brat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m4P1PNM8ww",
+          "end": 64,
+          "expanded_url": "https://x.com/a23937117/status/1956357337859404100/photo/1",
+          "media_key": "3_1956357329718304772",
+          "start": 41,
+          "url": "https://t.co/m4P1PNM8ww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956357337859404100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要吃麦当劳\n\n#m  #爸爸活  #电子女友 #反差女高 #女友  #brat https://t.co/m4P1PNM8ww"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1956357337859404100].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1956357337859404100",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1956357337859404100"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956357329718304772",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyZgoEuXYAQoLi6.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 207,
+          "like_count": 1087,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 612
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

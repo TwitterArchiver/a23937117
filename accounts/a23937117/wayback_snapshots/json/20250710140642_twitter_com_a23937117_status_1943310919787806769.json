@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1943310861130407936"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1943310919787806769",
+    "created_at": "2025-07-10T14:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T15:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943310919787806769"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FDcAkH4rXP",
+          "end": 45,
+          "expanded_url": "https://x.com/a23937117/status/1943310919787806769/video/1",
+          "media_key": "13_1943310861130407936",
+          "start": 22,
+          "url": "https://t.co/FDcAkH4rXP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943310919787806769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我喝醉了能不能好好走路……像四肢刚认识…… https://t.co/FDcAkH4rXP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1943310919787806769].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1943310919787806769",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1943310919787806769"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19000,
+        "height": 1280,
+        "media_key": "13_1943310861130407936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1943310861130407936/img/Y_dnO4VQ-15f9Trc.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943310861130407936/vid/avc1/320x568/vC9zDUlJcF-GCysV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943310861130407936/vid/avc1/480x852/Kp4nlrdeL8Vd2bEp.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943310861130407936/vid/avc1/720x1280/MRjatIipKxe7Ao5Y.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1943310861130407936/pl/qHBy9_Ky3Ih8XdtR.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 133,
+          "like_count": 870,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 220
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

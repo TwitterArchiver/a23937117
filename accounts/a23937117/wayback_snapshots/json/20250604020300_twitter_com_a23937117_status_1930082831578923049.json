@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1930068954648625381",
+    "created_at": "2025-06-04T02:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T03:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930082831578923049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1688418276",
+          "start": 0,
+          "username": "mentionwae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930082831578923049",
+    "in_reply_to_user_id": "1688418276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930082157831303227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mentionwae 豹会迷迷糊糊讲不出话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1930068954648625381",
+        "created_at": "2025-06-04T02:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T03:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930082831578923049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1688418276",
+              "start": 0,
+              "username": "mentionwae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930082831578923049",
+        "in_reply_to_user_id": "1688418276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930082157831303227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mentionwae 豹会迷迷糊糊讲不出话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688418276",
+        "conversation_id": "1930068954648625381",
+        "created_at": "2025-06-04T02:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T03:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930082157831303227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442350932977610752",
+              "start": 0,
+              "username": "a23937117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930082157831303227",
+        "in_reply_to_user_id": "1442350932977610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930068954648625381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a23937117 想和od后的你do。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "讨厌我的人有福了 因为我真的过的很惨",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 117,
+          "like_count": 730,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 113
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-21T14:28:02.000Z",
+        "description": "Dilarang coment. Keep mention",
+        "id": "1688418276",
+        "name": "Not comment",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 18,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "mentionwae",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1874965005973463040"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1874965015528435768",
+    "created_at": "2025-01-02T23:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T00:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1874965015528435768"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HmxND0zKKT",
+          "end": 29,
+          "expanded_url": "https://x.com/a23937117/status/1874965015528435768/photo/1",
+          "media_key": "3_1874965005973463040",
+          "start": 6,
+          "url": "https://t.co/HmxND0zKKT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874965015528435768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "牵好（存） https://t.co/HmxND0zKKT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1874965015528435768].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1874965015528435768",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1874965015528435768"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1513,
+        "media_key": "3_1874965005973463040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgU2vStWIAAu5_u.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——阿根廷裔 中文/西文/英文/数媒艺备考ing 司岚重度依赖 负能发言 brat-sub",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585964829608665089/Y3G7Z8Ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 65,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

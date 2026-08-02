@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1963183436459348149",
+    "created_at": "2025-09-03T10:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T11:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963183436459348149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1936449414618587137",
+          "start": 3,
+          "username": "ruoruo0826"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963183436459348149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959480037880869087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @ruoruo0826: 🚪基础门200 图包➕聊天➕打游戏\n260线下基础门➕图包\n388图报➕主动陪聊➕每周视频远程操控一次 可自慰可娇喘\n520含上➕送非绿一小时\n1888含上➕图包➕后续约我七折➕非绿一晚上\n门槛不面付\n问价格位置10 验证20 详情p4\n老被骚扰…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1963183436459348149].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1963183436459348149",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1963183436459348149"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 774,
+        "media_key": "3_1959479959447326720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzF4pC9a0AAhpOM.jpg",
+        "width": 656
+      },
+      {
+        "duration_ms": 10169,
+        "height": 1280,
+        "media_key": "13_1959479959468355584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1959479959468355584/img/8prFkdrQHB3yk-UU.jpg",
+        "public_metrics": {
+          "view_count": 2387
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959479959468355584/vid/avc1/320x568/_ebj8l_6f3gs9nwn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959479959468355584/vid/avc1/480x852/RmZH9s5Pih7xFVGW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959479959468355584/vid/avc1/720x1280/0nsQWv6vLKP6x4zL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1959479959468355584/pl/cLuB2z0hjd2l_sLE.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1959479959476719616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzF4pDEbUAAgzzf.jpg",
+        "width": 1536
+      },
+      {
+        "height": 749,
+        "media_key": "3_1959479959493447680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzF4pDIakAAy4MT.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959479959447326720",
+            "13_1959479959468355584",
+            "3_1959479959476719616",
+            "3_1959479959493447680"
+          ]
+        },
+        "author_id": "1936449414618587137",
+        "conversation_id": "1959480037880869087",
+        "created_at": "2025-08-24T04:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T05:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959480037880869087"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 128,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 138,
+              "start": 133,
+              "tag": "一日女友"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "线上"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "线下"
+            },
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "非绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c7OFQ6FZ5I",
+              "end": 174,
+              "expanded_url": "https://x.com/ruoruo0826/status/1959480037880869087/video/1",
+              "media_key": "3_1959479959447326720",
+              "start": 151,
+              "url": "https://t.co/c7OFQ6FZ5I"
+            },
+            {
+              "display_url": "pic.x.com/c7OFQ6FZ5I",
+              "end": 174,
+              "expanded_url": "https://x.com/ruoruo0826/status/1959480037880869087/video/1",
+              "media_key": "13_1959479959468355584",
+              "start": 151,
+              "url": "https://t.co/c7OFQ6FZ5I"
+            },
+            {
+              "display_url": "pic.x.com/c7OFQ6FZ5I",
+              "end": 174,
+              "expanded_url": "https://x.com/ruoruo0826/status/1959480037880869087/video/1",
+              "media_key": "3_1959479959476719616",
+              "start": 151,
+              "url": "https://t.co/c7OFQ6FZ5I"
+            },
+            {
+              "display_url": "pic.x.com/c7OFQ6FZ5I",
+              "end": 174,
+              "expanded_url": "https://x.com/ruoruo0826/status/1959480037880869087/video/1",
+              "media_key": "3_1959479959493447680",
+              "start": 151,
+              "url": "https://t.co/c7OFQ6FZ5I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959480037880869087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 8117,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "🚪基础门200 图包➕聊天➕打游戏\n260线下基础门➕图包\n388图报➕主动陪聊➕每周视频远程操控一次 可自慰可娇喘\n520含上➕送非绿一小时\n1888含上➕图包➕后续约我七折➕非绿一晚上\n门槛不面付\n问价格位置10 验证20 详情p4\n老被骚扰评论关了\n#门槛妹 #一日女友 #线上 #线下 #非绿 https://t.co/c7OFQ6FZ5I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 204,
+          "like_count": 1140,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 708
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T15:41:44.000Z",
+        "description": "门槛详情置顶",
+        "id": "1936449414618587137",
+        "name": "11",
+        "pinned_tweet_id": "1959480037880869087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959466851601383424/4G8lROww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 102,
+          "like_count": 1,
+          "listed_count": 4,
+          "media_count": 3,
+          "tweet_count": 81
+        },
+        "username": "ruoruo0826",
+        "verified": false
+      }
+    ]
+  }
+}

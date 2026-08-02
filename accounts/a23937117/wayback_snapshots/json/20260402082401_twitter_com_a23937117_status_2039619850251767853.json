@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2039111947111759872"
+      ],
+      "media_source_tweet_id": [
+        "2039217444280287676"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2039619850251767853",
+    "created_at": "2026-04-02T08:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T09:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039619850251767853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1339544113381691392",
+          "start": 3,
+          "username": "problemetik"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ABm4WGdKde",
+          "end": 40,
+          "expanded_url": "https://x.com/problemetik/status/2039217444280287676/video/1",
+          "media_key": "13_2039111947111759872",
+          "start": 17,
+          "url": "https://t.co/ABm4WGdKde"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039619850251767853",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 781
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039217444280287676",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @problemetik: https://t.co/ABm4WGdKde"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17925,
+        "height": 816,
+        "media_key": "13_2039111947111759872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039111947111759872/img/FRNBq0c1iyyYlQQ4.jpg",
+        "public_metrics": {
+          "view_count": 73681
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039111947111759872/vid/avc1/320x362/XGPri0wc3v_vNFdL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039111947111759872/vid/avc1/480x544/7cQyuWHRc-XPnpC_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039111947111759872/vid/avc1/720x816/M5QhdiSBqTE8-71q.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039111947111759872/pl/Tk_yAWjTxK-WrtXs.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039111947111759872"
+          ],
+          "media_source_tweet_id": [
+            "2039217444280287676"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039619850251767853",
+        "created_at": "2026-04-02T08:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039619850251767853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1339544113381691392",
+              "start": 3,
+              "username": "problemetik"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ABm4WGdKde",
+              "end": 40,
+              "expanded_url": "https://x.com/problemetik/status/2039217444280287676/video/1",
+              "media_key": "13_2039111947111759872",
+              "start": 17,
+              "url": "https://t.co/ABm4WGdKde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039619850251767853",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 781
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039217444280287676",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @problemetik: https://t.co/ABm4WGdKde"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039111947111759872"
+          ]
+        },
+        "author_id": "1339544113381691392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039217444280287676",
+        "created_at": "2026-04-01T05:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T06:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039217444280287676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ABm4WGdKde",
+              "end": 23,
+              "expanded_url": "https://x.com/problemetik/status/2039217444280287676/video/1",
+              "media_key": "13_2039111947111759872",
+              "start": 0,
+              "url": "https://t.co/ABm4WGdKde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039217444280287676",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 183,
+          "impression_count": 159417,
+          "like_count": 2632,
+          "quote_count": 11,
+          "reply_count": 233,
+          "retweet_count": 781
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ABm4WGdKde"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 204,
+          "like_count": 1393,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 684
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T12:13:11.000Z",
+        "description": "",
+        "id": "1339544113381691392",
+        "name": "ً",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038694531449942016/eKXYsNwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23738,
+          "following_count": 1304,
+          "like_count": 346261,
+          "listed_count": 20,
+          "media_count": 598,
+          "tweet_count": 340973
+        },
+        "username": "problemetik",
+        "verified": true
+      }
+    ]
+  }
+}

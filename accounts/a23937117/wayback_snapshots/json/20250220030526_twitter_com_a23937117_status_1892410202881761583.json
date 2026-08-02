@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892410196942544896",
+        "3_1892410196951027712",
+        "3_1892410196925788161"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1892410202881761583",
+    "created_at": "2025-02-20T03:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T04:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892410202881761583"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QbswNRPNCx",
+          "end": 38,
+          "expanded_url": "https://x.com/a23937117/status/1892410202881761583/photo/1",
+          "media_key": "3_1892410196942544896",
+          "start": 15,
+          "url": "https://t.co/QbswNRPNCx"
+        },
+        {
+          "display_url": "pic.x.com/QbswNRPNCx",
+          "end": 38,
+          "expanded_url": "https://x.com/a23937117/status/1892410202881761583/photo/1",
+          "media_key": "3_1892410196951027712",
+          "start": 15,
+          "url": "https://t.co/QbswNRPNCx"
+        },
+        {
+          "display_url": "pic.x.com/QbswNRPNCx",
+          "end": 38,
+          "expanded_url": "https://x.com/a23937117/status/1892410202881761583/photo/1",
+          "media_key": "3_1892410196925788161",
+          "start": 15,
+          "url": "https://t.co/QbswNRPNCx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892410202881761583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你离开的每一天我都在想怎么办 https://t.co/QbswNRPNCx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1892410202881761583].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1892410202881761583",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1892410202881761583"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1892410196942544896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkMxDDYWYAAjN93.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1892410196951027712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkMxDDaX0AA006C.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1892410196925788161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkMxDDUWsAEVzyp.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——严重露出lover 最喜欢可爱的东西 美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877871932521009152/ENngS7iN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 77,
+          "like_count": 504,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 32
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

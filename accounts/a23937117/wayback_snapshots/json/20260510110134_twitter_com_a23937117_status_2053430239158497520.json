@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053430239158497520",
+    "created_at": "2026-05-10T11:01:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T12:01:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053430239158497520"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 86,
+          "start": 83,
+          "tag": "门槛"
+        },
+        {
+          "end": 91,
+          "start": 87,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "非绿"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "线下"
+        },
+        {
+          "end": 105,
+          "start": 100,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 110,
+          "start": 106,
+          "tag": "求包养"
+        },
+        {
+          "end": 116,
+          "start": 111,
+          "tag": "电子女友"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "女大"
+        },
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "反差"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "媚男"
+        },
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "援交"
+        },
+        {
+          "end": 136,
+          "start": 133,
+          "tag": "话唠"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1203034068",
+          "start": 3,
+          "username": "_GeorgiaBeauty_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053430239158497520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047618502429986956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_GeorgiaBeauty_: 小枫 🔝\n主打一个话唠\n超多的情绪价值！！！\n当然线下也是可以的啦\n喜欢有礼貌的哥哥\n不可以骚扰❌\n欢迎女宝互转互fo ～\n#门槛 #门槛妹 #非绿 #线下 #金主爸爸 #求包养 #电子女友 #女大 #反差 #媚男 #援交 #话唠 ht…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 988,
+        "media_key": "3_2047618490031566848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqaKv3acAAEOjV.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1240,
+        "media_key": "3_2047618490123919360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqaKwNboAAywd2.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1650,
+        "media_key": "3_2047618490539053056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqaKxwaEAA1r83.jpg",
+        "width": 1096
+      },
+      {
+        "height": 1567,
+        "media_key": "3_2047618490027384832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqaKv2aoAA27v6.jpg",
+        "width": 1159
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2053430239158497520",
+        "created_at": "2026-05-10T11:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053430239158497520"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "门槛"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "非绿"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "线下"
+            },
+            {
+              "end": 105,
+              "start": 100,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "求包养"
+            },
+            {
+              "end": 116,
+              "start": 111,
+              "tag": "电子女友"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "女大"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "反差"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "媚男"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "援交"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "话唠"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1203034068",
+              "start": 3,
+              "username": "_GeorgiaBeauty_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053430239158497520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047618502429986956",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_GeorgiaBeauty_: 小枫 🔝\n主打一个话唠\n超多的情绪价值！！！\n当然线下也是可以的啦\n喜欢有礼貌的哥哥\n不可以骚扰❌\n欢迎女宝互转互fo ～\n#门槛 #门槛妹 #非绿 #线下 #金主爸爸 #求包养 #电子女友 #女大 #反差 #媚男 #援交 #话唠 ht…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047618490031566848",
+            "3_2047618490123919360",
+            "3_2047618490539053056",
+            "3_2047618490027384832"
+          ]
+        },
+        "author_id": "1203034068",
+        "conversation_id": "2047618502429986956",
+        "created_at": "2026-04-24T10:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047618502429986956"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "门槛"
+            },
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "非绿"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "线下"
+            },
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "求包养"
+            },
+            {
+              "end": 95,
+              "start": 90,
+              "tag": "电子女友"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "女大"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "反差"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "媚男"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "援交"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "话唠"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DAhcbIXK5D",
+              "end": 139,
+              "expanded_url": "https://x.com/_GeorgiaBeauty_/status/2047618502429986956/photo/1",
+              "media_key": "3_2047618490031566848",
+              "start": 116,
+              "url": "https://t.co/DAhcbIXK5D"
+            },
+            {
+              "display_url": "pic.x.com/DAhcbIXK5D",
+              "end": 139,
+              "expanded_url": "https://x.com/_GeorgiaBeauty_/status/2047618502429986956/photo/1",
+              "media_key": "3_2047618490123919360",
+              "start": 116,
+              "url": "https://t.co/DAhcbIXK5D"
+            },
+            {
+              "display_url": "pic.x.com/DAhcbIXK5D",
+              "end": 139,
+              "expanded_url": "https://x.com/_GeorgiaBeauty_/status/2047618502429986956/photo/1",
+              "media_key": "3_2047618490539053056",
+              "start": 116,
+              "url": "https://t.co/DAhcbIXK5D"
+            },
+            {
+              "display_url": "pic.x.com/DAhcbIXK5D",
+              "end": 139,
+              "expanded_url": "https://x.com/_GeorgiaBeauty_/status/2047618502429986956/photo/1",
+              "media_key": "3_2047618490027384832",
+              "start": 116,
+              "url": "https://t.co/DAhcbIXK5D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047618502429986956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 16046,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "小枫 🔝\n主打一个话唠\n超多的情绪价值！！！\n当然线下也是可以的啦\n喜欢有礼貌的哥哥\n不可以骚扰❌\n欢迎女宝互转互fo ～\n#门槛 #门槛妹 #非绿 #线下 #金主爸爸 #求包养 #电子女友 #女大 #反差 #媚男 #援交 #话唠 https://t.co/DAhcbIXK5D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 202,
+          "like_count": 1402,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 723
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-21T05:04:57.000Z",
+        "description": "过门一定要先看置顶！！！欢迎哥哥入门！我觉得🚪妹都特别的优秀，我好像也就情绪价值比较足吧！话痨一个！坐标20r的！！！！",
+        "id": "1203034068",
+        "name": "小枫熙熙",
+        "pinned_tweet_id": "2047618502429986956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036014825516769281/ybnSL1rK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 70,
+          "like_count": 76,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 250
+        },
+        "username": "_GeorgiaBeauty_",
+        "verified": false
+      }
+    ]
+  }
+}

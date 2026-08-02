@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053499109839962354",
+    "created_at": "2026-05-10T15:35:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T16:35:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053499109839962354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1816873458422153216",
+          "start": 3,
+          "username": "47_lucario"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053499109839962354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045347033335333235",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @47_lucario: 瑶瑶大王来噜‼️坐标广东\n家里没钱让我上大学 所以高中毕业就出社会了 爸爸妈妈都不管我 自己一个人在外面流浪..\n下海就是因为想有个家 求老公们小小地助力窝会特别感谢 灰常真实的女推\n可验证！可验证！可验证！验证20\n不骗验证费不骗钱跑路很真诚…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1558,
+        "media_key": "3_2045347021306183680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKIR3dbwAAPZre.jpg",
+        "width": 1178
+      },
+      {
+        "height": 1401,
+        "media_key": "3_2045347021289295873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKIR3ZaEAEVH3Z.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2053499109839962354",
+        "created_at": "2026-05-10T15:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053499109839962354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1816873458422153216",
+              "start": 3,
+              "username": "47_lucario"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053499109839962354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045347033335333235",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @47_lucario: 瑶瑶大王来噜‼️坐标广东\n家里没钱让我上大学 所以高中毕业就出社会了 爸爸妈妈都不管我 自己一个人在外面流浪..\n下海就是因为想有个家 求老公们小小地助力窝会特别感谢 灰常真实的女推\n可验证！可验证！可验证！验证20\n不骗验证费不骗钱跑路很真诚…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045347021306183680",
+            "3_2045347021289295873"
+          ]
+        },
+        "author_id": "1816873458422153216",
+        "conversation_id": "2045347033335333235",
+        "created_at": "2026-04-18T03:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045347033335333235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OfxyTJi1MO",
+              "end": 161,
+              "expanded_url": "https://x.com/47_lucario/status/2045347033335333235/photo/1",
+              "media_key": "3_2045347021306183680",
+              "start": 138,
+              "url": "https://t.co/OfxyTJi1MO"
+            },
+            {
+              "display_url": "pic.x.com/OfxyTJi1MO",
+              "end": 161,
+              "expanded_url": "https://x.com/47_lucario/status/2045347033335333235/photo/1",
+              "media_key": "3_2045347021289295873",
+              "start": 138,
+              "url": "https://t.co/OfxyTJi1MO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045347033335333235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 18520,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "瑶瑶大王来噜‼️坐标广东\n家里没钱让我上大学 所以高中毕业就出社会了 爸爸妈妈都不管我 自己一个人在外面流浪..\n下海就是因为想有个家 求老公们小小地助力窝会特别感谢 灰常真实的女推\n可验证！可验证！可验证！验证20\n不骗验证费不骗钱跑路很真诚\n求可爱的女宝老婆萌互fo互转 https://t.co/OfxyTJi1MO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 202,
+          "like_count": 1402,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 734
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T16:29:35.000Z",
+        "description": "老公宝宝我在这里！",
+        "id": "1816873458422153216",
+        "location": "隐藏🚪2888 超值！超值！超值！（只收一个",
+        "name": "除了发呆什么都好难",
+        "pinned_tweet_id": "2045347033335333235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045347714507091968/cWRWh5T8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 9,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 137
+        },
+        "username": "47_lucario",
+        "verified": false
+      }
+    ]
+  }
+}

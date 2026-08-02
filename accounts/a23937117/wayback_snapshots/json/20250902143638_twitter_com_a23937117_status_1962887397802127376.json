@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956818994452951040",
+        "3_1956818994671079425",
+        "3_1956818994473943040"
+      ],
+      "media_source_tweet_id": [
+        "1956819006540931428",
+        "1956819006540931428",
+        "1956819006540931428"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962887397802127376",
+    "created_at": "2025-09-02T14:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T15:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962887397802127376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1939641647614377984",
+          "start": 3,
+          "username": "xiaoxuehua221"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ri1NurVseQ",
+          "end": 102,
+          "expanded_url": "https://x.com/xiaoxuehua221/status/1956819006540931428/photo/1",
+          "media_key": "3_1956818994452951040",
+          "start": 79,
+          "url": "https://t.co/Ri1NurVseQ"
+        },
+        {
+          "display_url": "pic.x.com/Ri1NurVseQ",
+          "end": 102,
+          "expanded_url": "https://x.com/xiaoxuehua221/status/1956819006540931428/photo/1",
+          "media_key": "3_1956818994671079425",
+          "start": 79,
+          "url": "https://t.co/Ri1NurVseQ"
+        },
+        {
+          "display_url": "pic.x.com/Ri1NurVseQ",
+          "end": 102,
+          "expanded_url": "https://x.com/xiaoxuehua221/status/1956819006540931428/photo/1",
+          "media_key": "3_1956818994473943040",
+          "start": 79,
+          "url": "https://t.co/Ri1NurVseQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962887397802127376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956819006540931428",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoxuehua221: 我是小雪花l问坐标5r💗\n165/54kg/c罩\n门槛50/88/188/288/388/588\n欢迎宝宝们互fo互转 https://t.co/Ri1NurVseQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962887397802127376].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962887397802127376",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962887397802127376"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956818994452951040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GygEgf4a8AAykAp.jpg",
+        "width": 945
+      },
+      {
+        "height": 1225,
+        "media_key": "3_1956818994671079425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GygEggsbUAElqO3.jpg",
+        "width": 816
+      },
+      {
+        "height": 2042,
+        "media_key": "3_1956818994473943040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GygEgf9bQAAGFsP.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956818994452951040",
+            "3_1956818994671079425",
+            "3_1956818994473943040"
+          ]
+        },
+        "author_id": "1939641647614377984",
+        "conversation_id": "1956819006540931428",
+        "created_at": "2025-08-16T20:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T21:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956819006540931428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ri1NurVseQ",
+              "end": 83,
+              "expanded_url": "https://x.com/xiaoxuehua221/status/1956819006540931428/photo/1",
+              "media_key": "3_1956818994452951040",
+              "start": 60,
+              "url": "https://t.co/Ri1NurVseQ"
+            },
+            {
+              "display_url": "pic.x.com/Ri1NurVseQ",
+              "end": 83,
+              "expanded_url": "https://x.com/xiaoxuehua221/status/1956819006540931428/photo/1",
+              "media_key": "3_1956818994671079425",
+              "start": 60,
+              "url": "https://t.co/Ri1NurVseQ"
+            },
+            {
+              "display_url": "pic.x.com/Ri1NurVseQ",
+              "end": 83,
+              "expanded_url": "https://x.com/xiaoxuehua221/status/1956819006540931428/photo/1",
+              "media_key": "3_1956818994473943040",
+              "start": 60,
+              "url": "https://t.co/Ri1NurVseQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956819006540931428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3912,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "我是小雪花l问坐标5r💗\n165/54kg/c罩\n门槛50/88/188/288/388/588\n欢迎宝宝们互fo互转 https://t.co/Ri1NurVseQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 202,
+          "like_count": 1141,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 699
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T11:06:32.000Z",
+        "description": "窝素小雪花，现在高二，我想去日本留学，但是爸爸妈妈不支持，所以打算自己攒钱去日本。来当门槛妹希望有哥哥能给我好多钱，攒够20万我就能去日本了😭😭",
+        "id": "1939641647614377984",
+        "name": "小雪花",
+        "pinned_tweet_id": "1956819006540931428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939641989319819264/luOc7g2c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 36,
+          "like_count": 1,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 50
+        },
+        "username": "xiaoxuehua221",
+        "verified": false
+      }
+    ]
+  }
+}

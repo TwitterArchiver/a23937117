@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956355976065597440",
+        "3_1956355976036327424",
+        "3_1956355976074084352"
+      ],
+      "media_source_tweet_id": [
+        "1956355989403259269",
+        "1956355989403259269",
+        "1956355989403259269"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1956364817574330476",
+    "created_at": "2025-08-15T14:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T15:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956364817574330476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "263453999",
+          "start": 3,
+          "username": "1e1eyi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9ukQ3k3nvm",
+          "end": 120,
+          "expanded_url": "https://x.com/1e1eyi/status/1956355989403259269/photo/1",
+          "media_key": "3_1956355976065597440",
+          "start": 97,
+          "url": "https://t.co/9ukQ3k3nvm"
+        },
+        {
+          "display_url": "pic.x.com/9ukQ3k3nvm",
+          "end": 120,
+          "expanded_url": "https://x.com/1e1eyi/status/1956355989403259269/photo/1",
+          "media_key": "3_1956355976036327424",
+          "start": 97,
+          "url": "https://t.co/9ukQ3k3nvm"
+        },
+        {
+          "display_url": "pic.x.com/9ukQ3k3nvm",
+          "end": 120,
+          "expanded_url": "https://x.com/1e1eyi/status/1956355989403259269/photo/1",
+          "media_key": "3_1956355976074084352",
+          "start": 97,
+          "url": "https://t.co/9ukQ3k3nvm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956364817574330476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956355989403259269",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1e1eyi: 谁人识我小虫虫。？\n欢迎宝子互转互fo\n转赞关评。抽5个188\n之前每次抽奖都是真的。但是老炸号一直无法开奖！\n5天后0:00准时开奖。注意查收私信。！24h过时不补！ https://t.co/9ukQ3k3nvm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1956364817574330476].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1956364817574330476",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1956364817574330476"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1142,
+        "media_key": "3_1956355976065597440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyZfZR-aQAAcrkW.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1956355976036327424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyZfZR3boAAl5I6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1720,
+        "media_key": "3_1956355976074084352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyZfZSAbwAAfO3G.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956355976065597440",
+            "3_1956355976036327424",
+            "3_1956355976074084352"
+          ]
+        },
+        "author_id": "263453999",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1956355989403259269",
+        "created_at": "2025-08-15T14:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T15:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956355989403259269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ukQ3k3nvm",
+              "end": 108,
+              "expanded_url": "https://x.com/1e1eyi/status/1956355989403259269/photo/1",
+              "media_key": "3_1956355976065597440",
+              "start": 85,
+              "url": "https://t.co/9ukQ3k3nvm"
+            },
+            {
+              "display_url": "pic.x.com/9ukQ3k3nvm",
+              "end": 108,
+              "expanded_url": "https://x.com/1e1eyi/status/1956355989403259269/photo/1",
+              "media_key": "3_1956355976036327424",
+              "start": 85,
+              "url": "https://t.co/9ukQ3k3nvm"
+            },
+            {
+              "display_url": "pic.x.com/9ukQ3k3nvm",
+              "end": 108,
+              "expanded_url": "https://x.com/1e1eyi/status/1956355989403259269/photo/1",
+              "media_key": "3_1956355976074084352",
+              "start": 85,
+              "url": "https://t.co/9ukQ3k3nvm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956355989403259269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "谁人识我小虫虫。？\n欢迎宝子互转互fo\n转赞关评。抽5个188\n之前每次抽奖都是真的。但是老炸号一直无法开奖！\n5天后0:00准时开奖。注意查收私信。！24h过时不补！ https://t.co/9ukQ3k3nvm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 207,
+          "like_count": 1088,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 614
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-10T02:20:03.000Z",
+        "description": "坐标广州杭州 可验证25一次求溺爱",
+        "id": "263453999",
+        "name": "laura",
+        "pinned_tweet_id": "1956355989403259269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954450477888028672/5orok1Lq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 121,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 117
+        },
+        "username": "1e1eyi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1985733931375755407",
+    "created_at": "2025-11-04T15:40:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T16:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985733931375755407"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 134,
+          "start": 130,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1843915713867853830",
+          "start": 3,
+          "username": "xuanxuan13149"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985733931375755407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983515045125611579",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuanxuan13149: 这里是轩轩sama 坐标不固定\n支持语音视频验证！无条件的！🫶\n各位金主爸爸们多多关照呀＊\n我很可爱也很缺钱🥹\n喜欢我请给我打钱吧☆\n出原味出图包线上约调陪玩\n欢迎可爱小女孩们互转互fo一起玩耍～转贴 评论抽不等红包的！ ＃门槛妹 ＃线下d…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1985733931375755407].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1985733931375755407",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1985733931375755407"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1983515035784929281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4bcanqbYAE4M9x.jpg",
+        "width": 1024
+      },
+      {
+        "height": 705,
+        "media_key": "3_1983515035772346368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4bcannbYAAl_Z0.jpg",
+        "width": 529
+      },
+      {
+        "height": 590,
+        "media_key": "3_1983515035831017472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4bcan1aoAA8EOc.jpg",
+        "width": 1180
+      },
+      {
+        "height": 1093,
+        "media_key": "3_1983515035763904512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4bcanlakAAcMaz.jpg",
+        "width": 919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983515035784929281",
+            "3_1983515035772346368",
+            "3_1983515035831017472",
+            "3_1983515035763904512"
+          ]
+        },
+        "author_id": "1843915713867853830",
+        "conversation_id": "1983515045125611579",
+        "created_at": "2025-10-29T12:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T13:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983515045125611579"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 121,
+              "start": 116,
+              "tag": "线下dd"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "非绿"
+            },
+            {
+              "end": 134,
+              "start": 126,
+              "tag": "反差coser"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "空降"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tek4FwrCBJ",
+              "end": 163,
+              "expanded_url": "https://x.com/xuanxuan1766/status/1983515045125611579/photo/1",
+              "media_key": "3_1983515035784929281",
+              "start": 140,
+              "url": "https://t.co/Tek4FwrCBJ"
+            },
+            {
+              "display_url": "pic.x.com/Tek4FwrCBJ",
+              "end": 163,
+              "expanded_url": "https://x.com/xuanxuan1766/status/1983515045125611579/photo/1",
+              "media_key": "3_1983515035772346368",
+              "start": 140,
+              "url": "https://t.co/Tek4FwrCBJ"
+            },
+            {
+              "display_url": "pic.x.com/Tek4FwrCBJ",
+              "end": 163,
+              "expanded_url": "https://x.com/xuanxuan1766/status/1983515045125611579/photo/1",
+              "media_key": "3_1983515035831017472",
+              "start": 140,
+              "url": "https://t.co/Tek4FwrCBJ"
+            },
+            {
+              "display_url": "pic.x.com/Tek4FwrCBJ",
+              "end": 163,
+              "expanded_url": "https://x.com/xuanxuan1766/status/1983515045125611579/photo/1",
+              "media_key": "3_1983515035763904512",
+              "start": 140,
+              "url": "https://t.co/Tek4FwrCBJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983515045125611579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 8392,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "这里是轩轩sama 坐标不固定\n支持语音视频验证！无条件的！🫶\n各位金主爸爸们多多关照呀＊\n我很可爱也很缺钱🥹\n喜欢我请给我打钱吧☆\n出原味出图包线上约调陪玩\n欢迎可爱小女孩们互转互fo一起玩耍～转贴 评论抽不等红包的！ ＃门槛妹 ＃线下dd #非绿 #反差coser  #空降 https://t.co/Tek4FwrCBJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 220,
+          "like_count": 1339,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 750
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T07:25:47.000Z",
+        "description": "@这里是轩轩 各位金主爸爸欢迎来入我的🚪呀 支持口令和赞赏码🫶可语音验证 感谢爸爸们的投喂 请多多支持我吧😘168/288/520/1314/2888 假钞广告https://t.co/o5WvBzeMgv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/STgc1744",
+                "end": 103,
+                "expanded_url": "http://t.me/STgc1744",
+                "start": 80,
+                "url": "https://t.co/o5WvBzeMgv"
+              }
+            ]
+          }
+        },
+        "id": "1843915713867853830",
+        "location": "距离你4.7km",
+        "name": "轩轩sama",
+        "pinned_tweet_id": "1983515045125611579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872448047919267840/4xFHALSg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3316,
+          "following_count": 119,
+          "like_count": 96,
+          "listed_count": 10,
+          "media_count": 21,
+          "tweet_count": 735
+        },
+        "username": "xuanxuan13149",
+        "verified": false
+      }
+    ]
+  }
+}

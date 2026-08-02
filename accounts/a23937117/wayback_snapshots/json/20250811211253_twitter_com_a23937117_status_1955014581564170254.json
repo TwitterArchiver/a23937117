@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1954771371105632494",
+    "created_at": "2025-08-11T21:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T22:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955014581564170254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1588362906483101696",
+          "start": 0,
+          "username": "jkdghalf411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955014581564170254",
+    "in_reply_to_user_id": "1588362906483101696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954771371105632494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jkdghalf411 喹硫平吃了像丧尸，一遍困倦的失去意识一遍往嘴里塞东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1954771371105632494",
+        "created_at": "2025-08-11T21:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T22:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955014581564170254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1588362906483101696",
+              "start": 0,
+              "username": "jkdghalf411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955014581564170254",
+        "in_reply_to_user_id": "1588362906483101696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954771371105632494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jkdghalf411 喹硫平吃了像丧尸，一遍困倦的失去意识一遍往嘴里塞东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588362906483101696",
+        "conversation_id": "1954771371105632494",
+        "created_at": "2025-08-11T05:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T06:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954771371105632494"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954771371105632494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3953,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精神病绝对要避雷的三种药：文拉法辛，奥氮平，喹硫平"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 221,
+          "like_count": 1073,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 534
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T02:50:08.000Z",
+        "description": "报菜名：抑郁焦虑睡眠障碍bpd cptsd ed半清除 add od zc｜🚪188，只聊天",
+        "id": "1588362906483101696",
+        "location": "电子眼一直在看着你",
+        "name": "電磁波",
+        "pinned_tweet_id": "1954424870189584403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951986912425816064/rd26OCEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5560,
+          "following_count": 640,
+          "like_count": 10381,
+          "listed_count": 14,
+          "media_count": 2171,
+          "tweet_count": 14438
+        },
+        "username": "jkdghalf411",
+        "verified": false
+      }
+    ]
+  }
+}

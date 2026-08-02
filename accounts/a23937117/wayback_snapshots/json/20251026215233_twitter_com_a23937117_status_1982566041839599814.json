@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1982566041839599814",
+    "created_at": "2025-10-26T21:52:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T22:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982566041839599814"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "才艺"
+        },
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "金主"
+        },
+        {
+          "end": 136,
+          "start": 133,
+          "tag": "线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1979287985884663810",
+          "start": 3,
+          "username": "xooooxool"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982566041839599814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982489260356939822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xooooxool: 大家好这里是小鱼儿^_^\n新置顶噢\n\n出售自己只想赚点零花钱\n我想要物质生活\n我爱💰爱给我花💰的男人\n我会很崇拜你❤️很听话\n会很很多才艺唱歌跳舞连麦哄睡\n希望喜欢的哥哥过我🚪\n\n刚下海不久，欢迎女宝宝互转互fo 🙈\n\n#才艺 #金主 #线下 #爸…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1982566041839599814].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1982566041839599814",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1982566041839599814"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1047,
+        "media_key": "3_1982489256107917312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4M3eYlXQAAFHzj.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1347,
+        "media_key": "3_1982489256439234560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4M3eZ0WwAA9R0M.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1767,
+        "media_key": "3_1982489256908996609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4M3ebkWwAEsTM9.jpg",
+        "width": 1014
+      },
+      {
+        "height": 1338,
+        "media_key": "3_1982489257395556352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4M3edYXEAAmsgB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982489256107917312",
+            "3_1982489256439234560",
+            "3_1982489256908996609",
+            "3_1982489257395556352"
+          ]
+        },
+        "author_id": "1979287985884663810",
+        "conversation_id": "1982489260356939822",
+        "created_at": "2025-10-26T16:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T17:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982489260356939822"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "才艺"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "金主"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "线下"
+            },
+            {
+              "end": 126,
+              "start": 122,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "门槛"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "上门"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "调教"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "足交"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "哄睡"
+            },
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "点歌"
+            },
+            {
+              "end": 155,
+              "start": 151,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 159,
+              "start": 156,
+              "tag": "磕泡"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mGEJG2KVc0",
+              "end": 183,
+              "expanded_url": "https://x.com/xooooxool/status/1982489260356939822/photo/1",
+              "media_key": "3_1982489256107917312",
+              "start": 160,
+              "url": "https://t.co/mGEJG2KVc0"
+            },
+            {
+              "display_url": "pic.x.com/mGEJG2KVc0",
+              "end": 183,
+              "expanded_url": "https://x.com/xooooxool/status/1982489260356939822/photo/1",
+              "media_key": "3_1982489256439234560",
+              "start": 160,
+              "url": "https://t.co/mGEJG2KVc0"
+            },
+            {
+              "display_url": "pic.x.com/mGEJG2KVc0",
+              "end": 183,
+              "expanded_url": "https://x.com/xooooxool/status/1982489260356939822/photo/1",
+              "media_key": "3_1982489256908996609",
+              "start": 160,
+              "url": "https://t.co/mGEJG2KVc0"
+            },
+            {
+              "display_url": "pic.x.com/mGEJG2KVc0",
+              "end": 183,
+              "expanded_url": "https://x.com/xooooxool/status/1982489260356939822/photo/1",
+              "media_key": "3_1982489257395556352",
+              "start": 160,
+              "url": "https://t.co/mGEJG2KVc0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982489260356939822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家好这里是小鱼儿^_^\n新置顶噢\n\n出售自己只想赚点零花钱\n我想要物质生活\n我爱💰爱给我花💰的男人\n我会很崇拜你❤️很听话\n会很很多才艺唱歌跳舞连麦哄睡\n希望喜欢的哥哥过我🚪\n\n刚下海不久，欢迎女宝宝互转互fo 🙈\n\n#才艺 #金主 #线下 #爸爸活 #门槛 #上门 #调教 #足交 #哄睡 #点歌 #妈妈活 #磕泡 https://t.co/mGEJG2KVc0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 219,
+          "like_count": 1306,
+          "listed_count": 3,
+          "media_count": 200,
+          "tweet_count": 738
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T20:46:54.000Z",
+        "description": "165/42kg",
+        "id": "1979287985884663810",
+        "location": "🚪188/288/388/520/1314",
+        "name": "小鱼儿（可怜）",
+        "pinned_tweet_id": "1982489260356939822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979291937422057472/nbRrvI48_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 142
+        },
+        "username": "xooooxool",
+        "verified": false
+      }
+    ]
+  }
+}

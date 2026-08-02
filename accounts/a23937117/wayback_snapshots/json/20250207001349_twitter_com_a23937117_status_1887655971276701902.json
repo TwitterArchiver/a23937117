@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887655964679041024"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1887655971276701902",
+    "created_at": "2025-02-07T00:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T01:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887655971276701902"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 4,
+          "tag": "m"
+        },
+        {
+          "end": 10,
+          "start": 7,
+          "tag": "反差"
+        },
+        {
+          "end": 16,
+          "start": 11,
+          "tag": "brat"
+        },
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "反差女友"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aZlZyEKtus",
+          "end": 46,
+          "expanded_url": "https://x.com/a23937117/status/1887655971276701902/photo/1",
+          "media_key": "3_1887655964679041024",
+          "start": 23,
+          "url": "https://t.co/aZlZyEKtus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887655971276701902",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "……哦\n#m #反差 #brat #反差女友 https://t.co/aZlZyEKtus"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1887655971276701902].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1887655971276701902",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1887655971276701902"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1452,
+        "media_key": "3_1887655964679041024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjJNGUDXcAArKz_.jpg",
+        "width": 1089
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——严重露出lover  中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877871932521009152/ENngS7iN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 72,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 32
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

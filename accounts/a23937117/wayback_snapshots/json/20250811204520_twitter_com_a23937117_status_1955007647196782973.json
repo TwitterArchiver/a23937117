@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954506132183273472"
+      ],
+      "media_source_tweet_id": [
+        "1954506134837998049"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955007647196782973",
+    "created_at": "2025-08-11T20:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T21:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955007647196782973"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 30,
+          "tag": "小圈sp"
+        },
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "小圈实践"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "小圈"
+        },
+        {
+          "end": 51,
+          "start": 46,
+          "tag": "小圈女贝"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1902045261935030272",
+          "start": 3,
+          "username": "niu10086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QeGi9JbWDq",
+          "end": 75,
+          "expanded_url": "https://x.com/niu10086/status/1954506134837998049/photo/1",
+          "media_key": "3_1954506132183273472",
+          "start": 52,
+          "url": "https://t.co/QeGi9JbWDq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955007647196782973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954506134837998049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @niu10086: 打不哭我玩什么小圈，退圈吧哥们 #小圈sp #小圈实践 #小圈 #小圈女贝 https://t.co/QeGi9JbWDq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 372,
+        "media_key": "3_1954506132183273472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx_M-MgbUAAU_B-.jpg",
+        "width": 524
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954506132183273472"
+          ],
+          "media_source_tweet_id": [
+            "1954506134837998049"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "1955007647196782973",
+        "created_at": "2025-08-11T20:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T21:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955007647196782973"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "小圈sp"
+            },
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "小圈实践"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "小圈"
+            },
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "小圈女贝"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1902045261935030272",
+              "start": 3,
+              "username": "niu10086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QeGi9JbWDq",
+              "end": 75,
+              "expanded_url": "https://x.com/niu10086/status/1954506134837998049/photo/1",
+              "media_key": "3_1954506132183273472",
+              "start": 52,
+              "url": "https://t.co/QeGi9JbWDq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955007647196782973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954506134837998049",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @niu10086: 打不哭我玩什么小圈，退圈吧哥们 #小圈sp #小圈实践 #小圈 #小圈女贝 https://t.co/QeGi9JbWDq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954506132183273472"
+          ]
+        },
+        "author_id": "1902045261935030272",
+        "conversation_id": "1954506134837998049",
+        "created_at": "2025-08-10T11:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T12:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954506134837998049"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "小圈sp"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "小圈实践"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "小圈"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "小圈女贝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QeGi9JbWDq",
+              "end": 61,
+              "expanded_url": "https://x.com/niu10086/status/1954506134837998049/photo/1",
+              "media_key": "3_1954506132183273472",
+              "start": 38,
+              "url": "https://t.co/QeGi9JbWDq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954506134837998049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 69724,
+          "like_count": 224,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "打不哭我玩什么小圈，退圈吧哥们 #小圈sp #小圈实践 #小圈 #小圈女贝 https://t.co/QeGi9JbWDq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 215,
+          "like_count": 1070,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 526
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-18T17:12:08.000Z",
+        "description": "纯小圈｜csj｜女贝｜🈚⭐｜不爱回信息｜",
+        "id": "1902045261935030272",
+        "name": "牛🐮",
+        "pinned_tweet_id": "1943541251795751028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903685144885837824/pdRw-81q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1216,
+          "following_count": 68,
+          "like_count": 119,
+          "listed_count": 3,
+          "media_count": 23,
+          "tweet_count": 307
+        },
+        "username": "niu10086",
+        "verified": false
+      }
+    ]
+  }
+}

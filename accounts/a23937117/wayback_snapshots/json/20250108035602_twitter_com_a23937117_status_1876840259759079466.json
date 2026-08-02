@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876840253622747136",
+        "3_1876840253626966016"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1876840259759079466",
+    "created_at": "2025-01-08T03:56:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T04:56:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1876840259759079466"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 7,
+          "tag": "自残"
+        },
+        {
+          "end": 14,
+          "start": 11,
+          "tag": "od"
+        },
+        {
+          "end": 19,
+          "start": 15,
+          "tag": "地雷女"
+        },
+        {
+          "end": 22,
+          "start": 20,
+          "tag": "血"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cUI5JsZMiL",
+          "end": 46,
+          "expanded_url": "https://x.com/a23937117/status/1876840259759079466/photo/1",
+          "media_key": "3_1876840253622747136",
+          "start": 23,
+          "url": "https://t.co/cUI5JsZMiL"
+        },
+        {
+          "display_url": "pic.x.com/cUI5JsZMiL",
+          "end": 46,
+          "expanded_url": "https://x.com/a23937117/status/1876840259759079466/photo/1",
+          "media_key": "3_1876840253626966016",
+          "start": 23,
+          "url": "https://t.co/cUI5JsZMiL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876840259759079466",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雪是死掉的你 #自残 #od #地雷女 #血 https://t.co/cUI5JsZMiL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1876840259759079466].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1876840259759079466",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1876840259759079466"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1876840253622747136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgvgRElWgAA_yYZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1876840253626966016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgvgREmW4AAcNJs.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——阿根廷裔 中文/西文/英文/数媒艺备考ing 司岚重度依赖 负能发言 brat-sub",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585964829608665089/Y3G7Z8Ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 65,
+          "like_count": 437,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 21
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

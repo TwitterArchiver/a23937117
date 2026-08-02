@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1937156972995846395",
+    "created_at": "2025-06-23T14:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T15:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937156972995846395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1673364955171782657",
+          "start": 3,
+          "username": "kxk1388574"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937156972995846395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936435306582118447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kxk1388574: 线下见过我还喜欢我的你真牛逼了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1937156972995846395",
+        "created_at": "2025-06-23T14:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T15:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937156972995846395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1673364955171782657",
+              "start": 3,
+              "username": "kxk1388574"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937156972995846395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936435306582118447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kxk1388574: 线下见过我还喜欢我的你真牛逼了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673364955171782657",
+        "conversation_id": "1936435306582118447",
+        "created_at": "2025-06-21T14:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T15:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936435306582118447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LiuSuK7777/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/LiuSuK7777/status/1936348228238418393",
+              "start": 16,
+              "url": "https://t.co/lsq4KfXBWv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936435306582118447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5243,
+          "like_count": 14,
+          "quote_count": 8,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936348228238418393",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "线下见过我还喜欢我的你真牛逼了 https://t.co/lsq4KfXBWv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "kissing",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 124,
+          "like_count": 803,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 137
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*秀色可餐🍊@tangeorange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 68,
+                "start": 56,
+                "username": "tangeorange"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "酸酸甜甜🍋k",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5440,
+          "following_count": 4636,
+          "like_count": 27737,
+          "listed_count": 10,
+          "media_count": 423,
+          "tweet_count": 4279
+        },
+        "username": "kxk1388574",
+        "verified": false
+      }
+    ]
+  }
+}

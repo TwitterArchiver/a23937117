@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962032875987210240",
+        "3_1962032875957837825"
+      ],
+      "media_source_tweet_id": [
+        "1962032904575582356",
+        "1962032904575582356"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962484187702648876",
+    "created_at": "2025-09-01T11:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T12:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962484187702648876"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 46,
+          "tag": "地雷系"
+        },
+        {
+          "end": 55,
+          "start": 51,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 60,
+          "start": 56,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 66,
+          "start": 61,
+          "tag": "线上女友"
+        },
+        {
+          "end": 71,
+          "start": 67,
+          "tag": "妈妈活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1825308231012683776",
+          "start": 3,
+          "username": "xioji225726"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cjXtheWkBM",
+          "end": 95,
+          "expanded_url": "https://x.com/xioji225726/status/1962032904575582356/photo/1",
+          "media_key": "3_1962032875987210240",
+          "start": 72,
+          "url": "https://t.co/cjXtheWkBM"
+        },
+        {
+          "display_url": "pic.x.com/cjXtheWkBM",
+          "end": 95,
+          "expanded_url": "https://x.com/xioji225726/status/1962032904575582356/photo/1",
+          "media_key": "3_1962032875957837825",
+          "start": 72,
+          "url": "https://t.co/cjXtheWkBM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962484187702648876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962032904575582356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xioji225726: 太穷了。。重回门槛妹求入门\n借我钱也行我现在急用钱啊啊😭\n#地雷系 #爸爸活 #门槛妹 #线上女友 #妈妈活 https://t.co/cjXtheWkBM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962032875987210240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzqKgWLbEAALaOX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962032875957837825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzqKgWEa4AE33di.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962032875987210240",
+            "3_1962032875957837825"
+          ],
+          "media_source_tweet_id": [
+            "1962032904575582356",
+            "1962032904575582356"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "1962484187702648876",
+        "created_at": "2025-09-01T11:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T12:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962484187702648876"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "地雷系"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "线上女友"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "妈妈活"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1825308231012683776",
+              "start": 3,
+              "username": "xioji225726"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjXtheWkBM",
+              "end": 95,
+              "expanded_url": "https://x.com/xioji225726/status/1962032904575582356/photo/1",
+              "media_key": "3_1962032875987210240",
+              "start": 72,
+              "url": "https://t.co/cjXtheWkBM"
+            },
+            {
+              "display_url": "pic.x.com/cjXtheWkBM",
+              "end": 95,
+              "expanded_url": "https://x.com/xioji225726/status/1962032904575582356/photo/1",
+              "media_key": "3_1962032875957837825",
+              "start": 72,
+              "url": "https://t.co/cjXtheWkBM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962484187702648876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962032904575582356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xioji225726: 太穷了。。重回门槛妹求入门\n借我钱也行我现在急用钱啊啊😭\n#地雷系 #爸爸活 #门槛妹 #线上女友 #妈妈活 https://t.co/cjXtheWkBM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962032875987210240",
+            "3_1962032875957837825"
+          ]
+        },
+        "author_id": "1825308231012683776",
+        "conversation_id": "1962032904575582356",
+        "created_at": "2025-08-31T06:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T07:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962032904575582356"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "地雷系"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "线上女友"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "妈妈活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjXtheWkBM",
+              "end": 78,
+              "expanded_url": "https://x.com/xioji225726/status/1962032904575582356/photo/1",
+              "media_key": "3_1962032875987210240",
+              "start": 55,
+              "url": "https://t.co/cjXtheWkBM"
+            },
+            {
+              "display_url": "pic.x.com/cjXtheWkBM",
+              "end": 78,
+              "expanded_url": "https://x.com/xioji225726/status/1962032904575582356/photo/1",
+              "media_key": "3_1962032875957837825",
+              "start": 55,
+              "url": "https://t.co/cjXtheWkBM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962032904575582356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3721,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "太穷了。。重回门槛妹求入门\n借我钱也行我现在急用钱啊啊😭\n#地雷系 #爸爸活 #门槛妹 #线上女友 #妈妈活 https://t.co/cjXtheWkBM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 211,
+          "like_count": 1133,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 649
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T23:06:20.000Z",
+        "description": "🚪99 欢迎互转",
+        "id": "1825308231012683776",
+        "location": "你好呀",
+        "name": "年",
+        "pinned_tweet_id": "1962032904575582356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961154780937719808/QWKKaend_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 102,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 275
+        },
+        "username": "xioji225726",
+        "verified": false
+      }
+    ]
+  }
+}

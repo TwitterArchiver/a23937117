@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2037147975609184558",
+    "created_at": "2026-03-26T12:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T13:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037147975609184558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1983604747484733440",
+          "start": 3,
+          "username": "q3zakp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037147975609184558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989818528132993404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @q3zakp: 我是兔兔 盗我图的人太多了 本人来推了 165/100 喜欢打洲 劫 给的越多嘴巴越甜 很会提供情绪价值\n🚪200图包20张➕聊天➕打游戏\n300线下基础门\n420图包30张➕聊天➕打游戏➕每周视频一次 可以远程遥控\n888图包30张➕线下非绿一晚（可以…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2037147975609184558].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2037147975609184558",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2037147975609184558"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 995,
+        "media_key": "3_1989818444116803584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G51BVRkaQAAzyVy.jpg",
+        "width": 1170
+      },
+      {
+        "duration_ms": 13968,
+        "height": 1568,
+        "media_key": "13_1989818444179804162",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1989818444179804162/img/nAKfP0WfqBl5j207.jpg",
+        "public_metrics": {
+          "view_count": 24373
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989818444179804162/vid/avc1/884x1568/mBlptDlIFu2WS4Dr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1989818444179804162/pl/dXojoubUYEXX3v8K.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989818444179804162/vid/avc1/720x1276/psDlQ7S0v1Y3qRgI.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989818444179804162/vid/avc1/320x566/imq1SDMW0SwT8qsg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989818444179804162/vid/avc1/480x850/iYIBonGA7PkTqgfT.mp4"
+          }
+        ],
+        "width": 884
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989818444460822530",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G51BVS2bkAIidbr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989818444095881217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G51BVRfbAAExMvO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989818444116803584",
+            "13_1989818444179804162",
+            "3_1989818444460822530",
+            "3_1989818444095881217"
+          ]
+        },
+        "author_id": "1983604747484733440",
+        "conversation_id": "1989818528132993404",
+        "created_at": "2025-11-15T22:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T23:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989818528132993404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HkFnpyA0TP",
+              "end": 183,
+              "expanded_url": "https://x.com/aqahhhtutu/status/1989818528132993404/video/1",
+              "media_key": "3_1989818444116803584",
+              "start": 160,
+              "url": "https://t.co/HkFnpyA0TP"
+            },
+            {
+              "display_url": "pic.x.com/HkFnpyA0TP",
+              "end": 183,
+              "expanded_url": "https://x.com/aqahhhtutu/status/1989818528132993404/video/1",
+              "media_key": "13_1989818444179804162",
+              "start": 160,
+              "url": "https://t.co/HkFnpyA0TP"
+            },
+            {
+              "display_url": "pic.x.com/HkFnpyA0TP",
+              "end": 183,
+              "expanded_url": "https://x.com/aqahhhtutu/status/1989818528132993404/video/1",
+              "media_key": "3_1989818444460822530",
+              "start": 160,
+              "url": "https://t.co/HkFnpyA0TP"
+            },
+            {
+              "display_url": "pic.x.com/HkFnpyA0TP",
+              "end": 183,
+              "expanded_url": "https://x.com/aqahhhtutu/status/1989818528132993404/video/1",
+              "media_key": "3_1989818444095881217",
+              "start": 160,
+              "url": "https://t.co/HkFnpyA0TP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989818528132993404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 82992,
+          "like_count": 145,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "reply_settings": "verified",
+        "text": "我是兔兔 盗我图的人太多了 本人来推了 165/100 喜欢打洲 劫 给的越多嘴巴越甜 很会提供情绪价值\n🚪200图包20张➕聊天➕打游戏\n300线下基础门\n420图包30张➕聊天➕打游戏➕每周视频一次 可以远程遥控\n888图包30张➕线下非绿一晚（可以无套\n420以上➕私人v（回复更快 嘴巴更甜）\n欢迎互转详细p1 https://t.co/HkFnpyA0TP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 198,
+          "like_count": 1368,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 796
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T18:40:12.000Z",
+        "description": "我想变得有钱一点，再幸福一点 我想变成最幸福的小女孩",
+        "id": "1983604747484733440",
+        "location": "问位置/面付价格10r 验证免费",
+        "name": "兔兔不哭",
+        "pinned_tweet_id": "1989818528132993404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983605481055875072/Qbjp8wnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1179,
+          "following_count": 25,
+          "like_count": 0,
+          "listed_count": 4,
+          "media_count": 21,
+          "tweet_count": 68
+        },
+        "username": "q3zakp",
+        "verified": false
+      }
+    ]
+  }
+}

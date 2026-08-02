@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951319941363408896"
+      ],
+      "media_source_tweet_id": [
+        "1951319944827642230"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955015046985404592",
+    "created_at": "2025-08-11T21:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T22:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955015046985404592"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 41,
+          "tag": "门槛"
+        },
+        {
+          "end": 49,
+          "start": 45,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 53,
+          "start": 50,
+          "tag": "女大"
+        },
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "上海"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1931645659473682432",
+          "start": 3,
+          "username": "meows72"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JSbkgQNGtI",
+          "end": 81,
+          "expanded_url": "https://x.com/meows72/status/1951319944827642230/photo/1",
+          "media_key": "3_1951319941363408896",
+          "start": 58,
+          "url": "https://t.co/JSbkgQNGtI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955015046985404592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951319944827642230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meows72: 这里素七七\n入🚪相关在下面\n欢迎女宝找我互推互fo喵！\n#门槛 #门槛妹 #女大 #上海 https://t.co/JSbkgQNGtI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955015046985404592].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955015046985404592",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955015046985404592"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1951319941363408896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxR7JewaIAAitJf.jpg",
+        "width": 978
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951319941363408896"
+          ]
+        },
+        "author_id": "1931645659473682432",
+        "conversation_id": "1951319944827642230",
+        "created_at": "2025-08-01T16:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T17:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951319944827642230"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "门槛"
+            },
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "女大"
+            },
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "上海"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JSbkgQNGtI",
+              "end": 68,
+              "expanded_url": "https://x.com/meows72/status/1951319944827642230/photo/1",
+              "media_key": "3_1951319941363408896",
+              "start": 45,
+              "url": "https://t.co/JSbkgQNGtI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951319944827642230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 15256,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "这里素七七\n入🚪相关在下面\n欢迎女宝找我互推互fo喵！\n#门槛 #门槛妹 #女大 #上海 https://t.co/JSbkgQNGtI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 222,
+          "like_count": 1074,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 535
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T09:33:16.000Z",
+        "description": "05白羊女大/焦虑型依恋/bbw/上海普陀/南宁/碎碎念日常/🚪52/88/388/520(可抵线下)/1314(同上)，过🚪不退",
+        "id": "1931645659473682432",
+        "name": "喵老师",
+        "pinned_tweet_id": "1951319944827642230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931646312484904960/ibSm9iK__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 23,
+          "like_count": 602,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 185
+        },
+        "username": "meows72",
+        "verified": false
+      }
+    ]
+  }
+}

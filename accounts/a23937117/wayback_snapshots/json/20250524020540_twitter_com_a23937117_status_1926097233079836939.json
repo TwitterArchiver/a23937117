@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1926085317678727334",
+    "created_at": "2025-05-24T02:05:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T03:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926097233079836939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1820096438648594432",
+          "start": 0,
+          "username": "changgeshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926097233079836939",
+    "in_reply_to_user_id": "1820096438648594432",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926097040632627341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@changgeshi ᜊ(꒪ˊ꒳ˋ꒪)ᜊ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1926085317678727334",
+        "created_at": "2025-05-24T02:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T03:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926097233079836939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1820096438648594432",
+              "start": 0,
+              "username": "changgeshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926097233079836939",
+        "in_reply_to_user_id": "1820096438648594432",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926097040632627341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@changgeshi ᜊ(꒪ˊ꒳ˋ꒪)ᜊ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820096438648594432",
+        "conversation_id": "1926085317678727334",
+        "created_at": "2025-05-24T02:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T03:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926097040632627341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442350932977610752",
+              "start": 0,
+              "username": "a23937117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926097040632627341",
+        "in_reply_to_user_id": "1442350932977610752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926085317678727334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a23937117 好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "讨厌我的人有福了 因为我真的过的很惨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 99,
+          "like_count": 668,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 64
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T13:56:36.000Z",
+        "description": "",
+        "id": "1820096438648594432",
+        "name": "avcel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873538314600673280/VFsChYPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 37,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "changgeshi",
+        "verified": false
+      }
+    ]
+  }
+}

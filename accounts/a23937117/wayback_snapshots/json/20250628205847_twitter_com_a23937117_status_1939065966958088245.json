@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1938992709248897416",
+    "created_at": "2025-06-28T20:58:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T21:58:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939065966958088245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1557839863151337473",
+          "start": 0,
+          "username": "scutigera_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939065966958088245",
+    "in_reply_to_user_id": "1557839863151337473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938992709248897416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scutigera_8964 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1938992682585718784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuivklOagAAlmPh.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1938992709248897416",
+        "created_at": "2025-06-28T20:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T21:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939065966958088245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939065966958088245",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938992709248897416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_8964 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938992682585718784"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "1938992709248897416",
+        "created_at": "2025-06-28T16:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T17:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938992709248897416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9CqNnRLP10",
+              "end": 28,
+              "expanded_url": "https://x.com/scutigera_8964/status/1938992709248897416/photo/1",
+              "media_key": "3_1938992682585718784",
+              "start": 5,
+              "url": "https://t.co/9CqNnRLP10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938992709248897416",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2183,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "well https://t.co/9CqNnRLP10"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "kissing",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 132,
+          "like_count": 839,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 177
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "お幸せに。無言フォローすいません😞我精神病od自残中央空调不要对我有太大期待",
+        "id": "1557839863151337473",
+        "name": "くま",
+        "pinned_tweet_id": "1930926127478186026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929099614915047424/aurGnrYP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3504,
+          "following_count": 3085,
+          "like_count": 32113,
+          "listed_count": 4,
+          "media_count": 336,
+          "tweet_count": 7516
+        },
+        "username": "scutigera_8964",
+        "verified": false
+      }
+    ]
+  }
+}

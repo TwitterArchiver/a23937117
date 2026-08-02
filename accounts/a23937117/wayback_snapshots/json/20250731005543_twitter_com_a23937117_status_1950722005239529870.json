@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950721993549963264",
+        "3_1950721993214398464"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1950722005239529870",
+    "created_at": "2025-07-31T00:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T01:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950722005239529870"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bPcxjxF5q9",
+          "end": 127,
+          "expanded_url": "https://x.com/a23937117/status/1950722005239529870/photo/1",
+          "media_key": "3_1950721993549963264",
+          "start": 104,
+          "url": "https://t.co/bPcxjxF5q9"
+        },
+        {
+          "display_url": "pic.x.com/bPcxjxF5q9",
+          "end": 127,
+          "expanded_url": "https://x.com/a23937117/status/1950722005239529870/photo/1",
+          "media_key": "3_1950721993214398464",
+          "start": 104,
+          "url": "https://t.co/bPcxjxF5q9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950722005239529870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最后一次od啦，普瑞巴林30t 氯硝西泮1t 喹硫平1t 氟西汀1t 碳酸锂1t\n因为和对象约好了，以后他不打k我不od，一起把这些戒了，希望可以幸福上岸\n小豹会努力到失去力气为止！pr拜拜~大家都要幸福~ https://t.co/bPcxjxF5q9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1950722005239529870].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1950722005239529870",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1950722005239529870"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950721993549963264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxJbUVkWYAAjieo.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950721993214398464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxJbUUUWEAAVdJ3.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949293859470524416/u1xTmqmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 181,
+          "like_count": 991,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 429
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

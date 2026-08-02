@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1969090602068308442",
+    "created_at": "2025-09-19T17:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T18:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969090602068308442"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ddzhanshou5150…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/ddzhanshou5150/status/1968670720914817114",
+          "start": 3,
+          "url": "https://t.co/Ei63IPwTuP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969090602068308442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968670720914817114",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "试试 https://t.co/Ei63IPwTuP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1138,
+        "media_key": "3_1968670656121421825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1IfiAHaQAEscHH.jpg",
+        "width": 640
+      },
+      {
+        "height": 924,
+        "media_key": "3_1968670682491011075",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1IfjiWaQAMyO-F.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1969090602068308442",
+        "created_at": "2025-09-19T17:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T18:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969090602068308442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ddzhanshou5150…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/ddzhanshou5150/status/1968670720914817114",
+              "start": 3,
+              "url": "https://t.co/Ei63IPwTuP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969090602068308442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968670720914817114",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "试试 https://t.co/Ei63IPwTuP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968670656121421825",
+            "3_1968670682491011075"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1968670720914817114",
+        "created_at": "2025-09-18T13:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T14:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968670720914817114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h0vYqKsfcH",
+              "end": 80,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1968670720914817114/photo/1",
+              "media_key": "3_1968670656121421825",
+              "start": 57,
+              "url": "https://t.co/h0vYqKsfcH"
+            },
+            {
+              "display_url": "pic.x.com/h0vYqKsfcH",
+              "end": 80,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1968670720914817114/photo/1",
+              "media_key": "3_1968670682491011075",
+              "start": 57,
+              "url": "https://t.co/h0vYqKsfcH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968670720914817114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 18519,
+          "like_count": 277,
+          "quote_count": 4,
+          "reply_count": 9,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "终于集齐所有材料制作小红书刷到的这个蜂蜜冰奶我的老天啊这太好喝了孩子们快去试试 淡奶油不用打发 非常美味啊宝子们 https://t.co/h0vYqKsfcH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88—谈恋爱了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 216,
+          "like_count": 1213,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 684
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7007,
+          "following_count": 6499,
+          "like_count": 22959,
+          "listed_count": 15,
+          "media_count": 4758,
+          "tweet_count": 33143
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

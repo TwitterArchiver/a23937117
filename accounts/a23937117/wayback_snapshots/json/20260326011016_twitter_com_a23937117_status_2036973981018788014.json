@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036973973872009217"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2036973981018788014",
+    "created_at": "2026-03-26T01:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T02:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036973981018788014"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZTJwLMjQD3",
+          "end": 40,
+          "expanded_url": "https://x.com/a23937117/status/2036973981018788014/photo/1",
+          "media_key": "3_2036973973872009217",
+          "start": 17,
+          "url": "https://t.co/ZTJwLMjQD3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036973981018788014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我只想玩电脑游戏，不想学电脑…… https://t.co/ZTJwLMjQD3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036973973872009217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HETJCXFbYAEARJU.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036973973872009217"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2036973981018788014",
+        "created_at": "2026-03-26T01:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T02:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036973981018788014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZTJwLMjQD3",
+              "end": 40,
+              "expanded_url": "https://x.com/a23937117/status/2036973981018788014/photo/1",
+              "media_key": "3_2036973973872009217",
+              "start": 17,
+              "url": "https://t.co/ZTJwLMjQD3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036973981018788014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只想玩电脑游戏，不想学电脑…… https://t.co/ZTJwLMjQD3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover  谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 198,
+          "like_count": 1369,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 793
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

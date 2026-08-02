@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959673403985833984",
+        "13_1959673404036202496",
+        "13_1959673404015222784"
+      ],
+      "media_source_tweet_id": [
+        "1959673498030559687",
+        "1959673498030559687",
+        "1959673498030559687"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962119497906524280",
+    "created_at": "2025-08-31T11:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T12:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962119497906524280"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "非绿"
+        },
+        {
+          "end": 69,
+          "start": 66,
+          "tag": "线下"
+        },
+        {
+          "end": 74,
+          "start": 70,
+          "tag": "江浙沪"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1712517493171040256",
+          "start": 3,
+          "username": "biefanwi11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GRQ438s7BR",
+          "end": 98,
+          "expanded_url": "https://x.com/biefanwi11/status/1959673498030559687/video/1",
+          "media_key": "3_1959673403985833984",
+          "start": 75,
+          "url": "https://t.co/GRQ438s7BR"
+        },
+        {
+          "display_url": "pic.x.com/GRQ438s7BR",
+          "end": 98,
+          "expanded_url": "https://x.com/biefanwi11/status/1959673498030559687/video/1",
+          "media_key": "13_1959673404036202496",
+          "start": 75,
+          "url": "https://t.co/GRQ438s7BR"
+        },
+        {
+          "display_url": "pic.x.com/GRQ438s7BR",
+          "end": 98,
+          "expanded_url": "https://x.com/biefanwi11/status/1959673498030559687/video/1",
+          "media_key": "13_1959673404015222784",
+          "start": 75,
+          "url": "https://t.co/GRQ438s7BR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962119497906524280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959673498030559687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @biefanwi11: 你好这里是灰色 接任何线下非绿 支持验证 坐标上海 周边都可以跑 喜欢我请打赏入门 我爱你 #非绿 #线下 #江浙沪 https://t.co/GRQ438s7BR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962119497906524280].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962119497906524280",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962119497906524280"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1518,
+        "media_key": "3_1959673403985833984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzIolABbMAAsUZF.jpg",
+        "width": 1206
+      },
+      {
+        "duration_ms": 10466,
+        "height": 720,
+        "media_key": "13_1959673404036202496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1959673404036202496/img/EjX6-g8IwDXnBvIw.jpg",
+        "public_metrics": {
+          "view_count": 1398
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959673404036202496/vid/avc1/480x270/0ejTtot-JYMS_fj9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959673404036202496/vid/avc1/640x360/RmERQGOeZxyPzSbm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959673404036202496/vid/avc1/1280x720/LT6T9aARI9RgFUgT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1959673404036202496/pl/0bvAiyIN82gNnUhD.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 13303,
+        "height": 720,
+        "media_key": "13_1959673404015222784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1959673404015222784/img/tCISXZRhhQ_MLM9o.jpg",
+        "public_metrics": {
+          "view_count": 284
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959673404015222784/vid/avc1/480x270/VtijfSJIJo3Pu8z0.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959673404015222784/vid/avc1/640x360/pLJQtA2o0b3LjXDJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959673404015222784/vid/avc1/1280x720/0-CQp1OSttXFJrWA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1959673404015222784/pl/MCPqAqeOOHui0OkL.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959673403985833984",
+            "13_1959673404036202496",
+            "13_1959673404015222784"
+          ]
+        },
+        "author_id": "1712517493171040256",
+        "conversation_id": "1959673498030559687",
+        "created_at": "2025-08-24T17:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T18:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959673498030559687"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "非绿"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "线下"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "江浙沪"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GRQ438s7BR",
+              "end": 82,
+              "expanded_url": "https://x.com/biefanwi11/status/1959673498030559687/video/1",
+              "media_key": "3_1959673403985833984",
+              "start": 59,
+              "url": "https://t.co/GRQ438s7BR"
+            },
+            {
+              "display_url": "pic.x.com/GRQ438s7BR",
+              "end": 82,
+              "expanded_url": "https://x.com/biefanwi11/status/1959673498030559687/video/1",
+              "media_key": "13_1959673404036202496",
+              "start": 59,
+              "url": "https://t.co/GRQ438s7BR"
+            },
+            {
+              "display_url": "pic.x.com/GRQ438s7BR",
+              "end": 82,
+              "expanded_url": "https://x.com/biefanwi11/status/1959673498030559687/video/1",
+              "media_key": "13_1959673404015222784",
+              "start": 59,
+              "url": "https://t.co/GRQ438s7BR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959673498030559687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3758,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "你好这里是灰色 接任何线下非绿 支持验证 坐标上海 周边都可以跑 喜欢我请打赏入门 我爱你 #非绿 #线下 #江浙沪 https://t.co/GRQ438s7BR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 208,
+          "like_count": 1137,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 666
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T17:16:13.000Z",
+        "description": "",
+        "id": "1712517493171040256",
+        "name": "灰色",
+        "pinned_tweet_id": "1959673498030559687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959284066534240256/MyeJKgsK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 2,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "username": "biefanwi11",
+        "verified": false
+      }
+    ]
+  }
+}

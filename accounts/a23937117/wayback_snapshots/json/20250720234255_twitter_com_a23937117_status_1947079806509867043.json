@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1946379718833705357",
+    "created_at": "2025-07-20T23:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T00:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947079806509867043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1798561425100619776",
+          "start": 0,
+          "username": "zgccmmcgf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947079806509867043",
+    "in_reply_to_user_id": "1798561425100619776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946379718833705357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zgccmmcgf 再发跳楼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1946379718833705357",
+        "created_at": "2025-07-20T23:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T00:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947079806509867043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1798561425100619776",
+              "start": 0,
+              "username": "zgccmmcgf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947079806509867043",
+        "in_reply_to_user_id": "1798561425100619776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946379718833705357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zgccmmcgf 再发跳楼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798561425100619776",
+        "conversation_id": "1946379718833705357",
+        "created_at": "2025-07-19T01:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T02:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946379718833705357"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946379718833705357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 131743,
+          "like_count": 1671,
+          "quote_count": 52,
+          "reply_count": 232,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝喜欢强制爱是因为从来没有被坚定的选择过吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 165,
+          "like_count": 958,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 396
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T03:44:09.000Z",
+        "description": "小猫的爱是抓痕和牙印 我的妻子也是｜我小号找不到了 平时这个号会发梦女类东西 希望不要被我创到｜皮下是一只阴暗的虫子",
+        "id": "1798561425100619776",
+        "location": "In Hatake Kakashi's arm",
+        "name": "这个虫虫明明超过分（晒伤版",
+        "pinned_tweet_id": "1942848525701898431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926477629806268416/YadEEg3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1861,
+          "following_count": 191,
+          "like_count": 6940,
+          "listed_count": 4,
+          "media_count": 283,
+          "tweet_count": 7454
+        },
+        "username": "zgccmmcgf",
+        "verified": false
+      }
+    ]
+  }
+}

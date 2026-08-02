@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962520046866993523",
+    "created_at": "2025-09-01T14:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T15:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962520046866993523"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 48,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 57,
+          "start": 53,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 61,
+          "start": 58,
+          "tag": "线上"
+        },
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "线下"
+        },
+        {
+          "end": 69,
+          "start": 66,
+          "tag": "非绿"
+        },
+        {
+          "end": 73,
+          "start": 70,
+          "tag": "半绿"
+        },
+        {
+          "end": 77,
+          "start": 74,
+          "tag": "纯绿"
+        },
+        {
+          "end": 82,
+          "start": 78,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 87,
+          "start": 83,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 91,
+          "start": 88,
+          "tag": "甜妹"
+        },
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "女高"
+        },
+        {
+          "end": 105,
+          "start": 96,
+          "tag": "brat统治世界"
+        },
+        {
+          "end": 111,
+          "start": 106,
+          "tag": "ATM奴"
+        },
+        {
+          "end": 117,
+          "start": 112,
+          "tag": "ddlg"
+        },
+        {
+          "end": 121,
+          "start": 118,
+          "tag": "金主"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "726731780854800384",
+          "start": 3,
+          "username": "bftuj32578fyh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/CsF8",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/CsF8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962520046866993523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952391436625928374",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bftuj32578fyh: 我是七七\n06年，一个人租房自力更生。\n接线上线下爸爸活\n#门槛妹 #爸爸活 #线上 #线下 #非绿 #半绿 #纯绿 #门槛妹 #门槛哥 #甜妹 #女高 #brat统治世界 #ATM奴 #ddlg #金主 https://t.co/CsF8…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962520046866993523].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962520046866993523",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962520046866993523"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1952391432398061568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxhJqd6aQAAeaOz.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1952391396490661888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxhJoYJa0AAdhJC.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1952391408675151872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxhJpFibYAAUDVf.jpg",
+        "width": 960
+      },
+      {
+        "height": 1028,
+        "media_key": "3_1952391414626791424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxhJpbtaMAAMH1M.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952391432398061568",
+            "3_1952391396490661888",
+            "3_1952391408675151872",
+            "3_1952391414626791424"
+          ]
+        },
+        "author_id": "726731780854800384",
+        "conversation_id": "1952391436625928374",
+        "created_at": "2025-08-04T15:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T16:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952391436625928374"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "线上"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "线下"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "非绿"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "半绿"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "纯绿"
+            },
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "甜妹"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "女高"
+            },
+            {
+              "end": 86,
+              "start": 77,
+              "tag": "brat统治世界"
+            },
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 98,
+              "start": 93,
+              "tag": "ddlg"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "金主"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CsF8IGeQte",
+              "end": 126,
+              "expanded_url": "https://x.com/bftuj32578fyh/status/1952391436625928374/photo/1",
+              "media_key": "3_1952391432398061568",
+              "start": 103,
+              "url": "https://t.co/CsF8IGeQte"
+            },
+            {
+              "display_url": "pic.x.com/CsF8IGeQte",
+              "end": 126,
+              "expanded_url": "https://x.com/bftuj32578fyh/status/1952391436625928374/photo/1",
+              "media_key": "3_1952391396490661888",
+              "start": 103,
+              "url": "https://t.co/CsF8IGeQte"
+            },
+            {
+              "display_url": "pic.x.com/CsF8IGeQte",
+              "end": 126,
+              "expanded_url": "https://x.com/bftuj32578fyh/status/1952391436625928374/photo/1",
+              "media_key": "3_1952391408675151872",
+              "start": 103,
+              "url": "https://t.co/CsF8IGeQte"
+            },
+            {
+              "display_url": "pic.x.com/CsF8IGeQte",
+              "end": 126,
+              "expanded_url": "https://x.com/bftuj32578fyh/status/1952391436625928374/photo/1",
+              "media_key": "3_1952391414626791424",
+              "start": 103,
+              "url": "https://t.co/CsF8IGeQte"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952391436625928374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 26156,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "我是七七\n06年，一个人租房自力更生。\n接线上线下爸爸活\n#门槛妹 #爸爸活 #线上 #线下 #非绿 #半绿 #纯绿 #门槛妹 #门槛哥 #甜妹 #女高 #brat统治世界 #ATM奴 #ddlg #金主 https://t.co/CsF8IGeQte"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 211,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 665
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-01T11:15:33.000Z",
+        "description": "我是七七，06，欢迎小女孩互fo互转，可以验证。过门口令红包或者赞赏码，不过门不闲聊",
+        "id": "726731780854800384",
+        "name": "七七是七七",
+        "pinned_tweet_id": "1952391436625928374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952387582513631232/uqWMrAfR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 10,
+          "like_count": 6,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 23
+        },
+        "username": "bftuj32578fyh",
+        "verified": false
+      }
+    ]
+  }
+}

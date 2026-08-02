@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1982101050501837258",
+    "created_at": "2025-10-25T15:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T16:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982101050501837258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1229792676037431296",
+          "start": 3,
+          "username": "JeremyB43716037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982101050501837258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979544328176554164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JeremyB43716037: 这里是小糖糖  接线下～全国可飞\n05‖160‖43kg \n被迫下海养活自己 家里不管我呜呜呜 \n🚪188 / 解锁朋友圈 陪聊\n🚪328/包含188所有+线下见面\n🚪520半绿12h一次 收的🚪用来养活自己和小猫🥺\n私信看到会回坐标深…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1982101050501837258].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1982101050501837258",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1982101050501837258"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1979544324409810944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3jBEzGWYAAECdi.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1979544324686618625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3jBE0IWIAE22QM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979544324409810944",
+            "3_1979544324686618625"
+          ]
+        },
+        "author_id": "1229792676037431296",
+        "conversation_id": "1979544328176554164",
+        "created_at": "2025-10-18T13:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T14:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979544328176554164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LpyykpYRMk",
+              "end": 178,
+              "expanded_url": "https://x.com/JeremyB43716037/status/1979544328176554164/photo/1",
+              "media_key": "3_1979544324409810944",
+              "start": 155,
+              "url": "https://t.co/LpyykpYRMk"
+            },
+            {
+              "display_url": "pic.x.com/LpyykpYRMk",
+              "end": 178,
+              "expanded_url": "https://x.com/JeremyB43716037/status/1979544328176554164/photo/1",
+              "media_key": "3_1979544324686618625",
+              "start": 155,
+              "url": "https://t.co/LpyykpYRMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979544328176554164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9848,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "这里是小糖糖  接线下～全国可飞\n05‖160‖43kg \n被迫下海养活自己 家里不管我呜呜呜 \n🚪188 / 解锁朋友圈 陪聊\n🚪328/包含188所有+线下见面\n🚪520半绿12h一次 收的🚪用来养活自己和小猫🥺\n私信看到会回坐标深圳最多免费问3个问题。\n转发这条抽2个免门三个188的小红包7天后开奖！ https://t.co/LpyykpYRMk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 221,
+          "like_count": 1308,
+          "listed_count": 3,
+          "media_count": 200,
+          "tweet_count": 732
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-18T15:40:05.000Z",
+        "description": "私信都会回",
+        "id": "1229792676037431296",
+        "location": "🚪188/328/520",
+        "name": "小糖糖",
+        "pinned_tweet_id": "1979544328176554164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979139496470843392/MZa9WJW3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 34
+        },
+        "username": "JeremyB43716037",
+        "verified": false
+      }
+    ]
+  }
+}

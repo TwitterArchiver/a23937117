@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980557064372908032"
+      ],
+      "media_source_tweet_id": [
+        "1980557074896658897"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1980606896580034874",
+    "created_at": "2025-10-21T12:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T13:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980606896580034874"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 18,
+          "tag": "芝士玉米的幻想频道"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1975085050992672768",
+          "start": 3,
+          "username": "GuoMang41077"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ntR6GAT0lG",
+          "end": 52,
+          "expanded_url": "https://x.com/GuoMang41077/status/1980557074896658897/photo/1",
+          "media_key": "3_1980557064372908032",
+          "start": 29,
+          "url": "https://t.co/ntR6GAT0lG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980606896580034874",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980557074896658897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GuoMang41077: #芝士玉米的幻想频道 https://t.co/ntR6GAT0lG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 905,
+        "media_key": "3_1980557064372908032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3xaKBdWcAAHHZT.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980557064372908032"
+          ],
+          "media_source_tweet_id": [
+            "1980557074896658897"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "1980606896580034874",
+        "created_at": "2025-10-21T12:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T13:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980606896580034874"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 18,
+              "tag": "芝士玉米的幻想频道"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1975085050992672768",
+              "start": 3,
+              "username": "GuoMang41077"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ntR6GAT0lG",
+              "end": 52,
+              "expanded_url": "https://x.com/GuoMang41077/status/1980557074896658897/photo/1",
+              "media_key": "3_1980557064372908032",
+              "start": 29,
+              "url": "https://t.co/ntR6GAT0lG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980606896580034874",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980557074896658897",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GuoMang41077: #芝士玉米的幻想频道 https://t.co/ntR6GAT0lG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980557064372908032"
+          ]
+        },
+        "author_id": "1975085050992672768",
+        "conversation_id": "1980557074896658897",
+        "created_at": "2025-10-21T08:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T09:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980557074896658897"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "芝士玉米的幻想频道"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ntR6GAT0lG",
+              "end": 34,
+              "expanded_url": "https://x.com/GuoMang41077/status/1980557074896658897/photo/1",
+              "media_key": "3_1980557064372908032",
+              "start": 11,
+              "url": "https://t.co/ntR6GAT0lG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980557074896658897",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 14281,
+          "like_count": 411,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "#芝士玉米的幻想频道 https://t.co/ntR6GAT0lG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 221,
+          "like_count": 1304,
+          "listed_count": 3,
+          "media_count": 198,
+          "tweet_count": 729
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T06:26:01.000Z",
+        "description": "（均为原创，勿二改二传，❌融梗，❌抄袭，❌搬运，与现实无关，我是个玻璃心⭕️不喜⭕️请划走，谢谢你TT）这里是芝士玉米@ivwvioo的小号。 投喂在大号感谢🥰 ⭕️置顶是目录⭕️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "ivwvioo"
+              }
+            ]
+          }
+        },
+        "id": "1975085050992672768",
+        "name": "芒芒冰椰次不次",
+        "pinned_tweet_id": "1976946133961511186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975088041145573376/m1MX8zGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29440,
+          "following_count": 2,
+          "like_count": 516,
+          "listed_count": 21,
+          "media_count": 70,
+          "tweet_count": 147
+        },
+        "username": "GuoMang41077",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955540938480291965",
+    "created_at": "2025-08-13T15:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T16:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955652512763273656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1933212338674675714",
+          "start": 0,
+          "username": "0v0cc44"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955652512763273656",
+    "in_reply_to_user_id": "1933212338674675714",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955540938480291965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0v0cc44 我吃二十颗就想吐了，三十极限"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1955540938480291965",
+        "created_at": "2025-08-13T15:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T16:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955652512763273656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1933212338674675714",
+              "start": 0,
+              "username": "0v0cc44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955652512763273656",
+        "in_reply_to_user_id": "1933212338674675714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955540938480291965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0v0cc44 我吃二十颗就想吐了，三十极限"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933212338674675714",
+        "conversation_id": "1955540938480291965",
+        "created_at": "2025-08-13T08:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T09:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955540938480291965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955540938480291965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "od记录 48tpr➕60tym"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 228,
+          "like_count": 1080,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 578
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T17:18:50.000Z",
+        "description": "铭刻存在的痕迹｜OD｜精神病｜泛性恋｜喜欢可爱的孩子｜摄影｜流浪",
+        "id": "1933212338674675714",
+        "location": "风落下的地方",
+        "name": "鲤",
+        "pinned_tweet_id": "1955374082704413136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953674888881090564/4uBZb2t6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 107,
+          "like_count": 922,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 673
+        },
+        "username": "0v0cc44",
+        "verified": true
+      }
+    ]
+  }
+}

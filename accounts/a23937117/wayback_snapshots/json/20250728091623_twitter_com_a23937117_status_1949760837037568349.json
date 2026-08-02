@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1949760674684387714",
+    "created_at": "2025-07-28T09:16:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T10:16:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949760837037568349"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1949760837037568349",
+    "in_reply_to_user_id": "1442350932977610752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949760674684387714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我介意，讨厌他周围的所有人和他不堪的过去，但是我也没想到，哪怕这样还是我爱着的，真的爱着的，我已经坏掉了，以前一直觉得只是利用而已，觉得自己没有那么爱他，只是想要人陪伴，想要感情发泄，顺便还可以做爱，我也搞不清自己的想法，什么时候喜欢上他的……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1949760674684387714",
+        "created_at": "2025-07-28T09:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T10:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949760837037568349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949760837037568349",
+        "in_reply_to_user_id": "1442350932977610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949760674684387714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我介意，讨厌他周围的所有人和他不堪的过去，但是我也没想到，哪怕这样还是我爱着的，真的爱着的，我已经坏掉了，以前一直觉得只是利用而已，觉得自己没有那么爱他，只是想要人陪伴，想要感情发泄，顺便还可以做爱，我也搞不清自己的想法，什么时候喜欢上他的……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1949760674684387714",
+        "created_at": "2025-07-28T09:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T10:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949760674684387714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949760674684387714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好难过，因为对象在Arg是华人圈里比较容易变成话题的人，类似靠近中心人物，我讨厌那些嘴碎中国人所以一直都不敢公开，就地下恋，但是今天突然想抛弃一切，公开吧，后悔也没关系，好想和所有人说我和你在一起了，我有人爱了，我不是流浪猫了，有人爱我了，我也会爱了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949293859470524416/u1xTmqmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 181,
+          "like_count": 983,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 426
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

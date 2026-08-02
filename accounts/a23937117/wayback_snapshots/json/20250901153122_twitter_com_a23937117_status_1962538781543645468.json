@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962538781543645468",
+    "created_at": "2025-09-01T15:31:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T16:31:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962538781543645468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1773635567613333504",
+          "start": 3,
+          "username": "kissme1ove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/RK",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/RK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962538781543645468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 127
+    },
+    "referenced_tweets": [
+      {
+        "id": "1782128583151870267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @kissme1ove: 置顶🔝\n我是小鱼\n06/cos/日常/碎碎念/chikawa/电子女友/接广州爸爸活\n喜欢我请给我打钱\n女孩子直fo会回，我想跟萌萌的女孩子一起玩。\n点赞转发\n抽1个8.88\n两个5.88\n三个2.88\n50fo开 https://t.co/RK…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962538781543645468].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962538781543645468",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962538781543645468"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_1782126752099180545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GLti1sOXoAEqaRj.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1706,
+        "media_key": "3_1782126756129841152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GLti17PWoAA5F_l.jpg",
+        "width": 1279
+      },
+      {
+        "height": 618,
+        "media_key": "3_1782126839592300545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GLti6yKWsAEvbue.jpg",
+        "width": 1116
+      },
+      {
+        "height": 793,
+        "media_key": "3_1782127768550907904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GLtjw2zWIAANBwH.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1782126752099180545",
+            "3_1782126756129841152",
+            "3_1782126839592300545",
+            "3_1782127768550907904"
+          ]
+        },
+        "author_id": "1773635567613333504",
+        "conversation_id": "1782128583151870267",
+        "created_at": "2024-04-21T19:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-21T20:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1782128583151870267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RKlKeVT3no",
+              "end": 131,
+              "expanded_url": "https://x.com/kissme1ove/status/1782128583151870267/photo/1",
+              "media_key": "3_1782126752099180545",
+              "start": 108,
+              "url": "https://t.co/RKlKeVT3no"
+            },
+            {
+              "display_url": "pic.x.com/RKlKeVT3no",
+              "end": 131,
+              "expanded_url": "https://x.com/kissme1ove/status/1782128583151870267/photo/1",
+              "media_key": "3_1782126756129841152",
+              "start": 108,
+              "url": "https://t.co/RKlKeVT3no"
+            },
+            {
+              "display_url": "pic.x.com/RKlKeVT3no",
+              "end": 131,
+              "expanded_url": "https://x.com/kissme1ove/status/1782128583151870267/photo/1",
+              "media_key": "3_1782126839592300545",
+              "start": 108,
+              "url": "https://t.co/RKlKeVT3no"
+            },
+            {
+              "display_url": "pic.x.com/RKlKeVT3no",
+              "end": 131,
+              "expanded_url": "https://x.com/kissme1ove/status/1782128583151870267/photo/1",
+              "media_key": "3_1782127768550907904",
+              "start": 108,
+              "url": "https://t.co/RKlKeVT3no"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1782128583151870267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 193378,
+          "like_count": 152,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 127
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "置顶🔝\n我是小鱼\n06/cos/日常/碎碎念/chikawa/电子女友/接广州爸爸活\n喜欢我请给我打钱\n女孩子直fo会回，我想跟萌萌的女孩子一起玩。\n点赞转发\n抽1个8.88\n两个5.88\n三个2.88\n50fo开 https://t.co/RKlKeVT3no"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 201,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 687
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T08:57:30.000Z",
+        "description": "06\n🚪178/398\n小女孩请和我互关互转",
+        "id": "1773635567613333504",
+        "name": "半只小鱼",
+        "pinned_tweet_id": "1782128583151870267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781415470484033536/z8Gt0Xt2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 287,
+          "like_count": 52,
+          "listed_count": 3,
+          "media_count": 9,
+          "tweet_count": 654
+        },
+        "username": "kissme1ove",
+        "verified": false
+      }
+    ]
+  }
+}

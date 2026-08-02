@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975441177873907712",
+        "3_1975441177890766848",
+        "3_1975441177903292417",
+        "3_1975441177915822080"
+      ],
+      "media_source_tweet_id": [
+        "1975441189332742313",
+        "1975441189332742313",
+        "1975441189332742313",
+        "1975441189332742313"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1979343569019375744",
+    "created_at": "2025-10-18T00:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T01:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979343569019375744"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 67,
+          "start": 64,
+          "tag": "门槛"
+        },
+        {
+          "end": 72,
+          "start": 68,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "女大"
+        },
+        {
+          "end": 80,
+          "start": 77,
+          "tag": "反差"
+        },
+        {
+          "end": 84,
+          "start": 81,
+          "tag": "金主"
+        },
+        {
+          "end": 88,
+          "start": 85,
+          "tag": "巨乳"
+        },
+        {
+          "end": 92,
+          "start": 89,
+          "tag": "反差"
+        },
+        {
+          "end": 97,
+          "start": 93,
+          "tag": "求包养"
+        },
+        {
+          "end": 101,
+          "start": 98,
+          "tag": "非绿"
+        },
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "线下"
+        },
+        {
+          "end": 110,
+          "start": 106,
+          "tag": "求入门"
+        },
+        {
+          "end": 116,
+          "start": 111,
+          "tag": "女友系列"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1907384022655004672",
+          "start": 3,
+          "username": "susukax"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T5kd5L3Wn6",
+          "end": 140,
+          "expanded_url": "https://x.com/susukax/status/1975441189332742313/photo/1",
+          "media_key": "3_1975441177873907712",
+          "start": 117,
+          "url": "https://t.co/T5kd5L3Wn6"
+        },
+        {
+          "display_url": "pic.x.com/T5kd5L3Wn6",
+          "end": 140,
+          "expanded_url": "https://x.com/susukax/status/1975441189332742313/photo/1",
+          "media_key": "3_1975441177890766848",
+          "start": 117,
+          "url": "https://t.co/T5kd5L3Wn6"
+        },
+        {
+          "display_url": "pic.x.com/T5kd5L3Wn6",
+          "end": 140,
+          "expanded_url": "https://x.com/susukax/status/1975441189332742313/photo/1",
+          "media_key": "3_1975441177903292417",
+          "start": 117,
+          "url": "https://t.co/T5kd5L3Wn6"
+        },
+        {
+          "display_url": "pic.x.com/T5kd5L3Wn6",
+          "end": 140,
+          "expanded_url": "https://x.com/susukax/status/1975441189332742313/photo/1",
+          "media_key": "3_1975441177915822080",
+          "start": 117,
+          "url": "https://t.co/T5kd5L3Wn6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979343569019375744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975441189332742313",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @susukax: 苏苏酱🔝\n不喜欢开玩笑的人\n只是一个真心希望哥哥入门的小女生\n欢迎真心入🚪的哥哥和互转互fo的姐妹！\n#门槛 #门槛妹 #女大 #反差 #金主 #巨乳 #反差 #求包养 #非绿 #线下 #求入门 #女友系列 https://t.co/T5kd5L3Wn6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1979343569019375744].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1979343569019375744",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1979343569019375744"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 986,
+        "media_key": "3_1975441177873907712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2otSPHagAAbhKx.jpg",
+        "width": 1231
+      },
+      {
+        "height": 1040,
+        "media_key": "3_1975441177890766848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2otSPLbwAAiPh_.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1235,
+        "media_key": "3_1975441177903292417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2otSPOa4AEYBpU.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1417,
+        "media_key": "3_1975441177915822080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2otSPRaEAAZg30.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975441177873907712",
+            "3_1975441177890766848",
+            "3_1975441177903292417",
+            "3_1975441177915822080"
+          ]
+        },
+        "author_id": "1907384022655004672",
+        "conversation_id": "1975441189332742313",
+        "created_at": "2025-10-07T06:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T07:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975441189332742313"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "门槛"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "女大"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "反差"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "金主"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "巨乳"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "反差"
+            },
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "求包养"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "非绿"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "线下"
+            },
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "求入门"
+            },
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "女友系列"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T5kd5L3Wn6",
+              "end": 127,
+              "expanded_url": "https://x.com/susukax/status/1975441189332742313/photo/1",
+              "media_key": "3_1975441177873907712",
+              "start": 104,
+              "url": "https://t.co/T5kd5L3Wn6"
+            },
+            {
+              "display_url": "pic.x.com/T5kd5L3Wn6",
+              "end": 127,
+              "expanded_url": "https://x.com/susukax/status/1975441189332742313/photo/1",
+              "media_key": "3_1975441177890766848",
+              "start": 104,
+              "url": "https://t.co/T5kd5L3Wn6"
+            },
+            {
+              "display_url": "pic.x.com/T5kd5L3Wn6",
+              "end": 127,
+              "expanded_url": "https://x.com/susukax/status/1975441189332742313/photo/1",
+              "media_key": "3_1975441177903292417",
+              "start": 104,
+              "url": "https://t.co/T5kd5L3Wn6"
+            },
+            {
+              "display_url": "pic.x.com/T5kd5L3Wn6",
+              "end": 127,
+              "expanded_url": "https://x.com/susukax/status/1975441189332742313/photo/1",
+              "media_key": "3_1975441177915822080",
+              "start": 104,
+              "url": "https://t.co/T5kd5L3Wn6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975441189332742313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8004,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "苏苏酱🔝\n不喜欢开玩笑的人\n只是一个真心希望哥哥入门的小女生\n欢迎真心入🚪的哥哥和互转互fo的姐妹！\n#门槛 #门槛妹 #女大 #反差 #金主 #巨乳 #反差 #求包养 #非绿 #线下 #求入门 #女友系列 https://t.co/T5kd5L3Wn6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 人在海外 人在海外！！！ 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 218,
+          "like_count": 1301,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 707
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T10:46:11.000Z",
+        "description": "欢迎喜欢我的哥哥入🚪，只回复口令哟～（坐标验证20r精准到区），喜欢爽快的哥哥～欢迎女宝互推互fo～",
+        "id": "1907384022655004672",
+        "name": "苏su",
+        "pinned_tweet_id": "1975441189332742313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924503493358043136/2eBrHagb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 242,
+          "like_count": 544,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 695
+        },
+        "username": "susukax",
+        "verified": false
+      }
+    ]
+  }
+}

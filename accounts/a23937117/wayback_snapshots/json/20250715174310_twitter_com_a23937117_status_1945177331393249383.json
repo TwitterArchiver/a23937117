@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1944506773576007720",
+    "created_at": "2025-07-15T17:43:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T18:43:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945177331393249383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1931949509048979456",
+          "start": 0,
+          "username": "jQWijbXIPR56405"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945177331393249383",
+    "in_reply_to_user_id": "1931949509048979456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945172878699241851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jQWijbXIPR56405 来啦小宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1944506773576007720",
+        "created_at": "2025-07-15T17:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T18:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945177331393249383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1931949509048979456",
+              "start": 0,
+              "username": "jQWijbXIPR56405"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945177331393249383",
+        "in_reply_to_user_id": "1931949509048979456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945172878699241851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jQWijbXIPR56405 来啦小宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931949509048979456",
+        "conversation_id": "1944506773576007720",
+        "created_at": "2025-07-15T17:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T18:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945172878699241851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442350932977610752",
+              "start": 0,
+              "username": "a23937117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945172878699241851",
+        "in_reply_to_user_id": "1442350932977610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944506773576007720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a23937117 老师我想要但我发不了私信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1944721626525761843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 159,
+          "like_count": 932,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 333
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-09T05:41:30.000Z",
+        "description": "我是女同 周末高强度在线",
+        "id": "1931949509048979456",
+        "name": "无脚鸟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933562010094219270/s2nyoa5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 93,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 13
+        },
+        "username": "jQWijbXIPR56405",
+        "verified": false
+      }
+    ]
+  }
+}

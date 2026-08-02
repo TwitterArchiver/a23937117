@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077231267972562944"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2077231272896708849",
+    "created_at": "2026-07-15T03:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T04:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077231272896708849"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FaitIbSnHR",
+          "end": 34,
+          "expanded_url": "https://x.com/a23937117/status/2077231272896708849/photo/1",
+          "media_key": "3_2077231267972562944",
+          "start": 11,
+          "url": "https://t.co/FaitIbSnHR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077231272896708849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妈妈我恨死你了知道吗 https://t.co/FaitIbSnHR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2077231267972562944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPO1SPWwAAOnGV.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077231267972562944"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077231272896708849",
+        "created_at": "2026-07-15T03:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T04:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077231272896708849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FaitIbSnHR",
+              "end": 34,
+              "expanded_url": "https://x.com/a23937117/status/2077231272896708849/photo/1",
+              "media_key": "3_2077231267972562944",
+              "start": 11,
+              "url": "https://t.co/FaitIbSnHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077231272896708849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈我恨死你了知道吗 https://t.co/FaitIbSnHR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 190,
+          "like_count": 1435,
+          "listed_count": 2,
+          "media_count": 248,
+          "tweet_count": 778
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954016655534960643",
+        "3_1954016655572709379",
+        "3_1954016655547543556",
+        "3_1954016655530766337"
+      ],
+      "media_source_tweet_id": [
+        "1954016666708533581",
+        "1954016666708533581",
+        "1954016666708533581",
+        "1954016666708533581"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955006921519534133",
+    "created_at": "2025-08-11T20:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T21:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955006921519534133"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "女高中生"
+        },
+        {
+          "end": 41,
+          "start": 38,
+          "tag": "女大"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1941014934734909440",
+          "start": 3,
+          "username": "Errt59319"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qbiGqQad8E",
+          "end": 65,
+          "expanded_url": "https://x.com/Errt59319/status/1954016666708533581/photo/1",
+          "media_key": "3_1954016655534960643",
+          "start": 42,
+          "url": "https://t.co/qbiGqQad8E"
+        },
+        {
+          "display_url": "pic.x.com/qbiGqQad8E",
+          "end": 65,
+          "expanded_url": "https://x.com/Errt59319/status/1954016666708533581/photo/1",
+          "media_key": "3_1954016655572709379",
+          "start": 42,
+          "url": "https://t.co/qbiGqQad8E"
+        },
+        {
+          "display_url": "pic.x.com/qbiGqQad8E",
+          "end": 65,
+          "expanded_url": "https://x.com/Errt59319/status/1954016666708533581/photo/1",
+          "media_key": "3_1954016655547543556",
+          "start": 42,
+          "url": "https://t.co/qbiGqQad8E"
+        },
+        {
+          "display_url": "pic.x.com/qbiGqQad8E",
+          "end": 65,
+          "expanded_url": "https://x.com/Errt59319/status/1954016666708533581/photo/1",
+          "media_key": "3_1954016655530766337",
+          "start": 42,
+          "url": "https://t.co/qbiGqQad8E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955006921519534133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954016666708533581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Errt59319: 写个小置顶ww希望大家都能开心捏\n#女高中生 #女大 https://t.co/qbiGqQad8E"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955006921519534133].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955006921519534133",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955006921519534133"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 632,
+        "media_key": "3_1954016655534960643",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx4Py55bsAMQNFY.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1954016655572709379",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx4Py6CbsAMLAvS.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1954016655547543556",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx4Py58bsAQACgW.jpg",
+        "width": 1548
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1954016655530766337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx4Py54bsAE5iX1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954016655534960643",
+            "3_1954016655572709379",
+            "3_1954016655547543556",
+            "3_1954016655530766337"
+          ]
+        },
+        "author_id": "1941014934734909440",
+        "conversation_id": "1954016666708533581",
+        "created_at": "2025-08-09T03:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T04:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954016666708533581"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "女高中生"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "女大"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qbiGqQad8E",
+              "end": 50,
+              "expanded_url": "https://x.com/Errt59319/status/1954016666708533581/photo/1",
+              "media_key": "3_1954016655534960643",
+              "start": 27,
+              "url": "https://t.co/qbiGqQad8E"
+            },
+            {
+              "display_url": "pic.x.com/qbiGqQad8E",
+              "end": 50,
+              "expanded_url": "https://x.com/Errt59319/status/1954016666708533581/photo/1",
+              "media_key": "3_1954016655572709379",
+              "start": 27,
+              "url": "https://t.co/qbiGqQad8E"
+            },
+            {
+              "display_url": "pic.x.com/qbiGqQad8E",
+              "end": 50,
+              "expanded_url": "https://x.com/Errt59319/status/1954016666708533581/photo/1",
+              "media_key": "3_1954016655547543556",
+              "start": 27,
+              "url": "https://t.co/qbiGqQad8E"
+            },
+            {
+              "display_url": "pic.x.com/qbiGqQad8E",
+              "end": 50,
+              "expanded_url": "https://x.com/Errt59319/status/1954016666708533581/photo/1",
+              "media_key": "3_1954016655530766337",
+              "start": 27,
+              "url": "https://t.co/qbiGqQad8E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954016666708533581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3402,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "写个小置顶ww希望大家都能开心捏\n#女高中生 #女大 https://t.co/qbiGqQad8E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 213,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 520
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-04T06:03:26.000Z",
+        "description": "这里是芙芙 08/164/48kg｜看到消息会回 我很好相处不用担心w｜过门我会很开心 🚪68/98 口令红包就好｜欢迎来找我玩🥹",
+        "id": "1941014934734909440",
+        "name": "舒芙蕾能不能天天吃😋",
+        "pinned_tweet_id": "1954016666708533581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954009752570404864/8GfLeD-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 59,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 53
+        },
+        "username": "Errt59319",
+        "verified": false
+      }
+    ]
+  }
+}

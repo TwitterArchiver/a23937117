@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898227076198531072"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1898227082766746075",
+    "created_at": "2025-03-08T04:19:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T05:19:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898227082766746075"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SK5SyKoqO4",
+          "end": 31,
+          "expanded_url": "https://x.com/a23937117/status/1898227082766746075/photo/1",
+          "media_key": "3_1898227076198531072",
+          "start": 8,
+          "url": "https://t.co/SK5SyKoqO4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898227082766746075",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "selen宝宝 https://t.co/SK5SyKoqO4"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1898227082766746075].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1898227082766746075",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1898227082766746075"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1898227076198531072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glfbd_PXgAAuYwt.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——严重露出lover 最喜欢可爱的东西 美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892410780663824384/aNzm9Kzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 81,
+          "like_count": 509,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 33
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

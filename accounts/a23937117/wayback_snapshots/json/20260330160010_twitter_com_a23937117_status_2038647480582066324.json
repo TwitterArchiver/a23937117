@@ -1,0 +1,783 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1392988484256759811",
+          "name": "Steam"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1174432578503204864",
+          "name": "PC gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1174432578503204864",
+          "name": "PC gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1392975566253424640",
+          "name": "Gaming retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1392988484256759811",
+          "name": "Steam"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      }
+    ],
+    "conversation_id": "2038647480582066324",
+    "created_at": "2026-03-30T16:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T17:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038647480582066324"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 124,
+          "start": 120,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 129,
+          "start": 125,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 133,
+          "start": 130,
+          "tag": "妹妹"
+        },
+        {
+          "end": 138,
+          "start": 134,
+          "tag": "门槛哥"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1892992853099585539",
+          "start": 3,
+          "username": "Nonobbc123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038647480582066324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036380428035301418",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @Nonobbc123: 这里是cc萌  希望大家能喜欢我～ \n支持视频验证（绝对真人、本人 喜欢能与我互相尊重的男孩子 生活不易就来推特 接游戏陪玩（三角洲 鹅鸭杀 steam游戏 pc 手游等等 喜欢哦咪酱滴我的话 可以私信我哦 #门槛妹 #爸爸活 #妹妹 #门槛哥…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1740,
+        "media_key": "3_2036380418690392065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEKtM5uaIAEFmV1.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036380418661052416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEKtM5nacAAJ-TC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036380418677809153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEKtM5raIAEL0HG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1552,
+        "media_key": "3_2036380418686222336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEKtM5tagAAqIZX.jpg",
+        "width": 1147
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2038647480582066324",
+        "created_at": "2026-03-30T16:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T17:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038647480582066324"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 120,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 129,
+              "start": 125,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "妹妹"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "门槛哥"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1892992853099585539",
+              "start": 3,
+              "username": "Nonobbc123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038647480582066324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036380428035301418",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @Nonobbc123: 这里是cc萌  希望大家能喜欢我～ \n支持视频验证（绝对真人、本人 喜欢能与我互相尊重的男孩子 生活不易就来推特 接游戏陪玩（三角洲 鹅鸭杀 steam游戏 pc 手游等等 喜欢哦咪酱滴我的话 可以私信我哦 #门槛妹 #爸爸活 #妹妹 #门槛哥…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036380418690392065",
+            "3_2036380418661052416",
+            "3_2036380418677809153",
+            "3_2036380418686222336"
+          ]
+        },
+        "author_id": "1892992853099585539",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2036380428035301418",
+        "created_at": "2026-03-24T09:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T10:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036380428035301418"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 113,
+              "start": 109,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "妹妹"
+            },
+            {
+              "end": 122,
+              "start": 118,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 127,
+              "start": 123,
+              "tag": "樱花妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ylkRSsQrx",
+              "end": 151,
+              "expanded_url": "https://x.com/Nonobbc123/status/2036380428035301418/photo/1",
+              "media_key": "3_2036380418690392065",
+              "start": 128,
+              "url": "https://t.co/8ylkRSsQrx"
+            },
+            {
+              "display_url": "pic.x.com/8ylkRSsQrx",
+              "end": 151,
+              "expanded_url": "https://x.com/Nonobbc123/status/2036380428035301418/photo/1",
+              "media_key": "3_2036380418661052416",
+              "start": 128,
+              "url": "https://t.co/8ylkRSsQrx"
+            },
+            {
+              "display_url": "pic.x.com/8ylkRSsQrx",
+              "end": 151,
+              "expanded_url": "https://x.com/Nonobbc123/status/2036380428035301418/photo/1",
+              "media_key": "3_2036380418677809153",
+              "start": 128,
+              "url": "https://t.co/8ylkRSsQrx"
+            },
+            {
+              "display_url": "pic.x.com/8ylkRSsQrx",
+              "end": 151,
+              "expanded_url": "https://x.com/Nonobbc123/status/2036380428035301418/photo/1",
+              "media_key": "3_2036380418686222336",
+              "start": 128,
+              "url": "https://t.co/8ylkRSsQrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036380428035301418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5433,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "这里是cc萌  希望大家能喜欢我～ \n支持视频验证（绝对真人、本人 喜欢能与我互相尊重的男孩子 生活不易就来推特 接游戏陪玩（三角洲 鹅鸭杀 steam游戏 pc 手游等等 喜欢哦咪酱滴我的话 可以私信我哦 #门槛妹 #爸爸活 #妹妹 #门槛哥 #樱花妹 https://t.co/8ylkRSsQrx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 201,
+          "like_count": 1381,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 792
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T17:40:55.000Z",
+        "description": "20/164/92 请入我🚪 前世1w粉丝 重开版 福利很多 欢迎宝宝们互fo互贴 目前在上学 不闲聊 不要白嫖我 我已经够惨的了 我就想一个人说说话",
+        "id": "1892992853099585539",
+        "location": "上海",
+        "name": "cc萌（回关注",
+        "pinned_tweet_id": "2036380428035301418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036376677434138624/wrOgq1cW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 8,
+          "like_count": 649,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 187
+        },
+        "username": "Nonobbc123",
+        "verified": false
+      }
+    ]
+  }
+}

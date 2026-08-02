@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069438412164325376"
+      ],
+      "media_source_tweet_id": [
+        "2069438418443284963"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2071488460746101195",
+    "created_at": "2026-06-29T06:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T07:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071488460746101195"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 30,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1166049027382763521",
+          "start": 3,
+          "username": "hH14AzNu75On3wR"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q5aCmzObSA",
+          "end": 58,
+          "expanded_url": "https://x.com/hH14AzNu75On3wR/status/2069438418443284963/photo/1",
+          "media_key": "3_2069438412164325376",
+          "start": 35,
+          "url": "https://t.co/q5aCmzObSA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071488460746101195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069438418443284963",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hH14AzNu75On3wR: 根本就没有人鸟我 #门槛妹 https://t.co/q5aCmzObSA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2069438412164325376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgfRYGaYAAOCeF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069438412164325376"
+          ],
+          "media_source_tweet_id": [
+            "2069438418443284963"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2071488460746101195",
+        "created_at": "2026-06-29T06:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071488460746101195"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "门槛妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1166049027382763521",
+              "start": 3,
+              "username": "hH14AzNu75On3wR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q5aCmzObSA",
+              "end": 58,
+              "expanded_url": "https://x.com/hH14AzNu75On3wR/status/2069438418443284963/photo/1",
+              "media_key": "3_2069438412164325376",
+              "start": 35,
+              "url": "https://t.co/q5aCmzObSA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071488460746101195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069438418443284963",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hH14AzNu75On3wR: 根本就没有人鸟我 #门槛妹 https://t.co/q5aCmzObSA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069438412164325376"
+          ]
+        },
+        "author_id": "1166049027382763521",
+        "conversation_id": "2069438418443284963",
+        "created_at": "2026-06-23T15:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069438418443284963"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q5aCmzObSA",
+              "end": 37,
+              "expanded_url": "https://x.com/hH14AzNu75On3wR/status/2069438418443284963/photo/1",
+              "media_key": "3_2069438412164325376",
+              "start": 14,
+              "url": "https://t.co/q5aCmzObSA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069438418443284963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 264,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "根本就没有人鸟我 #门槛妹 https://t.co/q5aCmzObSA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 189,
+          "like_count": 1416,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 773
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-26T18:05:36.000Z",
+        "description": "验证20 🚪188 坐标广州 深圳  20验证 欢迎宝宝跟我互转",
+        "id": "1166049027382763521",
+        "location": "🚪188 288 388 520",
+        "name": "是婷婷呀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062453901899755520/o2rWlAHl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 6,
+          "like_count": 392,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "hH14AzNu75On3wR",
+        "verified": false
+      }
+    ]
+  }
+}

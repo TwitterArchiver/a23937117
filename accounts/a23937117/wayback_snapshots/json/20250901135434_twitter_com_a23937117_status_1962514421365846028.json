@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951627486048976896",
+        "3_1951627486040592384",
+        "3_1951627486061625344"
+      ],
+      "media_source_tweet_id": [
+        "1951627508874396093",
+        "1951627508874396093",
+        "1951627508874396093"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962514421365846028",
+    "created_at": "2025-09-01T13:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T14:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962514421365846028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1896706444264898560",
+          "start": 3,
+          "username": "nnnnn_01125"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gkHe5tGuYw",
+          "end": 53,
+          "expanded_url": "https://x.com/nnnnn_01125/status/1951627508874396093/photo/1",
+          "media_key": "3_1951627486048976896",
+          "start": 30,
+          "url": "https://t.co/gkHe5tGuYw"
+        },
+        {
+          "display_url": "pic.x.com/gkHe5tGuYw",
+          "end": 53,
+          "expanded_url": "https://x.com/nnnnn_01125/status/1951627508874396093/photo/1",
+          "media_key": "3_1951627486040592384",
+          "start": 30,
+          "url": "https://t.co/gkHe5tGuYw"
+        },
+        {
+          "display_url": "pic.x.com/gkHe5tGuYw",
+          "end": 53,
+          "expanded_url": "https://x.com/nnnnn_01125/status/1951627508874396093/photo/1",
+          "media_key": "3_1951627486061625344",
+          "start": 30,
+          "url": "https://t.co/gkHe5tGuYw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962514421365846028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951627508874396093",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nnnnn_01125: 新置顶\n欢迎女孩子们互转 https://t.co/gkHe5tGuYw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962514421365846028].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962514421365846028",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962514421365846028"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1951627486048976896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxWS27_WgAA-Qyb.jpg",
+        "width": 1536
+      },
+      {
+        "height": 685,
+        "media_key": "3_1951627486040592384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxWS279WkAADaRF.jpg",
+        "width": 1009
+      },
+      {
+        "height": 864,
+        "media_key": "3_1951627486061625344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxWS28CXgAAWIKL.jpg",
+        "width": 984
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951627486048976896",
+            "3_1951627486040592384",
+            "3_1951627486061625344"
+          ]
+        },
+        "author_id": "1896706444264898560",
+        "conversation_id": "1951627508874396093",
+        "created_at": "2025-08-02T12:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T13:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951627508874396093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gkHe5tGuYw",
+              "end": 36,
+              "expanded_url": "https://x.com/nnnnn_01125/status/1951627508874396093/photo/1",
+              "media_key": "3_1951627486048976896",
+              "start": 13,
+              "url": "https://t.co/gkHe5tGuYw"
+            },
+            {
+              "display_url": "pic.x.com/gkHe5tGuYw",
+              "end": 36,
+              "expanded_url": "https://x.com/nnnnn_01125/status/1951627508874396093/photo/1",
+              "media_key": "3_1951627486040592384",
+              "start": 13,
+              "url": "https://t.co/gkHe5tGuYw"
+            },
+            {
+              "display_url": "pic.x.com/gkHe5tGuYw",
+              "end": 36,
+              "expanded_url": "https://x.com/nnnnn_01125/status/1951627508874396093/photo/1",
+              "media_key": "3_1951627486061625344",
+              "start": 13,
+              "url": "https://t.co/gkHe5tGuYw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951627508874396093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 17293,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "新置顶\n欢迎女孩子们互转 https://t.co/gkHe5tGuYw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 211,
+          "like_count": 1134,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 657
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T23:37:19.000Z",
+        "description": "新晋门槛妹 有不对的地方欢迎提出 🚪52/88/188/520 欢迎女孩子们互fo 语音验证20 视频验证30r",
+        "id": "1896706444264898560",
+        "name": "Angel",
+        "pinned_tweet_id": "1951627508874396093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932778314785034240/VjLgRXrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 8,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 110
+        },
+        "username": "nnnnn_01125",
+        "verified": false
+      }
+    ]
+  }
+}

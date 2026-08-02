@@ -1,0 +1,529 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962238727293448647",
+    "created_at": "2025-08-31T19:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T20:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962238727293448647"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 62,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 71,
+          "start": 67,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 76,
+          "start": 72,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 80,
+          "start": 77,
+          "tag": "线下"
+        },
+        {
+          "end": 84,
+          "start": 81,
+          "tag": "非绿"
+        },
+        {
+          "end": 88,
+          "start": 85,
+          "tag": "杭州"
+        },
+        {
+          "end": 92,
+          "start": 89,
+          "tag": "上海"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1915372442668679168",
+          "start": 3,
+          "username": "lingnai0306"
+        },
+        {
+          "end": 106,
+          "id": "1526018966707179520",
+          "start": 95,
+          "username": "SexytoBaby"
+        },
+        {
+          "end": 119,
+          "id": "1757780025032802304",
+          "start": 108,
+          "username": "SexytoGirl"
+        },
+        {
+          "end": 132,
+          "id": "1692492982187114497",
+          "start": 121,
+          "username": "SexytoDoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962238727293448647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958903147004359132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lingnai0306: 3000粉粉福！\n\n双马尾弹力摇\n转发抽一个88门 一个原味 \n转发➕评论找我领一个视频\n#爸爸活 #门槛哥 #门槛妹 #线下 #非绿 #杭州 #上海 \n\n@SexytoBaby \n@SexytoGirl \n@SexytoDoll \n@BBYo…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962238727293448647].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962238727293448647",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962238727293448647"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12566,
+        "height": 1280,
+        "media_key": "13_1958903012191277056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1958903012191277056/img/SRKE_zqZrEX6wb-9.jpg",
+        "public_metrics": {
+          "view_count": 6250
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958903012191277056/vid/avc1/320x568/ptdUzdRvnfGOXm2U.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958903012191277056/vid/avc1/480x852/aV8hTIZN-QjvXIOd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958903012191277056/vid/avc1/720x1280/x35VdbGdY43ceDU5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1958903012191277056/pl/TxbR8XmMZiNCltF4.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1958903012191277056"
+          ]
+        },
+        "author_id": "1915372442668679168",
+        "conversation_id": "1958903147004359132",
+        "created_at": "2025-08-22T14:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T15:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958903147004359132"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "线下"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "非绿"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "杭州"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "上海"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 89,
+              "id": "1526018966707179520",
+              "start": 78,
+              "username": "SexytoBaby"
+            },
+            {
+              "end": 102,
+              "id": "1757780025032802304",
+              "start": 91,
+              "username": "SexytoGirl"
+            },
+            {
+              "end": 115,
+              "id": "1692492982187114497",
+              "start": 104,
+              "username": "SexytoDoll"
+            },
+            {
+              "end": 130,
+              "id": "1069656418670862336",
+              "start": 117,
+              "username": "BBYouzhiyuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3HhuBnQEV2",
+              "end": 154,
+              "expanded_url": "https://x.com/lingnai0306/status/1958903147004359132/video/1",
+              "media_key": "13_1958903012191277056",
+              "start": 131,
+              "url": "https://t.co/3HhuBnQEV2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958903147004359132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 33367,
+          "like_count": 286,
+          "quote_count": 0,
+          "reply_count": 48,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "3000粉粉福！\n\n双马尾弹力摇\n转发抽一个88门 一个原味 \n转发➕评论找我领一个视频\n#爸爸活 #门槛哥 #门槛妹 #线下 #非绿 #杭州 #上海 \n\n@SexytoBaby \n@SexytoGirl \n@SexytoDoll \n@BBYouzhiyuan https://t.co/3HhuBnQEV2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 210,
+          "like_count": 1134,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 640
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-24T11:49:20.000Z",
+        "description": "前世4kfo转世归来163/105斤胸围e罩杯ip杭州门  槛:88/150/288/388/520/1314/2888/5200...可以验证(验证费20提问题20可以抵扣门费求互转互fo日理万机验证",
+        "id": "1915372442668679168",
+        "name": "绫奈（可视频验证）",
+        "pinned_tweet_id": "1958903147004359132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954133516247326720/ih1ILSIv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4636,
+          "following_count": 117,
+          "like_count": 1,
+          "listed_count": 21,
+          "media_count": 101,
+          "tweet_count": 424
+        },
+        "username": "lingnai0306",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-16T01:57:41.000Z",
+        "description": "全球cos外围找梵高👉@SorrTaxaop｜Cos圈Ww真人真照@niuniucos1｜C圈外围质量最高找@XinYiCos00｜全球定制约会竹心👉@ZhuCosWW｜推特最佳Cos外围找👉🏻@tzcos｜全网粉丝最高外围找👉 @cha_cos1｜推特最佳Cos外围中介@tuanCosWW01｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "SorrTaxaop"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "niuniucos1"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "XinYiCos00"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "ZhuCosWW"
+              },
+              {
+                "end": 103,
+                "start": 97,
+                "username": "tzcos"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "cha_cos1"
+              },
+              {
+                "end": 148,
+                "start": 136,
+                "username": "tuanCosWW01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Sextobaby7",
+                "end": 23,
+                "expanded_url": "https://t.me/Sextobaby7",
+                "start": 0,
+                "url": "https://t.co/JY9ehlw7Tn"
+              }
+            ]
+          }
+        },
+        "id": "1526018966707179520",
+        "location": "👇🏻日理万姬验证100%原创福利姬tg社区 - 💜",
+        "name": "日理万姬💕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629420639093391361/xzUvlZ-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1892173,
+          "following_count": 1952,
+          "like_count": 5408,
+          "listed_count": 2434,
+          "media_count": 276,
+          "tweet_count": 82104
+        },
+        "url": "https://t.co/JY9ehlw7Tn",
+        "username": "SexytoBaby",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2024-02-14T14:53:19.000Z",
+        "description": "推特最佳Cos外围中介@tuanCosWW01｜全网粉丝最高外围找@cha_cos1｜Cos圈Ww真人真照@niuniucos1｜全球定制约会找竹心👉@ZhuCosWW｜玩高端外围真人真照找@kkcosww888｜C圈外围质量最高找🕵🏻‍♂️@XinYiCos00｜全球cos外围找梵高@SorrTaxaop",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "tuanCosWW01"
+              },
+              {
+                "end": 42,
+                "start": 33,
+                "username": "cha_cos1"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "niuniucos1"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "ZhuCosWW"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "kkcosww888"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "XinYiCos00"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "SorrTaxaop"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Sextobaby7",
+                "end": 23,
+                "expanded_url": "https://t.me/Sextobaby7",
+                "start": 0,
+                "url": "https://t.co/mBM5kM9vLc"
+              }
+            ]
+          }
+        },
+        "id": "1757780025032802304",
+        "location": "👇🏻千娇百媚验证100%原创福利姬tg社区 - 💜",
+        "name": "千娇百媚💕",
+        "pinned_tweet_id": "1957788840912888017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868404081565499392/uRXweOTk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031399,
+          "following_count": 22,
+          "like_count": 233,
+          "listed_count": 2163,
+          "media_count": 0,
+          "tweet_count": 39375
+        },
+        "url": "https://t.co/mBM5kM9vLc",
+        "username": "SexytoGirl",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-18T11:05:58.000Z",
+        "description": "推特最佳Cos外围中介@tuanCosWW01｜全网粉丝最高外围找@cha_cos1｜Cos圈Ww真人真照@niuniucos1｜全球定制约会找竹心👉@ZhuCosWW｜玩高端外围真人真照找@kkcosww888｜C圈外围质量最高找🕵🏻‍♂️@XinYiCos00｜全球cos外围找@sorrtaxaop",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "tuanCosWW01"
+              },
+              {
+                "end": 42,
+                "start": 33,
+                "username": "cha_cos1"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "niuniucos1"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "ZhuCosWW"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "kkcosww888"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "XinYiCos00"
+              },
+              {
+                "end": 152,
+                "start": 141,
+                "username": "sorrtaxaop"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Sextobaby7",
+                "end": 23,
+                "expanded_url": "https://t.me/Sextobaby7",
+                "start": 0,
+                "url": "https://t.co/FPT7vGPnwS"
+              }
+            ]
+          }
+        },
+        "id": "1692492982187114497",
+        "location": "👇🏻佳丽三千验证100%原创福利姬tg社区 - 💜",
+        "name": "佳丽三千💕",
+        "pinned_tweet_id": "1957788259645321269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868707800966406144/WjRspQZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030169,
+          "following_count": 21,
+          "like_count": 134,
+          "listed_count": 1843,
+          "media_count": 9,
+          "tweet_count": 42803
+        },
+        "url": "https://t.co/FPT7vGPnwS",
+        "username": "SexytoDoll",
+        "verified": false
+      }
+    ]
+  }
+}

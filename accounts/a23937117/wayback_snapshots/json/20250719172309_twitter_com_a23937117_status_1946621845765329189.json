@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1946220353002590367",
+    "created_at": "2025-07-19T17:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T18:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946621845765329189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1115809099482980353",
+          "start": 0,
+          "username": "DKR_World"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946621845765329189",
+    "in_reply_to_user_id": "1115809099482980353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946220353002590367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DKR_World 癔症发病痛苦的想死，脑内涌入一堆不知道谁的记忆还让我真情实感痛的要死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1946220353002590367",
+        "created_at": "2025-07-19T17:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T18:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946621845765329189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1115809099482980353",
+              "start": 0,
+              "username": "DKR_World"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946621845765329189",
+        "in_reply_to_user_id": "1115809099482980353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946220353002590367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DKR_World 癔症发病痛苦的想死，脑内涌入一堆不知道谁的记忆还让我真情实感痛的要死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1115809099482980353",
+        "conversation_id": "1946220353002590367",
+        "created_at": "2025-07-18T14:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T15:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946220353002590367"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946220353002590367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 480,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "發癔症分不清夢和現實了，我知道我是醒著的但是我醒不過來，二十分鐘的夢讓我覺得過了一個晚上。\n夢裡有個合租的女孩很好，有一個人冒充她給我說她是假的，是我的夢。我把冒充她的那個人殺了，砍掉頭後她的手依然抓著我，我出於憤怒剁碎了她，碎成肉泥。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 165,
+          "like_count": 958,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 386
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-10T02:49:54.000Z",
+        "description": "二律背反的執行日期。",
+        "id": "1115809099482980353",
+        "location": "無",
+        "name": "「二律背反実行日」",
+        "pinned_tweet_id": "1945288924642811924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946019177795317760/yobsoeOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 538,
+          "like_count": 20373,
+          "listed_count": 7,
+          "media_count": 286,
+          "tweet_count": 3795
+        },
+        "username": "DKR_World",
+        "verified": false
+      }
+    ]
+  }
+}

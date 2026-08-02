@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2046395167293198669",
+    "created_at": "2026-04-26T05:49:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T06:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048278390545813955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1805823069497573381",
+          "start": 0,
+          "username": "wei1790603"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048278390545813955",
+    "in_reply_to_user_id": "1805823069497573381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048220076621357250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wei1790603 喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2046395167293198669",
+        "created_at": "2026-04-26T05:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048278390545813955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1805823069497573381",
+              "start": 0,
+              "username": "wei1790603"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048278390545813955",
+        "in_reply_to_user_id": "1805823069497573381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048220076621357250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wei1790603 喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805823069497573381",
+        "conversation_id": "2046395167293198669",
+        "created_at": "2026-04-26T01:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T02:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048220076621357250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442350932977610752",
+              "start": 0,
+              "username": "a23937117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048220076621357250",
+        "in_reply_to_user_id": "1442350932977610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046395167293198669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a23937117 我来夸夸楼主"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 202,
+          "like_count": 1403,
+          "listed_count": 2,
+          "media_count": 214,
+          "tweet_count": 704
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-26T04:39:14.000Z",
+        "description": "",
+        "id": "1805823069497573381",
+        "name": "wei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805823286322020352/6YurXtmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 348,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 747
+        },
+        "username": "wei1790603",
+        "verified": false
+      }
+    ]
+  }
+}

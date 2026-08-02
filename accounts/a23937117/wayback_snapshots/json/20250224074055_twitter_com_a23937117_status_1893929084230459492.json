@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1893929077175623680"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1893929084230459492",
+    "created_at": "2025-02-24T07:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T08:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893929084230459492"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 14,
+          "tag": "自残"
+        },
+        {
+          "end": 20,
+          "start": 18,
+          "tag": "血"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ibpgXpnRBF",
+          "end": 44,
+          "expanded_url": "https://x.com/a23937117/status/1893929084230459492/photo/1",
+          "media_key": "3_1893929077175623680",
+          "start": 21,
+          "url": "https://t.co/ibpgXpnRBF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893929084230459492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一片红背景还在打麻将\n……\n#自残 #血 https://t.co/ibpgXpnRBF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1893929084230459492].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1893929084230459492",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1893929084230459492"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1893929077175623680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkiWdhLWIAASTwP.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——严重露出lover 最喜欢可爱的东西 美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892410780663824384/aNzm9Kzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 78,
+          "like_count": 505,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 32
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

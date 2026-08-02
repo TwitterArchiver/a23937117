@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014928310623420416"
+      ],
+      "media_source_tweet_id": [
+        "2014928325907509592"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2015639991838273836",
+    "created_at": "2026-01-26T04:16:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T05:16:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015639991838273836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1468567542264664067",
+          "start": 3,
+          "username": "Angelica_zj"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oDIrdYLVe4",
+          "end": 40,
+          "expanded_url": "https://x.com/Angelica_zj/status/2014928325907509592/photo/1",
+          "media_key": "3_2014928310623420416",
+          "start": 17,
+          "url": "https://t.co/oDIrdYLVe4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015639991838273836",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 147
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014928325907509592",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Angelica_zj: https://t.co/oDIrdYLVe4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 953,
+        "media_key": "3_2014928310623420416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Z2n3qWQAArWdr.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014928310623420416"
+          ],
+          "media_source_tweet_id": [
+            "2014928325907509592"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2015639991838273836",
+        "created_at": "2026-01-26T04:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T05:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015639991838273836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1468567542264664067",
+              "start": 3,
+              "username": "Angelica_zj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oDIrdYLVe4",
+              "end": 40,
+              "expanded_url": "https://x.com/Angelica_zj/status/2014928325907509592/photo/1",
+              "media_key": "3_2014928310623420416",
+              "start": 17,
+              "url": "https://t.co/oDIrdYLVe4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015639991838273836",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 147
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014928325907509592",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Angelica_zj: https://t.co/oDIrdYLVe4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014928310623420416"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "2014928325907509592",
+        "created_at": "2026-01-24T05:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T06:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014928325907509592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oDIrdYLVe4",
+              "end": 23,
+              "expanded_url": "https://x.com/Angelica_zj/status/2014928325907509592/photo/1",
+              "media_key": "3_2014928310623420416",
+              "start": 0,
+              "url": "https://t.co/oDIrdYLVe4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014928325907509592",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 133934,
+          "like_count": 3892,
+          "quote_count": 12,
+          "reply_count": 9,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oDIrdYLVe4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover  谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 206,
+          "like_count": 1350,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 758
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25237,
+          "following_count": 1030,
+          "like_count": 14514,
+          "listed_count": 40,
+          "media_count": 1508,
+          "tweet_count": 16537
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

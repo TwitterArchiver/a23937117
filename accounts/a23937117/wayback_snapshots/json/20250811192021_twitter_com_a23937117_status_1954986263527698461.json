@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871541077783822336"
+      ],
+      "media_source_tweet_id": [
+        "1871541082762416388"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1954986263527698461",
+    "created_at": "2025-08-11T19:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T20:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954986263527698461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1871533470734045184",
+          "start": 3,
+          "username": "mmmorakiii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lPAI5trzRJ",
+          "end": 131,
+          "expanded_url": "https://x.com/kkkkkumeroooo/status/1871541082762416388/photo/1",
+          "media_key": "3_1871541077783822336",
+          "start": 108,
+          "url": "https://t.co/lPAI5trzRJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954986263527698461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871541082762416388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mmmorakiii: cn轻缈  07/isfp\n不想被周围朋友发现\n这个是新号.....欢迎小女孩找我互fo\n包括但不限于 自残/碎碎念/负能\n会互动点赞转发 也会夸夸\n（大概率不会发自拍...怕掉马） https://t.co/lPAI5trzRJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954986263527698461].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954986263527698461",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954986263527698461"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1871541077783822336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfkMscPbQAAdrnU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871541077783822336"
+          ]
+        },
+        "author_id": "1871533470734045184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1871541082762416388",
+        "created_at": "2024-12-24T12:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T13:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871541082762416388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lPAI5trzRJ",
+              "end": 115,
+              "expanded_url": "https://x.com/kkkkkumeroooo/status/1871541082762416388/photo/1",
+              "media_key": "3_1871541077783822336",
+              "start": 92,
+              "url": "https://t.co/lPAI5trzRJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871541082762416388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 45847,
+          "like_count": 109,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "cn轻缈  07/isfp\n不想被周围朋友发现\n这个是新号.....欢迎小女孩找我互fo\n包括但不限于 自残/碎碎念/负能\n会互动点赞转发 也会夸夸\n（大概率不会发自拍...怕掉马） https://t.co/lPAI5trzRJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 204,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 511
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T12:28:58.000Z",
+        "description": "07/isfp/不定时发疯自残\n女宝宝可以私信找我互fo互转～\n🚪52纯绿",
+        "id": "1871533470734045184",
+        "location": "距离你3.4km",
+        "name": "moki",
+        "pinned_tweet_id": "1871541082762416388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872177663089213440/YbGJJlTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 91,
+          "like_count": 230,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 403
+        },
+        "username": "mmmorakiii",
+        "verified": false
+      }
+    ]
+  }
+}

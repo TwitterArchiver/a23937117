@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1901981063876087808",
+        "3_1901981076203208704",
+        "3_1901981084218429441"
+      ],
+      "media_source_tweet_id": [
+        "1901981091281727724",
+        "1901981091281727724",
+        "1901981091281727724"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962278667481977106",
+    "created_at": "2025-08-31T22:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T23:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962278667481977106"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 37,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "半绿"
+        },
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "门槛"
+        },
+        {
+          "end": 54,
+          "start": 50,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 58,
+          "start": 55,
+          "tag": "纯绿"
+        },
+        {
+          "end": 63,
+          "start": 59,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 68,
+          "start": 64,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 72,
+          "start": 69,
+          "tag": "金主"
+        },
+        {
+          "end": 78,
+          "start": 73,
+          "tag": "ATM奴"
+        },
+        {
+          "end": 82,
+          "start": 79,
+          "tag": "原味"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1887083789953937409",
+          "start": 3,
+          "username": "EmeraldU_U"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bl04ymcUFZ",
+          "end": 106,
+          "expanded_url": "https://x.com/EmeraldU_U/status/1901981091281727724/photo/1",
+          "media_key": "3_1901981063876087808",
+          "start": 83,
+          "url": "https://t.co/bl04ymcUFZ"
+        },
+        {
+          "display_url": "pic.x.com/bl04ymcUFZ",
+          "end": 106,
+          "expanded_url": "https://x.com/EmeraldU_U/status/1901981091281727724/photo/1",
+          "media_key": "3_1901981076203208704",
+          "start": 83,
+          "url": "https://t.co/bl04ymcUFZ"
+        },
+        {
+          "display_url": "pic.x.com/bl04ymcUFZ",
+          "end": 106,
+          "expanded_url": "https://x.com/EmeraldU_U/status/1901981091281727724/photo/1",
+          "media_key": "3_1901981084218429441",
+          "start": 83,
+          "url": "https://t.co/bl04ymcUFZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962278667481977106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901981091281727724",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EmeraldU_U: 新置顶~麻烦老婆们互fo互转啦~爱你们~\n#门槛妹 #半绿 #门槛 #门槛哥 #纯绿 #爸爸活 #妈妈活 #金主 #ATM奴 #原味 https://t.co/bl04ymcUFZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1901981063876087808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmUxs1HakAAVz0j.jpg",
+        "width": 914
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1901981076203208704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmUxtjCbgAAQ7p4.jpg",
+        "width": 576
+      },
+      {
+        "height": 1037,
+        "media_key": "3_1901981084218429441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmUxuA5aEAE1uC9.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901981063876087808",
+            "3_1901981076203208704",
+            "3_1901981084218429441"
+          ],
+          "media_source_tweet_id": [
+            "1901981091281727724",
+            "1901981091281727724",
+            "1901981091281727724"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "1962278667481977106",
+        "created_at": "2025-08-31T22:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T23:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962278667481977106"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "半绿"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "门槛"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "纯绿"
+            },
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "金主"
+            },
+            {
+              "end": 78,
+              "start": 73,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "原味"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1887083789953937409",
+              "start": 3,
+              "username": "EmeraldU_U"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bl04ymcUFZ",
+              "end": 106,
+              "expanded_url": "https://x.com/EmeraldU_U/status/1901981091281727724/photo/1",
+              "media_key": "3_1901981063876087808",
+              "start": 83,
+              "url": "https://t.co/bl04ymcUFZ"
+            },
+            {
+              "display_url": "pic.x.com/bl04ymcUFZ",
+              "end": 106,
+              "expanded_url": "https://x.com/EmeraldU_U/status/1901981091281727724/photo/1",
+              "media_key": "3_1901981076203208704",
+              "start": 83,
+              "url": "https://t.co/bl04ymcUFZ"
+            },
+            {
+              "display_url": "pic.x.com/bl04ymcUFZ",
+              "end": 106,
+              "expanded_url": "https://x.com/EmeraldU_U/status/1901981091281727724/photo/1",
+              "media_key": "3_1901981084218429441",
+              "start": 83,
+              "url": "https://t.co/bl04ymcUFZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962278667481977106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901981091281727724",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EmeraldU_U: 新置顶~麻烦老婆们互fo互转啦~爱你们~\n#门槛妹 #半绿 #门槛 #门槛哥 #纯绿 #爸爸活 #妈妈活 #金主 #ATM奴 #原味 https://t.co/bl04ymcUFZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901981063876087808",
+            "3_1901981076203208704",
+            "3_1901981084218429441"
+          ]
+        },
+        "author_id": "1887083789953937409",
+        "conversation_id": "1901981091281727724",
+        "created_at": "2025-03-18T12:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T13:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901981091281727724"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "半绿"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "门槛"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "纯绿"
+            },
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "金主"
+            },
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "原味"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bl04ymcUFZ",
+              "end": 90,
+              "expanded_url": "https://x.com/EmeraldU_U/status/1901981091281727724/photo/1",
+              "media_key": "3_1901981063876087808",
+              "start": 67,
+              "url": "https://t.co/bl04ymcUFZ"
+            },
+            {
+              "display_url": "pic.x.com/bl04ymcUFZ",
+              "end": 90,
+              "expanded_url": "https://x.com/EmeraldU_U/status/1901981091281727724/photo/1",
+              "media_key": "3_1901981076203208704",
+              "start": 67,
+              "url": "https://t.co/bl04ymcUFZ"
+            },
+            {
+              "display_url": "pic.x.com/bl04ymcUFZ",
+              "end": 90,
+              "expanded_url": "https://x.com/EmeraldU_U/status/1901981091281727724/photo/1",
+              "media_key": "3_1901981084218429441",
+              "start": 67,
+              "url": "https://t.co/bl04ymcUFZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901981091281727724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 41248,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "新置顶~麻烦老婆们互fo互转啦~爱你们~\n#门槛妹 #半绿 #门槛 #门槛哥 #纯绿 #爸爸活 #妈妈活 #金主 #ATM奴 #原味 https://t.co/bl04ymcUFZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 211,
+          "like_count": 1134,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 645
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T10:20:19.000Z",
+        "description": "小鸟乖乖😚喜欢我请过我门吧😉坐标10r 验证5r",
+        "id": "1887083789953937409",
+        "name": "怜雀生",
+        "pinned_tweet_id": "1901981091281727724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887083911437852672/a1MOIakt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 53,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 308
+        },
+        "username": "EmeraldU_U",
+        "verified": false
+      }
+    ]
+  }
+}

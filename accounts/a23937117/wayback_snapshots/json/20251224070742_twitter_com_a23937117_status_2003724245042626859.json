@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003724235957551104",
+        "3_2003724235957583873",
+        "3_2003724235957473280"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2003724245042626859",
+    "created_at": "2025-12-24T07:07:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T08:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003724245042626859"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NhjZ9NXicA",
+          "end": 44,
+          "expanded_url": "https://x.com/a23937117/status/2003724245042626859/photo/1",
+          "media_key": "3_2003724235957551104",
+          "start": 21,
+          "url": "https://t.co/NhjZ9NXicA"
+        },
+        {
+          "display_url": "pic.x.com/NhjZ9NXicA",
+          "end": 44,
+          "expanded_url": "https://x.com/a23937117/status/2003724245042626859/photo/1",
+          "media_key": "3_2003724235957583873",
+          "start": 21,
+          "url": "https://t.co/NhjZ9NXicA"
+        },
+        {
+          "display_url": "pic.x.com/NhjZ9NXicA",
+          "end": 44,
+          "expanded_url": "https://x.com/a23937117/status/2003724245042626859/photo/1",
+          "media_key": "3_2003724235957473280",
+          "start": 21,
+          "url": "https://t.co/NhjZ9NXicA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003724245042626859",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "˚ ཐི⋆ 20歳の誕生日 ♱⋆ཋྀ ˚ https://t.co/NhjZ9NXicA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2003724235957551104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G86ok5AXQAANpzz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003724235957583873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G86ok5AXwAEZCFS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003724235957473280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G86ok5AWEAAOyM7.jpg",
+        "width": 1554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003724235957551104",
+            "3_2003724235957583873",
+            "3_2003724235957473280"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2003724245042626859",
+        "created_at": "2025-12-24T07:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T08:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003724245042626859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NhjZ9NXicA",
+              "end": 44,
+              "expanded_url": "https://x.com/a23937117/status/2003724245042626859/photo/1",
+              "media_key": "3_2003724235957551104",
+              "start": 21,
+              "url": "https://t.co/NhjZ9NXicA"
+            },
+            {
+              "display_url": "pic.x.com/NhjZ9NXicA",
+              "end": 44,
+              "expanded_url": "https://x.com/a23937117/status/2003724245042626859/photo/1",
+              "media_key": "3_2003724235957583873",
+              "start": 21,
+              "url": "https://t.co/NhjZ9NXicA"
+            },
+            {
+              "display_url": "pic.x.com/NhjZ9NXicA",
+              "end": 44,
+              "expanded_url": "https://x.com/a23937117/status/2003724245042626859/photo/1",
+              "media_key": "3_2003724235957473280",
+              "start": 21,
+              "url": "https://t.co/NhjZ9NXicA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003724245042626859",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "˚ ཐི⋆ 20歳の誕生日 ♱⋆ཋྀ ˚ https://t.co/NhjZ9NXicA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover  谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 213,
+          "like_count": 1359,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 741
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

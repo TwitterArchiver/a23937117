@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053560172954484772",
+    "created_at": "2026-05-10T19:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T20:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053560172954484772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1690594314479407104",
+          "start": 3,
+          "username": "taiyicos6666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053560172954484772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019655664734552079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taiyicos6666: 太一墙 19年入驻推特五年靠谱老中介\n几百条成单记录可供参考（小姨妈  大佛 布尔玛 倾力推荐）\n全国一二线城市全有资源（周边可空降）高铁可到地方都可安排jk/lo/cos/外围 伴游 包养特殊单如双飞 sm\n88门槛开路 没门槛不加v 次3…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053560172954484772].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053560172954484772",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053560172954484772"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019655658912772097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAdCHwYacAE5ahb.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1270,
+        "media_key": "3_2019655642554986496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAdCGzcacAAon3k.jpg",
+        "width": 966
+      },
+      {
+        "height": 1643,
+        "media_key": "3_2019655644715053056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAdCG7facAArN9R.jpg",
+        "width": 907
+      },
+      {
+        "height": 1643,
+        "media_key": "3_2019655646979977224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAdCHD7acAgGzQw.jpg",
+        "width": 907
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019655658912772097",
+            "3_2019655642554986496",
+            "3_2019655644715053056",
+            "3_2019655646979977224"
+          ]
+        },
+        "author_id": "1690594314479407104",
+        "conversation_id": "2019655664734552079",
+        "created_at": "2026-02-06T06:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T07:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019655664734552079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tz4c3WEe5C",
+              "end": 195,
+              "expanded_url": "https://x.com/damaria50761858/status/2019655664734552079/photo/1",
+              "media_key": "3_2019655658912772097",
+              "start": 172,
+              "url": "https://t.co/tz4c3WEe5C"
+            },
+            {
+              "display_url": "pic.x.com/tz4c3WEe5C",
+              "end": 195,
+              "expanded_url": "https://x.com/damaria50761858/status/2019655664734552079/photo/1",
+              "media_key": "3_2019655642554986496",
+              "start": 172,
+              "url": "https://t.co/tz4c3WEe5C"
+            },
+            {
+              "display_url": "pic.x.com/tz4c3WEe5C",
+              "end": 195,
+              "expanded_url": "https://x.com/damaria50761858/status/2019655664734552079/photo/1",
+              "media_key": "3_2019655644715053056",
+              "start": 172,
+              "url": "https://t.co/tz4c3WEe5C"
+            },
+            {
+              "display_url": "pic.x.com/tz4c3WEe5C",
+              "end": 195,
+              "expanded_url": "https://x.com/damaria50761858/status/2019655664734552079/photo/1",
+              "media_key": "3_2019655646979977224",
+              "start": 172,
+              "url": "https://t.co/tz4c3WEe5C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019655664734552079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34248,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "太一墙 19年入驻推特五年靠谱老中介\n几百条成单记录可供参考（小姨妈  大佛 布尔玛 倾力推荐）\n全国一二线城市全有资源（周边可空降）高铁可到地方都可安排jk/lo/cos/外围 伴游 包养特殊单如双飞 sm\n88门槛开路 没门槛不加v 次3k夜8k起步\nq:1048538389 可扫码添加 vx:taiyi0660\n妹妹想入圈也可以私聊我 https://t.co/tz4c3WEe5C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 202,
+          "like_count": 1406,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 747
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T05:21:23.000Z",
+        "description": "七年万粉靠谱老墙 推特几百条成单记录 88开路过滤口嗨 全国各地都有 次3夜8起步 也可扫码置顶推文 信誉截图几百条 大佛 玩偶姐姐推荐 过门槛加v 更多资源在下方电报群 有想入圈的妹妹可私我 qq2258837925 vx:taiyi0660 ✈️ https://t.co/pMVx4BzhY1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/taiyicos",
+                "end": 149,
+                "expanded_url": "http://t.me/taiyicos",
+                "start": 126,
+                "url": "https://t.co/pMVx4BzhY1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/taiyicosshangx…",
+                "end": 23,
+                "expanded_url": "https://t.me/taiyicosshangxin",
+                "start": 0,
+                "url": "https://t.co/bIHBe71WW2"
+              }
+            ]
+          }
+        },
+        "id": "1690594314479407104",
+        "location": "cos上新群👉 点关注不迷路",
+        "name": "太一cos 七年老墙(收徒 长期招妹)",
+        "pinned_tweet_id": "2019655664734552079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019652903502585856/Q7CilMK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3983,
+          "following_count": 623,
+          "like_count": 0,
+          "listed_count": 4,
+          "media_count": 76,
+          "tweet_count": 78
+        },
+        "url": "https://t.co/bIHBe71WW2",
+        "username": "taiyicos6666",
+        "verified": false
+      }
+    ]
+  }
+}

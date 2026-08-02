@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1948961581871591714",
+    "created_at": "2025-07-27T23:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T00:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949615838459252807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1596719791661715458",
+          "start": 0,
+          "username": "CoFfffEeeeE1"
+        },
+        {
+          "end": 25,
+          "id": "1847712034361659392",
+          "start": 14,
+          "username": "yumeng0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949615838459252807",
+    "in_reply_to_user_id": "1596719791661715458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949369669992997216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CoFfffEeeeE1 @yumeng0721 问"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1948961581871591714",
+        "created_at": "2025-07-27T23:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T00:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949615838459252807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1596719791661715458",
+              "start": 0,
+              "username": "CoFfffEeeeE1"
+            },
+            {
+              "end": 25,
+              "id": "1847712034361659392",
+              "start": 14,
+              "username": "yumeng0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949615838459252807",
+        "in_reply_to_user_id": "1596719791661715458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949369669992997216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoFfffEeeeE1 @yumeng0721 问"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1948961581871591714",
+        "created_at": "2025-07-27T07:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T08:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949369669992997216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1847712034361659392",
+              "start": 0,
+              "username": "yumeng0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949369669992997216",
+        "in_reply_to_user_id": "1847712034361659392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948961581871591714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumeng0721 这哮喘片是平时吃的，还是解药，还是用来噢的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 纯绿🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949293859470524416/u1xTmqmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 171,
+          "like_count": 978,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 437
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 749,
+          "like_count": 17548,
+          "listed_count": 0,
+          "media_count": 935,
+          "tweet_count": 5143
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "生日 2009.12.20 | ACG爱好者/业余评论家 | 米游人 | 坐标河北 | 休假中 | Thinking MtX | INFJ | od | 自残 | 抑郁 | 焦虑 | OCD | ASD | 请和我交朋友 | 梦想是当歌姬吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yumeng0721",
+                "end": 23,
+                "expanded_url": "http://t.me/yumeng0721",
+                "start": 0,
+                "url": "https://t.co/1FVEnlkvBm"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "location": "Japan",
+        "name": "Meng",
+        "pinned_tweet_id": "1949388092760318270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939203974260768768/sFFZD2jj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 592,
+          "like_count": 18976,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1892
+        },
+        "url": "https://t.co/1FVEnlkvBm",
+        "username": "yumeng0721",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065331745189134336"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2065331750885028217",
+    "created_at": "2026-06-12T07:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T08:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065331750885028217"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 5,
+          "tag": "福利姬"
+        },
+        {
+          "end": 13,
+          "start": 10,
+          "tag": "门槛"
+        },
+        {
+          "end": 18,
+          "start": 14,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "甜妹"
+        },
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "反差"
+        },
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "女大"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tLZMCNqO1x",
+          "end": 54,
+          "expanded_url": "https://x.com/a23937117/status/2065331750885028217/photo/1",
+          "media_key": "3_2065331745189134336",
+          "start": 31,
+          "url": "https://t.co/tLZMCNqO1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065331750885028217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "求过🚪\n\n#福利姬 #门槛 #门槛妹 #甜妹 #反差 #女大 https://t.co/tLZMCNqO1x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2065331745189134336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmIR5dWAAAnr24.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065331745189134336"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2065331750885028217",
+        "created_at": "2026-06-12T07:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065331750885028217"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "福利姬"
+            },
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "门槛"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "甜妹"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "反差"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "女大"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tLZMCNqO1x",
+              "end": 54,
+              "expanded_url": "https://x.com/a23937117/status/2065331750885028217/photo/1",
+              "media_key": "3_2065331745189134336",
+              "start": 31,
+              "url": "https://t.co/tLZMCNqO1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065331750885028217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求过🚪\n\n#福利姬 #门槛 #门槛妹 #甜妹 #反差 #女大 https://t.co/tLZMCNqO1x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 191,
+          "like_count": 1411,
+          "listed_count": 2,
+          "media_count": 236,
+          "tweet_count": 762
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

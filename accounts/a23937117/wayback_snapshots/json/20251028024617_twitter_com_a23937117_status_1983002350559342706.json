@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1983002350559342706",
+    "created_at": "2025-10-28T02:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T03:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983002350559342706"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 130,
+          "start": 126,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "圆角"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1945596775857098753",
+          "start": 3,
+          "username": "guardio20007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983002350559342706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979021735530770439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guardio20007: ＊转世重修Vv这里是灯灯！\n接线下全国空降可语音／视频验证！转发抽和\n纯绿200/h半绿350/h非绿700/h\n包夜价格另算大额门送免费线下！接受网调 文爱 出售原味\n近期线下全部9折算哦☆\n欢迎小女孩互转互fo\n＃门槛妹 ＃圆角 ＃线下丝…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1983002350559342706].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1983002350559342706",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1983002350559342706"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979021713581981696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3blw2DWwAAbDHR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1979021521797451776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3bllrmXEAA5SEH.jpg",
+        "width": 836
+      },
+      {
+        "height": 1559,
+        "media_key": "3_1979021520862056450",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3blloHWEAIGGMe.jpg",
+        "width": 1197
+      },
+      {
+        "height": 568,
+        "media_key": "3_1979021713477185537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3blw1qXsAEvVXS.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979021713581981696",
+            "3_1979021521797451776",
+            "3_1979021520862056450",
+            "3_1979021713477185537"
+          ]
+        },
+        "author_id": "1945596775857098753",
+        "conversation_id": "1979021735530770439",
+        "created_at": "2025-10-17T03:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T04:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979021735530770439"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 112,
+              "start": 108,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "圆角"
+            },
+            {
+              "end": 122,
+              "start": 117,
+              "tag": "线下丝足"
+            },
+            {
+              "end": 128,
+              "start": 123,
+              "tag": "线下非绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dngamHMor1",
+              "end": 152,
+              "expanded_url": "https://x.com/guardio20007/status/1979021735530770439/photo/1",
+              "media_key": "3_1979021713581981696",
+              "start": 129,
+              "url": "https://t.co/dngamHMor1"
+            },
+            {
+              "display_url": "pic.x.com/dngamHMor1",
+              "end": 152,
+              "expanded_url": "https://x.com/guardio20007/status/1979021735530770439/photo/1",
+              "media_key": "3_1979021521797451776",
+              "start": 129,
+              "url": "https://t.co/dngamHMor1"
+            },
+            {
+              "display_url": "pic.x.com/dngamHMor1",
+              "end": 152,
+              "expanded_url": "https://x.com/guardio20007/status/1979021735530770439/photo/1",
+              "media_key": "3_1979021520862056450",
+              "start": 129,
+              "url": "https://t.co/dngamHMor1"
+            },
+            {
+              "display_url": "pic.x.com/dngamHMor1",
+              "end": 152,
+              "expanded_url": "https://x.com/guardio20007/status/1979021735530770439/photo/1",
+              "media_key": "3_1979021713477185537",
+              "start": 129,
+              "url": "https://t.co/dngamHMor1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979021735530770439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4840,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "＊转世重修Vv这里是灯灯！\n接线下全国空降可语音／视频验证！转发抽和\n纯绿200/h半绿350/h非绿700/h\n包夜价格另算大额门送免费线下！接受网调 文爱 出售原味\n近期线下全部9折算哦☆\n欢迎小女孩互转互fo\n＃门槛妹 ＃圆角 ＃线下丝足 #线下非绿 https://t.co/dngamHMor1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 218,
+          "like_count": 1306,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 738
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T21:30:21.000Z",
+        "description": "可愛天下第一＊^_^＊大家好这里是灯灯！请过门叭ww支持验证！！支持口令红包 和赞赏码了＠大大请多多爱我吧，我会提供情绪价值的呜呜🚪168/288/520/1314",
+        "id": "1945596775857098753",
+        "location": "距离你3.7km",
+        "name": "灯灯",
+        "pinned_tweet_id": "1979021735530770439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978619282461528064/UCnLuV3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 2230,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 50
+        },
+        "username": "guardio20007",
+        "verified": false
+      }
+    ]
+  }
+}

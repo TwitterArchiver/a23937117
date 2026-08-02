@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960290610411356160",
+        "3_1960290610419740672"
+      ],
+      "media_source_tweet_id": [
+        "1960290634104963200",
+        "1960290634104963200"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962522293063590041",
+    "created_at": "2025-09-01T14:25:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T15:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962522293063590041"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 63,
+          "start": 60,
+          "tag": "门槛"
+        },
+        {
+          "end": 68,
+          "start": 64,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 72,
+          "start": 69,
+          "tag": "女大"
+        },
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "反差"
+        },
+        {
+          "end": 82,
+          "start": 77,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 87,
+          "start": 83,
+          "tag": "求包养"
+        },
+        {
+          "end": 91,
+          "start": 88,
+          "tag": "线下"
+        },
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "非绿"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "圆角"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1046662927644864513",
+          "start": 3,
+          "username": "bongy47132052"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dYS28VQBzA",
+          "end": 123,
+          "expanded_url": "https://x.com/bongy47132052/status/1960290634104963200/photo/1",
+          "media_key": "3_1960290610411356160",
+          "start": 100,
+          "url": "https://t.co/dYS28VQBzA"
+        },
+        {
+          "display_url": "pic.x.com/dYS28VQBzA",
+          "end": 123,
+          "expanded_url": "https://x.com/bongy47132052/status/1960290634104963200/photo/1",
+          "media_key": "3_1960290610419740672",
+          "start": 100,
+          "url": "https://t.co/dYS28VQBzA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962522293063590041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960290634104963200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bongy47132052: 牛牛回归\n高强度站街\n希望哥哥可以入🚪！\n入🚪仔细看置顶哟～\n欢迎互推互fo ～\n#门槛 #门槛妹 #女大 #反差 #金主爸爸 #求包养 #线下 #非绿 #圆角 https://t.co/dYS28VQBzA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962522293063590041].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962522293063590041",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962522293063590041"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1140,
+        "media_key": "3_1960290610411356160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzRZ7JIaQAAZW5T.jpg",
+        "width": 1284
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1960290610419740672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzRZ7JKaMAAIIip.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960290610411356160",
+            "3_1960290610419740672"
+          ]
+        },
+        "author_id": "1046662927644864513",
+        "conversation_id": "1960290634104963200",
+        "created_at": "2025-08-26T10:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T11:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960290634104963200"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "门槛"
+            },
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "女大"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "反差"
+            },
+            {
+              "end": 63,
+              "start": 58,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "求包养"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "线下"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "非绿"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "圆角"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dYS28VQBzA",
+              "end": 104,
+              "expanded_url": "https://x.com/bongy47132052/status/1960290634104963200/photo/1",
+              "media_key": "3_1960290610411356160",
+              "start": 81,
+              "url": "https://t.co/dYS28VQBzA"
+            },
+            {
+              "display_url": "pic.x.com/dYS28VQBzA",
+              "end": 104,
+              "expanded_url": "https://x.com/bongy47132052/status/1960290634104963200/photo/1",
+              "media_key": "3_1960290610419740672",
+              "start": 81,
+              "url": "https://t.co/dYS28VQBzA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960290634104963200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2836,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "牛牛回归\n高强度站街\n希望哥哥可以入🚪！\n入🚪仔细看置顶哟～\n欢迎互推互fo ～\n#门槛 #门槛妹 #女大 #反差 #金主爸爸 #求包养 #线下 #非绿 #圆角 https://t.co/dYS28VQBzA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 211,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 675
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-01T07:27:42.000Z",
+        "description": "勇敢牛牛 不怕困难 坐标20r",
+        "id": "1046662927644864513",
+        "name": "小牛·",
+        "pinned_tweet_id": "1960290634104963200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960289796448010240/sSUceKa1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 22,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 39
+        },
+        "username": "bongy47132052",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1918614417773887488",
+        "3_1918614417782296576",
+        "3_1918614417794822144",
+        "3_1918614417849376768"
+      ],
+      "media_source_tweet_id": [
+        "1918614568957530245",
+        "1918614568957530245",
+        "1918614568957530245",
+        "1918614568957530245"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962538112543793327",
+    "created_at": "2025-09-01T15:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T16:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962538112543793327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1918605464906186752",
+          "start": 3,
+          "username": "vcx_fh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f0P4y9bWRc",
+          "end": 97,
+          "expanded_url": "https://x.com/vcx_fh/status/1918614568957530245/photo/1",
+          "media_key": "3_1918614417773887488",
+          "start": 74,
+          "url": "https://t.co/f0P4y9bWRc"
+        },
+        {
+          "display_url": "pic.x.com/f0P4y9bWRc",
+          "end": 97,
+          "expanded_url": "https://x.com/vcx_fh/status/1918614568957530245/photo/1",
+          "media_key": "3_1918614417782296576",
+          "start": 74,
+          "url": "https://t.co/f0P4y9bWRc"
+        },
+        {
+          "display_url": "pic.x.com/f0P4y9bWRc",
+          "end": 97,
+          "expanded_url": "https://x.com/vcx_fh/status/1918614568957530245/photo/1",
+          "media_key": "3_1918614417794822144",
+          "start": 74,
+          "url": "https://t.co/f0P4y9bWRc"
+        },
+        {
+          "display_url": "pic.x.com/f0P4y9bWRc",
+          "end": 97,
+          "expanded_url": "https://x.com/vcx_fh/status/1918614568957530245/photo/1",
+          "media_key": "3_1918614417849376768",
+          "start": 74,
+          "url": "https://t.co/f0P4y9bWRc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962538112543793327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 134
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918614568957530245",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vcx_fh: 大家好我叫小野\n08年辍学\n159/80\n接线下纯绿半绿非绿\n宝宝们可以找我互转呀\n可视频语音验证#电子女友#爸爸活#萝莉 https://t.co/f0P4y9bWRc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962538112543793327].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962538112543793327",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962538112543793327"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 710,
+        "media_key": "3_1918614417773887488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqBJpdBbAAAv9T_.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1918614417782296576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqBJpdDbUAAKQa9.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1918614417794822144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqBJpdGacAAH64j.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1918614417849376768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqBJpdTa4AAxlhJ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918614417773887488",
+            "3_1918614417782296576",
+            "3_1918614417794822144",
+            "3_1918614417849376768"
+          ]
+        },
+        "author_id": "1918605464906186752",
+        "conversation_id": "1918614568957530245",
+        "created_at": "2025-05-03T10:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T11:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918614568957530245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f0P4y9bWRc",
+              "end": 85,
+              "expanded_url": "https://x.com/vcx_fh/status/1918614568957530245/photo/1",
+              "media_key": "3_1918614417773887488",
+              "start": 62,
+              "url": "https://t.co/f0P4y9bWRc"
+            },
+            {
+              "display_url": "pic.x.com/f0P4y9bWRc",
+              "end": 85,
+              "expanded_url": "https://x.com/vcx_fh/status/1918614568957530245/photo/1",
+              "media_key": "3_1918614417782296576",
+              "start": 62,
+              "url": "https://t.co/f0P4y9bWRc"
+            },
+            {
+              "display_url": "pic.x.com/f0P4y9bWRc",
+              "end": 85,
+              "expanded_url": "https://x.com/vcx_fh/status/1918614568957530245/photo/1",
+              "media_key": "3_1918614417794822144",
+              "start": 62,
+              "url": "https://t.co/f0P4y9bWRc"
+            },
+            {
+              "display_url": "pic.x.com/f0P4y9bWRc",
+              "end": 85,
+              "expanded_url": "https://x.com/vcx_fh/status/1918614568957530245/photo/1",
+              "media_key": "3_1918614417849376768",
+              "start": 62,
+              "url": "https://t.co/f0P4y9bWRc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918614568957530245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 74609,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "大家好我叫小野\n08年辍学\n159/80\n接线下纯绿半绿非绿\n宝宝们可以找我互转呀\n可视频语音验证#电子女友#爸爸活#萝莉 https://t.co/f0P4y9bWRc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 201,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 680
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-03T09:56:23.000Z",
+        "description": "🚪66/88/188/288/520/1314/5200 爸妈离婚现在跟着妈妈生活 也不怎么管我 希望大家能多多帮帮我🥺 纯绿半绿非绿我都接",
+        "id": "1918605464906186752",
+        "name": "止血带",
+        "pinned_tweet_id": "1918614568957530245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918607007013298176/ihznCe2T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 0,
+          "like_count": 35,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 157
+        },
+        "username": "vcx_fh",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1943524901824201110",
+    "created_at": "2025-07-12T02:13:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T03:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943856226942771552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1673482687959666688",
+          "start": 0,
+          "username": "52j91"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943856226942771552",
+    "in_reply_to_user_id": "1673482687959666688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943524901824201110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@52j91 人类"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1943524901824201110",
+        "created_at": "2025-07-12T02:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T03:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943856226942771552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1673482687959666688",
+              "start": 0,
+              "username": "52j91"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943856226942771552",
+        "in_reply_to_user_id": "1673482687959666688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943524901824201110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@52j91 人类"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673482687959666688",
+        "conversation_id": "1943524901824201110",
+        "created_at": "2025-07-11T04:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T05:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943524901824201110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943524901824201110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1333,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么没有那种会自己上厕所 没有味道养起来还便宜的动物呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 141,
+          "like_count": 904,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 267
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T00:05:50.000Z",
+        "description": "喜欢我就给我钱 谢谢",
+        "id": "1673482687959666688",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "9111111111️⃣",
+        "pinned_tweet_id": "1901987572743876771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927182092464476161/c7rUl_qA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4371,
+          "following_count": 69,
+          "like_count": 514,
+          "listed_count": 12,
+          "media_count": 37,
+          "tweet_count": 324
+        },
+        "username": "52j91",
+        "verified": false
+      }
+    ]
+  }
+}

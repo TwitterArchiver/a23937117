@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1969430490911555992",
+    "created_at": "2025-09-21T16:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T17:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969798972580483542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1121214017941323776",
+          "start": 0,
+          "username": "akf13978"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969798972580483542",
+    "in_reply_to_user_id": "1121214017941323776",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969430490911555992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akf13978 dirty"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1969430490911555992",
+        "created_at": "2025-09-21T16:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T17:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969798972580483542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1121214017941323776",
+              "start": 0,
+              "username": "akf13978"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969798972580483542",
+        "in_reply_to_user_id": "1121214017941323776",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969430490911555992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akf13978 dirty"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1121214017941323776",
+        "conversation_id": "1969430490911555992",
+        "created_at": "2025-09-20T15:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T16:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969430490911555992"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969430490911555992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 144707,
+          "like_count": 543,
+          "quote_count": 23,
+          "reply_count": 345,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "做个xp调查，大家是更喜欢dirty talk还是sweet talk啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88—谈恋爱了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 217,
+          "like_count": 1213,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 690
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-25T00:47:07.000Z",
+        "description": "常刷推/随口吐槽/碎碎念/会念念感兴趣的本",
+        "id": "1121214017941323776",
+        "location": "Taiwan",
+        "name": "青由也",
+        "pinned_tweet_id": "1962152922323784161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968508687099772929/OX6NMki__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 766,
+          "like_count": 757,
+          "listed_count": 3,
+          "media_count": 37,
+          "tweet_count": 1300
+        },
+        "username": "akf13978",
+        "verified": false
+      }
+    ]
+  }
+}

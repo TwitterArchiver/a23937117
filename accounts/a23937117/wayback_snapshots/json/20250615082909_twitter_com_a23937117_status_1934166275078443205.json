@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934166268979945472"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1934166275078443205",
+    "created_at": "2025-06-15T08:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T09:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934166275078443205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5aBWzcNGBv",
+          "end": 53,
+          "expanded_url": "https://x.com/a23937117/status/1934166275078443205/photo/1",
+          "media_key": "3_1934166268979945472",
+          "start": 30,
+          "url": "https://t.co/5aBWzcNGBv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934166275078443205",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "凌晨五点和炮友做完，他直接睡死了盯——\n^=⦁𖥦⦁=^ ੭ https://t.co/5aBWzcNGBv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1934166275078443205].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1934166275078443205",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1934166275078443205"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1934166268979945472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GteJ-VcXoAACMZO.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "讨厌我的人有福了 因为我真的过的很惨",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 119,
+          "like_count": 758,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 118
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

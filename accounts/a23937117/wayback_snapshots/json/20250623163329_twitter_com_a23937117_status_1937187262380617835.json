@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1937137761099935759",
+    "created_at": "2025-06-23T16:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T17:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937187262380617835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1691791250670895105",
+          "start": 0,
+          "username": "Kilig_i777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937187262380617835",
+    "in_reply_to_user_id": "1691791250670895105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937137761099935759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kilig_i777 还好感觉没什么区别，宝宝盘慢一点，因为本来就是美术生所以不太确定是不是手串的原因 ^ ╸▵╺ ^ ੭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1937137761099935759",
+        "created_at": "2025-06-23T16:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T17:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937187262380617835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1691791250670895105",
+              "start": 0,
+              "username": "Kilig_i777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937187262380617835",
+        "in_reply_to_user_id": "1691791250670895105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937137761099935759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kilig_i777 还好感觉没什么区别，宝宝盘慢一点，因为本来就是美术生所以不太确定是不是手串的原因 ^ ╸▵╺ ^ ੭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691791250670895105",
+        "conversation_id": "1937137761099935759",
+        "created_at": "2025-06-23T13:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T14:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937137761099935759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937137761099935759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2106,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吗的一直盘手串会不会腱鞘炎啊。我盘了一天感觉手酸酸的呢。？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "kissing",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 125,
+          "like_count": 803,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 139
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T12:37:33.000Z",
+        "description": "不想叫我宝宝可以叫我香香｜谢谢你的取关 |我没有小号别被骗|推广关评自辨｜匿名📪 https://t.co/xEONfKiwpu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%88%91%E6%9…",
+                "end": 64,
+                "expanded_url": "https://ngl.link/%E6%88%91%E6%9C%8D%E4%BA%86%E5%AE%9D%E5%AE%9D",
+                "start": 41,
+                "url": "https://t.co/xEONfKiwpu"
+              }
+            ]
+          }
+        },
+        "id": "1691791250670895105",
+        "location": "答应我会幸福",
+        "name": "我服了宝宝",
+        "pinned_tweet_id": "1930580592913007036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927900924237762560/_p_RRqEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7058,
+          "following_count": 228,
+          "like_count": 8985,
+          "listed_count": 13,
+          "media_count": 129,
+          "tweet_count": 4049
+        },
+        "username": "Kilig_i777",
+        "verified": false
+      }
+    ]
+  }
+}

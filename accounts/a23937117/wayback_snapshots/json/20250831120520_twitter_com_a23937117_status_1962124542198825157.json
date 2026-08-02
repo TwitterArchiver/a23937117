@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962124542198825157",
+    "created_at": "2025-08-31T12:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T13:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962124542198825157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1737304802768424960",
+          "start": 3,
+          "username": "xiaobinghua99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962124542198825157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913964869004804515",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaobinghua99: 是新置顶！\n我是小绘 可以叫我绘酱 \n双相/焦虑/od\n07年165/60喝喝我是非祝\n坐标山东 具体城市私聊我好吗\n我在上学 平时消息回复的不是很及时致歉\n已戒割但是胳膊上有疤\np1是原皮 p2是cos和即将要出的\n不管怎样爱我请打钱^…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1850,
+        "media_key": "3_1913964865137635328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go_E53sbcAA8YjM.jpg",
+        "width": 1387
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1913964865410252801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go_E54tbQAElQVl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 943,
+        "media_key": "3_1913964864416141312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go_E51AaUAAwoC5.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1962124542198825157",
+        "created_at": "2025-08-31T12:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T13:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962124542198825157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1737304802768424960",
+              "start": 3,
+              "username": "xiaobinghua99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962124542198825157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913964869004804515",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaobinghua99: 是新置顶！\n我是小绘 可以叫我绘酱 \n双相/焦虑/od\n07年165/60喝喝我是非祝\n坐标山东 具体城市私聊我好吗\n我在上学 平时消息回复的不是很及时致歉\n已戒割但是胳膊上有疤\np1是原皮 p2是cos和即将要出的\n不管怎样爱我请打钱^…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913964865137635328",
+            "3_1913964865410252801",
+            "3_1913964864416141312"
+          ]
+        },
+        "author_id": "1737304802768424960",
+        "conversation_id": "1913964869004804515",
+        "created_at": "2025-04-20T14:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T15:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913964869004804515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dliNzoh2FW",
+              "end": 145,
+              "expanded_url": "https://x.com/xiaobinghua99/status/1913964869004804515/photo/1",
+              "media_key": "3_1913964865137635328",
+              "start": 122,
+              "url": "https://t.co/dliNzoh2FW"
+            },
+            {
+              "display_url": "pic.x.com/dliNzoh2FW",
+              "end": 145,
+              "expanded_url": "https://x.com/xiaobinghua99/status/1913964869004804515/photo/1",
+              "media_key": "3_1913964865410252801",
+              "start": 122,
+              "url": "https://t.co/dliNzoh2FW"
+            },
+            {
+              "display_url": "pic.x.com/dliNzoh2FW",
+              "end": 145,
+              "expanded_url": "https://x.com/xiaobinghua99/status/1913964869004804515/photo/1",
+              "media_key": "3_1913964864416141312",
+              "start": 122,
+              "url": "https://t.co/dliNzoh2FW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913964869004804515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 48468,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "是新置顶！\n我是小绘 可以叫我绘酱 \n双相/焦虑/od\n07年165/60喝喝我是非祝\n坐标山东 具体城市私聊我好吗\n我在上学 平时消息回复的不是很及时致歉\n已戒割但是胳膊上有疤\np1是原皮 p2是cos和即将要出的\n不管怎样爱我请打钱^ ^ https://t.co/dliNzoh2FW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 209,
+          "like_count": 1133,
+          "listed_count": 2,
+          "media_count": 178,
+          "tweet_count": 634
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T02:52:13.000Z",
+        "description": "07 🚪88/128/520/1314 欢迎女孩子来和我互转互fo 只回口令",
+        "id": "1737304802768424960",
+        "location": "⁽⁽ଘ( ˙꒳˙ )ଓ⁾⁾",
+        "name": "小绘",
+        "pinned_tweet_id": "1913964869004804515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852908665726214144/rDoNY0kp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 90,
+          "like_count": 72,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 635
+        },
+        "username": "xiaobinghua99",
+        "verified": false
+      }
+    ]
+  }
+}

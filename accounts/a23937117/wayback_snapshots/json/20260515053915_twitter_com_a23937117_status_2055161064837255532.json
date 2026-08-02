@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055161057086242818"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2055161064837255532",
+    "created_at": "2026-05-15T05:39:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T06:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055161064837255532"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "门槛"
+        },
+        {
+          "end": 28,
+          "start": 24,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "露出"
+        },
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "反差"
+        },
+        {
+          "end": 40,
+          "start": 37,
+          "tag": "女大"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pgWEKJr7pz",
+          "end": 64,
+          "expanded_url": "https://x.com/a23937117/status/2055161064837255532/photo/1",
+          "media_key": "3_2055161057086242818",
+          "start": 41,
+          "url": "https://t.co/pgWEKJr7pz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055161064837255532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有什么关系，反正都只有我一片真心而已\n\n#门槛 #门槛妹 #露出 #反差 #女大 https://t.co/pgWEKJr7pz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2055161057086242818",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVmF7vXgAI2lJ4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055161057086242818"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2055161064837255532",
+        "created_at": "2026-05-15T05:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055161064837255532"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "门槛"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "露出"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "反差"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "女大"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pgWEKJr7pz",
+              "end": 64,
+              "expanded_url": "https://x.com/a23937117/status/2055161064837255532/photo/1",
+              "media_key": "3_2055161057086242818",
+              "start": 41,
+              "url": "https://t.co/pgWEKJr7pz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055161064837255532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有什么关系，反正都只有我一片真心而已\n\n#门槛 #门槛妹 #露出 #反差 #女大 https://t.co/pgWEKJr7pz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 202,
+          "like_count": 1410,
+          "listed_count": 2,
+          "media_count": 234,
+          "tweet_count": 767
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

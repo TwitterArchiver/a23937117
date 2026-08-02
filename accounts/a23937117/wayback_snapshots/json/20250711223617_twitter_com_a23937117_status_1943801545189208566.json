@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1943801545189208566",
+    "created_at": "2025-07-11T22:36:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T23:36:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943801545189208566"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1943801545189208566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉自己手冲的时候也在虐自己，明明已经高潮好多次了，小玩具就是不肯停，逼自己到快失禁了才停下，一抹脸全是眼泪，到底是委屈还是爽哭了𖤐*̩̩͙⸝⋆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1943801545189208566",
+        "created_at": "2025-07-11T22:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T23:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943801545189208566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943801545189208566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉自己手冲的时候也在虐自己，明明已经高潮好多次了，小玩具就是不肯停，逼自己到快失禁了才停下，一抹脸全是眼泪，到底是委屈还是爽哭了𖤐*̩̩͙⸝⋆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 137,
+          "like_count": 901,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 260
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

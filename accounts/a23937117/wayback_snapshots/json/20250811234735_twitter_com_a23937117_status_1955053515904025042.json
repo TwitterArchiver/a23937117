@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955053515904025042",
+    "created_at": "2025-08-11T23:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T00:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955053515904025042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1614321210904702976",
+          "start": 3,
+          "username": "kuzhhh3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955053515904025042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950850741905883499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuzhhh3: 新置顶🔝\n我是汱｜06｜apex电妹玩家\np9是我的狗狗一岁啦 我的生活围着她转 \n支持口令红包 问一个问题10r \n不给明确坐标以及个人信息 不线下\n\n欢迎互fo互转呀 想和你们一起玩ww\n🚪52好友位+开放朋友圈\n🚪152被动聊天\n🚪299主动聊天…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955053515904025042].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955053515904025042",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955053515904025042"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1950850734645514240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxLQaDhbEAAZTKz.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950850734645514240"
+          ]
+        },
+        "author_id": "1614321210904702976",
+        "conversation_id": "1950850741905883499",
+        "created_at": "2025-07-31T09:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T10:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950850741905883499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HPqJuLmit1",
+              "end": 150,
+              "expanded_url": "https://x.com/kuzhhh3/status/1950850741905883499/photo/1",
+              "media_key": "3_1950850734645514240",
+              "start": 127,
+              "url": "https://t.co/HPqJuLmit1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950850741905883499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7012,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "新置顶🔝\n我是汱｜06｜apex电妹玩家\np9是我的狗狗一岁啦 我的生活围着她转 \n支持口令红包 问一个问题10r \n不给明确坐标以及个人信息 不线下\n\n欢迎互fo互转呀 想和你们一起玩ww\n🚪52好友位+开放朋友圈\n🚪152被动聊天\n🚪299主动聊天 https://t.co/HPqJuLmit1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 231,
+          "like_count": 1075,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 552
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-14T17:59:30.000Z",
+        "description": "我是汱｜06｜女孩子可以互fo互转 喜欢我请给我打钱 🚪52｜🚪152｜🚪299",
+        "id": "1614321210904702976",
+        "name": "想吃炸鸡",
+        "pinned_tweet_id": "1950850741905883499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940432037946503168/Glj-P5qq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1657,
+          "following_count": 238,
+          "like_count": 8475,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1618
+        },
+        "username": "kuzhhh3",
+        "verified": false
+      }
+    ]
+  }
+}

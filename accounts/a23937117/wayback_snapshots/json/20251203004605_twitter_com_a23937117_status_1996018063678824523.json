@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1995650936044466442",
+    "created_at": "2025-12-03T00:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T01:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996018063678824523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1895696340891668480",
+          "start": 0,
+          "username": "Sallyliguo521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996018063678824523",
+    "in_reply_to_user_id": "1895696340891668480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995650936044466442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sallyliguo521 你去上班啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 890,
+        "media_key": "3_1995650927727104000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7H58gLaUAAdgBb.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1995650936044466442",
+        "created_at": "2025-12-03T00:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T01:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996018063678824523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1895696340891668480",
+              "start": 0,
+              "username": "Sallyliguo521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996018063678824523",
+        "in_reply_to_user_id": "1895696340891668480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995650936044466442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sallyliguo521 你去上班啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995650927727104000"
+          ]
+        },
+        "author_id": "1895696340891668480",
+        "conversation_id": "1995650936044466442",
+        "created_at": "2025-12-02T00:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T01:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995650936044466442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DZdjKJKZdT",
+              "end": 43,
+              "expanded_url": "https://x.com/Sallyliguo521/status/1995650936044466442/photo/1",
+              "media_key": "3_1995650927727104000",
+              "start": 20,
+              "url": "https://t.co/DZdjKJKZdT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995650936044466442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 211862,
+          "like_count": 469,
+          "quote_count": 2,
+          "reply_count": 134,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "儿子儿媳妇天天打游戏，不上班，怎么办？ https://t.co/DZdjKJKZdT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover  谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 216,
+          "like_count": 1337,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 747
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T04:43:33.000Z",
+        "description": "@yl8wrg @NANAlhy @omdnjn 做自己的太阳，无需借谁的光。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "yl8wrg"
+              },
+              {
+                "end": 16,
+                "start": 8,
+                "username": "NANAlhy"
+              },
+              {
+                "end": 24,
+                "start": 17,
+                "username": "omdnjn"
+              }
+            ]
+          }
+        },
+        "id": "1895696340891668480",
+        "location": "同城",
+        "name": "李果Sally",
+        "pinned_tweet_id": "1987396173020516618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979317538807803904/EKAGzoJv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17021,
+          "following_count": 0,
+          "like_count": 139,
+          "listed_count": 27,
+          "media_count": 103,
+          "tweet_count": 220
+        },
+        "username": "Sallyliguo521",
+        "verified": false
+      }
+    ]
+  }
+}

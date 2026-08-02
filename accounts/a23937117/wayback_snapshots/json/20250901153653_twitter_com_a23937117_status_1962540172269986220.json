@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962540172269986220",
+    "created_at": "2025-09-01T15:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T16:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962540172269986220"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "门槛"
+        },
+        {
+          "end": 102,
+          "start": 98,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 107,
+          "start": 103,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 113,
+          "start": 108,
+          "tag": "电子女友"
+        },
+        {
+          "end": 119,
+          "start": 114,
+          "tag": "一日女友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1844083567992897545",
+          "start": 3,
+          "username": "beibei0oa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/UTowSi",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/UTowSi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962540172269986220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849541738219647143",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @beibei0oa: 顶置 \n这里是贝贝，很高兴认识你！！坐标深圳 ₍˄·͈༝·͈˄*₎◞ ̑̑  喜欢我请来入我🚪，我会提供情绪价值 线下业务过🚪解锁 欢迎小女孩们互fo转! \n#门槛 #门槛哥 #爸爸活 #电子女友 #一日女友 https://t.co/UTowSi…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962540172269986220].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962540172269986220",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962540172269986220"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 817,
+        "media_key": "3_1849533867893374976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GardQOvWwAAZ5OL.jpg",
+        "width": 574
+      },
+      {
+        "height": 770,
+        "media_key": "3_1849533867910209536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GardQOzXoAAuX0J.jpg",
+        "width": 574
+      },
+      {
+        "height": 784,
+        "media_key": "3_1849533868178542593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GardQPzWEAEVaNX.jpg",
+        "width": 574
+      },
+      {
+        "height": 768,
+        "media_key": "3_1849533867960467456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GardQO_WgAAfBoB.jpg",
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1849533867893374976",
+            "3_1849533867910209536",
+            "3_1849533868178542593",
+            "3_1849533867960467456"
+          ]
+        },
+        "author_id": "1844083567992897545",
+        "conversation_id": "1849541738219647143",
+        "created_at": "2024-10-24T20:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-24T21:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1849541738219647143"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "门槛"
+            },
+            {
+              "end": 87,
+              "start": 83,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 98,
+              "start": 93,
+              "tag": "电子女友"
+            },
+            {
+              "end": 104,
+              "start": 99,
+              "tag": "一日女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UTowSine9I",
+              "end": 128,
+              "expanded_url": "https://x.com/dutton_cla59962/status/1849541738219647143/photo/1",
+              "media_key": "3_1849533867893374976",
+              "start": 105,
+              "url": "https://t.co/UTowSine9I"
+            },
+            {
+              "display_url": "pic.x.com/UTowSine9I",
+              "end": 128,
+              "expanded_url": "https://x.com/dutton_cla59962/status/1849541738219647143/photo/1",
+              "media_key": "3_1849533867910209536",
+              "start": 105,
+              "url": "https://t.co/UTowSine9I"
+            },
+            {
+              "display_url": "pic.x.com/UTowSine9I",
+              "end": 128,
+              "expanded_url": "https://x.com/dutton_cla59962/status/1849541738219647143/photo/1",
+              "media_key": "3_1849533868178542593",
+              "start": 105,
+              "url": "https://t.co/UTowSine9I"
+            },
+            {
+              "display_url": "pic.x.com/UTowSine9I",
+              "end": 128,
+              "expanded_url": "https://x.com/dutton_cla59962/status/1849541738219647143/photo/1",
+              "media_key": "3_1849533867960467456",
+              "start": 105,
+              "url": "https://t.co/UTowSine9I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1849541738219647143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 21935,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 59
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "顶置 \n这里是贝贝，很高兴认识你！！坐标深圳 ₍˄·͈༝·͈˄*₎◞ ̑̑  喜欢我请来入我🚪，我会提供情绪价值 线下业务过🚪解锁 欢迎小女孩们互fo转! \n#门槛 #门槛哥 #爸爸活 #电子女友 #一日女友 https://t.co/UTowSine9I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 201,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 694
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T18:32:52.000Z",
+        "description": "🚪188/288/520",
+        "id": "1844083567992897545",
+        "location": "深圳",
+        "name": "贝贝",
+        "pinned_tweet_id": "1849541738219647143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849526641845829632/L6lVB7Ek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 33,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 124
+        },
+        "username": "beibei0oa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1984314600272097756",
+    "created_at": "2025-10-31T17:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T18:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984314600272097756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1954201403146346496",
+          "start": 3,
+          "username": "tngxunyun12792"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984314600272097756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983169532203294961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tngxunyun12792: 没人过门所以这个价格回来了\n🚪340图包30张➕聊天➕打游戏➕每周视频一次\n500图包30张➕线下非绿一小时\n790图包30张➕非绿一晚\n1670图包全部➕聊天➕陪玩➕打折卡➕无套两天\n3000一周无套非绿可录像➕图包➕聊天加打折卡\n位置…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1984314600272097756].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1984314600272097756",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1984314600272097756"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11276,
+        "height": 1280,
+        "media_key": "13_1983169437772705792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1983169437772705792/img/3PSzmqdsZgF_rpF6.jpg",
+        "public_metrics": {
+          "view_count": 2264
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983169437772705792/vid/avc1/320x670/Zjt8Uvb_Iask-Kiu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983169437772705792/vid/avc1/480x1006/OlV-TA6kFMbIn7n8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983169437772705792/vid/avc1/610x1280/3lkiU-lVE0kKTJQy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1983169437772705792/pl/YTLnCfiDVjiPRgxA.m3u8"
+          }
+        ],
+        "width": 610
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1983169437772705792"
+          ]
+        },
+        "author_id": "1954201403146346496",
+        "conversation_id": "1983169532203294961",
+        "created_at": "2025-10-28T13:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T14:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983169532203294961"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "魅魔"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "非绿"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "包夜"
+            },
+            {
+              "end": 157,
+              "start": 154,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f5MDBGFKfj",
+              "end": 181,
+              "expanded_url": "https://x.com/tngxunyun12792/status/1983169532203294961/video/1",
+              "media_key": "13_1983169437772705792",
+              "start": 158,
+              "url": "https://t.co/f5MDBGFKfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983169532203294961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8034,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "没人过门所以这个价格回来了\n🚪340图包30张➕聊天➕打游戏➕每周视频一次\n500图包30张➕线下非绿一小时\n790图包30张➕非绿一晚\n1670图包全部➕聊天➕陪玩➕打折卡➕无套两天\n3000一周无套非绿可录像➕图包➕聊天加打折卡\n位置10 验证15 爱你萌 没给图的再私聊我一下\n#魅魔 #非绿 #包夜 #线下 https://t.co/f5MDBGFKfj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 220,
+          "like_count": 1331,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 741
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-09T15:21:45.000Z",
+        "description": "🚪看置顶没写的私信问面付价格10r",
+        "id": "1954201403146346496",
+        "name": "盐摄王（魔童）",
+        "pinned_tweet_id": "1983169532203294961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954201775017541632/Zohkanpo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 100,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 93
+        },
+        "username": "tngxunyun12792",
+        "verified": false
+      }
+    ]
+  }
+}

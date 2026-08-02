@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1951259552399393247",
+    "created_at": "2025-08-03T05:09:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T06:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951873143900975462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1903316717385945089",
+          "start": 0,
+          "username": "NazaleGwopishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951873143900975462",
+    "in_reply_to_user_id": "1903316717385945089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951259552399393247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NazaleGwopishi 我恨我不在中国"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1951259532606455808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxRENOmaQAAfxHj.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1951259533667631104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxRENSjagAAyrYp.jpg",
+        "width": 1216
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1951259533411848192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxRENRmbkAAgtny.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1951259533092982784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxRENQaaEAA_EMF.jpg",
+        "width": 1527
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1951259552399393247",
+        "created_at": "2025-08-03T05:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T06:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951873143900975462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903316717385945089",
+              "start": 0,
+              "username": "NazaleGwopishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951873143900975462",
+        "in_reply_to_user_id": "1903316717385945089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951259552399393247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NazaleGwopishi 我恨我不在中国"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951259532606455808",
+            "3_1951259533667631104",
+            "3_1951259533411848192",
+            "3_1951259533092982784"
+          ]
+        },
+        "author_id": "1903316717385945089",
+        "conversation_id": "1951259552399393247",
+        "created_at": "2025-08-01T12:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T13:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951259552399393247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EKAZrGcNZM",
+              "end": 110,
+              "expanded_url": "https://x.com/NazaleGwopishi/status/1951259552399393247/photo/1",
+              "media_key": "3_1951259532606455808",
+              "start": 87,
+              "url": "https://t.co/EKAZrGcNZM"
+            },
+            {
+              "display_url": "pic.x.com/EKAZrGcNZM",
+              "end": 110,
+              "expanded_url": "https://x.com/NazaleGwopishi/status/1951259552399393247/photo/1",
+              "media_key": "3_1951259533667631104",
+              "start": 87,
+              "url": "https://t.co/EKAZrGcNZM"
+            },
+            {
+              "display_url": "pic.x.com/EKAZrGcNZM",
+              "end": 110,
+              "expanded_url": "https://x.com/NazaleGwopishi/status/1951259552399393247/photo/1",
+              "media_key": "3_1951259533411848192",
+              "start": 87,
+              "url": "https://t.co/EKAZrGcNZM"
+            },
+            {
+              "display_url": "pic.x.com/EKAZrGcNZM",
+              "end": 110,
+              "expanded_url": "https://x.com/NazaleGwopishi/status/1951259552399393247/photo/1",
+              "media_key": "3_1951259533092982784",
+              "start": 87,
+              "url": "https://t.co/EKAZrGcNZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951259552399393247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "女铜瘾犯了好想跟女人做爱啊，江浙沪地区有没有美女想跟我打炮啊！！！！！！😭😭😭我长这样穿鞋183身体健康无不良嗜好，开房费用我这边会全部承担并且我会给你们带小礼物！！！！！\n我可做1/0/0.5，但打炮中我注意力也特别容易分散🥲🥲可能打炮开始5分钟态度很好后面就没感觉想睡觉了装起来了。但也是真的很馋女人想跟女人做爱或者跟我睡睡觉也行🥹，美女们有意私我约我😭😭😭😭！！！！！\n男的私信的滚我会用搏击经验先从你们脸开始往骨头直接一拳拳砸凹捶死掉的😊😊😊"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 211439,
+          "like_count": 1220,
+          "quote_count": 5,
+          "reply_count": 169,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "女铜瘾犯了好想跟女人做爱啊，江浙沪地区有没有美女想跟我打炮啊！！！！！！😭😭😭我长这样穿鞋183身体健康无不良嗜好，开房费用我这边会全部承担并且我会给你们带小礼物！！！！！ https://t.co/EKAZrGcNZM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 184,
+          "like_count": 1000,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 448
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T05:24:09.000Z",
+        "description": "🥺这个世界没有顺直会更美好/和朋友说没必要自己又咽不下去的叨叨",
+        "id": "1903316717385945089",
+        "location": "耶我回上海工作了！！！！！！",
+        "name": "Nazale",
+        "pinned_tweet_id": "1906363728234479787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911411591297310720/OUZuv9gc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 1798,
+          "like_count": 3819,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 392
+        },
+        "username": "NazaleGwopishi",
+        "verified": false
+      }
+    ]
+  }
+}

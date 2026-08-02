@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1969594118578872467",
+    "created_at": "2025-09-21T02:46:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T03:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969594118578872467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1630240135727165440",
+          "start": 3,
+          "username": "jiuci1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969594118578872467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969502383085666451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiuci1019: 置顶🔝\n我是真菌!\n前世5k粉大号无了呜呜😿\n欢迎女孩子互fo互转!\n入🚪详细请看最后一张！\n非常温良，我很好说话，大家尊重我的话我也会好好的对你的…🥺\n长期宅家中时间很多\n感谢大家投喂～会用来好好吃饭和活着!\n关注转发这条抽4*免门槛3*送图包…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1969594118578872467].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1969594118578872467",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1969594118578872467"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1969502371190620161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1UT-MMbQAESl94.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1969502371161260038",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1UT-MFbQAYgQWe.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1969502371161260037",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1UT-MFbQAUeACA.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1969502371190620162",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1UT-MMbQAIUvt9.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969502371190620161",
+            "3_1969502371161260038",
+            "3_1969502371161260037",
+            "3_1969502371190620162"
+          ]
+        },
+        "author_id": "1630240135727165440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1969502383085666451",
+        "created_at": "2025-09-20T20:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T21:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969502383085666451"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "门槛"
+            },
+            {
+              "end": 132,
+              "start": 128,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 138,
+              "start": 133,
+              "tag": "电子女友"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "陪聊"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "线下"
+            },
+            {
+              "end": 154,
+              "start": 148,
+              "tag": "cos委托"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gzRaDtZ2H3",
+              "end": 178,
+              "expanded_url": "https://x.com/jiuci1019/status/1969502383085666451/photo/1",
+              "media_key": "3_1969502371190620161",
+              "start": 155,
+              "url": "https://t.co/gzRaDtZ2H3"
+            },
+            {
+              "display_url": "pic.x.com/gzRaDtZ2H3",
+              "end": 178,
+              "expanded_url": "https://x.com/jiuci1019/status/1969502383085666451/photo/1",
+              "media_key": "3_1969502371161260038",
+              "start": 155,
+              "url": "https://t.co/gzRaDtZ2H3"
+            },
+            {
+              "display_url": "pic.x.com/gzRaDtZ2H3",
+              "end": 178,
+              "expanded_url": "https://x.com/jiuci1019/status/1969502383085666451/photo/1",
+              "media_key": "3_1969502371161260037",
+              "start": 155,
+              "url": "https://t.co/gzRaDtZ2H3"
+            },
+            {
+              "display_url": "pic.x.com/gzRaDtZ2H3",
+              "end": 178,
+              "expanded_url": "https://x.com/jiuci1019/status/1969502383085666451/photo/1",
+              "media_key": "3_1969502371190620162",
+              "start": 155,
+              "url": "https://t.co/gzRaDtZ2H3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969502383085666451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 127,
+                "start": 124,
+                "tag": "门槛"
+              },
+              {
+                "end": 132,
+                "start": 128,
+                "tag": "爸爸活"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "tag": "电子女友"
+              },
+              {
+                "end": 143,
+                "start": 140,
+                "tag": "陪聊"
+              },
+              {
+                "end": 147,
+                "start": 144,
+                "tag": "线下"
+              },
+              {
+                "end": 154,
+                "start": 148,
+                "tag": "cos委托"
+              },
+              {
+                "end": 159,
+                "start": 155,
+                "tag": "地雷系"
+              },
+              {
+                "end": 163,
+                "start": 160,
+                "tag": "定制"
+              },
+              {
+                "end": 167,
+                "start": 164,
+                "tag": "金主"
+              },
+              {
+                "end": 171,
+                "start": 168,
+                "tag": "原味"
+              },
+              {
+                "end": 177,
+                "start": 172,
+                "tag": "女高中生"
+              },
+              {
+                "end": 181,
+                "start": 178,
+                "tag": "萝莉"
+              },
+              {
+                "end": 185,
+                "start": 182,
+                "tag": "贫乳"
+              },
+              {
+                "end": 192,
+                "start": 186,
+                "tag": "地雷系女子"
+              },
+              {
+                "end": 198,
+                "start": 194,
+                "tag": "门槛妹"
+              },
+              {
+                "end": 202,
+                "start": 199,
+                "tag": "包养"
+              },
+              {
+                "end": 208,
+                "start": 203,
+                "tag": "金主爸爸"
+              }
+            ]
+          },
+          "text": "置顶🔝\n我是真菌!\n前世5k粉大号无了呜呜😿\n欢迎女孩子互fo互转!\n入🚪详细请看最后一张！\n非常温良，我很好说话，大家尊重我的话我也会好好的对你的…🥺\n长期宅家中时间很多\n感谢大家投喂～会用来好好吃饭和活着!\n关注转发这条抽4*免门槛3*送图包\n#门槛 #爸爸活 #电子女友  #陪聊 #线下 #cos委托 #地雷系 #定制 #金主 #原味 #女高中生 #萝莉 #贫乳 #地雷系女子  #门槛妹 #包养 #金主爸爸"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 629,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "置顶🔝\n我是真菌!\n前世5k粉大号无了呜呜😿\n欢迎女孩子互fo互转!\n入🚪详细请看最后一张！\n非常温良，我很好说话，大家尊重我的话我也会好好的对你的…🥺\n长期宅家中时间很多\n感谢大家投喂～会用来好好吃饭和活着!\n关注转发这条抽4*免门槛3*送图包\n#门槛 #爸爸活 #电子女友  #陪聊 #线下 #cos委托 https://t.co/gzRaDtZ2H3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88—谈恋爱了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 216,
+          "like_count": 1213,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 688
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-27T16:15:22.000Z",
+        "description": "我是真菌 也可以叫我kinoko 前世5kfo大号无了 双相情绪不稳定 感谢大家喜欢💕可以验证 防诈号定时清互转 坐标10",
+        "id": "1630240135727165440",
+        "location": "🚪68 128 288 520 1314",
+        "name": "中毒的蘑菇",
+        "pinned_tweet_id": "1969502383085666451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937723543141384192/Iwxtvsrw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 31,
+          "like_count": 146,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 310
+        },
+        "username": "jiuci1019",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1816924473544867840",
+        "3_1816924473549029376"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "Fighting",
+          "id": "1047520229192912896",
+          "name": "Combat sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "description": "WWE",
+          "id": "852587148666589184",
+          "name": "WWE"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544341584474112",
+          "name": "Wrestling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "WWE",
+          "id": "852587148666589184",
+          "name": "WWE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fighting",
+          "id": "1047520229192912896",
+          "name": "Combat sports"
+        }
+      }
+    ],
+    "conversation_id": "1816924503517114654",
+    "created_at": "2024-07-26T19:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T20:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1816924503517114654"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 6,
+          "tag": "Eva"
+        },
+        {
+          "end": 19,
+          "start": 11,
+          "tag": "cosplay"
+        },
+        {
+          "end": 24,
+          "start": 20,
+          "tag": "明日香"
+        },
+        {
+          "end": 32,
+          "start": 26,
+          "tag": "ASUKA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/BEU1XtGjkQ",
+          "end": 56,
+          "expanded_url": "https://twitter.com/a23937117/status/1816924503517114654/photo/1",
+          "media_key": "3_1816924473544867840",
+          "start": 33,
+          "url": "https://t.co/BEU1XtGjkQ"
+        },
+        {
+          "display_url": "pic.twitter.com/BEU1XtGjkQ",
+          "end": 56,
+          "expanded_url": "https://twitter.com/a23937117/status/1816924503517114654/photo/1",
+          "media_key": "3_1816924473549029376",
+          "start": 33,
+          "url": "https://t.co/BEU1XtGjkQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816924503517114654",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "才不喜欢你 #Eva #cosplay #明日香  #ASUKA https://t.co/BEU1XtGjkQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1816924503517114654].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1816924503517114654",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1816924503517114654"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1816924473544867840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTcDLqVbAAAsbSH.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1816924473549029376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTcDLqWagAAjRoL.jpg",
+        "width": 1755
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/目前精神疾病治疗中——数媒艺备考ing 只会画破画 司岚重度依赖 偶尔分享日常 经常负能发言 “祝你无所畏惧 祝你快乐自由”",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585964829608665089/Y3G7Z8Ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 63,
+          "like_count": 395,
+          "listed_count": 0,
+          "tweet_count": 20
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

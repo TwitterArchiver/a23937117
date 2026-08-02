@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1960540467457601536"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1960540563096134075",
+    "created_at": "2025-08-27T03:11:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T04:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960540563096134075"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/40QLRtd29n",
+          "end": 26,
+          "expanded_url": "https://x.com/a23937117/status/1960540563096134075/video/1",
+          "media_key": "13_1960540467457601536",
+          "start": 3,
+          "url": "https://t.co/40QLRtd29n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960540563096134075",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "放血 https://t.co/40QLRtd29n"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1960540563096134075].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1960540563096134075",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1960540563096134075"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32500,
+        "height": 1280,
+        "media_key": "13_1960540467457601536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1960540467457601536/img/Y4aHwylPug83nFyo.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960540467457601536/vid/avc1/320x568/hMKX2ipuJuX1JPWr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960540467457601536/vid/avc1/480x852/AC2UYP3IkCknf7pf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960540467457601536/vid/avc1/720x1280/2HEeN6nZGyTiu0YL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1960540467457601536/pl/kuMrRjhHDGGTduZJ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰--子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 206,
+          "like_count": 1121,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 628
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

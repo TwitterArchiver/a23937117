@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2037605746896929028",
+    "created_at": "2026-03-27T19:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T20:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037605746896929028"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 82,
+          "start": 79,
+          "tag": "门槛"
+        },
+        {
+          "end": 86,
+          "start": 83,
+          "tag": "萝莉"
+        },
+        {
+          "end": 91,
+          "start": 87,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "包养"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "原味"
+        },
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "线下"
+        },
+        {
+          "end": 107,
+          "start": 104,
+          "tag": "非绿"
+        },
+        {
+          "end": 111,
+          "start": 108,
+          "tag": "陪聊"
+        },
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "陪玩"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "反差"
+        },
+        {
+          "end": 125,
+          "start": 120,
+          "tag": "一日女友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "125966095",
+          "start": 3,
+          "username": "Jeanettte1987"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037605746896929028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033292045260140835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jeanettte1987: 园子快要疯啦！\n04/162/47kg\n喜欢💰喜欢给我花💰的宝宝\n反差小女生一枚，超爱cos\n喜欢我请入🚪不喜欢也入！\n#门槛 #萝莉 #爸爸活 #包养 #原味 #线下 #非绿 #陪聊 #陪玩 #反差 #一日女友 https://t.co/…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2037605746896929028].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2037605746896929028",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2037605746896929028"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033292034560385024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDe0VSSaYAAgGCe.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1004,
+        "media_key": "3_2033292034556252160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDe0VSRbUAANUG-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033292034560385024",
+            "3_2033292034556252160"
+          ]
+        },
+        "author_id": "125966095",
+        "conversation_id": "2033292045260140835",
+        "created_at": "2026-03-15T21:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T22:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033292045260140835"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "门槛"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "萝莉"
+            },
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "包养"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "原味"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "线下"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "非绿"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "陪聊"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "陪玩"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "反差"
+            },
+            {
+              "end": 106,
+              "start": 101,
+              "tag": "一日女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C6QxWoKQxA",
+              "end": 130,
+              "expanded_url": "https://x.com/Jeanettte1987/status/2033292045260140835/photo/1",
+              "media_key": "3_2033292034560385024",
+              "start": 107,
+              "url": "https://t.co/C6QxWoKQxA"
+            },
+            {
+              "display_url": "pic.x.com/C6QxWoKQxA",
+              "end": 130,
+              "expanded_url": "https://x.com/Jeanettte1987/status/2033292045260140835/photo/1",
+              "media_key": "3_2033292034556252160",
+              "start": 107,
+              "url": "https://t.co/C6QxWoKQxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033292045260140835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1246,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "园子快要疯啦！\n04/162/47kg\n喜欢💰喜欢给我花💰的宝宝\n反差小女生一枚，超爱cos\n喜欢我请入🚪不喜欢也入！\n#门槛 #萝莉 #爸爸活 #包养 #原味 #线下 #非绿 #陪聊 #陪玩 #反差 #一日女友 https://t.co/C6QxWoKQxA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 200,
+          "like_count": 1375,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 800
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-24T12:31:16.000Z",
+        "description": "04/162/47kg-可入门费用可抵扣线下!可升门!可验证!(接纯绿，半绿，非绿，1对1视频，出原味)不入门不闲聊(也不一定嘻嘻)问坐标20请带口令哟",
+        "id": "125966095",
+        "location": "过🚪有脸照",
+        "name": "园子吃不饱",
+        "pinned_tweet_id": "2033292045260140835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031972393175171072/vYfhKnT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 21
+        },
+        "username": "Jeanettte1987",
+        "verified": false
+      }
+    ]
+  }
+}

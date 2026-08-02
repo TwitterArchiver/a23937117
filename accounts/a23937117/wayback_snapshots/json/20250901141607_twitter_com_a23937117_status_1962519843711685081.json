@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1849384084272820224",
+        "3_1849384084272799744",
+        "3_1849384084264398848",
+        "3_1849384084272742401"
+      ],
+      "media_source_tweet_id": [
+        "1849384502474186971",
+        "1849384502474186971",
+        "1849384502474186971",
+        "1849384502474186971"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1962519843711685081",
+    "created_at": "2025-09-01T14:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T15:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962519843711685081"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 90,
+          "start": 87,
+          "tag": "半绿"
+        },
+        {
+          "end": 94,
+          "start": 91,
+          "tag": "纯绿"
+        },
+        {
+          "end": 99,
+          "start": 95,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1844038996483354624",
+          "start": 3,
+          "username": "kino520kino"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/deEOU8mWvO",
+          "end": 127,
+          "expanded_url": "https://x.com/NatalieJoh90752/status/1849384502474186971/photo/1",
+          "media_key": "3_1849384084272820224",
+          "start": 104,
+          "url": "https://t.co/deEOU8mWvO"
+        },
+        {
+          "display_url": "pic.x.com/deEOU8mWvO",
+          "end": 127,
+          "expanded_url": "https://x.com/NatalieJoh90752/status/1849384502474186971/photo/1",
+          "media_key": "3_1849384084272799744",
+          "start": 104,
+          "url": "https://t.co/deEOU8mWvO"
+        },
+        {
+          "display_url": "pic.x.com/deEOU8mWvO",
+          "end": 127,
+          "expanded_url": "https://x.com/NatalieJoh90752/status/1849384502474186971/photo/1",
+          "media_key": "3_1849384084264398848",
+          "start": 104,
+          "url": "https://t.co/deEOU8mWvO"
+        },
+        {
+          "display_url": "pic.x.com/deEOU8mWvO",
+          "end": 127,
+          "expanded_url": "https://x.com/NatalieJoh90752/status/1849384502474186971/photo/1",
+          "media_key": "3_1849384084272742401",
+          "start": 104,
+          "url": "https://t.co/deEOU8mWvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962519843711685081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849384502474186971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @kino520kino: 新顶置  \n这里是kino  坐标南京  \njk/lo/二次元  🚪188/288/520  \n女孩子互fo互转大欢迎！！！\n接爸爸活 \n #半绿 #纯绿 #爸爸活 #线下 https://t.co/deEOU8mWvO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962519843711685081].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962519843711685081",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962519843711685081"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 591,
+        "media_key": "3_1849384084272820224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GapVBrRXsAA6J0H.jpg",
+        "width": 574
+      },
+      {
+        "height": 848,
+        "media_key": "3_1849384084272799744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GapVBrRXYAAo2wn.jpg",
+        "width": 574
+      },
+      {
+        "height": 823,
+        "media_key": "3_1849384084264398848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GapVBrPXMAAT8cR.jpg",
+        "width": 574
+      },
+      {
+        "height": 784,
+        "media_key": "3_1849384084272742401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GapVBrRWgAEvpUQ.jpg",
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1849384084272820224",
+            "3_1849384084272799744",
+            "3_1849384084264398848",
+            "3_1849384084272742401"
+          ]
+        },
+        "author_id": "1844038996483354624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1849384502474186971",
+        "created_at": "2024-10-24T09:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-24T10:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1849384502474186971"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "半绿"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "纯绿"
+            },
+            {
+              "end": 82,
+              "start": 78,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/deEOU8mWvO",
+              "end": 110,
+              "expanded_url": "https://x.com/NatalieJoh90752/status/1849384502474186971/photo/1",
+              "media_key": "3_1849384084272820224",
+              "start": 87,
+              "url": "https://t.co/deEOU8mWvO"
+            },
+            {
+              "display_url": "pic.x.com/deEOU8mWvO",
+              "end": 110,
+              "expanded_url": "https://x.com/NatalieJoh90752/status/1849384502474186971/photo/1",
+              "media_key": "3_1849384084272799744",
+              "start": 87,
+              "url": "https://t.co/deEOU8mWvO"
+            },
+            {
+              "display_url": "pic.x.com/deEOU8mWvO",
+              "end": 110,
+              "expanded_url": "https://x.com/NatalieJoh90752/status/1849384502474186971/photo/1",
+              "media_key": "3_1849384084264398848",
+              "start": 87,
+              "url": "https://t.co/deEOU8mWvO"
+            },
+            {
+              "display_url": "pic.x.com/deEOU8mWvO",
+              "end": 110,
+              "expanded_url": "https://x.com/NatalieJoh90752/status/1849384502474186971/photo/1",
+              "media_key": "3_1849384084272742401",
+              "start": 87,
+              "url": "https://t.co/deEOU8mWvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1849384502474186971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 33962,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 67
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "新顶置  \n这里是kino  坐标南京  \njk/lo/二次元  🚪188/288/520  \n女孩子互fo互转大欢迎！！！\n接爸爸活 \n #半绿 #纯绿 #爸爸活 #线下 https://t.co/deEOU8mWvO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 211,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 663
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T15:35:50.000Z",
+        "description": "",
+        "id": "1844038996483354624",
+        "location": "南京",
+        "name": "kino",
+        "pinned_tweet_id": "1849384502474186971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849379772461154304/BRdF-Ino_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 35,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 136
+        },
+        "username": "kino520kino",
+        "verified": false
+      }
+    ]
+  }
+}

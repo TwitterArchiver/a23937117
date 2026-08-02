@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955010456013205676",
+    "created_at": "2025-08-11T20:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T21:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955010456013205676"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "门槛"
+        },
+        {
+          "end": 104,
+          "start": 100,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "糖爹"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "置顶"
+        },
+        {
+          "end": 118,
+          "start": 113,
+          "tag": "小狗日记"
+        },
+        {
+          "end": 124,
+          "start": 119,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 129,
+          "start": 125,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 134,
+          "start": 130,
+          "tag": "求投喂"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1953883986683736069",
+          "start": 3,
+          "username": "lixingchen5418"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955010456013205676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954445836860985475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lixingchen5418: 哥哥好我是小半～\n08 | 164 | 44kg | 喜欢我就来过我的🚪吧，只要过了我的🚪就是我的好宝宝，我会一直陪着你mua～～也欢迎女孩子互转～ #门槛  #爸爸活 #糖爹 #置顶 #小狗日记 #金主爸爸 #门槛妹 #求投喂 #电子宠…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_1954445831651966976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx-WIPhbwAAxX4G.jpg",
+        "width": 1180
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1954445820046299136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx-WHkSbUAAsfoq.jpg",
+        "width": 874
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1954445833929469952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx-WIYAbsAAN_yH.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1954445823833784320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx-WHyZbwAAh9lS.jpg",
+        "width": 908
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1955010456013205676",
+        "created_at": "2025-08-11T20:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T21:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955010456013205676"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "门槛"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "糖爹"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "置顶"
+            },
+            {
+              "end": 118,
+              "start": 113,
+              "tag": "小狗日记"
+            },
+            {
+              "end": 124,
+              "start": 119,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 129,
+              "start": 125,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 134,
+              "start": 130,
+              "tag": "求投喂"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1953883986683736069",
+              "start": 3,
+              "username": "lixingchen5418"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955010456013205676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954445836860985475",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lixingchen5418: 哥哥好我是小半～\n08 | 164 | 44kg | 喜欢我就来过我的🚪吧，只要过了我的🚪就是我的好宝宝，我会一直陪着你mua～～也欢迎女孩子互转～ #门槛  #爸爸活 #糖爹 #置顶 #小狗日记 #金主爸爸 #门槛妹 #求投喂 #电子宠…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954445831651966976",
+            "3_1954445820046299136",
+            "3_1954445833929469952",
+            "3_1954445823833784320"
+          ]
+        },
+        "author_id": "1953883986683736069",
+        "conversation_id": "1954445836860985475",
+        "created_at": "2025-08-10T07:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T08:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954445836860985475"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "门槛"
+            },
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "糖爹"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "置顶"
+            },
+            {
+              "end": 98,
+              "start": 93,
+              "tag": "小狗日记"
+            },
+            {
+              "end": 104,
+              "start": 99,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 114,
+              "start": 110,
+              "tag": "求投喂"
+            },
+            {
+              "end": 120,
+              "start": 115,
+              "tag": "电子宠物"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "互转"
+            },
+            {
+              "end": 127,
+              "start": 125,
+              "tag": "m"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "骚货"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wHqs88ldZh",
+              "end": 155,
+              "expanded_url": "https://x.com/lixingchen5418/status/1954445836860985475/photo/1",
+              "media_key": "3_1954445831651966976",
+              "start": 132,
+              "url": "https://t.co/wHqs88ldZh"
+            },
+            {
+              "display_url": "pic.x.com/wHqs88ldZh",
+              "end": 155,
+              "expanded_url": "https://x.com/lixingchen5418/status/1954445836860985475/photo/1",
+              "media_key": "3_1954445820046299136",
+              "start": 132,
+              "url": "https://t.co/wHqs88ldZh"
+            },
+            {
+              "display_url": "pic.x.com/wHqs88ldZh",
+              "end": 155,
+              "expanded_url": "https://x.com/lixingchen5418/status/1954445836860985475/photo/1",
+              "media_key": "3_1954445833929469952",
+              "start": 132,
+              "url": "https://t.co/wHqs88ldZh"
+            },
+            {
+              "display_url": "pic.x.com/wHqs88ldZh",
+              "end": 155,
+              "expanded_url": "https://x.com/lixingchen5418/status/1954445836860985475/photo/1",
+              "media_key": "3_1954445823833784320",
+              "start": 132,
+              "url": "https://t.co/wHqs88ldZh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954445836860985475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "哥哥好我是小半～\n08 | 164 | 44kg | 喜欢我就来过我的🚪吧，只要过了我的🚪就是我的好宝宝，我会一直陪着你mua～～也欢迎女孩子互转～ #门槛  #爸爸活 #糖爹 #置顶 #小狗日记 #金主爸爸 #门槛妹 #求投喂 #电子宠物 #互转 #m #骚货 https://t.co/wHqs88ldZh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 219,
+          "like_count": 1072,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 531
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T18:20:26.000Z",
+        "description": "我是小半呀08/164/44/对我感兴趣入我🚪好不好＞＜\n只收口令/赞赏码\n🚪88/🚪188/🚪368 不同价格不同体验感～～可验 q3886649798",
+        "id": "1953883986683736069",
+        "name": "小半",
+        "pinned_tweet_id": "1954445836860985475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954394010782420993/4ICobXaa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 1,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 11
+        },
+        "username": "lixingchen5418",
+        "verified": false
+      }
+    ]
+  }
+}

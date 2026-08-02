@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954594368536322048",
+        "3_1954594368557359106"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1954594377445278131",
+    "created_at": "2025-08-10T17:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T18:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954594377445278131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HAb9NjHRWB",
+          "end": 25,
+          "expanded_url": "https://x.com/a23937117/status/1954594377445278131/photo/1",
+          "media_key": "3_1954594368536322048",
+          "start": 2,
+          "url": "https://t.co/HAb9NjHRWB"
+        },
+        {
+          "display_url": "pic.x.com/HAb9NjHRWB",
+          "end": 25,
+          "expanded_url": "https://x.com/a23937117/status/1954594377445278131/photo/1",
+          "media_key": "3_1954594368557359106",
+          "start": 2,
+          "url": "https://t.co/HAb9NjHRWB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954594377445278131",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "盯 https://t.co/HAb9NjHRWB"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954594377445278131].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954594377445278131",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954594377445278131"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1954594368536322048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyAdOOiWIAAEt58.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1954594368557359106",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyAdOOnXIAIDc0S.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 188,
+          "like_count": 1041,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 476
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

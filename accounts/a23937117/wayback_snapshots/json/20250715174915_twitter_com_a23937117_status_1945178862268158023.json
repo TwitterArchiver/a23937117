@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1944656906888610136",
+    "created_at": "2025-07-15T17:49:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T18:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945178862268158023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3177196842",
+          "start": 0,
+          "username": "tC8VBRSlaNaWIRZ"
+        },
+        {
+          "end": 30,
+          "id": "1203547665289474048",
+          "start": 17,
+          "username": "_onedaymore_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945178862268158023",
+    "in_reply_to_user_id": "3177196842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944926220959015030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tC8VBRSlaNaWIRZ @_onedaymore_ 一整个贱货，祝他牢底坐穿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1944656906888610136",
+        "created_at": "2025-07-15T17:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T18:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945178862268158023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3177196842",
+              "start": 0,
+              "username": "tC8VBRSlaNaWIRZ"
+            },
+            {
+              "end": 30,
+              "id": "1203547665289474048",
+              "start": 17,
+              "username": "_onedaymore_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945178862268158023",
+        "in_reply_to_user_id": "3177196842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944926220959015030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tC8VBRSlaNaWIRZ @_onedaymore_ 一整个贱货，祝他牢底坐穿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3177196842",
+        "conversation_id": "1944656906888610136",
+        "created_at": "2025-07-15T01:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T02:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944926220959015030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1203547665289474048",
+              "start": 0,
+              "username": "_onedaymore_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944926220959015030",
+        "in_reply_to_user_id": "1203547665289474048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9478,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944924879180210201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_onedaymore_ 我们发现租客有卖淫行为之后告知了需要他们搬走，这时候还是想息事宁人走了完事儿的......按理来说也没什么大冲突，何必呢。但是有可能是这个卖淫女的顾客干的，因为邻居有报告说他们跟来的嫖客有冲突什么的，正在调查中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1944721626525761843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 159,
+          "like_count": 931,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 332
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-27T01:27:09.000Z",
+        "description": "蟹になりたい🦀",
+        "id": "3177196842",
+        "location": "Vancouver, British Columbia",
+        "name": "北公爵小三",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/592501171589238784/hgphfiN5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 436,
+          "like_count": 33899,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 7034
+        },
+        "username": "tC8VBRSlaNaWIRZ",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-08T05:31:52.000Z",
+        "description": "たくさんあるよ~",
+        "id": "1203547665289474048",
+        "name": "🛴ooo",
+        "pinned_tweet_id": "1748031716399448205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909969104779530240/iVal8wxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 166,
+          "like_count": 5790,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1702
+        },
+        "username": "_onedaymore_",
+        "verified": false
+      }
+    ]
+  }
+}

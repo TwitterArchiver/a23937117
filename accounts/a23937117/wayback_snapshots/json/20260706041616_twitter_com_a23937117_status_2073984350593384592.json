@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2073984287167184896"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2073984350593384592",
+    "created_at": "2026-07-06T04:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T05:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073984350593384592"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 12,
+          "start": 9,
+          "tag": "门槛"
+        },
+        {
+          "end": 17,
+          "start": 13,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "福利姬"
+        },
+        {
+          "end": 25,
+          "start": 23,
+          "tag": "m"
+        },
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "反差"
+        },
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "甜妹"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OBBu1DC1Ed",
+          "end": 57,
+          "expanded_url": "https://x.com/a23937117/status/2073984350593384592/video/1",
+          "media_key": "13_2073984287167184896",
+          "start": 34,
+          "url": "https://t.co/OBBu1DC1Ed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073984350593384592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "过门解锁跳舞版\n\n#门槛 #门槛妹 #福利姬 #m #反差 #甜妹 https://t.co/OBBu1DC1Ed"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12598,
+        "height": 1280,
+        "media_key": "13_2073984287167184896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073984287167184896/img/s0l9PjLhTsJeqCPM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073984287167184896/vid/avc1/320x568/-r3zJkklSRmMQ9kS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073984287167184896/vid/avc1/480x852/_nnMW9YnldXyLSDX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073984287167184896/vid/avc1/720x1280/6o4cT3O_yMFKSGWM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073984287167184896/pl/pwvkiQwbIXF86T-N.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073984287167184896"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2073984350593384592",
+        "created_at": "2026-07-06T04:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073984350593384592"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "门槛"
+            },
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "福利姬"
+            },
+            {
+              "end": 25,
+              "start": 23,
+              "tag": "m"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "反差"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "甜妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OBBu1DC1Ed",
+              "end": 57,
+              "expanded_url": "https://x.com/a23937117/status/2073984350593384592/video/1",
+              "media_key": "13_2073984287167184896",
+              "start": 34,
+              "url": "https://t.co/OBBu1DC1Ed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073984350593384592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过门解锁跳舞版\n\n#门槛 #门槛妹 #福利姬 #m #反差 #甜妹 https://t.co/OBBu1DC1Ed"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 189,
+          "like_count": 1420,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 779
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

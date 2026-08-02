@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1966996708555890930",
+    "created_at": "2025-09-13T22:45:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T23:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966996708555890930"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1966996708555890930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人类真好玩，定义了痛苦的边缘性障碍 焦虑性依恋 回避性障碍  斯德哥尔摩 依赖性障碍 分离焦虑\n然后创造一个名为“爱”的美好词语 就可以让人在感受痛苦的时候以为自己得到了美好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1966996708555890930",
+        "created_at": "2025-09-13T22:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T23:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966996708555890930"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966996708555890930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人类真好玩，定义了痛苦的边缘性障碍 焦虑性依恋 回避性障碍  斯德哥尔摩 依赖性障碍 分离焦虑\n然后创造一个名为“爱”的美好词语 就可以让人在感受痛苦的时候以为自己得到了美好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 210,
+          "like_count": 1194,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 661
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

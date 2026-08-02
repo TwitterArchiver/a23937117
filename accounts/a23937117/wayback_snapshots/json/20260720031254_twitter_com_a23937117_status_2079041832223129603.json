@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079041819384414208"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2079041832223129603",
+    "created_at": "2026-07-20T03:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T04:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079041832223129603"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 7,
+          "tag": "福利姬"
+        },
+        {
+          "end": 16,
+          "start": 12,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "门槛"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lmvXyrGdN1",
+          "end": 44,
+          "expanded_url": "https://x.com/a23937117/status/2079041832223129603/photo/1",
+          "media_key": "3_2079041819384414208",
+          "start": 21,
+          "url": "https://t.co/lmvXyrGdN1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079041832223129603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "盯着你——\n\n#福利姬 #门槛妹 #门槛 https://t.co/lmvXyrGdN1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079041819384414208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNo9hP2XAAACfXO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079041819384414208"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2079041832223129603",
+        "created_at": "2026-07-20T03:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079041832223129603"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "福利姬"
+            },
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "门槛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lmvXyrGdN1",
+              "end": 44,
+              "expanded_url": "https://x.com/a23937117/status/2079041832223129603/photo/1",
+              "media_key": "3_2079041819384414208",
+              "start": 21,
+              "url": "https://t.co/lmvXyrGdN1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079041832223129603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "盯着你——\n\n#福利姬 #门槛妹 #门槛 https://t.co/lmvXyrGdN1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 \n🚪88/188/288/388/520\n长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 190,
+          "like_count": 1449,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 800
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": true
+      }
+    ]
+  }
+}

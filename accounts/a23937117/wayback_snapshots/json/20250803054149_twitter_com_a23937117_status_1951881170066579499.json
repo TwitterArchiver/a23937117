@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951881160692305920"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1951881170066579499",
+    "created_at": "2025-08-03T05:41:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T06:41:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951881170066579499"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SKd6R0vkj7",
+          "end": 47,
+          "expanded_url": "https://x.com/a23937117/status/1951881170066579499/photo/1",
+          "media_key": "3_1951881160692305920",
+          "start": 24,
+          "url": "https://t.co/SKd6R0vkj7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951881170066579499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "药物 性爱 酒精 淫液 肮脏的出租屋 溃烂的我 https://t.co/SKd6R0vkj7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1951881170066579499].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1951881170066579499",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1951881170066579499"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1951881160692305920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxZ5kvrXkAAmjAN.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 184,
+          "like_count": 1000,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 449
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

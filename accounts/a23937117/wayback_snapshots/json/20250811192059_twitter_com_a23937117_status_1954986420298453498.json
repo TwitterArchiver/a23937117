@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1954986420298453498",
+    "created_at": "2025-08-11T19:20:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T20:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954986420298453498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1944812972234219520",
+          "start": 3,
+          "username": "JohnHarris81981"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954986420298453498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946976593009836379",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JohnHarris81981: 主人爸爸宝宝老公我是芝芝◕ᴗ&lt; .ᐟ\n06已成年 天津上学🎒 \n谁不想要一只电子宠物呢！\n“🚪520 可陪打游戏🎮+少女音语音通话+哄睡服务+情感树洞+福利自录抢先看+你的电子小狗 情绪价值满分呀 ”\n       🧀门槛只会超值 入了…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954986420298453498].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954986420298453498",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954986420298453498"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946976578472116225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwUM4fHWAAEnvAM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1946976578329579520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwUM4elXEAAIpYz.jpg",
+        "width": 975
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946976578472116225",
+            "3_1946976578329579520"
+          ]
+        },
+        "author_id": "1944812972234219520",
+        "conversation_id": "1946976593009836379",
+        "created_at": "2025-07-20T16:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T17:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946976593009836379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vwXPihQ0YD",
+              "end": 148,
+              "expanded_url": "https://x.com/JohnHarris81981/status/1946976593009836379/photo/1",
+              "media_key": "3_1946976578472116225",
+              "start": 125,
+              "url": "https://t.co/vwXPihQ0YD"
+            },
+            {
+              "display_url": "pic.x.com/vwXPihQ0YD",
+              "end": 148,
+              "expanded_url": "https://x.com/JohnHarris81981/status/1946976593009836379/photo/1",
+              "media_key": "3_1946976578329579520",
+              "start": 125,
+              "url": "https://t.co/vwXPihQ0YD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946976593009836379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 18760,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "主人爸爸宝宝老公我是芝芝◕ᴗ&lt; .ᐟ\n06已成年 天津上学🎒 \n谁不想要一只电子宠物呢！\n“🚪520 可陪打游戏🎮+少女音语音通话+哄睡服务+情感树洞+福利自录抢先看+你的电子小狗 情绪价值满分呀 ”\n       🧀门槛只会超值 入了就是赚 https://t.co/vwXPihQ0YD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 206,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 513
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T17:35:52.000Z",
+        "description": "可以验证！爸爸怜爱一下我…我不是皮下男…我也不贪心…我只想要一点点钱…我想买小裙裙和吃好吃的漂亮饭…想有人陪我",
+        "id": "1944812972234219520",
+        "name": "芝士蛋糕🧀",
+        "pinned_tweet_id": "1946976593009836379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946978526571470848/Clq2txv__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 150
+        },
+        "username": "JohnHarris81981",
+        "verified": false
+      }
+    ]
+  }
+}

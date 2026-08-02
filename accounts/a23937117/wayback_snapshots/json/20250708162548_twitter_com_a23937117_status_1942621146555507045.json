@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1942303551293907101",
+    "created_at": "2025-07-08T16:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T17:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942621146555507045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1793273469637111808",
+          "start": 0,
+          "username": "hui_0024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942621146555507045",
+    "in_reply_to_user_id": "1793273469637111808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942303551293907101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hui_0024 6或者@"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 862,
+        "media_key": "3_1942303519333400576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvRywpPbwAAMlyO.jpg",
+        "width": 1166
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1942303551293907101",
+        "created_at": "2025-07-08T16:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T17:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942621146555507045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1793273469637111808",
+              "start": 0,
+              "username": "hui_0024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942621146555507045",
+        "in_reply_to_user_id": "1793273469637111808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942303551293907101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hui_0024 6或者@"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942303519333400576"
+          ]
+        },
+        "author_id": "1793273469637111808",
+        "conversation_id": "1942303551293907101",
+        "created_at": "2025-07-07T19:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T20:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942303551293907101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wt57IzeF3c",
+              "end": 28,
+              "expanded_url": "https://x.com/hui_0024/status/1942303551293907101/photo/1",
+              "media_key": "3_1942303519333400576",
+              "start": 5,
+              "url": "https://t.co/wt57IzeF3c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942303551293907101",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1505,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要玩！ https://t.co/wt57IzeF3c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "kissing",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 132,
+          "like_count": 869,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 215
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T13:31:41.000Z",
+        "description": "叫我小绘 高p 主人@StrawberryFree_ 随意分享日常 无门槛喜欢可以投喂（纯绿不会发生什么） 不约不露三点 私信会看 只回感兴趣 美少女互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "StrawberryFree_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hui_0024",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hui_0024",
+                "start": 0,
+                "url": "https://t.co/L8wYoFvWTP"
+              }
+            ]
+          }
+        },
+        "id": "1793273469637111808",
+        "location": "匿名箱看这里⬇️ 互关加v私信即可ovo",
+        "name": "一只小绘饼",
+        "pinned_tweet_id": "1934980901110472889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940059475114680320/2nFkHOlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 700,
+          "like_count": 3683,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 4897
+        },
+        "url": "https://t.co/L8wYoFvWTP",
+        "username": "hui_0024",
+        "verified": false
+      }
+    ]
+  }
+}

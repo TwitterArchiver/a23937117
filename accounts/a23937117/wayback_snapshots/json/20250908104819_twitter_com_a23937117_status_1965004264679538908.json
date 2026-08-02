@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1965004264679538908",
+    "created_at": "2025-09-08T10:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T11:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965004264679538908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1958106362111729664",
+          "start": 3,
+          "username": "XinCai88853"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965004264679538908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964650026707337273",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @XinCai88853: 发个置顶🔝这里睡觉\n我重生了\n双属性偏m\n🚪188部分福利视频➕随机掉落\n325全部福利视频➕一件免费原味➕随机掉落\n520永久线下九折➕露脸视频定制两条➕两件原味盲盒➕每周非绿视频两次\n777永久线下八折➕露脸定制视频五条➕每周非绿视频四次…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1965004264679538908].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1965004264679538908",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1965004264679538908"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964650014430670848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0PWx2obMAApX3m.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1716,
+        "media_key": "3_1964650013918961664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0PWx0ubIAA7DZt.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964650014430670848",
+            "3_1964650013918961664"
+          ]
+        },
+        "author_id": "1958106362111729664",
+        "conversation_id": "1964650026707337273",
+        "created_at": "2025-09-07T11:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T12:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964650026707337273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jfnFlqXGbC",
+              "end": 172,
+              "expanded_url": "https://x.com/XinCai88853/status/1964650026707337273/photo/1",
+              "media_key": "3_1964650014430670848",
+              "start": 149,
+              "url": "https://t.co/jfnFlqXGbC"
+            },
+            {
+              "display_url": "pic.x.com/jfnFlqXGbC",
+              "end": 172,
+              "expanded_url": "https://x.com/XinCai88853/status/1964650026707337273/photo/1",
+              "media_key": "3_1964650013918961664",
+              "start": 149,
+              "url": "https://t.co/jfnFlqXGbC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964650026707337273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1456,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "发个置顶🔝这里睡觉\n我重生了\n双属性偏m\n🚪188部分福利视频➕随机掉落\n325全部福利视频➕一件免费原味➕随机掉落\n520永久线下九折➕露脸视频定制两条➕两件原味盲盒➕每周非绿视频两次\n777永久线下八折➕露脸定制视频五条➕每周非绿视频四次\n1314虽然知道没人入 \n转此条参与五个88红包抽奖 https://t.co/jfnFlqXGbC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 209,
+          "like_count": 1160,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 659
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-20T09:58:41.000Z",
+        "description": "坐标广东 以及周边 可全国飞✈️(机票你出166/51kg 只回门槛口令",
+        "id": "1958106362111729664",
+        "location": "🚪188 328 520 1314",
+        "name": "睡觉",
+        "pinned_tweet_id": "1964650026707337273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964649775913152512/TdkgJvXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 13,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 209
+        },
+        "username": "XinCai88853",
+        "verified": false
+      }
+    ]
+  }
+}

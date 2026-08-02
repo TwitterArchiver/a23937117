@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1962709853090009088"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962709920211443862",
+    "created_at": "2025-09-02T02:51:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T03:51:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962709920211443862"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "门槛"
+        },
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 33,
+          "start": 31,
+          "tag": "m"
+        },
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "地雷系"
+        },
+        {
+          "end": 42,
+          "start": 39,
+          "tag": "海外"
+        },
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "烟代"
+        },
+        {
+          "end": 50,
+          "start": 47,
+          "tag": "半绿"
+        },
+        {
+          "end": 56,
+          "start": 51,
+          "tag": "电子女友"
+        },
+        {
+          "end": 62,
+          "start": 57,
+          "tag": "线上女友"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "女高"
+        },
+        {
+          "end": 72,
+          "start": 67,
+          "tag": "反差女高"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6pJjWrjnT5",
+          "end": 96,
+          "expanded_url": "https://x.com/a23937117/status/1962709920211443862/video/1",
+          "media_key": "13_1962709853090009088",
+          "start": 73,
+          "url": "https://t.co/6pJjWrjnT5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962709920211443862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拍验证的时候突然就这样卖萌（还穿着校服）\n\n#门槛 #门槛妹 #m #地雷系 #海外 #烟代 #半绿 #电子女友 #线上女友 #女高 #反差女高 https://t.co/6pJjWrjnT5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962709920211443862].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962709920211443862",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962709920211443862"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13666,
+        "height": 1280,
+        "media_key": "13_1962709853090009088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1962709853090009088/img/xDGa36UWkMlv_6TI.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962709853090009088/vid/avc1/320x568/HkwxlSi5KnrLeQZX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962709853090009088/vid/avc1/480x852/GXlZjeKcyHkLgddg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962709853090009088/vid/avc1/720x1280/scurLUxFJ8gwDL4r.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1962709853090009088/pl/DgEMvMZT3octk9Ka.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 201,
+          "like_count": 1137,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 686
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

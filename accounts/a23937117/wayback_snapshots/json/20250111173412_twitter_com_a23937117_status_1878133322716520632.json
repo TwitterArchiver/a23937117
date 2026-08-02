@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1877764821828939778",
+    "created_at": "2025-01-11T17:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T18:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878133322716520632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1236853403868778496",
+          "start": 0,
+          "username": "Aos75987910"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878133322716520632",
+    "in_reply_to_user_id": "1236853403868778496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877967581597901304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aos75987910 耳洞倒是有七个，舌钉可以安排一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1877764821828939778",
+        "created_at": "2025-01-11T17:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T18:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878133322716520632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236853403868778496",
+              "start": 0,
+              "username": "Aos75987910"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878133322716520632",
+        "in_reply_to_user_id": "1236853403868778496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877967581597901304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aos75987910 耳洞倒是有七个，舌钉可以安排一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236853403868778496",
+        "conversation_id": "1877764821828939778",
+        "created_at": "2025-01-11T06:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T07:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877967581597901304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442350932977610752",
+              "start": 0,
+              "username": "a23937117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877967581597901304",
+        "in_reply_to_user_id": "1442350932977610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877764821828939778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a23937117 如果是舌钉带环就太色了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——严重露出lover 阿根廷裔 中文/西文/英文 司岚重度依赖 地雷女 最喜欢男朋友 M-brat-sub",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877871932521009152/ENngS7iN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 66,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 29
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-09T03:16:54.000Z",
+        "description": "上推发泄，骂的难听，情绪垃圾桶，不够贱别挨边",
+        "id": "1236853403868778496",
+        "location": "People's Republic of China",
+        "name": "Aos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1342651675358588929/enO-5xrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 23,
+          "like_count": 57,
+          "listed_count": 14,
+          "media_count": 1,
+          "tweet_count": 189
+        },
+        "username": "Aos75987910",
+        "verified": false
+      }
+    ]
+  }
+}

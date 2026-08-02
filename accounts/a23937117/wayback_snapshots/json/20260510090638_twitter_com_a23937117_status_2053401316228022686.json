@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053401307512250372"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053401316228022686",
+    "created_at": "2026-05-10T09:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T10:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053401316228022686"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 18,
+          "tag": "m"
+        },
+        {
+          "end": 23,
+          "start": 21,
+          "tag": "s"
+        },
+        {
+          "end": 27,
+          "start": 24,
+          "tag": "恶魔"
+        },
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "反差"
+        },
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "门栏"
+        },
+        {
+          "end": 41,
+          "start": 38,
+          "tag": "女大"
+        },
+        {
+          "end": 46,
+          "start": 42,
+          "tag": "地雷妹"
+        },
+        {
+          "end": 51,
+          "start": 47,
+          "tag": "接线下"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xGWV4OKtpy",
+          "end": 75,
+          "expanded_url": "https://x.com/a23937117/status/2053401316228022686/photo/1",
+          "media_key": "3_2053401307512250372",
+          "start": 52,
+          "url": "https://t.co/xGWV4OKtpy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053401316228022686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的爱深入了解是爱 深入我也是爱\n\n#m #s #恶魔  #反差  #门栏 #女大 #地雷妹 #接线下 https://t.co/xGWV4OKtpy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2053401307512250372",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8lnBuXIAQ6gpC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053401307512250372"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2053401316228022686",
+        "created_at": "2026-05-10T09:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053401316228022686"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 18,
+              "tag": "m"
+            },
+            {
+              "end": 23,
+              "start": 21,
+              "tag": "s"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "恶魔"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "反差"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "门栏"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "女大"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "地雷妹"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "接线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xGWV4OKtpy",
+              "end": 75,
+              "expanded_url": "https://x.com/a23937117/status/2053401316228022686/photo/1",
+              "media_key": "3_2053401307512250372",
+              "start": 52,
+              "url": "https://t.co/xGWV4OKtpy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053401316228022686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的爱深入了解是爱 深入我也是爱\n\n#m #s #恶魔  #反差  #门栏 #女大 #地雷妹 #接线下 https://t.co/xGWV4OKtpy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 202,
+          "like_count": 1402,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 708
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

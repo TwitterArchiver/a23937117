@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945655608725651457",
+        "3_1945655608759226369"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1945655617089417684",
+    "created_at": "2025-07-17T01:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T02:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945655617089417684"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/puQ0qWByFR",
+          "end": 35,
+          "expanded_url": "https://x.com/a23937117/status/1945655617089417684/photo/1",
+          "media_key": "3_1945655608725651457",
+          "start": 12,
+          "url": "https://t.co/puQ0qWByFR"
+        },
+        {
+          "display_url": "pic.x.com/puQ0qWByFR",
+          "end": 35,
+          "expanded_url": "https://x.com/a23937117/status/1945655617089417684/photo/1",
+          "media_key": "3_1945655608759226369",
+          "start": 12,
+          "url": "https://t.co/puQ0qWByFR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945655617089417684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁来管一下我金属过敏呢 https://t.co/puQ0qWByFR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1945655617089417684].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1945655617089417684",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1945655617089417684"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1945655608725651457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwBbd7VWwAEknLm.jpg",
+        "width": 2047
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1945655608759226369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwBbd7dXEAEvdTn.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 162,
+          "like_count": 952,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 371
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

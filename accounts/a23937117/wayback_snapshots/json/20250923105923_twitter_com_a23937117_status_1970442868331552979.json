@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1970442868331552979",
+    "created_at": "2025-09-23T10:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T11:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970442868331552979"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1970442868331552979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那些人高高在上劝人上岸的才是真的恶心，你可以讨厌我，看不起我，随便你。但是别装的善良苦口婆心的劝我上岸了，要不然给我打一百万要不然给我闭嘴。帮不了我一点就收起你那自以为是的好心。真的担心我就给我点钱，我什么都不要，就要钱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1970442868331552979",
+        "created_at": "2025-09-23T10:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T11:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970442868331552979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970442868331552979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那些人高高在上劝人上岸的才是真的恶心，你可以讨厌我，看不起我，随便你。但是别装的善良苦口婆心的劝我上岸了，要不然给我打一百万要不然给我闭嘴。帮不了我一点就收起你那自以为是的好心。真的担心我就给我点钱，我什么都不要，就要钱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88—谈恋爱了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 216,
+          "like_count": 1221,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 674
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

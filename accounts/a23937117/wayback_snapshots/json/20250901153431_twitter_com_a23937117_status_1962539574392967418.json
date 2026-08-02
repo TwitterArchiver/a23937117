@@ -1,0 +1,487 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954777945576534016",
+        "3_1954777947036155904",
+        "3_1954777945584840704",
+        "3_1954777945576501248"
+      ],
+      "media_source_tweet_id": [
+        "1954777971799228839",
+        "1954777971799228839",
+        "1954777971799228839",
+        "1954777971799228839"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962539574392967418",
+    "created_at": "2025-09-01T15:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T16:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962539574392967418"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 56,
+          "tag": "门槛"
+        },
+        {
+          "end": 64,
+          "start": 60,
+          "tag": "准女大"
+        },
+        {
+          "end": 68,
+          "start": 65,
+          "tag": "反差"
+        },
+        {
+          "end": 72,
+          "start": 69,
+          "tag": "线下"
+        },
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "非绿"
+        },
+        {
+          "end": 81,
+          "start": 77,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 87,
+          "start": 82,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 92,
+          "start": 88,
+          "tag": "求包养"
+        },
+        {
+          "end": 97,
+          "start": 93,
+          "tag": "求入门"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1926986020358070272",
+          "start": 3,
+          "username": "baozaoxiaotaidi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5fzSQ1sxRJ",
+          "end": 121,
+          "expanded_url": "https://x.com/baozaoxiaotaidi/status/1954777971799228839/photo/1",
+          "media_key": "3_1954777945576534016",
+          "start": 98,
+          "url": "https://t.co/5fzSQ1sxRJ"
+        },
+        {
+          "display_url": "pic.x.com/5fzSQ1sxRJ",
+          "end": 121,
+          "expanded_url": "https://x.com/baozaoxiaotaidi/status/1954777971799228839/photo/1",
+          "media_key": "3_1954777947036155904",
+          "start": 98,
+          "url": "https://t.co/5fzSQ1sxRJ"
+        },
+        {
+          "display_url": "pic.x.com/5fzSQ1sxRJ",
+          "end": 121,
+          "expanded_url": "https://x.com/baozaoxiaotaidi/status/1954777971799228839/photo/1",
+          "media_key": "3_1954777945584840704",
+          "start": 98,
+          "url": "https://t.co/5fzSQ1sxRJ"
+        },
+        {
+          "display_url": "pic.x.com/5fzSQ1sxRJ",
+          "end": 121,
+          "expanded_url": "https://x.com/baozaoxiaotaidi/status/1954777971799228839/photo/1",
+          "media_key": "3_1954777945576501248",
+          "start": 98,
+          "url": "https://t.co/5fzSQ1sxRJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962539574392967418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954777971799228839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baozaoxiaotaidi: 准女大\n想吃好吃的\n想玩好玩的\n想买漂亮衣服\n希望哥哥可以来入我的🚪\n#门槛 #准女大 #反差 #线下 #非绿 #爸爸活 #金主爸爸 #求包养 #求入门 https://t.co/5fzSQ1sxRJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1030,
+        "media_key": "3_1954777945576534016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDEL0TbcAAiEvB.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1565,
+        "media_key": "3_1954777947036155904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDEL5vbgAA0dwA.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1517,
+        "media_key": "3_1954777945584840704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDEL0VaMAAZG6l.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1635,
+        "media_key": "3_1954777945576501248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDEL0Ta8AAv0DD.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954777945576534016",
+            "3_1954777947036155904",
+            "3_1954777945584840704",
+            "3_1954777945576501248"
+          ],
+          "media_source_tweet_id": [
+            "1954777971799228839",
+            "1954777971799228839",
+            "1954777971799228839",
+            "1954777971799228839"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "1962539574392967418",
+        "created_at": "2025-09-01T15:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T16:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962539574392967418"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "门槛"
+            },
+            {
+              "end": 64,
+              "start": 60,
+              "tag": "准女大"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "反差"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "线下"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "非绿"
+            },
+            {
+              "end": 81,
+              "start": 77,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "求包养"
+            },
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "求入门"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1926986020358070272",
+              "start": 3,
+              "username": "baozaoxiaotaidi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5fzSQ1sxRJ",
+              "end": 121,
+              "expanded_url": "https://x.com/baozaoxiaotaidi/status/1954777971799228839/photo/1",
+              "media_key": "3_1954777945576534016",
+              "start": 98,
+              "url": "https://t.co/5fzSQ1sxRJ"
+            },
+            {
+              "display_url": "pic.x.com/5fzSQ1sxRJ",
+              "end": 121,
+              "expanded_url": "https://x.com/baozaoxiaotaidi/status/1954777971799228839/photo/1",
+              "media_key": "3_1954777947036155904",
+              "start": 98,
+              "url": "https://t.co/5fzSQ1sxRJ"
+            },
+            {
+              "display_url": "pic.x.com/5fzSQ1sxRJ",
+              "end": 121,
+              "expanded_url": "https://x.com/baozaoxiaotaidi/status/1954777971799228839/photo/1",
+              "media_key": "3_1954777945584840704",
+              "start": 98,
+              "url": "https://t.co/5fzSQ1sxRJ"
+            },
+            {
+              "display_url": "pic.x.com/5fzSQ1sxRJ",
+              "end": 121,
+              "expanded_url": "https://x.com/baozaoxiaotaidi/status/1954777971799228839/photo/1",
+              "media_key": "3_1954777945576501248",
+              "start": 98,
+              "url": "https://t.co/5fzSQ1sxRJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962539574392967418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954777971799228839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baozaoxiaotaidi: 准女大\n想吃好吃的\n想玩好玩的\n想买漂亮衣服\n希望哥哥可以来入我的🚪\n#门槛 #准女大 #反差 #线下 #非绿 #爸爸活 #金主爸爸 #求包养 #求入门 https://t.co/5fzSQ1sxRJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954777945576534016",
+            "3_1954777947036155904",
+            "3_1954777945584840704",
+            "3_1954777945576501248"
+          ]
+        },
+        "author_id": "1926986020358070272",
+        "conversation_id": "1954777971799228839",
+        "created_at": "2025-08-11T05:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T06:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954777971799228839"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "门槛"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "准女大"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "反差"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "线下"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "非绿"
+            },
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "求包养"
+            },
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "求入门"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5fzSQ1sxRJ",
+              "end": 100,
+              "expanded_url": "https://x.com/baozaoxiaotaidi/status/1954777971799228839/photo/1",
+              "media_key": "3_1954777945576534016",
+              "start": 77,
+              "url": "https://t.co/5fzSQ1sxRJ"
+            },
+            {
+              "display_url": "pic.x.com/5fzSQ1sxRJ",
+              "end": 100,
+              "expanded_url": "https://x.com/baozaoxiaotaidi/status/1954777971799228839/photo/1",
+              "media_key": "3_1954777947036155904",
+              "start": 77,
+              "url": "https://t.co/5fzSQ1sxRJ"
+            },
+            {
+              "display_url": "pic.x.com/5fzSQ1sxRJ",
+              "end": 100,
+              "expanded_url": "https://x.com/baozaoxiaotaidi/status/1954777971799228839/photo/1",
+              "media_key": "3_1954777945584840704",
+              "start": 77,
+              "url": "https://t.co/5fzSQ1sxRJ"
+            },
+            {
+              "display_url": "pic.x.com/5fzSQ1sxRJ",
+              "end": 100,
+              "expanded_url": "https://x.com/baozaoxiaotaidi/status/1954777971799228839/photo/1",
+              "media_key": "3_1954777945576501248",
+              "start": 77,
+              "url": "https://t.co/5fzSQ1sxRJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954777971799228839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 24343,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "准女大\n想吃好吃的\n想玩好玩的\n想买漂亮衣服\n希望哥哥可以来入我的🚪\n#门槛 #准女大 #反差 #线下 #非绿 #爸爸活 #金主爸爸 #求包养 #求入门 https://t.co/5fzSQ1sxRJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 201,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 690
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T12:57:45.000Z",
+        "description": "我高三 真的很缺钱 想买好多小裙子 看到的哥哥姐姐 可不可以互转互fo 呀",
+        "id": "1926986020358070272",
+        "name": "暴躁小泰迪",
+        "pinned_tweet_id": "1954777971799228839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926992788391858176/9OqrOsB2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 140,
+          "like_count": 295,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 547
+        },
+        "username": "baozaoxiaotaidi",
+        "verified": false
+      }
+    ]
+  }
+}

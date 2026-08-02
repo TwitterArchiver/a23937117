@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1933556201138356589",
+    "created_at": "2025-06-15T08:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T09:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934170333998674339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1864468641305251844",
+          "start": 0,
+          "username": "AkaNpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934170333998674339",
+    "in_reply_to_user_id": "1864468641305251844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933556201138356589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkaNpc 那很幸福了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1933556201138356589",
+        "created_at": "2025-06-15T08:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T09:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934170333998674339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1864468641305251844",
+              "start": 0,
+              "username": "AkaNpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934170333998674339",
+        "in_reply_to_user_id": "1864468641305251844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933556201138356589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkaNpc 那很幸福了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864468641305251844",
+        "conversation_id": "1933556201138356589",
+        "created_at": "2025-06-13T16:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T17:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933556201138356589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933556201138356589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 309,
+          "impression_count": 936493,
+          "like_count": 3772,
+          "quote_count": 40,
+          "reply_count": 251,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "你们就谈恋爱吧 谈那种两个人一起在出租房一觉睡到下午 吃着拼好饭 晚上被操的恋爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "讨厌我的人有福了 因为我真的过的很惨",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 120,
+          "like_count": 759,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 120
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T00:35:51.000Z",
+        "description": "做S会笑场，做M会还手☁️全是网上段子&日常美食🍽️ 唯一大号｜小号@AkaNpc2｜仅此两号慎防受骗 ☺︎｜｜粤/国｜叫我小曼就好🗿｜📸｜🎧｜保持禮貌 唔該",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 34,
+                "username": "AkaNpc2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/AM3r3Y",
+                "end": 23,
+                "expanded_url": "https://reurl.cc/AM3r3Y",
+                "start": 0,
+                "url": "https://t.co/xpg16bPmSN"
+              }
+            ]
+          }
+        },
+        "id": "1864468641305251844",
+        "location": "CK律師樓",
+        "name": "曼醬⋆౨ৎ˚⟡˖ ࣪",
+        "pinned_tweet_id": "1909985102790349042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919715132814581760/ArvfnMh0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8731,
+          "following_count": 112,
+          "like_count": 9584,
+          "listed_count": 9,
+          "media_count": 106,
+          "tweet_count": 2085
+        },
+        "url": "https://t.co/xpg16bPmSN",
+        "username": "AkaNpc",
+        "verified": false
+      }
+    ]
+  }
+}

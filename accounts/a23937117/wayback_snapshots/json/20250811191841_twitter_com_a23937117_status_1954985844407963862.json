@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1954985844407963862",
+    "created_at": "2025-08-11T19:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T20:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954985844407963862"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 102,
+          "start": 97,
+          "tag": "湖南长沙"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "线下"
+        },
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "半绿"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "非绿"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "女高"
+        },
+        {
+          "end": 122,
+          "start": 119,
+          "tag": "女儿"
+        },
+        {
+          "end": 126,
+          "start": 123,
+          "tag": "SM"
+        },
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "k8"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "k9"
+        },
+        {
+          "end": 139,
+          "start": 135,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1899423517743235073",
+          "start": 3,
+          "username": "llililili0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954985844407963862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954190952802992176",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @llililili0: 🔝\n08 170/45kg 在长沙流浪\n被半弃养状态  求收养\n🚪188/288/520/1314/…\n为了钱什么都能做出来 置顶没写的私信问\n妹子可以找我互转\n#湖南长沙 #线下 #半绿 #非绿 #女高 #女儿 #SM #k8 #k9 #门槛妹…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954985844407963862].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954985844407963862",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954985844407963862"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1391,
+        "media_key": "3_1954190940685631488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx6uToragAA2QlI.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1954190940714962945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx6uToyaEAEELdk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1954190940647948288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx6uToibgAAyCKJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1954190940660551680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx6uTolb0AA8AzX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954190940685631488",
+            "3_1954190940714962945",
+            "3_1954190940647948288",
+            "3_1954190940660551680"
+          ]
+        },
+        "author_id": "1899423517743235073",
+        "conversation_id": "1954190952802992176",
+        "created_at": "2025-08-09T14:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T15:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954190952802992176"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "湖南长沙"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "线下"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "半绿"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "非绿"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "女高"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "女儿"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "SM"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "k8"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "k9"
+            },
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UJWGRe9yoX",
+              "end": 147,
+              "expanded_url": "https://x.com/llililili0/status/1954190952802992176/photo/1",
+              "media_key": "3_1954190940685631488",
+              "start": 124,
+              "url": "https://t.co/UJWGRe9yoX"
+            },
+            {
+              "display_url": "pic.x.com/UJWGRe9yoX",
+              "end": 147,
+              "expanded_url": "https://x.com/llililili0/status/1954190952802992176/photo/1",
+              "media_key": "3_1954190940714962945",
+              "start": 124,
+              "url": "https://t.co/UJWGRe9yoX"
+            },
+            {
+              "display_url": "pic.x.com/UJWGRe9yoX",
+              "end": 147,
+              "expanded_url": "https://x.com/llililili0/status/1954190952802992176/photo/1",
+              "media_key": "3_1954190940647948288",
+              "start": 124,
+              "url": "https://t.co/UJWGRe9yoX"
+            },
+            {
+              "display_url": "pic.x.com/UJWGRe9yoX",
+              "end": 147,
+              "expanded_url": "https://x.com/llililili0/status/1954190952802992176/photo/1",
+              "media_key": "3_1954190940660551680",
+              "start": 124,
+              "url": "https://t.co/UJWGRe9yoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954190952802992176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1051,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "🔝\n08 170/45kg 在长沙流浪\n被半弃养状态  求收养\n🚪188/288/520/1314/…\n为了钱什么都能做出来 置顶没写的私信问\n妹子可以找我互转\n#湖南长沙 #线下 #半绿 #非绿 #女高 #女儿 #SM #k8 #k9 #门槛妹 https://t.co/UJWGRe9yoX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 202,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 509
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-11T11:34:02.000Z",
+        "description": "长沙 170/44kg 大号@QQQ0306qqq2 两千fo已被冻结",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "QQQ0306qqq2"
+              }
+            ]
+          }
+        },
+        "id": "1899423517743235073",
+        "location": "🚪188/288/520/1314……",
+        "name": "你我只做片刻恋人（长沙✈️",
+        "pinned_tweet_id": "1954190952802992176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951599490768805888/LtFn81Ec_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 3,
+          "like_count": 44,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 37
+        },
+        "username": "llililili0",
+        "verified": false
+      }
+    ]
+  }
+}

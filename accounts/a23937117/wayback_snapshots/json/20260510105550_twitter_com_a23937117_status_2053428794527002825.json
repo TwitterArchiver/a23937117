@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053428794527002825",
+    "created_at": "2026-05-10T10:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053428794527002825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1330592424469671937",
+          "start": 3,
+          "username": "budinglaile2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053428794527002825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 91
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049752081595347147",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @budinglaile2: hello @我是布丁                                              \n06年｜167cm｜45kg                                           \n喜欢我的宝…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053428794527002825].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053428794527002825",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053428794527002825"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1391,
+        "media_key": "3_2049752056865628160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIuorsaIAAEIYK.jpg",
+        "width": 1281
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2049752056865648640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIuorsacAAzkIi.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049752056865628160",
+            "3_2049752056865648640"
+          ]
+        },
+        "author_id": "1330592424469671937",
+        "conversation_id": "2049752081595347147",
+        "created_at": "2026-04-30T07:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049752081595347147"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 168,
+              "start": 165,
+              "tag": "门槛"
+            },
+            {
+              "end": 174,
+              "start": 169,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 178,
+              "start": 175,
+              "tag": "女高"
+            },
+            {
+              "end": 182,
+              "start": 179,
+              "tag": "线下"
+            },
+            {
+              "end": 186,
+              "start": 183,
+              "tag": "反差"
+            },
+            {
+              "end": 190,
+              "start": 187,
+              "tag": "足控"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F33a2YaY4m",
+              "end": 214,
+              "expanded_url": "https://x.com/budinglaile2/status/2049752081595347147/photo/1",
+              "media_key": "3_2049752056865628160",
+              "start": 191,
+              "url": "https://t.co/F33a2YaY4m"
+            },
+            {
+              "display_url": "pic.x.com/F33a2YaY4m",
+              "end": 214,
+              "expanded_url": "https://x.com/budinglaile2/status/2049752081595347147/photo/1",
+              "media_key": "3_2049752056865648640",
+              "start": 191,
+              "url": "https://t.co/F33a2YaY4m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049752081595347147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 27966,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "hello @我是布丁                                              \n06年｜167cm｜45kg                                           \n喜欢我的宝宝欢迎入🚪\n喜欢直接发口令投喂我💖\n欢迎小女孩互转互fo\n转发此帖或关注抽5个188🧧 #门槛 #金主爸爸 #女高 #线下 #反差 #足控 https://t.co/F33a2YaY4m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 202,
+          "like_count": 1402,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 711
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-22T19:22:40.000Z",
+        "description": "前世1800fo，转世重生寻找前世fo，感谢您的投喂喵(^w^)❤️问坐标20，支持口令(请带姓)和 u，欢迎宝宝找我互转互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B8%83%E4%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B8%83%E4%B8%8157778",
+                "start": 0,
+                "url": "https://t.co/rCbJ5htBIr"
+              }
+            ]
+          }
+        },
+        "id": "1330592424469671937",
+        "location": "距离你5公里 ",
+        "name": "布丁",
+        "pinned_tweet_id": "2049752081595347147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937465994345398272/MfI38way_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2471,
+          "following_count": 79,
+          "like_count": 143,
+          "listed_count": 11,
+          "media_count": 171,
+          "tweet_count": 344
+        },
+        "url": "https://t.co/rCbJ5htBIr",
+        "username": "budinglaile2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1970483274280796185",
+    "created_at": "2025-09-23T13:39:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T14:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970483274280796185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1939352450714202112",
+          "start": 3,
+          "username": "inwhtk_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970483274280796185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970440474000519514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @inwhtk_: 有钱到底啥感觉 长的好看到底啥感觉 长的高到底啥感觉 会画画到底啥感觉 会好几种语言到底啥感觉 会跳舞到底啥感觉 会唱歌到底啥感觉 每天都有人给自己发消息到底啥感觉 不管什么节日都有人给自己送礼物到底啥感觉 好朋友多到底啥感觉  有幸福家庭到底啥感觉…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1970483274280796185",
+        "created_at": "2025-09-23T13:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T14:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970483274280796185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939352450714202112",
+              "start": 3,
+              "username": "inwhtk_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970483274280796185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970440474000519514",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @inwhtk_: 有钱到底啥感觉 长的好看到底啥感觉 长的高到底啥感觉 会画画到底啥感觉 会好几种语言到底啥感觉 会跳舞到底啥感觉 会唱歌到底啥感觉 每天都有人给自己发消息到底啥感觉 不管什么节日都有人给自己送礼物到底啥感觉 好朋友多到底啥感觉  有幸福家庭到底啥感觉…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939352450714202112",
+        "conversation_id": "1970440474000519514",
+        "created_at": "2025-09-23T10:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T11:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970440474000519514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970440474000519514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2853,
+          "like_count": 79,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "有钱到底啥感觉 长的好看到底啥感觉 长的高到底啥感觉 会画画到底啥感觉 会好几种语言到底啥感觉 会跳舞到底啥感觉 会唱歌到底啥感觉 每天都有人给自己发消息到底啥感觉 不管什么节日都有人给自己送礼物到底啥感觉 好朋友多到底啥感觉  有幸福家庭到底啥感觉 被爱到底啥感觉 被在意到底啥感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88—谈恋爱了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 216,
+          "like_count": 1223,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 677
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T15:57:22.000Z",
+        "description": "讨厌我的就去死 我叫小缘 內有血图慎关",
+        "id": "1939352450714202112",
+        "name": "404notfound",
+        "pinned_tweet_id": "1966580618596081726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969723147177091072/Kw_m92xr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 191,
+          "like_count": 4346,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 3619
+        },
+        "username": "inwhtk_",
+        "verified": false
+      }
+    ]
+  }
+}

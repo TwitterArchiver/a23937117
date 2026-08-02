@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1877568351309869056"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1877568357425192995",
+    "created_at": "2025-01-10T04:09:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T05:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1877568357425192995"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "裸体"
+        },
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "反差"
+        },
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "反差女友"
+        },
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "内裤"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5LzMz49iMB",
+          "end": 54,
+          "expanded_url": "https://x.com/a23937117/status/1877568357425192995/photo/1",
+          "media_key": "3_1877568351309869056",
+          "start": 31,
+          "url": "https://t.co/5LzMz49iMB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877568357425192995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好困，想被男朋友抱着睡觉\n#裸体 #反差 #反差女友 #内裤 https://t.co/5LzMz49iMB"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1877568357425192995].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1877568357425192995",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1877568357425192995"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1877568351309869056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg52d71XMAARKjl.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——不线下 只是兴趣 阿根廷裔 中文/西文/英文/数媒艺备考ing 司岚重度依赖 地雷女 最喜欢男朋友 M-brat-sub",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877212051702972417/wkzE93h__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 66,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 26
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

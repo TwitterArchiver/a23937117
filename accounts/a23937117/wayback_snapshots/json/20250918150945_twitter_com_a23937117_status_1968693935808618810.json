@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1968560221170843923",
+    "created_at": "2025-09-18T15:09:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T16:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968693935808618810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "horizon_tem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968693935808618810",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968560221170843923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@horizon_tem 这个人有语言组织能力吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1022,
+        "media_key": "3_1968560211884654593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1G7FTRaQAEZU-_.jpg",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1968560221170843923",
+        "created_at": "2025-09-18T15:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T16:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968693935808618810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "horizon_tem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968693935808618810",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968560221170843923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@horizon_tem 这个人有语言组织能力吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968560211884654593"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1968560221170843923",
+        "created_at": "2025-09-18T06:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T07:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968560221170843923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QazoH97Zlj",
+              "end": 26,
+              "expanded_url": "https://x.com/horizon_tem/status/1968560221170843923/photo/1",
+              "media_key": "3_1968560211884654593",
+              "start": 3,
+              "url": "https://t.co/QazoH97Zlj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968560221170843923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4592,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牛逼 https://t.co/QazoH97Zlj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88—谈恋爱了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 215,
+          "like_count": 1211,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 682
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "那只不过是幻想，活着就是受苦，或者接受将来受苦的可能性。同班同学 @KunaAkem1 逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "KunaAkem1"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "горизонт",
+        "pinned_tweet_id": "1968506116775809151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958788478659080192/50PLjod7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5978,
+          "following_count": 2501,
+          "like_count": 51487,
+          "listed_count": 14,
+          "media_count": 989,
+          "tweet_count": 13142
+        },
+        "username": "horizon_tem",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953319019827576832",
+        "3_1953319018162470912",
+        "3_1953319039054303232"
+      ],
+      "media_source_tweet_id": [
+        "1953319043869356276",
+        "1953319043869356276",
+        "1953319043869356276"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1954985340575556025",
+    "created_at": "2025-08-11T19:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T20:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954985340575556025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1911665994277289984",
+          "start": 3,
+          "username": "3863430227Lily"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3Ph1ZMGgqh",
+          "end": 94,
+          "expanded_url": "https://x.com/3863430227Lily/status/1953319043869356276/photo/1",
+          "media_key": "3_1953319019827576832",
+          "start": 71,
+          "url": "https://t.co/3Ph1ZMGgqh"
+        },
+        {
+          "display_url": "pic.x.com/3Ph1ZMGgqh",
+          "end": 94,
+          "expanded_url": "https://x.com/3863430227Lily/status/1953319043869356276/photo/1",
+          "media_key": "3_1953319018162470912",
+          "start": 71,
+          "url": "https://t.co/3Ph1ZMGgqh"
+        },
+        {
+          "display_url": "pic.x.com/3Ph1ZMGgqh",
+          "end": 94,
+          "expanded_url": "https://x.com/3863430227Lily/status/1953319043869356276/photo/1",
+          "media_key": "3_1953319039054303232",
+          "start": 71,
+          "url": "https://t.co/3Ph1ZMGgqh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954985340575556025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953319043869356276",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3863430227Lily: 重新搞个置顶\n看成分回fo基本都会回\n抽奖之后搞吧人有点少\n最近没什么精力\n转帖感谢 互fo互转ok https://t.co/3Ph1ZMGgqh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954985340575556025].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954985340575556025",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954985340575556025"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 966,
+        "media_key": "3_1953319019827576832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxuVTKXWQAAyeiH.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1953319018162470912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxuVTEKWwAA5PQm.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1953319039054303232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxuVUR_W0AAJdQk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953319019827576832",
+            "3_1953319018162470912",
+            "3_1953319039054303232"
+          ]
+        },
+        "author_id": "1911665994277289984",
+        "conversation_id": "1953319043869356276",
+        "created_at": "2025-08-07T04:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T05:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953319043869356276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Ph1ZMGgqh",
+              "end": 74,
+              "expanded_url": "https://x.com/3863430227Lily/status/1953319043869356276/photo/1",
+              "media_key": "3_1953319019827576832",
+              "start": 51,
+              "url": "https://t.co/3Ph1ZMGgqh"
+            },
+            {
+              "display_url": "pic.x.com/3Ph1ZMGgqh",
+              "end": 74,
+              "expanded_url": "https://x.com/3863430227Lily/status/1953319043869356276/photo/1",
+              "media_key": "3_1953319018162470912",
+              "start": 51,
+              "url": "https://t.co/3Ph1ZMGgqh"
+            },
+            {
+              "display_url": "pic.x.com/3Ph1ZMGgqh",
+              "end": 74,
+              "expanded_url": "https://x.com/3863430227Lily/status/1953319043869356276/photo/1",
+              "media_key": "3_1953319039054303232",
+              "start": 51,
+              "url": "https://t.co/3Ph1ZMGgqh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953319043869356276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3292,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "重新搞个置顶\n看成分回fo基本都会回\n抽奖之后搞吧人有点少\n最近没什么精力\n转帖感谢 互fo互转ok https://t.co/3Ph1ZMGgqh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 199,
+          "like_count": 1065,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 506
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T06:21:11.000Z",
+        "description": "总有一天你的骄傲会蜷缩，总有一天你的勇气会崩溃。总有一天，你会不再看到你的高贵之处，却十分亲近你的卑贱之处",
+        "id": "1911665994277289984",
+        "name": "常凯申",
+        "pinned_tweet_id": "1953319043869356276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952695325484797952/ac6aKUET_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 64,
+          "like_count": 1232,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 127
+        },
+        "username": "3863430227Lily",
+        "verified": false
+      }
+    ]
+  }
+}

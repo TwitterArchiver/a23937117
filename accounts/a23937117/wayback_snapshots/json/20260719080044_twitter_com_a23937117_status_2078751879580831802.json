@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2078712532861120714",
+    "created_at": "2026-07-19T08:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T09:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078751879580831802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796566410338111488",
+          "start": 0,
+          "username": "jiegeng_KK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078751879580831802",
+    "in_reply_to_user_id": "1796566410338111488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078732742875926660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiegeng_KK 姐姐把我绑起来需要的时候随时使用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2078712532861120714",
+        "created_at": "2026-07-19T08:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T09:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078751879580831802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796566410338111488",
+              "start": 0,
+              "username": "jiegeng_KK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078751879580831802",
+        "in_reply_to_user_id": "1796566410338111488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078732742875926660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiegeng_KK 姐姐把我绑起来需要的时候随时使用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796566410338111488",
+        "conversation_id": "2078712532861120714",
+        "created_at": "2026-07-19T06:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078732742875926660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442350932977610752",
+              "start": 0,
+              "username": "a23937117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078732742875926660",
+        "in_reply_to_user_id": "1442350932977610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078712532861120714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a23937117 我吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 190,
+          "like_count": 1446,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 799
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-31T15:36:39.000Z",
+        "description": "06 || entp || 🚪请看下面，只过QQ只过QQ只过QQ！过了🚪一概不退请理解 || 喜欢礼貌的人 女孩子请私信我互关！|| 推广请自辨 ||",
+        "id": "1796566410338111488",
+        "location": "🚪198/298",
+        "name": "桔梗桔梗",
+        "pinned_tweet_id": "1847943234988990966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942086668011405312/deasG91P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3210,
+          "following_count": 446,
+          "like_count": 5806,
+          "listed_count": 7,
+          "media_count": 153,
+          "tweet_count": 2585
+        },
+        "url": "",
+        "username": "jiegeng_KK",
+        "verified": false
+      }
+    ]
+  }
+}

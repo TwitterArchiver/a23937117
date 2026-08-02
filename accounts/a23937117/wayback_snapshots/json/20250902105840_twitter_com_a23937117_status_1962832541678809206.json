@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896605549837357056",
+        "3_1896605596410933248",
+        "3_1896605694142320640"
+      ],
+      "media_source_tweet_id": [
+        "1896605952394334368",
+        "1896605952394334368",
+        "1896605952394334368"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1962832541678809206",
+    "created_at": "2025-09-02T10:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T11:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962832541678809206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1848066689184997376",
+          "start": 3,
+          "username": "Simps28x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rwmYMdFUT1",
+          "end": 76,
+          "expanded_url": "https://x.com/MaudeSimps28638/status/1896605952394334368/photo/1",
+          "media_key": "3_1896605549837357056",
+          "start": 53,
+          "url": "https://t.co/rwmYMdFUT1"
+        },
+        {
+          "display_url": "pic.x.com/rwmYMdFUT1",
+          "end": 76,
+          "expanded_url": "https://x.com/MaudeSimps28638/status/1896605952394334368/photo/1",
+          "media_key": "3_1896605596410933248",
+          "start": 53,
+          "url": "https://t.co/rwmYMdFUT1"
+        },
+        {
+          "display_url": "pic.x.com/rwmYMdFUT1",
+          "end": 76,
+          "expanded_url": "https://x.com/MaudeSimps28638/status/1896605952394334368/photo/1",
+          "media_key": "3_1896605694142320640",
+          "start": 53,
+          "url": "https://t.co/rwmYMdFUT1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962832541678809206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896605952394334368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @Simps28x: 大家好这里是只只的新置顶\n很好说话很温良的小女孩\n在北京，接爸爸活\n欢迎入🚪 https://t.co/rwmYMdFUT1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 508,
+        "media_key": "3_1896605549837357056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlIYsu0XEAAnPDf.png",
+        "width": 574
+      },
+      {
+        "height": 745,
+        "media_key": "3_1896605596410933248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlIYvcUXcAAPl0H.png",
+        "width": 574
+      },
+      {
+        "height": 649,
+        "media_key": "3_1896605694142320640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlIY1IZWEAAm8Q4.png",
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896605549837357056",
+            "3_1896605596410933248",
+            "3_1896605694142320640"
+          ],
+          "media_source_tweet_id": [
+            "1896605952394334368",
+            "1896605952394334368",
+            "1896605952394334368"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1962832541678809206",
+        "created_at": "2025-09-02T10:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T11:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962832541678809206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1848066689184997376",
+              "start": 3,
+              "username": "Simps28x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rwmYMdFUT1",
+              "end": 76,
+              "expanded_url": "https://x.com/MaudeSimps28638/status/1896605952394334368/photo/1",
+              "media_key": "3_1896605549837357056",
+              "start": 53,
+              "url": "https://t.co/rwmYMdFUT1"
+            },
+            {
+              "display_url": "pic.x.com/rwmYMdFUT1",
+              "end": 76,
+              "expanded_url": "https://x.com/MaudeSimps28638/status/1896605952394334368/photo/1",
+              "media_key": "3_1896605596410933248",
+              "start": 53,
+              "url": "https://t.co/rwmYMdFUT1"
+            },
+            {
+              "display_url": "pic.x.com/rwmYMdFUT1",
+              "end": 76,
+              "expanded_url": "https://x.com/MaudeSimps28638/status/1896605952394334368/photo/1",
+              "media_key": "3_1896605694142320640",
+              "start": 53,
+              "url": "https://t.co/rwmYMdFUT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962832541678809206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896605952394334368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @Simps28x: 大家好这里是只只的新置顶\n很好说话很温良的小女孩\n在北京，接爸爸活\n欢迎入🚪 https://t.co/rwmYMdFUT1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896605549837357056",
+            "3_1896605596410933248",
+            "3_1896605694142320640"
+          ]
+        },
+        "author_id": "1848066689184997376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1896605952394334368",
+        "created_at": "2025-03-03T16:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T17:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896605952394334368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rwmYMdFUT1",
+              "end": 62,
+              "expanded_url": "https://x.com/MaudeSimps28638/status/1896605952394334368/photo/1",
+              "media_key": "3_1896605549837357056",
+              "start": 39,
+              "url": "https://t.co/rwmYMdFUT1"
+            },
+            {
+              "display_url": "pic.x.com/rwmYMdFUT1",
+              "end": 62,
+              "expanded_url": "https://x.com/MaudeSimps28638/status/1896605952394334368/photo/1",
+              "media_key": "3_1896605596410933248",
+              "start": 39,
+              "url": "https://t.co/rwmYMdFUT1"
+            },
+            {
+              "display_url": "pic.x.com/rwmYMdFUT1",
+              "end": 62,
+              "expanded_url": "https://x.com/MaudeSimps28638/status/1896605952394334368/photo/1",
+              "media_key": "3_1896605694142320640",
+              "start": 39,
+              "url": "https://t.co/rwmYMdFUT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896605952394334368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 36125,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "大家好这里是只只的新置顶\n很好说话很温良的小女孩\n在北京，接爸爸活\n欢迎入🚪 https://t.co/rwmYMdFUT1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 201,
+          "like_count": 1139,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 690
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T18:20:27.000Z",
+        "description": "前世被奸人所害，求互fo互转\n🚪188/288/520/888\n 欢迎宝宝们过我🚪",
+        "id": "1848066689184997376",
+        "name": "只只3.0",
+        "pinned_tweet_id": "1896605952394334368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896602823434829824/L1z23t6v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 60,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 196
+        },
+        "username": "Simps28x",
+        "verified": false
+      }
+    ]
+  }
+}

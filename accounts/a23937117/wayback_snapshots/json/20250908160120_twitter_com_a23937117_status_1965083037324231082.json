@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Cancer",
+          "id": "1138864492526297093",
+          "name": "Cancer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cancer",
+          "id": "1138864492526297093",
+          "name": "Cancer"
+        }
+      }
+    ],
+    "conversation_id": "1965083037324231082",
+    "created_at": "2025-09-08T16:01:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T17:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965083037324231082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1755113572135292929",
+          "start": 3,
+          "username": "ynshng168347018"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965083037324231082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964990934502027612",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ynshng168347018: 新置顶\n颜控颜性恋\n这里cn十一\n纯绿\n07/170/89斤/巨蟹座\n98🚪开放朋友圈和聊天\n188🚪🉑打语音聊天打游戏日常分享\n520🚪线下漫展带你玩仅限徐州市中心\n我很温良，可以来聊\n过门不退，想好再入🤓👍🏻 https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964990930752278528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0UM1y5akAAkP8i.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cancer",
+              "id": "1138864492526297093",
+              "name": "Cancer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cancer",
+              "id": "1138864492526297093",
+              "name": "Cancer"
+            }
+          }
+        ],
+        "conversation_id": "1965083037324231082",
+        "created_at": "2025-09-08T16:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T17:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965083037324231082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1755113572135292929",
+              "start": 3,
+              "username": "ynshng168347018"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965083037324231082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964990934502027612",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ynshng168347018: 新置顶\n颜控颜性恋\n这里cn十一\n纯绿\n07/170/89斤/巨蟹座\n98🚪开放朋友圈和聊天\n188🚪🉑打语音聊天打游戏日常分享\n520🚪线下漫展带你玩仅限徐州市中心\n我很温良，可以来聊\n过门不退，想好再入🤓👍🏻 https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964990930752278528"
+          ]
+        },
+        "author_id": "1755113572135292929",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cancer",
+              "id": "1138864492526297093",
+              "name": "Cancer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cancer",
+              "id": "1138864492526297093",
+              "name": "Cancer"
+            }
+          }
+        ],
+        "conversation_id": "1964990934502027612",
+        "created_at": "2025-09-08T09:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T10:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964990934502027612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZpjVqi5OLJ",
+              "end": 130,
+              "expanded_url": "https://x.com/ynshng168347018/status/1964990934502027612/photo/1",
+              "media_key": "3_1964990930752278528",
+              "start": 107,
+              "url": "https://t.co/ZpjVqi5OLJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964990934502027612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "新置顶\n颜控颜性恋\n这里cn十一\n纯绿\n07/170/89斤/巨蟹座\n98🚪开放朋友圈和聊天\n188🚪🉑打语音聊天打游戏日常分享\n520🚪线下漫展带你玩仅限徐州市中心\n我很温良，可以来聊\n过门不退，想好再入🤓👍🏻 https://t.co/ZpjVqi5OLJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 210,
+          "like_count": 1160,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 661
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T06:17:48.000Z",
+        "description": "日常纯绿\n问坐标20一次\n线下有漫展行程我会提前发\n我o我喝我看\n出cos服接毛\n我还装清纯🤓👍🏻",
+        "id": "1755113572135292929",
+        "name": "十一",
+        "pinned_tweet_id": "1964990934502027612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964908052022525952/kCzZ8Fwi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 321,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 23
+        },
+        "username": "ynshng168347018",
+        "verified": false
+      }
+    ]
+  }
+}

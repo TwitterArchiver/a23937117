@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1936753863488610577",
+    "created_at": "2025-06-23T11:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T12:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937118353857909235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1579540259171278848",
+          "start": 0,
+          "username": "kittworm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937118353857909235",
+    "in_reply_to_user_id": "1579540259171278848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936753863488610577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kittworm 你这样我就要举手了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1936753863488610577",
+        "created_at": "2025-06-23T11:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T12:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937118353857909235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1579540259171278848",
+              "start": 0,
+              "username": "kittworm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937118353857909235",
+        "in_reply_to_user_id": "1579540259171278848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936753863488610577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kittworm 你这样我就要举手了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1579540259171278848",
+        "conversation_id": "1936753863488610577",
+        "created_at": "2025-06-22T11:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T12:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936753863488610577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936753863488610577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 280,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都在说找男炮友的怎么没人说女炮友的 我真的想知道怎么找女炮友特别是女双的炮友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "kissing",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 124,
+          "like_count": 797,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 134
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-10T18:32:08.000Z",
+        "description": "bisexual｜intp｜只是普通人碎碎念 可以叫我kitt/猫虫🐾",
+        "id": "1579540259171278848",
+        "location": "杭州",
+        "name": "PukingKittworm",
+        "pinned_tweet_id": "1861324399644991740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817910004969832449/wJ9ikVKo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 199,
+          "like_count": 354,
+          "listed_count": 2,
+          "media_count": 289,
+          "tweet_count": 2130
+        },
+        "username": "kittworm",
+        "verified": false
+      }
+    ]
+  }
+}

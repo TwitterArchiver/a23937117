@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1908860563045732352"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1908860621895917898",
+    "created_at": "2025-04-06T12:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T13:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908860621895917898"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MvBDCfyp3f",
+          "end": 37,
+          "expanded_url": "https://x.com/a23937117/status/1908860621895917898/video/1",
+          "media_key": "13_1908860563045732352",
+          "start": 14,
+          "url": "https://t.co/MvBDCfyp3f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908860621895917898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么 我明明什么都没做错 https://t.co/MvBDCfyp3f"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1908860621895917898].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1908860621895917898",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1908860621895917898"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9533,
+        "height": 1280,
+        "media_key": "13_1908860563045732352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1908860563045732352/img/VodolmT4VhWazDW-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908860563045732352/vid/avc1/320x568/FVfgxLAXxL649tz9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908860563045732352/vid/avc1/480x852/2JDovOEx0ymUOae2.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908860563045732352/vid/avc1/720x1280/pv0HbSKjfvbLkAEf.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1908860563045732352/pl/LdnHgE_yiaec1f_o.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——喜欢被夸可爱 严重露出lover  od 自残 烟酒love 最喜欢可爱的东西 南美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892410780663824384/aNzm9Kzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 88,
+          "like_count": 577,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 43
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

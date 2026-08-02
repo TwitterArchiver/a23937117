@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955144331729252352",
+        "3_1955144331733372930",
+        "3_1955144331729248256"
+      ],
+      "media_source_tweet_id": [
+        "1955144351593500963",
+        "1955144351593500963",
+        "1955144351593500963"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955753013932646845",
+    "created_at": "2025-08-13T22:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T23:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955753013932646845"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 30,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 39,
+          "start": 35,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 43,
+          "start": 40,
+          "tag": "线下"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "非绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1695774839863382017",
+          "start": 3,
+          "username": "loveshhh1022"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3MkmZXKtjU",
+          "end": 71,
+          "expanded_url": "https://x.com/loveshhh1022/status/1955144351593500963/photo/1",
+          "media_key": "3_1955144331729252352",
+          "start": 48,
+          "url": "https://t.co/3MkmZXKtjU"
+        },
+        {
+          "display_url": "pic.x.com/3MkmZXKtjU",
+          "end": 71,
+          "expanded_url": "https://x.com/loveshhh1022/status/1955144351593500963/photo/1",
+          "media_key": "3_1955144331733372930",
+          "start": 48,
+          "url": "https://t.co/3MkmZXKtjU"
+        },
+        {
+          "display_url": "pic.x.com/3MkmZXKtjU",
+          "end": 71,
+          "expanded_url": "https://x.com/loveshhh1022/status/1955144351593500963/photo/1",
+          "media_key": "3_1955144331729248256",
+          "start": 48,
+          "url": "https://t.co/3MkmZXKtjU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955753013932646845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955144351593500963",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loveshhh1022: 接线下半绿非绿爸爸活🥹\n#门槛妹 #爸爸活 #线下 #非绿 https://t.co/3MkmZXKtjU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955753013932646845].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955753013932646845",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955753013932646845"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955144331729252352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyIRaTFXMAA6ulY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1955144331733372930",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyIRaTGWEAIHfCy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 473,
+        "media_key": "3_1955144331729248256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyIRaTFXIAAk1Vn.jpg",
+        "width": 1167
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955144331729252352",
+            "3_1955144331733372930",
+            "3_1955144331729248256"
+          ]
+        },
+        "author_id": "1695774839863382017",
+        "conversation_id": "1955144351593500963",
+        "created_at": "2025-08-12T05:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T06:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955144351593500963"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "线下"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "非绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3MkmZXKtjU",
+              "end": 53,
+              "expanded_url": "https://x.com/loveshhh1022/status/1955144351593500963/photo/1",
+              "media_key": "3_1955144331729252352",
+              "start": 30,
+              "url": "https://t.co/3MkmZXKtjU"
+            },
+            {
+              "display_url": "pic.x.com/3MkmZXKtjU",
+              "end": 53,
+              "expanded_url": "https://x.com/loveshhh1022/status/1955144351593500963/photo/1",
+              "media_key": "3_1955144331733372930",
+              "start": 30,
+              "url": "https://t.co/3MkmZXKtjU"
+            },
+            {
+              "display_url": "pic.x.com/3MkmZXKtjU",
+              "end": 53,
+              "expanded_url": "https://x.com/loveshhh1022/status/1955144351593500963/photo/1",
+              "media_key": "3_1955144331729248256",
+              "start": 30,
+              "url": "https://t.co/3MkmZXKtjU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955144351593500963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4505,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "接线下半绿非绿爸爸活🥹\n#门槛妹 #爸爸活 #线下 #非绿 https://t.co/3MkmZXKtjU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 231,
+          "like_count": 1083,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 591
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T12:26:52.000Z",
+        "description": "🚪88/188/520/1314",
+        "id": "1695774839863382017",
+        "name": "淡水鱼",
+        "pinned_tweet_id": "1955144351593500963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858372902610989056/YkxDvv3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 136,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 81
+        },
+        "username": "loveshhh1022",
+        "verified": false
+      }
+    ]
+  }
+}

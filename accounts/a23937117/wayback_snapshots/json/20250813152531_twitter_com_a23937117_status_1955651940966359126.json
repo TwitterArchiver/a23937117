@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955651710359412988",
+    "created_at": "2025-08-13T15:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T16:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955651940966359126"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1955651940966359126",
+    "in_reply_to_user_id": "1442350932977610752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955651710359412988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "开玩笑的，我家里人没这么温柔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1564,
+        "media_key": "3_1955651704004734977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyPe3QGW8AEOiER.jpg",
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1955651710359412988",
+        "created_at": "2025-08-13T15:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T16:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955651940966359126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955651940966359126",
+        "in_reply_to_user_id": "1442350932977610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955651710359412988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开玩笑的，我家里人没这么温柔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955651704004734977"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "1955651710359412988",
+        "created_at": "2025-08-13T15:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T16:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955651710359412988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NApyl8TQ8C",
+              "end": 30,
+              "expanded_url": "https://x.com/a23937117/status/1955651710359412988/photo/1",
+              "media_key": "3_1955651704004734977",
+              "start": 7,
+              "url": "https://t.co/NApyl8TQ8C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955651710359412988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每次就这样 https://t.co/NApyl8TQ8C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 228,
+          "like_count": 1080,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 574
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

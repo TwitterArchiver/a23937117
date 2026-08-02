@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942631250864259072"
+      ],
+      "media_source_tweet_id": [
+        "1942631253578244459"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1943288336736751735",
+    "created_at": "2025-07-10T12:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T13:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943288336736751735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1851835690616864768",
+          "start": 3,
+          "username": "maplefsnow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9esQjgqqZL",
+          "end": 67,
+          "expanded_url": "https://x.com/maplefsnow/status/1942631253578244459/photo/1",
+          "media_key": "3_1942631250864259072",
+          "start": 44,
+          "url": "https://t.co/9esQjgqqZL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943288336736751735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942631253578244459",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maplefsnow: awww她给我评论了…\n她好好哦 好想和她成为好朋友… https://t.co/9esQjgqqZL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 757,
+        "media_key": "3_1942631250864259072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvWc1IVWQAAhyJ6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942631250864259072"
+          ],
+          "media_source_tweet_id": [
+            "1942631253578244459"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "1943288336736751735",
+        "created_at": "2025-07-10T12:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T13:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943288336736751735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1851835690616864768",
+              "start": 3,
+              "username": "maplefsnow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9esQjgqqZL",
+              "end": 67,
+              "expanded_url": "https://x.com/maplefsnow/status/1942631253578244459/photo/1",
+              "media_key": "3_1942631250864259072",
+              "start": 44,
+              "url": "https://t.co/9esQjgqqZL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943288336736751735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942631253578244459",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maplefsnow: awww她给我评论了…\n她好好哦 好想和她成为好朋友… https://t.co/9esQjgqqZL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942631250864259072"
+          ]
+        },
+        "author_id": "1851835690616864768",
+        "conversation_id": "1942631253578244459",
+        "created_at": "2025-07-08T17:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T18:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942631253578244459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9esQjgqqZL",
+              "end": 51,
+              "expanded_url": "https://x.com/maplefsnow/status/1942631253578244459/photo/1",
+              "media_key": "3_1942631250864259072",
+              "start": 28,
+              "url": "https://t.co/9esQjgqqZL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942631253578244459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 48786,
+          "like_count": 892,
+          "quote_count": 17,
+          "reply_count": 27,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "awww她给我评论了…\n她好好哦 好想和她成为好朋友… https://t.co/9esQjgqqZL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 132,
+          "like_count": 870,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 217
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T03:57:08.000Z",
+        "description": "温柔又平凡，悲痛却坚定 | 机器人系统 | 嵌入式工程师 | C++/Java/Python | RWTH Aachen | INFP-H/小猫 | 我想统治世界，我想被爱 | @anemoneheart912的小猫 | 都是@ARKKUMA_干的 | 老婆@LostAttractor",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "anemoneheart912"
+              },
+              {
+                "end": 122,
+                "start": 113,
+                "username": "ARKKUMA_"
+              },
+              {
+                "end": 143,
+                "start": 129,
+                "username": "LostAttractor"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maplef.top",
+                "end": 23,
+                "expanded_url": "http://www.maplef.top",
+                "start": 0,
+                "url": "https://t.co/NXDaCnP3yG"
+              }
+            ]
+          }
+        },
+        "id": "1851835690616864768",
+        "location": "姑苏城外小枫窝",
+        "name": "Maplef 猫扑枫(Fragile Tetrapod Catcher)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930198540648886275/bcEbrmxb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 172,
+          "like_count": 4383,
+          "listed_count": 3,
+          "media_count": 228,
+          "tweet_count": 687
+        },
+        "url": "https://t.co/NXDaCnP3yG",
+        "username": "maplefsnow",
+        "verified": false
+      }
+    ]
+  }
+}

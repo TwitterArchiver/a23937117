@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1971325258553753646",
+    "created_at": "2025-09-26T01:47:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T02:47:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971391085206491609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1688418276",
+          "start": 0,
+          "username": "mentionwae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971391085206491609",
+    "in_reply_to_user_id": "1688418276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971365923270619545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mentionwae 宝，这是抽象文案"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1971325258553753646",
+        "created_at": "2025-09-26T01:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T02:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971391085206491609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1688418276",
+              "start": 0,
+              "username": "mentionwae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971391085206491609",
+        "in_reply_to_user_id": "1688418276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971365923270619545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mentionwae 宝，这是抽象文案"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688418276",
+        "conversation_id": "1971325258553753646",
+        "created_at": "2025-09-26T00:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T01:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971365923270619545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442350932977610752",
+              "start": 0,
+              "username": "a23937117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971365923270619545",
+        "in_reply_to_user_id": "1442350932977610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971325258553753646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a23937117 想被小豹陪吃陪睡，可惜现在距离好远"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88—谈恋爱了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 215,
+          "like_count": 1241,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 684
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-21T14:28:02.000Z",
+        "description": "Dilarang coment. Keep mention",
+        "id": "1688418276",
+        "name": "Not comment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939800460723916800/vq7m9WWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 67,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 35
+        },
+        "username": "mentionwae",
+        "verified": false
+      }
+    ]
+  }
+}

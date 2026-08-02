@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1965300472115511701",
+    "created_at": "2025-09-09T18:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T19:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965477954244534716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1860994908972048384",
+          "start": 0,
+          "username": "raindew877"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965477954244534716",
+    "in_reply_to_user_id": "1860994908972048384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965300472115511701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raindew877 没有人喜欢我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1965300472115511701",
+        "created_at": "2025-09-09T18:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T19:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965477954244534716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1860994908972048384",
+              "start": 0,
+              "username": "raindew877"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965477954244534716",
+        "in_reply_to_user_id": "1860994908972048384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965300472115511701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raindew877 没有人喜欢我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860994908972048384",
+        "conversation_id": "1965300472115511701",
+        "created_at": "2025-09-09T06:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T07:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965300472115511701"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965300472115511701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有人喜欢我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 210,
+          "like_count": 1174,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 668
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T10:32:39.000Z",
+        "description": "你...你好！如果被打扰到了...对不起... | 计算机学习中 | 害怕被责问 | 如果可以的话，请用 she/her 称呼我吧，谢谢你！\n@IN_LIFE_D",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "IN_LIFE_D"
+              }
+            ]
+          }
+        },
+        "id": "1860994908972048384",
+        "name": "雨露🎀🌸",
+        "pinned_tweet_id": "1954652198530654519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953909423115546624/Sti-eGN8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 301,
+          "like_count": 11448,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 1039
+        },
+        "username": "raindew877",
+        "verified": false
+      }
+    ]
+  }
+}

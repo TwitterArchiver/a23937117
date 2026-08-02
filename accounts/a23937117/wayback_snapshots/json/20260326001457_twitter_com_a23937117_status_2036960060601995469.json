@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2036960060601995469",
+    "created_at": "2026-03-26T00:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T01:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036960060601995469"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 113,
+          "start": 109,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 118,
+          "start": 114,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 123,
+          "start": 119,
+          "tag": "求入门"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "非绿"
+        },
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "线下"
+        },
+        {
+          "end": 137,
+          "start": 132,
+          "tag": "电子女友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1928519058808606720",
+          "start": 3,
+          "username": "071036Kk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036960060601995469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033833041534271884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @071036Kk: 换个置🔝\n重生之我在X做🚪姐\n可问简单问题 其他请礼貌入🚪\n目前辍学家里蹲 坐标广州 可✈️ \n求求了孩子要饿死了来个金主爸爸\n想去很多地方玩 想有很多小裙子\n想要一个让我上岸的爸爸#门槛 #门槛妹 #门槛哥 #求入门 #非绿 #线下 #电子女友 #…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1687,
+        "media_key": "3_2033833033384792067",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDmgXj9bEAMGNvG.jpg",
+        "width": 1124
+      },
+      {
+        "height": 1687,
+        "media_key": "3_2033833036308242432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDmgXu2bYAAukog.jpg",
+        "width": 1687
+      },
+      {
+        "height": 1687,
+        "media_key": "3_2033833037147082755",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDmgXx-bEAMnJex.jpg",
+        "width": 1687
+      },
+      {
+        "height": 1276,
+        "media_key": "3_2033833037704925186",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDmgX0DbEAIUfEA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2036960060601995469",
+        "created_at": "2026-03-26T00:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T01:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036960060601995469"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 109,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 118,
+              "start": 114,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "求入门"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "非绿"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "线下"
+            },
+            {
+              "end": 137,
+              "start": 132,
+              "tag": "电子女友"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1928519058808606720",
+              "start": 3,
+              "username": "071036Kk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036960060601995469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033833041534271884",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @071036Kk: 换个置🔝\n重生之我在X做🚪姐\n可问简单问题 其他请礼貌入🚪\n目前辍学家里蹲 坐标广州 可✈️ \n求求了孩子要饿死了来个金主爸爸\n想去很多地方玩 想有很多小裙子\n想要一个让我上岸的爸爸#门槛 #门槛妹 #门槛哥 #求入门 #非绿 #线下 #电子女友 #…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033833033384792067",
+            "3_2033833036308242432",
+            "3_2033833037147082755",
+            "3_2033833037704925186"
+          ]
+        },
+        "author_id": "1928519058808606720",
+        "conversation_id": "2033833041534271884",
+        "created_at": "2026-03-17T09:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T10:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033833041534271884"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "求入门"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "非绿"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "线下"
+            },
+            {
+              "end": 123,
+              "start": 118,
+              "tag": "电子女友"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "反差"
+            },
+            {
+              "end": 133,
+              "start": 128,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "求包养"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S6o04kQtqH",
+              "end": 162,
+              "expanded_url": "https://x.com/071036Kk/status/2033833041534271884/photo/1",
+              "media_key": "3_2033833033384792067",
+              "start": 139,
+              "url": "https://t.co/S6o04kQtqH"
+            },
+            {
+              "display_url": "pic.x.com/S6o04kQtqH",
+              "end": 162,
+              "expanded_url": "https://x.com/071036Kk/status/2033833041534271884/photo/1",
+              "media_key": "3_2033833036308242432",
+              "start": 139,
+              "url": "https://t.co/S6o04kQtqH"
+            },
+            {
+              "display_url": "pic.x.com/S6o04kQtqH",
+              "end": 162,
+              "expanded_url": "https://x.com/071036Kk/status/2033833041534271884/photo/1",
+              "media_key": "3_2033833037147082755",
+              "start": 139,
+              "url": "https://t.co/S6o04kQtqH"
+            },
+            {
+              "display_url": "pic.x.com/S6o04kQtqH",
+              "end": 162,
+              "expanded_url": "https://x.com/071036Kk/status/2033833041534271884/photo/1",
+              "media_key": "3_2033833037704925186",
+              "start": 139,
+              "url": "https://t.co/S6o04kQtqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033833041534271884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 16651,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "换个置🔝\n重生之我在X做🚪姐\n可问简单问题 其他请礼貌入🚪\n目前辍学家里蹲 坐标广州 可✈️ \n求求了孩子要饿死了来个金主爸爸\n想去很多地方玩 想有很多小裙子\n想要一个让我上岸的爸爸#门槛 #门槛妹 #门槛哥 #求入门 #非绿 #线下 #电子女友 #反差 #金主爸爸 #求包养 https://t.co/S6o04kQtqH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover  谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 198,
+          "like_count": 1368,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 791
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T18:29:15.000Z",
+        "description": "重生之我在X做🚪姐  希望爸爸们来找我可以带🚪谢谢 欢迎各位宝宝互转off～",
+        "id": "1928519058808606720",
+        "location": "广州",
+        "name": "心碎小猫",
+        "pinned_tweet_id": "2033833041534271884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033365923512647680/isJEl1yq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 3,
+          "like_count": 3,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 350
+        },
+        "username": "071036Kk",
+        "verified": false
+      }
+    ]
+  }
+}

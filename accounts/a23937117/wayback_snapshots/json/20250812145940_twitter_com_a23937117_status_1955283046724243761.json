@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955283046724243761",
+    "created_at": "2025-08-12T14:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T15:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955283046724243761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1954753857780875264",
+          "start": 3,
+          "username": "yngy483001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955283046724243761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954773572943290561",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yngy483001: 新置顶🔝\n我是芝士奶酪 可以叫我奶酪哦\n06年｜165cm｜48kg\n无业游民 喜欢抽烟\n父母重男不喜欢我只能下海养活自己\n球球门哥喜欢我 投喂我qwq\n是k6 小m 性癖捆绑强制等等\n我要很多爱也想要很多钱¥（做梦中\n欢迎女孩子们互转互fo h…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955283046724243761].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955283046724243761",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955283046724243761"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1954773510448091136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDAJqKaEAAQx4m.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1185,
+        "media_key": "3_1954773510443921408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDAJqJacAAxfiW.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1021,
+        "media_key": "3_1954773510452285440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDAJqLaEAAmcqk.jpg",
+        "width": 1151
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954773510448091136",
+            "3_1954773510443921408",
+            "3_1954773510452285440"
+          ]
+        },
+        "author_id": "1954753857780875264",
+        "conversation_id": "1954773572943290561",
+        "created_at": "2025-08-11T05:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T06:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954773572943290561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hbsUMemmBy",
+              "end": 145,
+              "expanded_url": "https://x.com/yngy483001/status/1954773572943290561/photo/1",
+              "media_key": "3_1954773510448091136",
+              "start": 122,
+              "url": "https://t.co/hbsUMemmBy"
+            },
+            {
+              "display_url": "pic.x.com/hbsUMemmBy",
+              "end": 145,
+              "expanded_url": "https://x.com/yngy483001/status/1954773572943290561/photo/1",
+              "media_key": "3_1954773510443921408",
+              "start": 122,
+              "url": "https://t.co/hbsUMemmBy"
+            },
+            {
+              "display_url": "pic.x.com/hbsUMemmBy",
+              "end": 145,
+              "expanded_url": "https://x.com/yngy483001/status/1954773572943290561/photo/1",
+              "media_key": "3_1954773510452285440",
+              "start": 122,
+              "url": "https://t.co/hbsUMemmBy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954773572943290561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "新置顶🔝\n我是芝士奶酪 可以叫我奶酪哦\n06年｜165cm｜48kg\n无业游民 喜欢抽烟\n父母重男不喜欢我只能下海养活自己\n球球门哥喜欢我 投喂我qwq\n是k6 小m 性癖捆绑强制等等\n我要很多爱也想要很多钱¥（做梦中\n欢迎女孩子们互转互fo https://t.co/hbsUMemmBy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 228,
+          "like_count": 1078,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 561
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-11T03:57:10.000Z",
+        "description": "06年的小女生 问题/验证15r 因为性癖被朋友孤立 但是我会好好陪伴你 过门不退 照片都是本人 只吃赞赏和口令的投喂ovo 女孩子们来找我互fo",
+        "id": "1954753857780875264",
+        "name": "芝士奶酪",
+        "pinned_tweet_id": "1954773572943290561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954754012219355138/cQC0l79i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 14,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "username": "yngy483001",
+        "verified": false
+      }
+    ]
+  }
+}

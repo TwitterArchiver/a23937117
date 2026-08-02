@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1929482586046480738",
+    "created_at": "2025-06-14T23:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T00:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934035910217421030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1421238969346445316",
+          "start": 0,
+          "username": "qianduzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934035910217421030",
+    "in_reply_to_user_id": "1421238969346445316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929482586046480738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianduzz 把药塞他嘴里"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1284,
+        "media_key": "3_1929482580283576320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsbmLxYbUAAh6XH.jpg",
+        "width": 1184
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1929482586046480738",
+        "created_at": "2025-06-14T23:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T00:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934035910217421030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1421238969346445316",
+              "start": 0,
+              "username": "qianduzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934035910217421030",
+        "in_reply_to_user_id": "1421238969346445316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929482586046480738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianduzz 把药塞他嘴里"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929482580283576320"
+          ]
+        },
+        "author_id": "1421238969346445316",
+        "conversation_id": "1929482586046480738",
+        "created_at": "2025-06-02T10:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T11:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929482586046480738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OdKIPcAAsO",
+              "end": 35,
+              "expanded_url": "https://x.com/qianduzz/status/1929482586046480738/photo/1",
+              "media_key": "3_1929482580283576320",
+              "start": 12,
+              "url": "https://t.co/OdKIPcAAsO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929482586046480738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 62446,
+          "like_count": 387,
+          "quote_count": 13,
+          "reply_count": 93,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "健全人是不是脑子有问题 https://t.co/OdKIPcAAsO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "讨厌我的人有福了 因为我真的过的很惨",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 119,
+          "like_count": 754,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 119
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-30T22:39:18.000Z",
+        "description": "死亡倒计时中～私宅阴暗b isfp  重度精神病 精神状态不太稳定 od 自伤 雪兔 会发癫 泛性恋 成分复杂 可以做你的树洞噢   (全是负能量/介意慎入)   可以叫我天天！我很好说话 喜欢所有乖宝宝  欢迎互fo！",
+        "id": "1421238969346445316",
+        "name": "前度",
+        "pinned_tweet_id": "1891299718463934716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881935423548870656/foFkOjX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 436,
+          "like_count": 1822,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 887
+        },
+        "username": "qianduzz",
+        "verified": false
+      }
+    ]
+  }
+}

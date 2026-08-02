@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954777165805047809",
+        "3_1954777166018965504"
+      ],
+      "media_source_tweet_id": [
+        "1954777192967401800",
+        "1954777192967401800"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962539686292824345",
+    "created_at": "2025-09-01T15:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T16:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962539686292824345"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "门槛"
+        },
+        {
+          "end": 75,
+          "start": 71,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 79,
+          "start": 76,
+          "tag": "非绿"
+        },
+        {
+          "end": 83,
+          "start": 80,
+          "tag": "线下"
+        },
+        {
+          "end": 88,
+          "start": 84,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 94,
+          "start": 89,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 99,
+          "start": 95,
+          "tag": "求包养"
+        },
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "女大"
+        },
+        {
+          "end": 107,
+          "start": 104,
+          "tag": "反差"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1307044364993036288",
+          "start": 3,
+          "username": "MathewTinee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TgjhaUEHpP",
+          "end": 131,
+          "expanded_url": "https://x.com/MathewTinee/status/1954777192967401800/photo/1",
+          "media_key": "3_1954777165805047809",
+          "start": 108,
+          "url": "https://t.co/TgjhaUEHpP"
+        },
+        {
+          "display_url": "pic.x.com/TgjhaUEHpP",
+          "end": 131,
+          "expanded_url": "https://x.com/MathewTinee/status/1954777192967401800/photo/1",
+          "media_key": "3_1954777166018965504",
+          "start": 108,
+          "url": "https://t.co/TgjhaUEHpP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962539686292824345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954777192967401800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MathewTinee: 女大 未毕业\n有时候也特别无聊\n想有哥哥陪我聊天\n想挣钱 超级想的那种\n欢迎宝宝找我互转互fo ～\n#门槛 #门槛妹 #非绿 #线下 #爸爸活 #金主爸爸 #求包养 #女大 #反差 https://t.co/TgjhaUEHpP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962539686292824345].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962539686292824345",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962539686292824345"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1954777165805047809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDDebba0AEKD1a.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1019,
+        "media_key": "3_1954777166018965504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDDecOa8AA0u0u.jpg",
+        "width": 1228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954777165805047809",
+            "3_1954777166018965504"
+          ]
+        },
+        "author_id": "1307044364993036288",
+        "conversation_id": "1954777192967401800",
+        "created_at": "2025-08-11T05:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T06:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954777192967401800"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "门槛"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "非绿"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "线下"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 77,
+              "start": 72,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 82,
+              "start": 78,
+              "tag": "求包养"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "女大"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TgjhaUEHpP",
+              "end": 114,
+              "expanded_url": "https://x.com/MathewTinee/status/1954777192967401800/photo/1",
+              "media_key": "3_1954777165805047809",
+              "start": 91,
+              "url": "https://t.co/TgjhaUEHpP"
+            },
+            {
+              "display_url": "pic.x.com/TgjhaUEHpP",
+              "end": 114,
+              "expanded_url": "https://x.com/MathewTinee/status/1954777192967401800/photo/1",
+              "media_key": "3_1954777166018965504",
+              "start": 91,
+              "url": "https://t.co/TgjhaUEHpP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954777192967401800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 19676,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "女大 未毕业\n有时候也特别无聊\n想有哥哥陪我聊天\n想挣钱 超级想的那种\n欢迎宝宝找我互转互fo ～\n#门槛 #门槛妹 #非绿 #线下 #爸爸活 #金主爸爸 #求包养 #女大 #反差 https://t.co/TgjhaUEHpP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 201,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 691
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-18T19:51:25.000Z",
+        "description": "玩了好久的推 想着毕业也是失业 还不如现在存点钱 哈哈哈 还可以出去玩  问坐标20r 带口令私我记得哟～",
+        "id": "1307044364993036288",
+        "name": "我也叫momo好了",
+        "pinned_tweet_id": "1954777192967401800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945059491155771392/BKltz1rf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 103,
+          "like_count": 135,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 302
+        },
+        "username": "MathewTinee",
+        "verified": false
+      }
+    ]
+  }
+}

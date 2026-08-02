@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070770304469573632"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2070770313634144374",
+    "created_at": "2026-06-27T07:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T08:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070770313634144374"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 53,
+          "tag": "伤痛"
+        },
+        {
+          "end": 60,
+          "start": 57,
+          "tag": "药物"
+        },
+        {
+          "end": 64,
+          "start": 61,
+          "tag": "od"
+        },
+        {
+          "end": 68,
+          "start": 65,
+          "tag": "药物"
+        },
+        {
+          "end": 72,
+          "start": 69,
+          "tag": "亡妻"
+        },
+        {
+          "end": 77,
+          "start": 73,
+          "tag": "bpd"
+        },
+        {
+          "end": 81,
+          "start": 78,
+          "tag": "双相"
+        },
+        {
+          "end": 86,
+          "start": 82,
+          "tag": "did"
+        },
+        {
+          "end": 90,
+          "start": 87,
+          "tag": "解离"
+        },
+        {
+          "end": 94,
+          "start": 91,
+          "tag": "边缘"
+        },
+        {
+          "end": 97,
+          "start": 95,
+          "tag": "爱"
+        },
+        {
+          "end": 101,
+          "start": 98,
+          "tag": "离开"
+        },
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "门槛"
+        },
+        {
+          "end": 110,
+          "start": 106,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "反差"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LQtdVM9mjh",
+          "end": 138,
+          "expanded_url": "https://x.com/a23937117/status/2070770313634144374/photo/1",
+          "media_key": "3_2070770304469573632",
+          "start": 115,
+          "url": "https://t.co/LQtdVM9mjh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070770313634144374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你爱的是那个躁期那个热情，激动，充满梦想和青春的我，那么夜晚吞药，抑郁，哭泣，流血，发病的我该怎么办？\n\n#伤痛 #药物 #od #药物 #亡妻 #bpd #双相 #did #解离 #边缘 #爱 #离开 #门槛 #门槛妹 #反差 https://t.co/LQtdVM9mjh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2070770304469573632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzantlWIAAOZLX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070770304469573632"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2070770313634144374",
+        "created_at": "2026-06-27T07:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T08:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070770313634144374"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "伤痛"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "药物"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "od"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "药物"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "亡妻"
+            },
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "bpd"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "双相"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "did"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "解离"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "边缘"
+            },
+            {
+              "end": 97,
+              "start": 95,
+              "tag": "爱"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "离开"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "门槛"
+            },
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LQtdVM9mjh",
+              "end": 138,
+              "expanded_url": "https://x.com/a23937117/status/2070770313634144374/photo/1",
+              "media_key": "3_2070770304469573632",
+              "start": 115,
+              "url": "https://t.co/LQtdVM9mjh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070770313634144374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你爱的是那个躁期那个热情，激动，充满梦想和青春的我，那么夜晚吞药，抑郁，哭泣，流血，发病的我该怎么办？\n\n#伤痛 #药物 #od #药物 #亡妻 #bpd #双相 #did #解离 #边缘 #爱 #离开 #门槛 #门槛妹 #反差 https://t.co/LQtdVM9mjh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 190,
+          "like_count": 1416,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 767
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

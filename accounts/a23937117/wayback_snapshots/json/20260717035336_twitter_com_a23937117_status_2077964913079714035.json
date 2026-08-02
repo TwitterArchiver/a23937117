@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076676953747177473"
+      ],
+      "media_source_tweet_id": [
+        "2077794387610697781"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2077964913079714035",
+    "created_at": "2026-07-17T03:53:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T04:53:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077964913079714035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1610308946316738571",
+          "start": 3,
+          "username": "NARCISSISTFEIN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NqofIbLpvY",
+          "end": 111,
+          "expanded_url": "https://x.com/NARCISSISTFEIN/status/2077794387610697781/video/1",
+          "media_key": "13_2076676953747177473",
+          "start": 88,
+          "url": "https://t.co/NqofIbLpvY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077964913079714035",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 372
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077794387610697781",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NARCISSISTFEIN: innocent looking girls are adorable and they should be used as toys https://t.co/NqofIbLpvY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57144,
+        "height": 720,
+        "media_key": "13_2076676953747177473",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076676953747177473/img/czHrCGqrKifRrS7j.jpg",
+        "public_metrics": {
+          "view_count": 40214
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076676953747177473/vid/avc1/480x270/T_TU9ZfDk7j9O4uR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076676953747177473/vid/avc1/640x360/fXxCmnTBtAo0W0Z1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076676953747177473/vid/avc1/1280x720/jBkJIz3Iph598HjE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076676953747177473/pl/mGUe4p4aJhKH4jiJ.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076676953747177473"
+          ]
+        },
+        "author_id": "1610308946316738571",
+        "conversation_id": "2077794387610697781",
+        "created_at": "2026-07-16T16:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077794387610697781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NqofIbLpvY",
+              "end": 91,
+              "expanded_url": "https://x.com/NARCISSISTFEIN/status/2077794387610697781/video/1",
+              "media_key": "13_2076676953747177473",
+              "start": 68,
+              "url": "https://t.co/NqofIbLpvY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077794387610697781",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1605,
+          "impression_count": 99829,
+          "like_count": 4078,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 372
+        },
+        "reply_settings": "everyone",
+        "text": "innocent looking girls are adorable and they should be used as toys https://t.co/NqofIbLpvY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076676953747177473"
+          ],
+          "media_source_tweet_id": [
+            "2077794387610697781"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2077964913079714035",
+        "created_at": "2026-07-17T03:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077964913079714035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1610308946316738571",
+              "start": 3,
+              "username": "NARCISSISTFEIN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NqofIbLpvY",
+              "end": 111,
+              "expanded_url": "https://x.com/NARCISSISTFEIN/status/2077794387610697781/video/1",
+              "media_key": "13_2076676953747177473",
+              "start": 88,
+              "url": "https://t.co/NqofIbLpvY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077964913079714035",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 372
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077794387610697781",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NARCISSISTFEIN: innocent looking girls are adorable and they should be used as toys https://t.co/NqofIbLpvY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 191,
+          "like_count": 1443,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 789
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-03T16:15:51.000Z",
+        "description": "✮ narcissist & hot — content isn't mine. | DM for Removal/Promo",
+        "id": "1610308946316738571",
+        "location": "NSFW — MDNI.",
+        "name": "✞",
+        "pinned_tweet_id": "2071944947402441154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660112936071749637/Cy9qpx-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908621,
+          "following_count": 101,
+          "like_count": 11,
+          "listed_count": 1648,
+          "media_count": 559,
+          "tweet_count": 521
+        },
+        "url": "",
+        "username": "NARCISSISTFEIN",
+        "verified": true
+      }
+    ]
+  }
+}

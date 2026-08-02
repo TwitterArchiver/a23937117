@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1939268854443909462",
+    "created_at": "2025-06-30T13:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T14:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939673729237217698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1562858237657231361",
+          "start": 0,
+          "username": "yanyelove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939673729237217698",
+    "in_reply_to_user_id": "1562858237657231361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939268854443909462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanyelove 求孤儿教程"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1939268854443909462",
+        "created_at": "2025-06-30T13:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T14:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939673729237217698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1562858237657231361",
+              "start": 0,
+              "username": "yanyelove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939673729237217698",
+        "in_reply_to_user_id": "1562858237657231361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939268854443909462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyelove 求孤儿教程"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562858237657231361",
+        "conversation_id": "1939268854443909462",
+        "created_at": "2025-06-29T10:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T11:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939268854443909462"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939268854443909462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我希望我爸妈赶紧死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "kissing",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 131,
+          "like_count": 851,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 191
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T17:43:41.000Z",
+        "description": "我是言葉的複製體 前世@yanyedawang ｜半清水｜精神狀態不好會od 會發血圖⚠️注意自避 ｜🚪88純綠陪聊 沒有福利 只有陪聊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "yanyedawang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoye44231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoye44231",
+                "start": 0,
+                "url": "https://t.co/IhqVPtqVjL"
+              }
+            ]
+          }
+        },
+        "id": "1562858237657231361",
+        "location": "只有你我的地方 ",
+        "name": "言葉",
+        "pinned_tweet_id": "1936406491726307774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936383796007305216/VDu1XEjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 27,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 74
+        },
+        "url": "https://t.co/IhqVPtqVjL",
+        "username": "yanyelove",
+        "verified": false
+      }
+    ]
+  }
+}

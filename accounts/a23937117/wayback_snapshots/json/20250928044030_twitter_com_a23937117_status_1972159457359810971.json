@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1972159457359810971",
+    "created_at": "2025-09-28T04:40:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T05:40:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972159457359810971"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chillpink_star…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/chillpink_star/status/1971758188753277091",
+          "start": 7,
+          "url": "https://t.co/f1E1RRFRHM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972159457359810971",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971758188753277091",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的睡的很好 https://t.co/f1E1RRFRHM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1972159457359810971",
+        "created_at": "2025-09-28T04:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T05:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972159457359810971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chillpink_star…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/chillpink_star/status/1971758188753277091",
+              "start": 7,
+              "url": "https://t.co/f1E1RRFRHM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972159457359810971",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971758188753277091",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的睡的很好 https://t.co/f1E1RRFRHM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593966299658715136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1971758188753277091",
+        "created_at": "2025-09-27T02:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T03:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971758188753277091"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971758188753277091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 55679,
+          "like_count": 1053,
+          "quote_count": 15,
+          "reply_count": 16,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "你和这个人在一起 眼界开阔了吗 身体更健康了吗 皮肤更好了吗 一起看更大的世界了吗 节日生日有礼物吗 你伤心了他能提供情绪价值吗 你确定他值得吗\n至少你睡的安稳吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88—谈恋爱了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 215,
+          "like_count": 1249,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 689
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T13:56:07.000Z",
+        "description": "我好没意思",
+        "id": "1593966299658715136",
+        "name": "星星饼干",
+        "pinned_tweet_id": "1969403936475136026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924137620210081792/OzBnV75C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7528,
+          "following_count": 194,
+          "like_count": 16048,
+          "listed_count": 30,
+          "media_count": 1697,
+          "tweet_count": 10593
+        },
+        "username": "chillpink_star",
+        "verified": false
+      }
+    ]
+  }
+}

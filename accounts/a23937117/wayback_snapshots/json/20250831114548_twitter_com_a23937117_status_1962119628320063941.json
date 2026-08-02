@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962119628320063941",
+    "created_at": "2025-08-31T11:45:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T12:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962119628320063941"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 77,
+          "start": 73,
+          "tag": "线下约"
+        },
+        {
+          "end": 81,
+          "start": 78,
+          "tag": "纯绿"
+        },
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "非绿"
+        },
+        {
+          "end": 89,
+          "start": 86,
+          "tag": "半绿"
+        },
+        {
+          "end": 94,
+          "start": 90,
+          "tag": "找金主"
+        },
+        {
+          "end": 99,
+          "start": 95,
+          "tag": "求过门"
+        },
+        {
+          "end": 104,
+          "start": 100,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 110,
+          "start": 105,
+          "tag": "电子女友"
+        },
+        {
+          "end": 116,
+          "start": 111,
+          "tag": "一日女友"
+        },
+        {
+          "end": 121,
+          "start": 117,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 126,
+          "start": 122,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "反差"
+        },
+        {
+          "end": 136,
+          "start": 131,
+          "tag": "租借女友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1923232858950467584",
+          "start": 3,
+          "username": "guodongbud"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962119628320063941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 120
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923252441174220942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guodongbud: 果冻布丁要穷死了😭\n05已成年 可以验证\n接线下非绿半绿\n有没有哥哥入门投喂呀～\n欢迎女宝宝来找我互转互fo 😘\n#线下约 #纯绿 #非绿 #半绿 #找金主 #求过门 #门槛妹 #电子女友 #一日女友 #爸爸活 #妈妈活 #反差 #租借女友 ht…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962119628320063941].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962119628320063941",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962119628320063941"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1923252430067933184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrDD5TObIAAAd_l.jpg",
+        "width": 1536
+      },
+      {
+        "height": 960,
+        "media_key": "3_1923252430164365312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrDD5TlakAA4Unu.jpg",
+        "width": 1028
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923252430067933184",
+            "3_1923252430164365312"
+          ]
+        },
+        "author_id": "1923232858950467584",
+        "conversation_id": "1923252441174220942",
+        "created_at": "2025-05-16T05:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T06:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923252441174220942"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 57,
+              "tag": "线下约"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "纯绿"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "非绿"
+            },
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "半绿"
+            },
+            {
+              "end": 78,
+              "start": 74,
+              "tag": "找金主"
+            },
+            {
+              "end": 83,
+              "start": 79,
+              "tag": "求过门"
+            },
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 94,
+              "start": 89,
+              "tag": "电子女友"
+            },
+            {
+              "end": 100,
+              "start": 95,
+              "tag": "一日女友"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "反差"
+            },
+            {
+              "end": 120,
+              "start": 115,
+              "tag": "租借女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G1hd5dQBaO",
+              "end": 144,
+              "expanded_url": "https://x.com/guodongbud/status/1923252441174220942/photo/1",
+              "media_key": "3_1923252430067933184",
+              "start": 121,
+              "url": "https://t.co/G1hd5dQBaO"
+            },
+            {
+              "display_url": "pic.x.com/G1hd5dQBaO",
+              "end": 144,
+              "expanded_url": "https://x.com/guodongbud/status/1923252441174220942/photo/1",
+              "media_key": "3_1923252430164365312",
+              "start": 121,
+              "url": "https://t.co/G1hd5dQBaO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923252441174220942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 39885,
+          "like_count": 55,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "果冻布丁要穷死了😭\n05已成年 可以验证\n接线下非绿半绿\n有没有哥哥入门投喂呀～\n欢迎女宝宝来找我互转互fo 😘\n#线下约 #纯绿 #非绿 #半绿 #找金主 #求过门 #门槛妹 #电子女友 #一日女友 #爸爸活 #妈妈活 #反差 #租借女友 https://t.co/G1hd5dQBaO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 208,
+          "like_count": 1137,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 668
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-16T04:23:47.000Z",
+        "description": "🚪108 268 520 喜欢礼貌的宝宝 不入门勿扰 缺钱生活呜呜呜 喜欢我请入门投喂我 坐标20       欢迎宝宝们找我互转互fo",
+        "id": "1923232858950467584",
+        "name": "果冻布丁",
+        "pinned_tweet_id": "1923252441174220942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923247077406240768/yVbwKlcc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 18,
+          "like_count": 56,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 216
+        },
+        "username": "guodongbud",
+        "verified": false
+      }
+    ]
+  }
+}

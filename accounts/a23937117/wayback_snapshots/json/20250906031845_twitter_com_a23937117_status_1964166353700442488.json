@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964166343529299968",
+        "3_1964166343504072704",
+        "3_1964166343525027840"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1964166353700442488",
+    "created_at": "2025-09-06T03:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T04:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964166353700442488"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "反差女高"
+        },
+        {
+          "end": 36,
+          "start": 31,
+          "tag": "电子女友"
+        },
+        {
+          "end": 40,
+          "start": 37,
+          "tag": "门槛"
+        },
+        {
+          "end": 46,
+          "start": 41,
+          "tag": "女高中生"
+        },
+        {
+          "end": 49,
+          "start": 47,
+          "tag": "m"
+        },
+        {
+          "end": 54,
+          "start": 50,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 60,
+          "start": 55,
+          "tag": "线上女友"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wHXipyO4BP",
+          "end": 84,
+          "expanded_url": "https://x.com/a23937117/status/1964166353700442488/photo/1",
+          "media_key": "3_1964166343529299968",
+          "start": 61,
+          "url": "https://t.co/wHXipyO4BP"
+        },
+        {
+          "display_url": "pic.x.com/wHXipyO4BP",
+          "end": 84,
+          "expanded_url": "https://x.com/a23937117/status/1964166353700442488/photo/1",
+          "media_key": "3_1964166343504072704",
+          "start": 61,
+          "url": "https://t.co/wHXipyO4BP"
+        },
+        {
+          "display_url": "pic.x.com/wHXipyO4BP",
+          "end": 84,
+          "expanded_url": "https://x.com/a23937117/status/1964166353700442488/photo/1",
+          "media_key": "3_1964166343525027840",
+          "start": 61,
+          "url": "https://t.co/wHXipyO4BP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964166353700442488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就这样悄悄把以前的照片都发出来，看发色知时间\n\n#反差女高 #电子女友 #门槛 #女高中生 #m #门槛妹 #线上女友 https://t.co/wHXipyO4BP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1964166353700442488].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1964166353700442488",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1964166353700442488"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1552,
+        "media_key": "3_1964166343529299968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Ie4gHXgAATuRG.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1448,
+        "media_key": "3_1964166343504072704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Ie4gBWkAAPr9x.jpg",
+        "width": 1086
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1964166343525027840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Ie4gGWUAACo1S.jpg",
+        "width": 1934
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 206,
+          "like_count": 1157,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 643
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

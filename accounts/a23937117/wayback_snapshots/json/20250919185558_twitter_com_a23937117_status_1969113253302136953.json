@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1969113253302136953",
+    "created_at": "2025-09-19T18:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T19:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969113253302136953"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "线下"
+        },
+        {
+          "end": 101,
+          "start": 98,
+          "tag": "重庆"
+        },
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "非绿"
+        },
+        {
+          "end": 110,
+          "start": 106,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "母狗"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "门槛"
+        },
+        {
+          "end": 122,
+          "start": 119,
+          "tag": "骚逼"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1911812585839796224",
+          "start": 3,
+          "username": "ovo_ying070924"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/Emz",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/Emz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969113253302136953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968299196798439653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ovo_ying070924: Hello 新人下海中～\nip重庆08年 174cm105斤\n接纯绿半绿非绿可陪玩出原味\n欢迎女孩子互转互fo~\n我需要很多爱和很多钱🥺\n全国可飞\n#线下 #重庆 #非绿 #爸爸活 #母狗 #门槛 #骚逼 https://t.co/Emz…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968299185163382784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1DNri9asAAtgwt.jpg",
+        "width": 1134
+      },
+      {
+        "height": 1856,
+        "media_key": "3_1968299185138253824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1DNri3bQAAR9zU.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1968299185113034753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1DNrixacAEXlKl.jpg",
+        "width": 1546
+      },
+      {
+        "height": 1367,
+        "media_key": "3_1968299185222074368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1DNrjLaQAAqEh5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1969113253302136953",
+        "created_at": "2025-09-19T18:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T19:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969113253302136953"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "线下"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "重庆"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "非绿"
+            },
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "母狗"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "门槛"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "骚逼"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1911812585839796224",
+              "start": 3,
+              "username": "ovo_ying070924"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/Emz",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/Emz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969113253302136953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968299196798439653",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ovo_ying070924: Hello 新人下海中～\nip重庆08年 174cm105斤\n接纯绿半绿非绿可陪玩出原味\n欢迎女孩子互转互fo~\n我需要很多爱和很多钱🥺\n全国可飞\n#线下 #重庆 #非绿 #爸爸活 #母狗 #门槛 #骚逼 https://t.co/Emz…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968299185163382784",
+            "3_1968299185138253824",
+            "3_1968299185113034753",
+            "3_1968299185222074368"
+          ]
+        },
+        "author_id": "1911812585839796224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1968299196798439653",
+        "created_at": "2025-09-17T13:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968299196798439653"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "线下"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "重庆"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "非绿"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "母狗"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "门槛"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "骚逼"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EmzKy8uOOZ",
+              "end": 126,
+              "expanded_url": "https://x.com/ovo_ying070924/status/1968299196798439653/photo/1",
+              "media_key": "3_1968299185163382784",
+              "start": 103,
+              "url": "https://t.co/EmzKy8uOOZ"
+            },
+            {
+              "display_url": "pic.x.com/EmzKy8uOOZ",
+              "end": 126,
+              "expanded_url": "https://x.com/ovo_ying070924/status/1968299196798439653/photo/1",
+              "media_key": "3_1968299185138253824",
+              "start": 103,
+              "url": "https://t.co/EmzKy8uOOZ"
+            },
+            {
+              "display_url": "pic.x.com/EmzKy8uOOZ",
+              "end": 126,
+              "expanded_url": "https://x.com/ovo_ying070924/status/1968299196798439653/photo/1",
+              "media_key": "3_1968299185113034753",
+              "start": 103,
+              "url": "https://t.co/EmzKy8uOOZ"
+            },
+            {
+              "display_url": "pic.x.com/EmzKy8uOOZ",
+              "end": 126,
+              "expanded_url": "https://x.com/ovo_ying070924/status/1968299196798439653/photo/1",
+              "media_key": "3_1968299185222074368",
+              "start": 103,
+              "url": "https://t.co/EmzKy8uOOZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968299196798439653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3344,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "Hello 新人下海中～\nip重庆08年 174cm105斤\n接纯绿半绿非绿可陪玩出原味\n欢迎女孩子互转互fo~\n我需要很多爱和很多钱🥺\n全国可飞\n#线下 #重庆 #非绿 #爸爸活 #母狗 #门槛 #骚逼 https://t.co/EmzKy8uOOZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88—谈恋爱了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 216,
+          "like_count": 1213,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 685
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T16:03:47.000Z",
+        "description": "🚪88/188/288/520 接纯绿非绿半绿 全国可飞 只回口令 我出原味我接线上陪玩 我很缺钱我啥都干🥹 欢迎女孩子互转互fo🥰🥰",
+        "id": "1911812585839796224",
+        "name": "小7",
+        "pinned_tweet_id": "1968299196798439653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947400838609096704/w6S6AFpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 17,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 81
+        },
+        "username": "ovo_ying070924",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038663229036236801",
+        "3_2038663229019447296"
+      ],
+      "media_source_tweet_id": [
+        "2038663240943800717",
+        "2038663240943800717"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053552031944614125",
+    "created_at": "2026-05-10T19:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T20:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053552031944614125"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 77,
+          "start": 73,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 81,
+          "start": 78,
+          "tag": "金主"
+        },
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "女高"
+        },
+        {
+          "end": 90,
+          "start": 86,
+          "tag": "爸爸活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1672613612098293761",
+          "start": 3,
+          "username": "yi_smokq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HnW6otAPn7",
+          "end": 114,
+          "expanded_url": "https://x.com/yi_smokq/status/2038663240943800717/photo/1",
+          "media_key": "3_2038663229036236801",
+          "start": 91,
+          "url": "https://t.co/HnW6otAPn7"
+        },
+        {
+          "display_url": "pic.x.com/HnW6otAPn7",
+          "end": 114,
+          "expanded_url": "https://x.com/yi_smokq/status/2038663240943800717/photo/1",
+          "media_key": "3_2038663229019447296",
+          "start": 91,
+          "url": "https://t.co/HnW6otAPn7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053552031944614125",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038663240943800717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yi_smokq: 自我介紹2.0\n我是清\n09\nip香港深圳\n地雷系/亚 自殘自杀胖ed od\n接爸爸活 半绿\n宝宝快来互转！互fo～\n#门槛妹 #金主 #女高 #爸爸活 https://t.co/HnW6otAPn7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038663229036236801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErJZ89bEAE0Rdw.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038663229019447296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErJZ85a4AAjSjW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038663229036236801",
+            "3_2038663229019447296"
+          ],
+          "media_source_tweet_id": [
+            "2038663240943800717",
+            "2038663240943800717"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053552031944614125",
+        "created_at": "2026-05-10T19:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T20:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053552031944614125"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "金主"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "女高"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "爸爸活"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1672613612098293761",
+              "start": 3,
+              "username": "yi_smokq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HnW6otAPn7",
+              "end": 114,
+              "expanded_url": "https://x.com/yi_smokq/status/2038663240943800717/photo/1",
+              "media_key": "3_2038663229036236801",
+              "start": 91,
+              "url": "https://t.co/HnW6otAPn7"
+            },
+            {
+              "display_url": "pic.x.com/HnW6otAPn7",
+              "end": 114,
+              "expanded_url": "https://x.com/yi_smokq/status/2038663240943800717/photo/1",
+              "media_key": "3_2038663229019447296",
+              "start": 91,
+              "url": "https://t.co/HnW6otAPn7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053552031944614125",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038663240943800717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yi_smokq: 自我介紹2.0\n我是清\n09\nip香港深圳\n地雷系/亚 自殘自杀胖ed od\n接爸爸活 半绿\n宝宝快来互转！互fo～\n#门槛妹 #金主 #女高 #爸爸活 https://t.co/HnW6otAPn7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038663229036236801",
+            "3_2038663229019447296"
+          ]
+        },
+        "author_id": "1672613612098293761",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038663240943800717",
+        "created_at": "2026-03-30T17:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T18:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038663240943800717"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "金主"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "女高"
+            },
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HnW6otAPn7",
+              "end": 100,
+              "expanded_url": "https://x.com/yi_smokq/status/2038663240943800717/photo/1",
+              "media_key": "3_2038663229036236801",
+              "start": 77,
+              "url": "https://t.co/HnW6otAPn7"
+            },
+            {
+              "display_url": "pic.x.com/HnW6otAPn7",
+              "end": 100,
+              "expanded_url": "https://x.com/yi_smokq/status/2038663240943800717/photo/1",
+              "media_key": "3_2038663229019447296",
+              "start": 77,
+              "url": "https://t.co/HnW6otAPn7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038663240943800717",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 37378,
+          "like_count": 79,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "自我介紹2.0\n我是清\n09\nip香港深圳\n地雷系/亚 自殘自杀胖ed od\n接爸爸活 半绿\n宝宝快来互转！互fo～\n#门槛妹 #金主 #女高 #爸爸活 https://t.co/HnW6otAPn7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 202,
+          "like_count": 1405,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 737
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-24T14:32:22.000Z",
+        "description": "od ed 自残 爸爸活I 平胸hate this world. 问废话一律不回 09年 @sammy52_0萌萌的小女孩😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "sammy52_0"
+              }
+            ]
+          }
+        },
+        "id": "1672613612098293761",
+        "location": "🚪88/288/520/1314",
+        "name": "清",
+        "pinned_tweet_id": "2038663240943800717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043048535181135876/PQHyeA4h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 42,
+          "like_count": 1319,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 744
+        },
+        "username": "yi_smokq",
+        "verified": false
+      }
+    ]
+  }
+}

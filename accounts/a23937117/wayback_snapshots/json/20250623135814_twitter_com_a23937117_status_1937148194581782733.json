@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1937119958896611545",
+    "created_at": "2025-06-23T13:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T14:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937148194581782733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1691791250670895105",
+          "start": 0,
+          "username": "Kilig_i777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937148194581782733",
+    "in_reply_to_user_id": "1691791250670895105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937119958896611545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kilig_i777 真的……想摁手掌或者腿上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1937119958896611545",
+        "created_at": "2025-06-23T13:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T14:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937148194581782733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1691791250670895105",
+              "start": 0,
+              "username": "Kilig_i777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937148194581782733",
+        "in_reply_to_user_id": "1691791250670895105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937119958896611545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kilig_i777 真的……想摁手掌或者腿上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691791250670895105",
+        "conversation_id": "1937119958896611545",
+        "created_at": "2025-06-23T12:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T13:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937119958896611545"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937119958896611545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 945,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好像有病一样。。我每次抽完烟总是想往自己身上摁。。下意识且莫名其妙的想法。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "kissing",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 124,
+          "like_count": 800,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 135
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T12:37:33.000Z",
+        "description": "不想叫我宝宝可以叫我香香｜谢谢你的取关 |我没有小号别被骗|推广关评自辨｜匿名📪 https://t.co/xEONfKiwpu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%88%91%E6%9…",
+                "end": 64,
+                "expanded_url": "https://ngl.link/%E6%88%91%E6%9C%8D%E4%BA%86%E5%AE%9D%E5%AE%9D",
+                "start": 41,
+                "url": "https://t.co/xEONfKiwpu"
+              }
+            ]
+          }
+        },
+        "id": "1691791250670895105",
+        "location": "答应我会幸福",
+        "name": "我服了宝宝",
+        "pinned_tweet_id": "1930580592913007036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927900924237762560/_p_RRqEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7025,
+          "following_count": 228,
+          "like_count": 8957,
+          "listed_count": 12,
+          "media_count": 129,
+          "tweet_count": 4035
+        },
+        "username": "Kilig_i777",
+        "verified": false
+      }
+    ]
+  }
+}

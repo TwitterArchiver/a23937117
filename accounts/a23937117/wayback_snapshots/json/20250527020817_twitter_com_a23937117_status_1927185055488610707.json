@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1927185055488610707",
+    "created_at": "2025-05-27T02:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T03:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927185055488610707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1795497104049414144",
+          "start": 3,
+          "username": "hsh6669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927185055488610707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927008101451862483",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsh6669: 驯服brat技巧：(欢迎补充)\n\n① 她挑衅时保持冷静有耐心\n② 包容她不越界的调皮捣蛋\n③ 看穿她的小心思\n④ 多顺毛，摸摸她的小脑袋\n⑤ 对她袒露你的真心\n⑥ 准备板子数据线热熔胶棒 \n⑦ 往死里打，满地找爬也别放过\n⑧ 揍完安抚讲道理，告知底线规…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1927185055488610707",
+        "created_at": "2025-05-27T02:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T03:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927185055488610707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1795497104049414144",
+              "start": 3,
+              "username": "hsh6669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927185055488610707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927008101451862483",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsh6669: 驯服brat技巧：(欢迎补充)\n\n① 她挑衅时保持冷静有耐心\n② 包容她不越界的调皮捣蛋\n③ 看穿她的小心思\n④ 多顺毛，摸摸她的小脑袋\n⑤ 对她袒露你的真心\n⑥ 准备板子数据线热熔胶棒 \n⑦ 往死里打，满地找爬也别放过\n⑧ 揍完安抚讲道理，告知底线规…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795497104049414144",
+        "conversation_id": "1927008101451862483",
+        "created_at": "2025-05-26T14:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T15:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927008101451862483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927008101451862483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 51744,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 80,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "驯服brat技巧：(欢迎补充)\n\n① 她挑衅时保持冷静有耐心\n② 包容她不越界的调皮捣蛋\n③ 看穿她的小心思\n④ 多顺毛，摸摸她的小脑袋\n⑤ 对她袒露你的真心\n⑥ 准备板子数据线热熔胶棒 \n⑦ 往死里打，满地找爬也别放过\n⑧ 揍完安抚讲道理，告知底线规矩\n\nPs：备好速效救心丸，降压药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "讨厌我的人有福了 因为我真的过的很惨",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 110,
+          "like_count": 684,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 81
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T16:47:37.000Z",
+        "description": "碎碎念分享/ 话题投稿/ 树洞吐槽/ 付费绿色交友委托/ 有偿推广转发/ 商务合作请私信/ 投稿筛选后发出🎁",
+        "id": "1795497104049414144",
+        "location": "Hong Kong",
+        "name": "进来交友",
+        "pinned_tweet_id": "1854356710154236069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795541690771701760/K-GFG_I7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479520,
+          "following_count": 42,
+          "like_count": 599,
+          "listed_count": 372,
+          "media_count": 1244,
+          "tweet_count": 2960
+        },
+        "username": "hsh6669",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1945442457711255951",
+    "created_at": "2025-07-16T23:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T00:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945628550381306225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1697903165570686976",
+          "start": 0,
+          "username": "kikoxts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945628550381306225",
+    "in_reply_to_user_id": "1697903165570686976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945442457711255951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kikoxts 家族遗传的精神病，心理疾病毁了我一生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1945442457711255951",
+        "created_at": "2025-07-16T23:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T00:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945628550381306225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1697903165570686976",
+              "start": 0,
+              "username": "kikoxts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945628550381306225",
+        "in_reply_to_user_id": "1697903165570686976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945442457711255951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikoxts 家族遗传的精神病，心理疾病毁了我一生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697903165570686976",
+        "conversation_id": "1945442457711255951",
+        "created_at": "2025-07-16T11:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T12:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945442457711255951"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945442457711255951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的家庭让我失去了童年，疫情让我失去了青春，家人的出轨毁了我的高考，而我的心理疾病不知在未来的哪一天才会痊愈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 162,
+          "like_count": 949,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 368
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T09:24:11.000Z",
+        "description": "这里是精神封印不稳定的INFP-A笨蛋一只。情绪有时会有点极端（在改了，在改了）（新建文件夹）由于心理问题有时会极度渴望安全感。想见每只友善同类一面。（偶有🩸图掉落）永远的好朋友@HJS_2403_0可爱奇奇@ringochichidim",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "HJS_2403_0"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "ringochichidim"
+              }
+            ]
+          }
+        },
+        "id": "1697903165570686976",
+        "location": "随机刷新在你身边1000米以内",
+        "name": "是kiko哦~",
+        "pinned_tweet_id": "1899655556660429124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895111547455762433/svnvayy3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 365,
+          "like_count": 4902,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1815
+        },
+        "username": "kikoxts",
+        "verified": false
+      }
+    ]
+  }
+}

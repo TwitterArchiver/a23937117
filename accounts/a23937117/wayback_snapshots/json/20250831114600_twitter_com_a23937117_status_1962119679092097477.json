@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962119679092097477",
+    "created_at": "2025-08-31T11:46:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T12:46:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962119679092097477"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 116,
+          "start": 112,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "非绿"
+        },
+        {
+          "end": 125,
+          "start": 121,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "门槛"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "苏州"
+        },
+        {
+          "end": 138,
+          "start": 135,
+          "tag": "上海"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1073211766866395137",
+          "start": 3,
+          "username": "Soad13606360"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962119679092097477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960337992943595657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Soad13606360: 很穷有哥哥约我线下嘛\n长住：苏州 杭州上海两头跑\n可以验证 验证20 \n166.54.d 白🐯 🚪188 288 520\n关注转发我的抽奖免3个门 3个红🧧52\n欢迎女孩子找我互转fo \n#爸爸活 #非绿 #门槛妹  #门槛 #苏州 #上海…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962119679092097477].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962119679092097477",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962119679092097477"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2032,
+        "media_key": "3_1960337984001339392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSFApga8AAtU8X.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1960337983992975361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSFApebUAEef8I.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960337984001339392",
+            "3_1960337983992975361"
+          ]
+        },
+        "author_id": "1073211766866395137",
+        "conversation_id": "1960337992943595657",
+        "created_at": "2025-08-26T13:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T14:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960337992943595657"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "非绿"
+            },
+            {
+              "end": 107,
+              "start": 103,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "门槛"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "苏州"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "上海"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "杭州"
+            },
+            {
+              "end": 130,
+              "start": 125,
+              "tag": "反差女大"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1iFbJi2P7r",
+              "end": 154,
+              "expanded_url": "https://x.com/Soad13606360/status/1960337992943595657/photo/1",
+              "media_key": "3_1960337984001339392",
+              "start": 131,
+              "url": "https://t.co/1iFbJi2P7r"
+            },
+            {
+              "display_url": "pic.x.com/1iFbJi2P7r",
+              "end": 154,
+              "expanded_url": "https://x.com/Soad13606360/status/1960337992943595657/photo/1",
+              "media_key": "3_1960337983992975361",
+              "start": 131,
+              "url": "https://t.co/1iFbJi2P7r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960337992943595657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8892,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "很穷有哥哥约我线下嘛\n长住：苏州 杭州上海两头跑\n可以验证 验证20 \n166.54.d 白🐯 🚪188 288 520\n关注转发我的抽奖免3个门 3个红🧧52\n欢迎女孩子找我互转fo \n#爸爸活 #非绿 #门槛妹  #门槛 #苏州 #上海 #杭州 #反差女大 https://t.co/1iFbJi2P7r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 208,
+          "like_count": 1137,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 669
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-13T13:43:19.000Z",
+        "description": "己过大v小妹日常验证 有🚪188 520 1314入门可抵线下费用 验证20 不入门别骚扰我不回拉黑",
+        "id": "1073211766866395137",
+        "name": "小羊不阳🫥（只回入门口令）",
+        "pinned_tweet_id": "1960337992943595657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960231582364745729/p2CMm_ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 13,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 106
+        },
+        "username": "Soad13606360",
+        "verified": false
+      }
+    ]
+  }
+}

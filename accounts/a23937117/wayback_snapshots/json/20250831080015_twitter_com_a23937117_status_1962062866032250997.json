@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1962062799389040640"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962062866032250997",
+    "created_at": "2025-08-31T08:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T09:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962062866032250997"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "娇喘"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "女喘"
+        },
+        {
+          "end": 45,
+          "start": 40,
+          "tag": "强制高潮"
+        },
+        {
+          "end": 48,
+          "start": 46,
+          "tag": "m"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DvBNhkbKMG",
+          "end": 72,
+          "expanded_url": "https://x.com/a23937117/status/1962062866032250997/video/1",
+          "media_key": "13_1962062799389040640",
+          "start": 49,
+          "url": "https://t.co/DvBNhkbKMG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962062866032250997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "睡不着，自慰一直在强制高潮，然后发出蚊子一样绝望的喘气声……\n\n#娇喘 #女喘 #强制高潮 #m https://t.co/DvBNhkbKMG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962062866032250997].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962062866032250997",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962062866032250997"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 134541,
+        "height": 948,
+        "media_key": "13_1962062799389040640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1962062799389040640/img/RDNKgHuFprsZi9qy.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962062799389040640/vid/avc1/320x420/UD9tdsR-h3vjpEKy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962062799389040640/vid/avc1/480x632/xEMyRm3tohIE5Vh2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962062799389040640/vid/avc1/720x948/BgsMy5-1MHEh-EFg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1962062799389040640/pl/xzYvYaLI8v2C1LYE.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰--子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1960490344723706120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 208,
+          "like_count": 1132,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 651
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

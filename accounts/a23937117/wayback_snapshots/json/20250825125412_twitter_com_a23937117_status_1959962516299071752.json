@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1959962516299071752",
+    "created_at": "2025-08-25T12:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T13:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959962516299071752"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 139,
+          "start": 135,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1872583827798798336",
+          "start": 3,
+          "username": "MossTombstge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959962516299071752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927038970937917440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MossTombstge: 我是小知\n为我转发会非常感谢你 互fo互转请私信\n地雷系/cos/萝莉 我出原味定制\np1详情\n主为线上 （放假不定期回杭）\n只回口令 请给我维持生命的钱🖤\n现精神状态无法上学 需要用钱治病来回归正常生活 爸爸妈妈们给的钱都会很感激\n#门槛妹…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1782,
+        "media_key": "3_1927038959923654657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr43uWKWcAEamD_.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1927038959797882881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr43uVsXUAE0iD4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1959962516299071752",
+        "created_at": "2025-08-25T12:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T13:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959962516299071752"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "门槛妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1872583827798798336",
+              "start": 3,
+              "username": "MossTombstge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959962516299071752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927038970937917440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MossTombstge: 我是小知\n为我转发会非常感谢你 互fo互转请私信\n地雷系/cos/萝莉 我出原味定制\np1详情\n主为线上 （放假不定期回杭）\n只回口令 请给我维持生命的钱🖤\n现精神状态无法上学 需要用钱治病来回归正常生活 爸爸妈妈们给的钱都会很感激\n#门槛妹…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927038959923654657",
+            "3_1927038959797882881"
+          ]
+        },
+        "author_id": "1872583827798798336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          }
+        ],
+        "conversation_id": "1927038970937917440",
+        "created_at": "2025-05-26T16:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T17:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927038970937917440"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 126,
+              "start": 122,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "门槛"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "萝莉"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "jk"
+            },
+            {
+              "end": 144,
+              "start": 140,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 155,
+              "start": 150,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 159,
+              "start": 156,
+              "tag": "金主"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V4F8UiQzMD",
+              "end": 183,
+              "expanded_url": "https://x.com/MossTombstge/status/1927038970937917440/photo/1",
+              "media_key": "3_1927038959923654657",
+              "start": 160,
+              "url": "https://t.co/V4F8UiQzMD"
+            },
+            {
+              "display_url": "pic.x.com/V4F8UiQzMD",
+              "end": 183,
+              "expanded_url": "https://x.com/MossTombstge/status/1927038970937917440/photo/1",
+              "media_key": "3_1927038959797882881",
+              "start": 160,
+              "url": "https://t.co/V4F8UiQzMD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927038970937917440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 60447,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "我是小知\n为我转发会非常感谢你 互fo互转请私信\n地雷系/cos/萝莉 我出原味定制\np1详情\n主为线上 （放假不定期回杭）\n只回口令 请给我维持生命的钱🖤\n现精神状态无法上学 需要用钱治病来回归正常生活 爸爸妈妈们给的钱都会很感激\n#门槛妹 #门槛姐 #门槛 #萝莉 #jk  #爸爸活 #妈妈活 #ATM奴 #金主 https://t.co/V4F8UiQzMD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 208,
+          "like_count": 1105,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 607
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-27T10:02:51.000Z",
+        "description": "不过🚪不闲聊 🚪不退 🚪66/128/288/520/无上限 @zhiy119160",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "zhiy119160"
+              }
+            ]
+          }
+        },
+        "id": "1872583827798798336",
+        "location": "验证20",
+        "name": "剧渋升凝",
+        "pinned_tweet_id": "1927038970937917440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947469350115635200/zocLT4aT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 91,
+          "like_count": 262,
+          "listed_count": 7,
+          "media_count": 60,
+          "tweet_count": 378
+        },
+        "username": "MossTombstge",
+        "verified": false
+      }
+    ]
+  }
+}

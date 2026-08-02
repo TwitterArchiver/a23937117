@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2025130910916452387",
+    "created_at": "2026-02-22T09:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T10:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025496231640801610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1844723689851699200",
+          "start": 0,
+          "username": "Mary365366"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025496231640801610",
+    "in_reply_to_user_id": "1844723689851699200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025479388196991227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mary365366 吵架也无所谓，起码在一起的时候还能有正常的情绪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2025130910916452387",
+        "created_at": "2026-02-22T09:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T10:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025496231640801610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1844723689851699200",
+              "start": 0,
+              "username": "Mary365366"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025496231640801610",
+        "in_reply_to_user_id": "1844723689851699200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025479388196991227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mary365366 吵架也无所谓，起码在一起的时候还能有正常的情绪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844723689851699200",
+        "conversation_id": "2025130910916452387",
+        "created_at": "2026-02-22T07:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025479388196991227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442350932977610752",
+              "start": 0,
+              "username": "a23937117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025479388196991227",
+        "in_reply_to_user_id": "1442350932977610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025130910916452387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a23937117 在一起经常吵架怎么办😣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover  谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1980120686774591794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 200,
+          "like_count": 1359,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 745
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-11T12:56:28.000Z",
+        "description": "我能在抖音红薯上看美女自然也可以上推看美女",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com",
+                "end": 23,
+                "expanded_url": "http://www.bilibili.com",
+                "start": 0,
+                "url": "https://t.co/LKAKEt5qxn"
+              }
+            ]
+          }
+        },
+        "id": "1844723689851699200",
+        "location": "刚用脚趾扣出来的三室一厅",
+        "name": "Mary",
+        "pinned_tweet_id": "1963901922823524799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021655612049031168/sGGRsVqX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 236,
+          "like_count": 1422,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 916
+        },
+        "url": "https://t.co/LKAKEt5qxn",
+        "username": "Mary365366",
+        "verified": false
+      }
+    ]
+  }
+}

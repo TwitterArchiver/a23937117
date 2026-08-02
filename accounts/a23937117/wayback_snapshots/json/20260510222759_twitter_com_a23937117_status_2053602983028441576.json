@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053572847340294144",
+        "3_2053572846933393408"
+      ],
+      "media_source_tweet_id": [
+        "2053572858232844716",
+        "2053572858232844716"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053602983028441576",
+    "created_at": "2026-05-10T22:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T23:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053602983028441576"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "门槛"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "女高"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "反差"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "线下"
+        },
+        {
+          "end": 80,
+          "start": 75,
+          "tag": "电子女友"
+        },
+        {
+          "end": 84,
+          "start": 81,
+          "tag": "反差"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1057458720",
+          "start": 3,
+          "username": "AyselGulsever"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gp0xOfiUf9",
+          "end": 108,
+          "expanded_url": "https://x.com/AyselGulsever/status/2053572858232844716/photo/1",
+          "media_key": "3_2053572847340294144",
+          "start": 85,
+          "url": "https://t.co/Gp0xOfiUf9"
+        },
+        {
+          "display_url": "pic.x.com/Gp0xOfiUf9",
+          "end": 108,
+          "expanded_url": "https://x.com/AyselGulsever/status/2053572858232844716/photo/1",
+          "media_key": "3_2053572846933393408",
+          "start": 85,
+          "url": "https://t.co/Gp0xOfiUf9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053602983028441576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053572858232844716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AyselGulsever: 这里是可可\n08 172 47kg\n欢迎姐妹们找我互转互fo \n期待有宝宝入我\n#门槛 #女高 #反差 #线下 #电子女友 #反差 https://t.co/Gp0xOfiUf9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2053572847340294144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH_Bn9YbEAAGwaC.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1310,
+        "media_key": "3_2053572846933393408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH_Bn73aQAA_D7N.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053572847340294144",
+            "3_2053572846933393408"
+          ],
+          "media_source_tweet_id": [
+            "2053572858232844716",
+            "2053572858232844716"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2053602983028441576",
+        "created_at": "2026-05-10T22:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T23:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053602983028441576"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "门槛"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "女高"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "反差"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "线下"
+            },
+            {
+              "end": 80,
+              "start": 75,
+              "tag": "电子女友"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "反差"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1057458720",
+              "start": 3,
+              "username": "AyselGulsever"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gp0xOfiUf9",
+              "end": 108,
+              "expanded_url": "https://x.com/AyselGulsever/status/2053572858232844716/photo/1",
+              "media_key": "3_2053572847340294144",
+              "start": 85,
+              "url": "https://t.co/Gp0xOfiUf9"
+            },
+            {
+              "display_url": "pic.x.com/Gp0xOfiUf9",
+              "end": 108,
+              "expanded_url": "https://x.com/AyselGulsever/status/2053572858232844716/photo/1",
+              "media_key": "3_2053572846933393408",
+              "start": 85,
+              "url": "https://t.co/Gp0xOfiUf9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053602983028441576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053572858232844716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AyselGulsever: 这里是可可\n08 172 47kg\n欢迎姐妹们找我互转互fo \n期待有宝宝入我\n#门槛 #女高 #反差 #线下 #电子女友 #反差 https://t.co/Gp0xOfiUf9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053572847340294144",
+            "3_2053572846933393408"
+          ]
+        },
+        "author_id": "1057458720",
+        "conversation_id": "2053572858232844716",
+        "created_at": "2026-05-10T20:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T21:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053572858232844716"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "门槛"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "女高"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "反差"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "线下"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "电子女友"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gp0xOfiUf9",
+              "end": 89,
+              "expanded_url": "https://x.com/AyselGulsever/status/2053572858232844716/photo/1",
+              "media_key": "3_2053572847340294144",
+              "start": 66,
+              "url": "https://t.co/Gp0xOfiUf9"
+            },
+            {
+              "display_url": "pic.x.com/Gp0xOfiUf9",
+              "end": 89,
+              "expanded_url": "https://x.com/AyselGulsever/status/2053572858232844716/photo/1",
+              "media_key": "3_2053572846933393408",
+              "start": 66,
+              "url": "https://t.co/Gp0xOfiUf9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053572858232844716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "这里是可可\n08 172 47kg\n欢迎姐妹们找我互转互fo \n期待有宝宝入我\n#门槛 #女高 #反差 #线下 #电子女友 #反差 https://t.co/Gp0xOfiUf9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 202,
+          "like_count": 1405,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 757
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-03T10:51:48.000Z",
+        "description": "希望能收到金主爸爸的投喂，问坐标20❤️，欢迎小女孩找我互转互fo!",
+        "id": "1057458720",
+        "location": "距离你4.6公里",
+        "name": "可可",
+        "pinned_tweet_id": "2053572858232844716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047991075814707200/8e5Aq3al_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 6,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 11
+        },
+        "username": "AyselGulsever",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952369798068793344"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1952369807254294916",
+    "created_at": "2025-08-04T14:03:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T15:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952369807254294916"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HLVM4N5CAv",
+          "end": 40,
+          "expanded_url": "https://x.com/a23937117/status/1952369807254294916/photo/1",
+          "media_key": "3_1952369798068793344",
+          "start": 17,
+          "url": "https://t.co/HLVM4N5CAv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952369807254294916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果什么都原谅 那痛就是咎由自取 https://t.co/HLVM4N5CAv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1952369807254294916].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1952369807254294916",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1952369807254294916"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1952369798068793344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxg1_LwXcAAgehK.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 184,
+          "like_count": 1007,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 453
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

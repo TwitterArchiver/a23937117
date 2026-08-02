@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2046793372267127226",
+    "created_at": "2026-04-24T05:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047555692282720347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1115809099482980353",
+          "start": 0,
+          "username": "DKR_World"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047555692282720347",
+    "in_reply_to_user_id": "1115809099482980353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046793372267127226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DKR_World 劳拉西泮氯硝西泮吃完一边吐一边失忆就老实了，我o氯硝西泮失忆到大半夜去家乐福买了两大罐冰淇淋，第二天毫无记忆，甚至不知道自己出门，盯着冰箱陷入沉思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2046793372267127226",
+        "created_at": "2026-04-24T05:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047555692282720347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1115809099482980353",
+              "start": 0,
+              "username": "DKR_World"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047555692282720347",
+        "in_reply_to_user_id": "1115809099482980353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046793372267127226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DKR_World 劳拉西泮氯硝西泮吃完一边吐一边失忆就老实了，我o氯硝西泮失忆到大半夜去家乐福买了两大罐冰淇淋，第二天毫无记忆，甚至不知道自己出门，盯着冰箱陷入沉思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1115809099482980353",
+        "conversation_id": "2046793372267127226",
+        "created_at": "2026-04-22T03:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T04:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046793372267127226"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046793372267127226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1302,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的普瑞還夠o一次，如果吃完了我就去吃勞拉西泮，勞拉吃完了我就去吃加巴噴丁，然後再吃勞拉西泮。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 203,
+          "like_count": 1401,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 699
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-10T02:49:54.000Z",
+        "description": "最後の指令：すべてと一緒に滅びろ。無盡革命資金募集中！我需要錢◆🚪52/101/188 @Noelle1914",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "Noelle1914"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dkr71262",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dkr71262",
+                "start": 0,
+                "url": "https://t.co/mvmC2vTXvo"
+              }
+            ]
+          }
+        },
+        "id": "1115809099482980353",
+        "location": "東京精神暴動支部",
+        "name": "◎東アジア躁鬱革委會",
+        "pinned_tweet_id": "2020846049972326673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029702608819212290/Qhwu5L_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2321,
+          "following_count": 744,
+          "like_count": 44827,
+          "listed_count": 9,
+          "media_count": 563,
+          "tweet_count": 6283
+        },
+        "url": "https://t.co/mvmC2vTXvo",
+        "username": "DKR_World",
+        "verified": false
+      }
+    ]
+  }
+}

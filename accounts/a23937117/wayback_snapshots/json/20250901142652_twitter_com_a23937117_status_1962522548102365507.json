@@ -1,0 +1,520 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1962522548102365507",
+    "created_at": "2025-09-01T14:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T15:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962522548102365507"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 93,
+          "start": 89,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "门槛"
+        },
+        {
+          "end": 101,
+          "start": 98,
+          "tag": "线下"
+        },
+        {
+          "end": 106,
+          "start": 102,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 111,
+          "start": 107,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "陪聊"
+        },
+        {
+          "end": 120,
+          "start": 116,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "线下"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "青岛"
+        },
+        {
+          "end": 134,
+          "start": 129,
+          "tag": "青岛线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1844038997640978432",
+          "start": 3,
+          "username": "coqw9x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962522548102365507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848780549453975928",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @coqw9x: 新顶置    \n我是苏苏🚪188/288/520 06/jk/lolita/cosplay    喜欢我请来过我📷   接青岛线下  求小女孩互fo互转 #门槛哥 #门槛 #线下 #爸爸活 #妈妈活 #陪聊 #门槛妹 #线下 #青岛 #青岛线下 http…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 784,
+        "media_key": "3_1848780536572977152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GagwGk4WoAAAyAC.jpg",
+        "width": 574
+      },
+      {
+        "height": 763,
+        "media_key": "3_1848780536573050880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GagwGk4XwAA4-Xo.jpg",
+        "width": 574
+      },
+      {
+        "height": 780,
+        "media_key": "3_1848780536568819713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GagwGk3XMAExml5.jpg",
+        "width": 574
+      },
+      {
+        "height": 778,
+        "media_key": "3_1848780536568844293",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GagwGk3XkAUqQCx.jpg",
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1962522548102365507",
+        "created_at": "2025-09-01T14:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T15:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962522548102365507"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "门槛"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "线下"
+            },
+            {
+              "end": 106,
+              "start": 102,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 111,
+              "start": 107,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "陪聊"
+            },
+            {
+              "end": 120,
+              "start": 116,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "线下"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "青岛"
+            },
+            {
+              "end": 134,
+              "start": 129,
+              "tag": "青岛线下"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1844038997640978432",
+              "start": 3,
+              "username": "coqw9x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962522548102365507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848780549453975928",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @coqw9x: 新顶置    \n我是苏苏🚪188/288/520 06/jk/lolita/cosplay    喜欢我请来过我📷   接青岛线下  求小女孩互fo互转 #门槛哥 #门槛 #线下 #爸爸活 #妈妈活 #陪聊 #门槛妹 #线下 #青岛 #青岛线下 http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1848780536572977152",
+            "3_1848780536573050880",
+            "3_1848780536568819713",
+            "3_1848780536568844293"
+          ]
+        },
+        "author_id": "1844038997640978432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1848780549453975928",
+        "created_at": "2024-10-22T17:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-22T18:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1848780549453975928"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 77,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "门槛"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "线下"
+            },
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "陪聊"
+            },
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "线下"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "青岛"
+            },
+            {
+              "end": 122,
+              "start": 117,
+              "tag": "青岛线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DT1BxP0GZP",
+              "end": 146,
+              "expanded_url": "https://x.com/MildredWea45673/status/1848780549453975928/photo/1",
+              "media_key": "3_1848780536572977152",
+              "start": 123,
+              "url": "https://t.co/DT1BxP0GZP"
+            },
+            {
+              "display_url": "pic.x.com/DT1BxP0GZP",
+              "end": 146,
+              "expanded_url": "https://x.com/MildredWea45673/status/1848780549453975928/photo/1",
+              "media_key": "3_1848780536573050880",
+              "start": 123,
+              "url": "https://t.co/DT1BxP0GZP"
+            },
+            {
+              "display_url": "pic.x.com/DT1BxP0GZP",
+              "end": 146,
+              "expanded_url": "https://x.com/MildredWea45673/status/1848780549453975928/photo/1",
+              "media_key": "3_1848780536568819713",
+              "start": 123,
+              "url": "https://t.co/DT1BxP0GZP"
+            },
+            {
+              "display_url": "pic.x.com/DT1BxP0GZP",
+              "end": 146,
+              "expanded_url": "https://x.com/MildredWea45673/status/1848780549453975928/photo/1",
+              "media_key": "3_1848780536568844293",
+              "start": 123,
+              "url": "https://t.co/DT1BxP0GZP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848780549453975928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 55222,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "新顶置    \n我是苏苏🚪188/288/520 06/jk/lolita/cosplay    喜欢我请来过我📷   接青岛线下  求小女孩互fo互转 #门槛哥 #门槛 #线下 #爸爸活 #妈妈活 #陪聊 #门槛妹 #线下 #青岛 #青岛线下 https://t.co/DT1BxP0GZP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 211,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 676
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T15:35:48.000Z",
+        "description": "🚪188/288/520",
+        "id": "1844038997640978432",
+        "location": "青岛",
+        "name": "苏苏2.0",
+        "pinned_tweet_id": "1848780549453975928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848781172148477952/e3-UXYUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 86,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 217
+        },
+        "username": "coqw9x",
+        "verified": false
+      }
+    ]
+  }
+}

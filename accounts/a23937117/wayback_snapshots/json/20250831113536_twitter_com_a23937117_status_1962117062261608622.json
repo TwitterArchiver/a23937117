@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955011744297840640",
+        "3_1955011745279340544",
+        "3_1955011744331374592"
+      ],
+      "media_source_tweet_id": [
+        "1955011761234440287",
+        "1955011761234440287",
+        "1955011761234440287"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962117062261608622",
+    "created_at": "2025-08-31T11:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T12:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962117062261608622"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 57,
+          "tag": "门槛"
+        },
+        {
+          "end": 65,
+          "start": 61,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 70,
+          "start": 66,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "半绿"
+        },
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "非绿"
+        },
+        {
+          "end": 82,
+          "start": 79,
+          "tag": "四爱"
+        },
+        {
+          "end": 86,
+          "start": 83,
+          "tag": "SM"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1760825159278342144",
+          "start": 3,
+          "username": "xiaojiaya1231"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YAeHbCeCl7",
+          "end": 110,
+          "expanded_url": "https://x.com/xiaojiaya1231/status/1955011761234440287/photo/1",
+          "media_key": "3_1955011744297840640",
+          "start": 87,
+          "url": "https://t.co/YAeHbCeCl7"
+        },
+        {
+          "display_url": "pic.x.com/YAeHbCeCl7",
+          "end": 110,
+          "expanded_url": "https://x.com/xiaojiaya1231/status/1955011761234440287/photo/1",
+          "media_key": "3_1955011745279340544",
+          "start": 87,
+          "url": "https://t.co/YAeHbCeCl7"
+        },
+        {
+          "display_url": "pic.x.com/YAeHbCeCl7",
+          "end": 110,
+          "expanded_url": "https://x.com/xiaojiaya1231/status/1955011761234440287/photo/1",
+          "media_key": "3_1955011744331374592",
+          "start": 87,
+          "url": "https://t.co/YAeHbCeCl7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962117062261608622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955011761234440287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaojiaya1231: 接双飞喵，入🚪私信，新置顶，转发抽三个52，两个免费的线下🚪，黑头发的是我 #门槛 #妈妈活 #爸爸活 ＃半绿 ＃非绿 #四爱 #SM https://t.co/YAeHbCeCl7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962117062261608622].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962117062261608622",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962117062261608622"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955011744297840640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyGY0saW8AATBhA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1707,
+        "media_key": "3_1955011745279340544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyGY0wEXcAAE1kn.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1220,
+        "media_key": "3_1955011744331374592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyGY0siWoAA5P2q.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955011744297840640",
+            "3_1955011745279340544",
+            "3_1955011744331374592"
+          ]
+        },
+        "author_id": "1760825159278342144",
+        "conversation_id": "1955011761234440287",
+        "created_at": "2025-08-11T21:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T22:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955011761234440287"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "门槛"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "半绿"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "非绿"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "四爱"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "SM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YAeHbCeCl7",
+              "end": 91,
+              "expanded_url": "https://x.com/xiaojiaya1231/status/1955011761234440287/photo/1",
+              "media_key": "3_1955011744297840640",
+              "start": 68,
+              "url": "https://t.co/YAeHbCeCl7"
+            },
+            {
+              "display_url": "pic.x.com/YAeHbCeCl7",
+              "end": 91,
+              "expanded_url": "https://x.com/xiaojiaya1231/status/1955011761234440287/photo/1",
+              "media_key": "3_1955011745279340544",
+              "start": 68,
+              "url": "https://t.co/YAeHbCeCl7"
+            },
+            {
+              "display_url": "pic.x.com/YAeHbCeCl7",
+              "end": 91,
+              "expanded_url": "https://x.com/xiaojiaya1231/status/1955011761234440287/photo/1",
+              "media_key": "3_1955011744331374592",
+              "start": 68,
+              "url": "https://t.co/YAeHbCeCl7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955011761234440287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 38880,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "接双飞喵，入🚪私信，新置顶，转发抽三个52，两个免费的线下🚪，黑头发的是我 #门槛 #妈妈活 #爸爸活 ＃半绿 ＃非绿 #四爱 #SM https://t.co/YAeHbCeCl7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰--子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 208,
+          "like_count": 1137,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 651
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T00:33:42.000Z",
+        "description": "欢迎女宝宝互fo捏",
+        "id": "1760825159278342144",
+        "location": "石家庄",
+        "name": "呆滞小狗",
+        "pinned_tweet_id": "1955011761234440287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944871110996037632/5EOdb-Mx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4487,
+          "following_count": 55,
+          "like_count": 2778,
+          "listed_count": 7,
+          "media_count": 26,
+          "tweet_count": 170
+        },
+        "username": "xiaojiaya1231",
+        "verified": false
+      }
+    ]
+  }
+}

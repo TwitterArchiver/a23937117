@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1949133491465244672"
+      ],
+      "media_source_tweet_id": [
+        "1949133577469177925"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955007558118424612",
+    "created_at": "2025-08-11T20:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T21:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955007558118424612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1948304751537369088",
+          "start": 3,
+          "username": "anovaonu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DRg5gLkxzJ",
+          "end": 49,
+          "expanded_url": "https://x.com/anovaonu/status/1949133577469177925/video/1",
+          "media_key": "13_1949133491465244672",
+          "start": 26,
+          "url": "https://t.co/DRg5gLkxzJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955007558118424612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949133577469177925",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anovaonu: 求互转寻找互关ano酱 https://t.co/DRg5gLkxzJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955007558118424612].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955007558118424612",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955007558118424612"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9333,
+        "height": 544,
+        "media_key": "13_1949133491465244672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1949133491465244672/img/d9TKIudJ_KsCjaJ2.jpg",
+        "public_metrics": {
+          "view_count": 4523
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949133491465244672/vid/avc1/476x270/j7kI-OPelAZTTNxe.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949133491465244672/vid/avc1/634x360/z6Rncu5awn1Blwqo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949133491465244672/vid/avc1/960x544/8d7prSZiddx7ezjv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1949133491465244672/pl/SigMK-40ptzl3lHv.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1949133491465244672"
+          ]
+        },
+        "author_id": "1948304751537369088",
+        "conversation_id": "1949133577469177925",
+        "created_at": "2025-07-26T15:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T16:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949133577469177925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DRg5gLkxzJ",
+              "end": 35,
+              "expanded_url": "https://x.com/anovaonu/status/1949133577469177925/video/1",
+              "media_key": "13_1949133491465244672",
+              "start": 12,
+              "url": "https://t.co/DRg5gLkxzJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949133577469177925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 15584,
+          "like_count": 178,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "求互转寻找互关ano酱 https://t.co/DRg5gLkxzJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 215,
+          "like_count": 1068,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 525
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T08:50:42.000Z",
+        "description": "🚪88 🚪288 🚪300 🚪520",
+        "id": "1948304751537369088",
+        "name": "鸣泣",
+        "pinned_tweet_id": "1953849076505882879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954789524208590848/3TAoXdNI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 222,
+          "like_count": 1503,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 394
+        },
+        "username": "anovaonu",
+        "verified": false
+      }
+    ]
+  }
+}

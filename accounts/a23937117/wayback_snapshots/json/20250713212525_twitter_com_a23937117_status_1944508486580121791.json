@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1944343640840806595",
+    "created_at": "2025-07-13T21:25:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T22:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944508486580121791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780609759122718721",
+          "start": 0,
+          "username": "7lxxora_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944508486580121791",
+    "in_reply_to_user_id": "1780609759122718721",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944343640840806595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7lxxora_qwq 椰椰！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944343616517726208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvuyN7fWYAAP43E.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1944343640840806595",
+        "created_at": "2025-07-13T21:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T22:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944508486580121791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780609759122718721",
+              "start": 0,
+              "username": "7lxxora_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944508486580121791",
+        "in_reply_to_user_id": "1780609759122718721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944343640840806595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7lxxora_qwq 椰椰！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944343616517726208"
+          ]
+        },
+        "author_id": "1780609759122718721",
+        "conversation_id": "1944343640840806595",
+        "created_at": "2025-07-13T10:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T11:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944343640840806595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qt0aVODGU0",
+              "end": 36,
+              "expanded_url": "https://x.com/7lxxora_qwq/status/1944343640840806595/photo/1",
+              "media_key": "3_1944343616517726208",
+              "start": 13,
+              "url": "https://t.co/qt0aVODGU0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944343640840806595",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2979,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姐姐们我洗完澡修完毛啦！ https://t.co/qt0aVODGU0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 149,
+          "like_count": 923,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 291
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T14:50:47.000Z",
+        "description": "07｜enfj｜switch｜欢迎女宝来找我互fo 一起玩^_^｜白菜塔罗占卜🔮｜置顶关评推广自辨｜不加任何联系方式｜自用蜂鸟vpn：https://t.co/gieez6LYfn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 90,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=byewBiys",
+                "start": 67,
+                "url": "https://t.co/gieez6LYfn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bluetsavage_i7",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bluetsavage_i7",
+                "start": 0,
+                "url": "https://t.co/KKyVATwBIp"
+              }
+            ]
+          }
+        },
+        "id": "1780609759122718721",
+        "name": "芒果魚",
+        "pinned_tweet_id": "1921593091716268431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912551787850264577/Z7I4EAZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 384,
+          "like_count": 5300,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 2487
+        },
+        "url": "https://t.co/KKyVATwBIp",
+        "username": "7lxxora_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1964736300730458269",
+    "created_at": "2025-09-07T17:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T18:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964736300730458269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1405464542252044292",
+          "start": 3,
+          "username": "minjiangovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964736300730458269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964582934758998138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minjiangovo: 投喂指南\n转发这条帖子的人抽三个188红包\n男粉丝抽三个免费的188🚪\n带口令问问题养成好习惯 私信已读不回直接拉黑\n会认真对待每一个入我🚪的哥哥姐姐 \n需要很多钱来过好自己的生活 买自己喜欢的一切 谢谢喜欢我的所有哥哥姐姐(◍•ᴗ•◍)\n我爱…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1964736300730458269].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1964736300730458269",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1964736300730458269"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1212,
+        "media_key": "3_1964582840156508161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0OZry9bUAEAixn.jpg",
+        "width": 682
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1964582839896461317",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0OZrx_bUAUNtLC.jpg",
+        "width": 1920
+      },
+      {
+        "duration_ms": 55766,
+        "height": 720,
+        "media_key": "13_1964582839854477312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1964582839854477312/img/XYPO-LiOjW4sOb4C.jpg",
+        "public_metrics": {
+          "view_count": 195
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964582839854477312/vid/avc1/480x270/MG6wJdq4c8JYkPsw.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964582839854477312/vid/avc1/640x360/vuAJXsMfO-lJrlAG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964582839854477312/vid/avc1/1280x720/NRs01y40L0OliOh_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1964582839854477312/pl/yvkIXRc3Rj7aX441.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964582840156508161",
+            "3_1964582839896461317",
+            "13_1964582839854477312"
+          ]
+        },
+        "author_id": "1405464542252044292",
+        "conversation_id": "1964582934758998138",
+        "created_at": "2025-09-07T06:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T07:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964582934758998138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vqF5UnksAS",
+              "end": 179,
+              "expanded_url": "https://x.com/minjiangovo/status/1964582934758998138/video/1",
+              "media_key": "3_1964582840156508161",
+              "start": 156,
+              "url": "https://t.co/vqF5UnksAS"
+            },
+            {
+              "display_url": "pic.x.com/vqF5UnksAS",
+              "end": 179,
+              "expanded_url": "https://x.com/minjiangovo/status/1964582934758998138/video/1",
+              "media_key": "3_1964582839896461317",
+              "start": 156,
+              "url": "https://t.co/vqF5UnksAS"
+            },
+            {
+              "display_url": "pic.x.com/vqF5UnksAS",
+              "end": 179,
+              "expanded_url": "https://x.com/minjiangovo/status/1964582934758998138/video/1",
+              "media_key": "13_1964582839854477312",
+              "start": 156,
+              "url": "https://t.co/vqF5UnksAS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964582934758998138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 874,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "投喂指南\n转发这条帖子的人抽三个188红包\n男粉丝抽三个免费的188🚪\n带口令问问题养成好习惯 私信已读不回直接拉黑\n会认真对待每一个入我🚪的哥哥姐姐 \n需要很多钱来过好自己的生活 买自己喜欢的一切 谢谢喜欢我的所有哥哥姐姐(◍•ᴗ•◍)\n我爱泥萌 我爱世界 爱所有包容爱窝的人ε٩(๑&gt;₃&lt;)۶з https://t.co/vqF5UnksAS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 208,
+          "like_count": 1157,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 651
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-17T09:57:26.000Z",
+        "description": "#m 是一只小狗 汪੯‧̀͡⬮\\ 养成系幼萝 朋友圈有露脸照片 私信已读不回sqj 25语音认证 50视频验证",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 2,
+                "start": 0,
+                "tag": "m"
+              }
+            ]
+          }
+        },
+        "id": "1405464542252044292",
+        "name": "敏敏犬",
+        "pinned_tweet_id": "1964582934758998138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957373108891144192/E4-q9bAj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 68,
+          "like_count": 20,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 90
+        },
+        "username": "minjiangovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947565276712865793"
+      ],
+      "media_source_tweet_id": [
+        "1947565315833073770"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1954985162623557664",
+    "created_at": "2025-08-11T19:15:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T20:15:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954985162623557664"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 18,
+          "tag": "门槛"
+        },
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 31,
+          "start": 27,
+          "tag": "妈妈活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1937160859262025729",
+          "start": 3,
+          "username": "sequeliscute"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i8QSld3cCY",
+          "end": 55,
+          "expanded_url": "https://x.com/sequel_koi/status/1947565315833073770/photo/1",
+          "media_key": "3_1947565276712865793",
+          "start": 32,
+          "url": "https://t.co/i8QSld3cCY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954985162623557664",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 148
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947565315833073770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sequeliscute: #门槛 #爸爸活 #妈妈活 https://t.co/i8QSld3cCY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954985162623557664].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954985162623557664",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954985162623557664"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1947565276712865793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwckTO9bEAE7gYL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947565276712865793"
+          ]
+        },
+        "author_id": "1937160859262025729",
+        "conversation_id": "1947565315833073770",
+        "created_at": "2025-07-22T07:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T08:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947565315833073770"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "门槛"
+            },
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "妈妈活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i8QSld3cCY",
+              "end": 37,
+              "expanded_url": "https://x.com/sequel_koi/status/1947565315833073770/photo/1",
+              "media_key": "3_1947565276712865793",
+              "start": 14,
+              "url": "https://t.co/i8QSld3cCY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947565315833073770",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 51571,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 148
+        },
+        "reply_settings": "everyone",
+        "text": "#门槛 #爸爸活 #妈妈活 https://t.co/i8QSld3cCY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 197,
+          "like_count": 1063,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 504
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T14:48:56.000Z",
+        "description": "🚪88｜入门解锁线下",
+        "id": "1937160859262025729",
+        "location": "广州可✈️",
+        "name": "续集",
+        "pinned_tweet_id": "1947565315833073770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954979745478873090/3PTKNqnZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 14,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 39
+        },
+        "username": "sequeliscute",
+        "verified": false
+      }
+    ]
+  }
+}

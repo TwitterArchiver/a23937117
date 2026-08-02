@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955053336333324794",
+    "created_at": "2025-08-11T23:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T00:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955053336333324794"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 110,
+          "start": 106,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 116,
+          "start": 112,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "门槛"
+        },
+        {
+          "end": 125,
+          "start": 121,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 130,
+          "start": 126,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 135,
+          "start": 131,
+          "tag": "门槛姐"
+        },
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "门槛"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781310985611120640",
+          "start": 3,
+          "username": "ovo332295"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955053336333324794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916869848677691748",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ovo332295: 我是小萤₍˄·͈༝·͈˄*₎◞ ̑̑\n06年/162  48kg\n线下业务内容需要🚪288解锁\n私信只回口令和🚪（不约p谢谢）\n信息可能推上的看的不及时\n小女孩来和我互fo互推吧！！#爸爸活  #妈妈活 #门槛 #门槛哥 #门槛妹 #门槛姐 #门槛…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1916869725331902464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpoW2_Mb0AAMG2m.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1916869725143158785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpoW2-fb0AE5toS.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1916869725289938944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpoW2_CbgAAl4SR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1916869725327618048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpoW2_LacAAnrso.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1955053336333324794",
+        "created_at": "2025-08-11T23:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T00:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955053336333324794"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 116,
+              "start": 112,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "门槛"
+            },
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 130,
+              "start": 126,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 135,
+              "start": 131,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "门槛"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781310985611120640",
+              "start": 3,
+              "username": "ovo332295"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955053336333324794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916869848677691748",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ovo332295: 我是小萤₍˄·͈༝·͈˄*₎◞ ̑̑\n06年/162  48kg\n线下业务内容需要🚪288解锁\n私信只回口令和🚪（不约p谢谢）\n信息可能推上的看的不及时\n小女孩来和我互fo互推吧！！#爸爸活  #妈妈活 #门槛 #门槛哥 #门槛妹 #门槛姐 #门槛…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916869725331902464",
+            "3_1916869725143158785",
+            "3_1916869725289938944",
+            "3_1916869725327618048"
+          ]
+        },
+        "author_id": "1781310985611120640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1916869848677691748",
+        "created_at": "2025-04-28T14:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T15:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916869848677691748"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 101,
+              "start": 97,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "门槛"
+            },
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 120,
+              "start": 116,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "金主"
+            },
+            {
+              "end": 135,
+              "start": 130,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "陪聊"
+            },
+            {
+              "end": 145,
+              "start": 140,
+              "tag": "一日女友"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "纯绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ictv0eubWN",
+              "end": 173,
+              "expanded_url": "https://x.com/ovo332295/status/1916869848677691748/photo/1",
+              "media_key": "3_1916869725331902464",
+              "start": 150,
+              "url": "https://t.co/ictv0eubWN"
+            },
+            {
+              "display_url": "pic.x.com/ictv0eubWN",
+              "end": 173,
+              "expanded_url": "https://x.com/ovo332295/status/1916869848677691748/photo/1",
+              "media_key": "3_1916869725143158785",
+              "start": 150,
+              "url": "https://t.co/ictv0eubWN"
+            },
+            {
+              "display_url": "pic.x.com/ictv0eubWN",
+              "end": 173,
+              "expanded_url": "https://x.com/ovo332295/status/1916869848677691748/photo/1",
+              "media_key": "3_1916869725289938944",
+              "start": 150,
+              "url": "https://t.co/ictv0eubWN"
+            },
+            {
+              "display_url": "pic.x.com/ictv0eubWN",
+              "end": 173,
+              "expanded_url": "https://x.com/ovo332295/status/1916869848677691748/photo/1",
+              "media_key": "3_1916869725327618048",
+              "start": 150,
+              "url": "https://t.co/ictv0eubWN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916869848677691748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 28007,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "我是小萤₍˄·͈༝·͈˄*₎◞ ̑̑\n06年/162  48kg\n线下业务内容需要🚪288解锁\n私信只回口令和🚪（不约p谢谢）\n信息可能推上的看的不及时\n小女孩来和我互fo互推吧！！#爸爸活  #妈妈活 #门槛 #门槛哥 #门槛妹 #门槛姐 #门槛妹 #金主 #金主爸爸 #陪聊 #一日女友 #纯绿 https://t.co/ictv0eubWN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 231,
+          "like_count": 1075,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 551
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T13:16:58.000Z",
+        "description": "🚪188开放朋友圈 线下288/520/1314上不封顶 入🚪提供情绪价值 愿意倾听你的烦恼提供一些解决办法 询问坐标一次20 精确市级 不入门不要私信我 我不回复无关的",
+        "id": "1781310985611120640",
+        "name": "桜井蛍",
+        "pinned_tweet_id": "1916869848677691748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953677959472328709/oxSZt3RE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 43,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 145
+        },
+        "username": "ovo332295",
+        "verified": false
+      }
+    ]
+  }
+}

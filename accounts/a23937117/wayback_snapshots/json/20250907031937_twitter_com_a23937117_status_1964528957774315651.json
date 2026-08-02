@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1964528957774315651",
+    "created_at": "2025-09-07T03:19:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T04:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964528957774315651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1954726487783075840",
+          "start": 3,
+          "username": "koy429387972436"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964528957774315651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962129606959645021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @koy429387972436: 发个🔝大家好是意向 爸妈离婚了他们不管我了 快开学了我在攒学费 希望爸爸怜爱\n欢迎爸爸们给我入门🚪158/188/520/777/1314\n🚪哥来谢谢 可线下\n欢迎宝宝互推互fo ～\n转发此条可以参与抽奖三个188红包\n五天后零点开 h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1962129596381618178",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzrieNubYAIYLeU.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1962129596540944385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzrieOUagAEgUXG.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1964528957774315651",
+        "created_at": "2025-09-07T03:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T04:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964528957774315651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1954726487783075840",
+              "start": 3,
+              "username": "koy429387972436"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964528957774315651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962129606959645021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @koy429387972436: 发个🔝大家好是意向 爸妈离婚了他们不管我了 快开学了我在攒学费 希望爸爸怜爱\n欢迎爸爸们给我入门🚪158/188/520/777/1314\n🚪哥来谢谢 可线下\n欢迎宝宝互推互fo ～\n转发此条可以参与抽奖三个188红包\n五天后零点开 h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962129596381618178",
+            "3_1962129596540944385"
+          ]
+        },
+        "author_id": "1954726487783075840",
+        "conversation_id": "1962129606959645021",
+        "created_at": "2025-08-31T12:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T13:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962129606959645021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jn1kAR5tCU",
+              "end": 140,
+              "expanded_url": "https://x.com/koy429387972436/status/1962129606959645021/photo/1",
+              "media_key": "3_1962129596381618178",
+              "start": 117,
+              "url": "https://t.co/jn1kAR5tCU"
+            },
+            {
+              "display_url": "pic.x.com/jn1kAR5tCU",
+              "end": 140,
+              "expanded_url": "https://x.com/koy429387972436/status/1962129606959645021/photo/1",
+              "media_key": "3_1962129596540944385",
+              "start": 117,
+              "url": "https://t.co/jn1kAR5tCU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962129606959645021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 11986,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "发个🔝大家好是意向 爸妈离婚了他们不管我了 快开学了我在攒学费 希望爸爸怜爱\n欢迎爸爸们给我入门🚪158/188/520/777/1314\n🚪哥来谢谢 可线下\n欢迎宝宝互推互fo ～\n转发此条可以参与抽奖三个188红包\n五天后零点开 https://t.co/jn1kAR5tCU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 208,
+          "like_count": 1157,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 650
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-11T02:08:18.000Z",
+        "description": "坐标江浙沪 可验证 只回复门槛口令 165/49kg",
+        "id": "1954726487783075840",
+        "location": "🚪188 288 520 777 1314",
+        "name": "意向",
+        "pinned_tweet_id": "1962129606959645021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963187743896576000/dc4k0dSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 24,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 234
+        },
+        "username": "koy429387972436",
+        "verified": false
+      }
+    ]
+  }
+}

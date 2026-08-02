@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1954611048667079078",
+    "created_at": "2025-08-11T22:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T23:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955030998732689881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1645627834701082624",
+          "start": 0,
+          "username": "kira20194922529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955030998732689881",
+    "in_reply_to_user_id": "1645627834701082624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954611048667079078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kira20194922529 喹硫平去死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 941,
+        "media_key": "3_1954610900675227648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyAsQhjacAAoDdg.jpg",
+        "width": 751
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1954611048667079078",
+        "created_at": "2025-08-11T22:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T23:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955030998732689881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1645627834701082624",
+              "start": 0,
+              "username": "kira20194922529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955030998732689881",
+        "in_reply_to_user_id": "1645627834701082624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954611048667079078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kira20194922529 喹硫平去死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954610900675227648"
+          ]
+        },
+        "author_id": "1645627834701082624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1954611048667079078",
+        "created_at": "2025-08-10T18:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T19:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954611048667079078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rXrjn0halG",
+              "end": 39,
+              "expanded_url": "https://x.com/kira20194922529/status/1954611048667079078/photo/1",
+              "media_key": "3_1954610900675227648",
+              "start": 16,
+              "url": "https://t.co/rXrjn0halG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954611048667079078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 867,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我恨喹硫平，56kg→68kg https://t.co/rXrjn0halG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 229,
+          "like_count": 1075,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 544
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-11T03:20:33.000Z",
+        "description": "🚪30\n@keaiiea←这是我的黄推号\n入门可关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "keaiiea"
+              }
+            ]
+          }
+        },
+        "id": "1645627834701082624",
+        "location": "0.1km",
+        "name": "Jonas",
+        "pinned_tweet_id": "1914812256770199869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872088243606552576/btnTx5UM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 1342,
+          "like_count": 46218,
+          "listed_count": 2,
+          "media_count": 718,
+          "tweet_count": 4027
+        },
+        "username": "kira20194922529",
+        "verified": false
+      }
+    ]
+  }
+}

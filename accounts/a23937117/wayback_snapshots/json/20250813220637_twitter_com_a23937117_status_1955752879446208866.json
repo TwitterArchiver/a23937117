@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950467446235684864"
+      ],
+      "media_source_tweet_id": [
+        "1950467450606366740"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955752879446208866",
+    "created_at": "2025-08-13T22:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T23:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955752879446208866"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "门槛"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1890792547557240832",
+          "start": 3,
+          "username": "noomoo1821"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hku6AJ8zXy",
+          "end": 61,
+          "expanded_url": "https://x.com/noomoo1821/status/1950467450606366740/photo/1",
+          "media_key": "3_1950467446235684864",
+          "start": 38,
+          "url": "https://t.co/Hku6AJ8zXy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955752879446208866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950467450606366740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noomoo1821: 🔝新置顶\n欢迎小女孩跟我互fo互转\n#门槛 https://t.co/Hku6AJ8zXy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950467446235684864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxFzzu7XYAAJ6YB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950467446235684864"
+          ],
+          "media_source_tweet_id": [
+            "1950467450606366740"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "1955752879446208866",
+        "created_at": "2025-08-13T22:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T23:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955752879446208866"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "门槛"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1890792547557240832",
+              "start": 3,
+              "username": "noomoo1821"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hku6AJ8zXy",
+              "end": 61,
+              "expanded_url": "https://x.com/noomoo1821/status/1950467450606366740/photo/1",
+              "media_key": "3_1950467446235684864",
+              "start": 38,
+              "url": "https://t.co/Hku6AJ8zXy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955752879446208866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950467450606366740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noomoo1821: 🔝新置顶\n欢迎小女孩跟我互fo互转\n#门槛 https://t.co/Hku6AJ8zXy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950467446235684864"
+          ]
+        },
+        "author_id": "1890792547557240832",
+        "conversation_id": "1950467450606366740",
+        "created_at": "2025-07-30T08:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T09:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950467450606366740"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "门槛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hku6AJ8zXy",
+              "end": 45,
+              "expanded_url": "https://x.com/noomoo1821/status/1950467450606366740/photo/1",
+              "media_key": "3_1950467446235684864",
+              "start": 22,
+              "url": "https://t.co/Hku6AJ8zXy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950467450606366740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 20781,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "🔝新置顶\n欢迎小女孩跟我互fo互转\n#门槛 https://t.co/Hku6AJ8zXy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 230,
+          "like_count": 1083,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 590
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T15:57:37.000Z",
+        "description": "给我钱                                                                              \n\n         🚪88/168/240/800",
+        "id": "1890792547557240832",
+        "name": "moo",
+        "pinned_tweet_id": "1950467450606366740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890799907965145088/r5FXcng9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 49,
+          "like_count": 67,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 476
+        },
+        "username": "noomoo1821",
+        "verified": false
+      }
+    ]
+  }
+}

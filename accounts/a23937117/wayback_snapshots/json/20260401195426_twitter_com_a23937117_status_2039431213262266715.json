@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039039985886859264",
+        "3_2039039985882644480"
+      ],
+      "media_source_tweet_id": [
+        "2039040008611598638",
+        "2039040008611598638"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2039431213262266715",
+    "created_at": "2026-04-01T19:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T20:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039431213262266715"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "门槛"
+        },
+        {
+          "end": 82,
+          "start": 79,
+          "tag": "非绿"
+        },
+        {
+          "end": 86,
+          "start": 83,
+          "tag": "女大"
+        },
+        {
+          "end": 90,
+          "start": 87,
+          "tag": "反差"
+        },
+        {
+          "end": 96,
+          "start": 91,
+          "tag": "电子女友"
+        },
+        {
+          "end": 101,
+          "start": 97,
+          "tag": "求包养"
+        },
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "金主"
+        },
+        {
+          "end": 110,
+          "start": 106,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 115,
+          "start": 111,
+          "tag": "会才艺"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2164881441",
+          "start": 3,
+          "username": "ninazrrwigmt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4M0j0zpiGP",
+          "end": 139,
+          "expanded_url": "https://x.com/ninazrrwigmt/status/2039040008611598638/photo/1",
+          "media_key": "3_2039039985886859264",
+          "start": 116,
+          "url": "https://t.co/4M0j0zpiGP"
+        },
+        {
+          "display_url": "pic.x.com/4M0j0zpiGP",
+          "end": 139,
+          "expanded_url": "https://x.com/ninazrrwigmt/status/2039040008611598638/photo/1",
+          "media_key": "3_2039039985882644480",
+          "start": 116,
+          "url": "https://t.co/4M0j0zpiGP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039431213262266715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039040008611598638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ninazrrwigmt: 一个缺钱的小女生\n赚点生活费想买下喜欢的衣服\n性格温柔很听话\n喜欢的哥哥可以入门有惊喜哦\n欢迎女宝宝互转互fo呀 #门槛 #非绿 #女大 #反差 #电子女友 #求包养 #金主 #爸爸活 #会才艺 https://t.co/4M0j0zpiGP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1233,
+        "media_key": "3_2039039985886859264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEwgEFmakAAJv6Y.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039039985882644480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEwgEFlaQAAmt4A.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039039985886859264",
+            "3_2039039985882644480"
+          ],
+          "media_source_tweet_id": [
+            "2039040008611598638",
+            "2039040008611598638"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2039431213262266715",
+        "created_at": "2026-04-01T19:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T20:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039431213262266715"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "门槛"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "非绿"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "女大"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "反差"
+            },
+            {
+              "end": 96,
+              "start": 91,
+              "tag": "电子女友"
+            },
+            {
+              "end": 101,
+              "start": 97,
+              "tag": "求包养"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "金主"
+            },
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "会才艺"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2164881441",
+              "start": 3,
+              "username": "ninazrrwigmt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4M0j0zpiGP",
+              "end": 139,
+              "expanded_url": "https://x.com/ninazrrwigmt/status/2039040008611598638/photo/1",
+              "media_key": "3_2039039985886859264",
+              "start": 116,
+              "url": "https://t.co/4M0j0zpiGP"
+            },
+            {
+              "display_url": "pic.x.com/4M0j0zpiGP",
+              "end": 139,
+              "expanded_url": "https://x.com/ninazrrwigmt/status/2039040008611598638/photo/1",
+              "media_key": "3_2039039985882644480",
+              "start": 116,
+              "url": "https://t.co/4M0j0zpiGP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039431213262266715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039040008611598638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ninazrrwigmt: 一个缺钱的小女生\n赚点生活费想买下喜欢的衣服\n性格温柔很听话\n喜欢的哥哥可以入门有惊喜哦\n欢迎女宝宝互转互fo呀 #门槛 #非绿 #女大 #反差 #电子女友 #求包养 #金主 #爸爸活 #会才艺 https://t.co/4M0j0zpiGP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039039985886859264",
+            "3_2039039985882644480"
+          ]
+        },
+        "author_id": "2164881441",
+        "conversation_id": "2039040008611598638",
+        "created_at": "2026-03-31T17:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T18:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039040008611598638"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "门槛"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "非绿"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "女大"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "反差"
+            },
+            {
+              "end": 78,
+              "start": 73,
+              "tag": "电子女友"
+            },
+            {
+              "end": 83,
+              "start": 79,
+              "tag": "求包养"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "金主"
+            },
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "会才艺"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4M0j0zpiGP",
+              "end": 121,
+              "expanded_url": "https://x.com/ninazrrwigmt/status/2039040008611598638/photo/1",
+              "media_key": "3_2039039985886859264",
+              "start": 98,
+              "url": "https://t.co/4M0j0zpiGP"
+            },
+            {
+              "display_url": "pic.x.com/4M0j0zpiGP",
+              "end": 121,
+              "expanded_url": "https://x.com/ninazrrwigmt/status/2039040008611598638/photo/1",
+              "media_key": "3_2039039985882644480",
+              "start": 98,
+              "url": "https://t.co/4M0j0zpiGP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039040008611598638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 239,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "一个缺钱的小女生\n赚点生活费想买下喜欢的衣服\n性格温柔很听话\n喜欢的哥哥可以入门有惊喜哦\n欢迎女宝宝互转互fo呀 #门槛 #非绿 #女大 #反差 #电子女友 #求包养 #金主 #爸爸活 #会才艺 https://t.co/4M0j0zpiGP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 204,
+          "like_count": 1396,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 796
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-02T13:54:21.000Z",
+        "description": "问坐标20哦 喜欢礼貌 只回复口令  请正确姿势出现哟💕",
+        "id": "2164881441",
+        "location": "1.5km",
+        "name": "棉棉饱饱u",
+        "pinned_tweet_id": "2039040008611598638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038899244074151936/mHwx-yGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 8,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "username": "ninazrrwigmt",
+        "verified": false
+      }
+    ]
+  }
+}

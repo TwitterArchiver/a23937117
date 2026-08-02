@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1973923929505902922",
+    "created_at": "2025-10-03T01:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T02:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1973923929505902922"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xnhcy1126/stat…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/xnhcy1126/status/1973382615618007137",
+          "start": 22,
+          "url": "https://t.co/tEyJcc8w0F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973923929505902922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973382615618007137",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爱不能解万难，但是你的出现我已经没有那么疼 https://t.co/tEyJcc8w0F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1035,
+        "media_key": "3_1973382610782167040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2LdB3GaoAAgbVM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1973923929505902922",
+        "created_at": "2025-10-03T01:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T02:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973923929505902922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xnhcy1126/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/xnhcy1126/status/1973382615618007137",
+              "start": 22,
+              "url": "https://t.co/tEyJcc8w0F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973923929505902922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973382615618007137",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爱不能解万难，但是你的出现我已经没有那么疼 https://t.co/tEyJcc8w0F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973382610782167040"
+          ]
+        },
+        "author_id": "1758152770560159744",
+        "conversation_id": "1973382615618007137",
+        "created_at": "2025-10-01T13:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T14:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973382615618007137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HRNw4YoZby",
+              "end": 23,
+              "expanded_url": "https://x.com/xnhcy1126/status/1973382615618007137/photo/1",
+              "media_key": "3_1973382610782167040",
+              "start": 0,
+              "url": "https://t.co/HRNw4YoZby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973382615618007137",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 292,
+          "impression_count": 441407,
+          "like_count": 4022,
+          "quote_count": 20,
+          "reply_count": 41,
+          "retweet_count": 277
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HRNw4YoZby"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 人在海外 人在海外！！！ 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱有对象了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 216,
+          "like_count": 1262,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 687
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T15:34:29.000Z",
+        "description": "mtx | 性取向女 | 赛博八字isfp| 随缘更新 |  重度社恐 | 欢迎私信互关扩列 | ❤️？",
+        "id": "1758152770560159744",
+        "location": "站在世界中心呼唤爱💌",
+        "name": "汐华初流桜🍥",
+        "pinned_tweet_id": "1945491284204122119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967027770581831680/vuGKDXnS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 754,
+          "like_count": 7,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 329
+        },
+        "username": "xnhcy1126",
+        "verified": false
+      }
+    ]
+  }
+}

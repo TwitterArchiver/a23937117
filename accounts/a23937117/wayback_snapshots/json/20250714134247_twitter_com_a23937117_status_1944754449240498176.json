@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944753957743538176",
+        "3_1944753957781254145"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1944754449240498176",
+    "created_at": "2025-07-14T13:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T14:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944754449240498176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wctd3GKVW5",
+          "end": 41,
+          "expanded_url": "https://x.com/a23937117/status/1944754449240498176/photo/1",
+          "media_key": "3_1944753957743538176",
+          "start": 18,
+          "url": "https://t.co/wctd3GKVW5"
+        },
+        {
+          "display_url": "pic.x.com/wctd3GKVW5",
+          "end": 41,
+          "expanded_url": "https://x.com/a23937117/status/1944754449240498176/photo/1",
+          "media_key": "3_1944753957781254145",
+          "start": 18,
+          "url": "https://t.co/wctd3GKVW5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944754449240498176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 28,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "送给泡友，也是男朋友^⦁⩊⦁^ ੭ https://t.co/wctd3GKVW5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1944754449240498176].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1944754449240498176",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1944754449240498176"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944753957743538176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv0na7rWsAAr7xe.jpg",
+        "width": 1570
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1944753957781254145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv0na70WMAEFkDz.jpg",
+        "width": 1706
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 150,
+          "like_count": 926,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 299
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

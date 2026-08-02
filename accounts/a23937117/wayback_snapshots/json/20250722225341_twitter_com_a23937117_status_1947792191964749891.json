@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1947679523400782125",
+    "created_at": "2025-07-22T22:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T23:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947792191964749891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1858928423256944640",
+          "start": 0,
+          "username": "jingjing139174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947792191964749891",
+    "in_reply_to_user_id": "1858928423256944640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947679523400782125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingjing139174 分手快乐，做自己就好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1947679513200267264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GweMMrCbkAA4ltS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1947679523400782125",
+        "created_at": "2025-07-22T22:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T23:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947792191964749891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1858928423256944640",
+              "start": 0,
+              "username": "jingjing139174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947792191964749891",
+        "in_reply_to_user_id": "1858928423256944640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947679523400782125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingjing139174 分手快乐，做自己就好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947679513200267264"
+          ]
+        },
+        "author_id": "1858928423256944640",
+        "conversation_id": "1947679523400782125",
+        "created_at": "2025-07-22T15:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T16:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947679523400782125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tAGoqX4Ghm",
+              "end": 48,
+              "expanded_url": "https://x.com/jingjing139174/status/1947679523400782125/photo/1",
+              "media_key": "3_1947679513200267264",
+              "start": 25,
+              "url": "https://t.co/tAGoqX4Ghm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947679523400782125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 112477,
+          "like_count": 554,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "时隔一个月再次上线\n恭喜你啊酱酱老师 喜迎分手！ https://t.co/tAGoqX4Ghm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 166,
+          "like_count": 969,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 413
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T17:40:56.000Z",
+        "description": "和陆总恋爱ing❤️‍🔥我爱和妹宝们贴贴🧸日常存档/江浙沪独生女大🤤💕男的别叫我宝宝❌不线下不闲聊🙅‍♀️老子不是黄推 也不搞门槛😅",
+        "id": "1858928423256944640",
+        "name": "酱酱",
+        "pinned_tweet_id": "1884998584900448340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864737285092368384/kqJkE6f5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11416,
+          "following_count": 181,
+          "like_count": 90,
+          "listed_count": 17,
+          "media_count": 235,
+          "tweet_count": 1082
+        },
+        "username": "jingjing139174",
+        "verified": false
+      }
+    ]
+  }
+}

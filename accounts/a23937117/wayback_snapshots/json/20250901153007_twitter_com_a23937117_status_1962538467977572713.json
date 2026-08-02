@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1882982611372683264",
+        "3_1882982613222400001",
+        "3_1882982618083590144",
+        "3_1882982620004495360"
+      ],
+      "media_source_tweet_id": [
+        "1882982622143676793",
+        "1882982622143676793",
+        "1882982622143676793",
+        "1882982622143676793"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962538467977572713",
+    "created_at": "2025-09-01T15:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T16:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962538467977572713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1835916615634030592",
+          "start": 3,
+          "username": "yanleibanfan520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kwaRnBDeEn",
+          "end": 125,
+          "expanded_url": "https://x.com/yanleibanfan520/status/1882982622143676793/photo/1",
+          "media_key": "3_1882982611372683264",
+          "start": 102,
+          "url": "https://t.co/kwaRnBDeEn"
+        },
+        {
+          "display_url": "pic.x.com/kwaRnBDeEn",
+          "end": 125,
+          "expanded_url": "https://x.com/yanleibanfan520/status/1882982622143676793/photo/1",
+          "media_key": "3_1882982613222400001",
+          "start": 102,
+          "url": "https://t.co/kwaRnBDeEn"
+        },
+        {
+          "display_url": "pic.x.com/kwaRnBDeEn",
+          "end": 125,
+          "expanded_url": "https://x.com/yanleibanfan520/status/1882982622143676793/photo/1",
+          "media_key": "3_1882982618083590144",
+          "start": 102,
+          "url": "https://t.co/kwaRnBDeEn"
+        },
+        {
+          "display_url": "pic.x.com/kwaRnBDeEn",
+          "end": 125,
+          "expanded_url": "https://x.com/yanleibanfan520/status/1882982622143676793/photo/1",
+          "media_key": "3_1882982620004495360",
+          "start": 102,
+          "url": "https://t.co/kwaRnBDeEn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962538467977572713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882982622143676793",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yanleibanfan520: 眼泪拌饭的置顶❤️\n父母失业➕欠钱导致家里重度缺钱/我喜欢有礼貌的人/入门福利多更新快态度好 支持扫码或支付宝口令 扫完可发联系 欢迎小女孩找我互fo互转❤️🥰 https://t.co/kwaRnBDeEn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962538467977572713].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962538467977572713",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962538467977572713"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1882982611372683264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiGytWUbMAA1J87.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1882982613222400001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiGytdNboAE21Tt.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1882982618083590144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiGytvUbgAAkGOJ.jpg",
+        "width": 945
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1882982620004495360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiGyt2eaMAA953v.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882982611372683264",
+            "3_1882982613222400001",
+            "3_1882982618083590144",
+            "3_1882982620004495360"
+          ]
+        },
+        "author_id": "1835916615634030592",
+        "conversation_id": "1882982622143676793",
+        "created_at": "2025-01-25T02:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T03:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882982622143676793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kwaRnBDeEn",
+              "end": 104,
+              "expanded_url": "https://x.com/yanleibanfan520/status/1882982622143676793/photo/1",
+              "media_key": "3_1882982611372683264",
+              "start": 81,
+              "url": "https://t.co/kwaRnBDeEn"
+            },
+            {
+              "display_url": "pic.x.com/kwaRnBDeEn",
+              "end": 104,
+              "expanded_url": "https://x.com/yanleibanfan520/status/1882982622143676793/photo/1",
+              "media_key": "3_1882982613222400001",
+              "start": 81,
+              "url": "https://t.co/kwaRnBDeEn"
+            },
+            {
+              "display_url": "pic.x.com/kwaRnBDeEn",
+              "end": 104,
+              "expanded_url": "https://x.com/yanleibanfan520/status/1882982622143676793/photo/1",
+              "media_key": "3_1882982618083590144",
+              "start": 81,
+              "url": "https://t.co/kwaRnBDeEn"
+            },
+            {
+              "display_url": "pic.x.com/kwaRnBDeEn",
+              "end": 104,
+              "expanded_url": "https://x.com/yanleibanfan520/status/1882982622143676793/photo/1",
+              "media_key": "3_1882982620004495360",
+              "start": 81,
+              "url": "https://t.co/kwaRnBDeEn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882982622143676793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 163565,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "眼泪拌饭的置顶❤️\n父母失业➕欠钱导致家里重度缺钱/我喜欢有礼貌的人/入门福利多更新快态度好 支持扫码或支付宝口令 扫完可发联系 欢迎小女孩找我互fo互转❤️🥰 https://t.co/kwaRnBDeEn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 201,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 684
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T05:40:25.000Z",
+        "description": "欢迎光临宝宝们❤️这里是眼泪拌饭/我喜欢有礼貌的宝宝 升门补差价就行/给我发口令的同时可以发联系方式/欢迎宝宝们找我互fo互转 都会回 不入门别私信 谢谢（5888/2888门槛可以分期哦）",
+        "id": "1835916615634030592",
+        "location": "坐标10r",
+        "name": "眼泪拌饭",
+        "pinned_tweet_id": "1882982622143676793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961422370079739904/SHokSz5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2004,
+          "following_count": 336,
+          "like_count": 287,
+          "listed_count": 7,
+          "media_count": 54,
+          "tweet_count": 628
+        },
+        "username": "yanleibanfan520",
+        "verified": false
+      }
+    ]
+  }
+}

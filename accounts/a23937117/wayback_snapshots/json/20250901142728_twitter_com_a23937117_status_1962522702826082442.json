@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962522702826082442",
+    "created_at": "2025-09-01T14:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T15:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962522702826082442"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 86,
+          "start": 82,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 91,
+          "start": 87,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 96,
+          "start": 92,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 102,
+          "start": 97,
+          "tag": "一日女友"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "线下"
+        },
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "萝莉"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "线上"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "门槛"
+        },
+        {
+          "end": 123,
+          "start": 119,
+          "tag": "萝莉s"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "金主"
+        },
+        {
+          "end": 133,
+          "start": 128,
+          "tag": "ATM奴"
+        },
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "深圳"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1952396492599373825",
+          "start": 3,
+          "username": "KuroeNyaNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962522702826082442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961842270900248731",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KuroeNyaNya: 新置顶\n小绘Kuroe/女高/天蝎/148/36kg\n我是真人小女孩可以验证\n欢迎女宝和我互fo互转\n求爸爸投喂我离开钱会死的\n #爸爸活 #门槛妹 #门槛哥 #一日女友 #线下 #萝莉 #线上 #门槛 #萝莉s #金主 #ATM奴 #深圳 #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962522702826082442].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962522702826082442",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962522702826082442"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1120,
+        "media_key": "3_1961842245105299456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzndIKzbMAAJl0j.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1961842245092708352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzndIKwbEAAT_8h.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961842245105299456",
+            "3_1961842245092708352"
+          ]
+        },
+        "author_id": "1952396492599373825",
+        "conversation_id": "1961842270900248731",
+        "created_at": "2025-08-30T17:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T18:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961842270900248731"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "一日女友"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "线下"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "萝莉"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "线上"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "门槛"
+            },
+            {
+              "end": 106,
+              "start": 102,
+              "tag": "萝莉s"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "金主"
+            },
+            {
+              "end": 116,
+              "start": 111,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "深圳"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JaXf0LCzNt",
+              "end": 148,
+              "expanded_url": "https://x.com/KuroeNyaNya/status/1961842270900248731/photo/1",
+              "media_key": "3_1961842245105299456",
+              "start": 125,
+              "url": "https://t.co/JaXf0LCzNt"
+            },
+            {
+              "display_url": "pic.x.com/JaXf0LCzNt",
+              "end": 148,
+              "expanded_url": "https://x.com/KuroeNyaNya/status/1961842270900248731/photo/1",
+              "media_key": "3_1961842245092708352",
+              "start": 125,
+              "url": "https://t.co/JaXf0LCzNt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961842270900248731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2938,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "新置顶\n小绘Kuroe/女高/天蝎/148/36kg\n我是真人小女孩可以验证\n欢迎女宝和我互fo互转\n求爸爸投喂我离开钱会死的\n #爸爸活 #门槛妹 #门槛哥 #一日女友 #线下 #萝莉 #线上 #门槛 #萝莉s #金主 #ATM奴 #深圳 #反差 https://t.co/JaXf0LCzNt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 211,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 677
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T15:49:43.000Z",
+        "description": "：黒絵 高中生休学中🚪88/188/288支持赞赏码/口令红包 不是皮下男支持免费语音验证 私信只回口令  欢迎女孩们和我互转互fo",
+        "id": "1952396492599373825",
+        "location": "过门再问88/188/288🚪",
+        "name": "Kuroe",
+        "pinned_tweet_id": "1961842270900248731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952397519083962369/ottPpo74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 32,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 154
+        },
+        "username": "KuroeNyaNya",
+        "verified": false
+      }
+    ]
+  }
+}

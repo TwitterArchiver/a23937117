@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023541466983718912"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2023541475540427182",
+    "created_at": "2026-02-16T23:34:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T00:34:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023541475540427182"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "反差"
+        },
+        {
+          "end": 19,
+          "start": 17,
+          "tag": "蕾"
+        },
+        {
+          "end": 25,
+          "start": 20,
+          "tag": "精神状态"
+        },
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "失控"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lGwy7QHfMj",
+          "end": 53,
+          "expanded_url": "https://x.com/a23937117/status/2023541475540427182/photo/1",
+          "media_key": "3_2023541466983718912",
+          "start": 30,
+          "url": "https://t.co/lGwy7QHfMj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023541475540427182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "泪水 欢笑 这些 那些\n\n#反差 #蕾 #精神状态 #失控 https://t.co/lGwy7QHfMj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1840,
+        "media_key": "3_2023541466983718912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBUQPjfWYAAcMDx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023541466983718912"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2023541475540427182",
+        "created_at": "2026-02-16T23:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T00:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023541475540427182"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "反差"
+            },
+            {
+              "end": 19,
+              "start": 17,
+              "tag": "蕾"
+            },
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "精神状态"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "失控"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lGwy7QHfMj",
+              "end": 53,
+              "expanded_url": "https://x.com/a23937117/status/2023541475540427182/photo/1",
+              "media_key": "3_2023541466983718912",
+              "start": 30,
+              "url": "https://t.co/lGwy7QHfMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023541475540427182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泪水 欢笑 这些 那些\n\n#反差 #蕾 #精神状态 #失控 https://t.co/lGwy7QHfMj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover  谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 202,
+          "like_count": 1350,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 763
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

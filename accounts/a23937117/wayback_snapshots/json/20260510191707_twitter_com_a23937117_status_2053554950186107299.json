@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052605931465388032",
+        "3_2052605931465416704",
+        "3_2052605931465383936",
+        "3_2052605931461230592"
+      ],
+      "media_source_tweet_id": [
+        "2052605941334577193",
+        "2052605941334577193",
+        "2052605941334577193",
+        "2052605941334577193"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053554950186107299",
+    "created_at": "2026-05-10T19:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T20:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053554950186107299"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 98,
+          "start": 93,
+          "tag": "广东线下"
+        },
+        {
+          "end": 104,
+          "start": 99,
+          "tag": "非绿半绿"
+        },
+        {
+          "end": 109,
+          "start": 105,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 113,
+          "start": 110,
+          "tag": "门槛"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946940166167572480",
+          "start": 3,
+          "username": "baorvgan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EVN9DnA6by",
+          "end": 137,
+          "expanded_url": "https://x.com/baorvgan/status/2052605941334577193/photo/1",
+          "media_key": "3_2052605931465388032",
+          "start": 114,
+          "url": "https://t.co/EVN9DnA6by"
+        },
+        {
+          "display_url": "pic.x.com/EVN9DnA6by",
+          "end": 137,
+          "expanded_url": "https://x.com/baorvgan/status/2052605941334577193/photo/1",
+          "media_key": "3_2052605931465416704",
+          "start": 114,
+          "url": "https://t.co/EVN9DnA6by"
+        },
+        {
+          "display_url": "pic.x.com/EVN9DnA6by",
+          "end": 137,
+          "expanded_url": "https://x.com/baorvgan/status/2052605941334577193/photo/1",
+          "media_key": "3_2052605931465383936",
+          "start": 114,
+          "url": "https://t.co/EVN9DnA6by"
+        },
+        {
+          "display_url": "pic.x.com/EVN9DnA6by",
+          "end": 137,
+          "expanded_url": "https://x.com/baorvgan/status/2052605941334577193/photo/1",
+          "media_key": "3_2052605931461230592",
+          "start": 114,
+          "url": "https://t.co/EVN9DnA6by"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053554950186107299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052605941334577193",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baorvgan: 🔝支持验证接线下  过188🚪无福利  288以上有哦  缺钱花了很穷  休学在家，身高体重160 42kg 年龄19  喜欢我的可以入门，可当电子宠物。\n\n#广东线下 #非绿半绿 #爸爸活 #门槛 https://t.co/EVN9DnA6by"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2052605931465388032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxSODDasAAz9ex.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2052605931465416704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxSODDbIAA55yy.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2052605931465383936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxSODDaoAAutDq.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1439,
+        "media_key": "3_2052605931461230592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxSODCbQAATkLk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052605931465388032",
+            "3_2052605931465416704",
+            "3_2052605931465383936",
+            "3_2052605931461230592"
+          ],
+          "media_source_tweet_id": [
+            "2052605941334577193",
+            "2052605941334577193",
+            "2052605941334577193",
+            "2052605941334577193"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2053554950186107299",
+        "created_at": "2026-05-10T19:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T20:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053554950186107299"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 93,
+              "tag": "广东线下"
+            },
+            {
+              "end": 104,
+              "start": 99,
+              "tag": "非绿半绿"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "门槛"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946940166167572480",
+              "start": 3,
+              "username": "baorvgan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EVN9DnA6by",
+              "end": 137,
+              "expanded_url": "https://x.com/baorvgan/status/2052605941334577193/photo/1",
+              "media_key": "3_2052605931465388032",
+              "start": 114,
+              "url": "https://t.co/EVN9DnA6by"
+            },
+            {
+              "display_url": "pic.x.com/EVN9DnA6by",
+              "end": 137,
+              "expanded_url": "https://x.com/baorvgan/status/2052605941334577193/photo/1",
+              "media_key": "3_2052605931465416704",
+              "start": 114,
+              "url": "https://t.co/EVN9DnA6by"
+            },
+            {
+              "display_url": "pic.x.com/EVN9DnA6by",
+              "end": 137,
+              "expanded_url": "https://x.com/baorvgan/status/2052605941334577193/photo/1",
+              "media_key": "3_2052605931465383936",
+              "start": 114,
+              "url": "https://t.co/EVN9DnA6by"
+            },
+            {
+              "display_url": "pic.x.com/EVN9DnA6by",
+              "end": 137,
+              "expanded_url": "https://x.com/baorvgan/status/2052605941334577193/photo/1",
+              "media_key": "3_2052605931461230592",
+              "start": 114,
+              "url": "https://t.co/EVN9DnA6by"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053554950186107299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052605941334577193",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baorvgan: 🔝支持验证接线下  过188🚪无福利  288以上有哦  缺钱花了很穷  休学在家，身高体重160 42kg 年龄19  喜欢我的可以入门，可当电子宠物。\n\n#广东线下 #非绿半绿 #爸爸活 #门槛 https://t.co/EVN9DnA6by"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052605931465388032",
+            "3_2052605931465416704",
+            "3_2052605931465383936",
+            "3_2052605931461230592"
+          ]
+        },
+        "author_id": "1946940166167572480",
+        "conversation_id": "2052605941334577193",
+        "created_at": "2026-05-08T04:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T05:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052605941334577193"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "广东线下"
+            },
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "非绿半绿"
+            },
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "门槛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EVN9DnA6by",
+              "end": 123,
+              "expanded_url": "https://x.com/baorvgan/status/2052605941334577193/photo/1",
+              "media_key": "3_2052605931465388032",
+              "start": 100,
+              "url": "https://t.co/EVN9DnA6by"
+            },
+            {
+              "display_url": "pic.x.com/EVN9DnA6by",
+              "end": 123,
+              "expanded_url": "https://x.com/baorvgan/status/2052605941334577193/photo/1",
+              "media_key": "3_2052605931465416704",
+              "start": 100,
+              "url": "https://t.co/EVN9DnA6by"
+            },
+            {
+              "display_url": "pic.x.com/EVN9DnA6by",
+              "end": 123,
+              "expanded_url": "https://x.com/baorvgan/status/2052605941334577193/photo/1",
+              "media_key": "3_2052605931465383936",
+              "start": 100,
+              "url": "https://t.co/EVN9DnA6by"
+            },
+            {
+              "display_url": "pic.x.com/EVN9DnA6by",
+              "end": 123,
+              "expanded_url": "https://x.com/baorvgan/status/2052605941334577193/photo/1",
+              "media_key": "3_2052605931461230592",
+              "start": 100,
+              "url": "https://t.co/EVN9DnA6by"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052605941334577193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 936,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "🔝支持验证接线下  过188🚪无福利  288以上有哦  缺钱花了很穷  休学在家，身高体重160 42kg 年龄19  喜欢我的可以入门，可当电子宠物。\n\n#广东线下 #非绿半绿 #爸爸活 #门槛 https://t.co/EVN9DnA6by"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 202,
+          "like_count": 1405,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 740
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T14:28:24.000Z",
+        "description": "可以验证/坐标20/🚪188 288 520 1314 /188解锁线下/可互fo互转",
+        "id": "1946940166167572480",
+        "name": "小糯",
+        "pinned_tweet_id": "2052605941334577193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052604743126781952/ausCV3He_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 7,
+          "like_count": 3,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 47
+        },
+        "username": "baorvgan",
+        "verified": false
+      }
+    ]
+  }
+}

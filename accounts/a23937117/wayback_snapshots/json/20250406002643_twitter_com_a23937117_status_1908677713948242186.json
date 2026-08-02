@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908677708252434432"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1908677713948242186",
+    "created_at": "2025-04-06T00:26:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T01:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908677713948242186"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P6SXwNEDOd",
+          "end": 30,
+          "expanded_url": "https://x.com/a23937117/status/1908677713948242186/photo/1",
+          "media_key": "3_1908677708252434432",
+          "start": 7,
+          "url": "https://t.co/P6SXwNEDOd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908677713948242186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小熊冬天来了 https://t.co/P6SXwNEDOd"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1908677713948242186].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1908677713948242186",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1908677713948242186"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1568,
+        "media_key": "3_1908677708252434432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnz8Q1cX0AA0ZGQ.jpg",
+        "width": 1042
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——喜欢被夸可爱 严重露出lover  od 自残 烟酒love 最喜欢可爱的东西 南美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892410780663824384/aNzm9Kzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 88,
+          "like_count": 577,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 42
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

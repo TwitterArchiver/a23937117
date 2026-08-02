@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959425260471844864",
+        "3_1959425259767226368",
+        "3_1959425259872059392",
+        "3_1959425259817533440"
+      ],
+      "media_source_tweet_id": [
+        "1959425278692012482",
+        "1959425278692012482",
+        "1959425278692012482",
+        "1959425278692012482"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962117794914238652",
+    "created_at": "2025-08-31T11:38:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T12:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962117794914238652"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 110,
+          "start": 106,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "门槛"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1815878828419629056",
+          "start": 3,
+          "username": "qiqi1127520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ii6Lw8iw0L",
+          "end": 138,
+          "expanded_url": "https://x.com/qiqi1127520/status/1959425278692012482/photo/1",
+          "media_key": "3_1959425260471844864",
+          "start": 115,
+          "url": "https://t.co/ii6Lw8iw0L"
+        },
+        {
+          "display_url": "pic.x.com/ii6Lw8iw0L",
+          "end": 138,
+          "expanded_url": "https://x.com/qiqi1127520/status/1959425278692012482/photo/1",
+          "media_key": "3_1959425259767226368",
+          "start": 115,
+          "url": "https://t.co/ii6Lw8iw0L"
+        },
+        {
+          "display_url": "pic.x.com/ii6Lw8iw0L",
+          "end": 138,
+          "expanded_url": "https://x.com/qiqi1127520/status/1959425278692012482/photo/1",
+          "media_key": "3_1959425259872059392",
+          "start": 115,
+          "url": "https://t.co/ii6Lw8iw0L"
+        },
+        {
+          "display_url": "pic.x.com/ii6Lw8iw0L",
+          "end": 138,
+          "expanded_url": "https://x.com/qiqi1127520/status/1959425278692012482/photo/1",
+          "media_key": "3_1959425259817533440",
+          "start": 115,
+          "url": "https://t.co/ii6Lw8iw0L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962117794914238652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959425278692012482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiqi1127520: 大家好！我是kiki\n我回归啦(/ω＼)\n好久没有营业有变得更可爱吗🥰\n如果喜欢我请多多支持叭！我态度超级好哦 奇怪的人就算啦～\n下面有人家的自介喵\n欢迎女孩子互fo互转喵～～\n#门槛妹 #门槛 https://t.co/ii6Lw8iw0L"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962117794914238652].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962117794914238652",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962117794914238652"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1012,
+        "media_key": "3_1959425260471844864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzFG5JZaAAAcILY.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1959425259767226368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzFG5GxaYAAgBb8.jpg",
+        "width": 768
+      },
+      {
+        "height": 768,
+        "media_key": "3_1959425259872059392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzFG5HKaAAA1hfj.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1959425259817533440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzFG5G9aAAAIuyN.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959425260471844864",
+            "3_1959425259767226368",
+            "3_1959425259872059392",
+            "3_1959425259817533440"
+          ]
+        },
+        "author_id": "1815878828419629056",
+        "conversation_id": "1959425278692012482",
+        "created_at": "2025-08-24T01:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T02:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959425278692012482"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "门槛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ii6Lw8iw0L",
+              "end": 121,
+              "expanded_url": "https://x.com/qiqi1127520/status/1959425278692012482/photo/1",
+              "media_key": "3_1959425260471844864",
+              "start": 98,
+              "url": "https://t.co/ii6Lw8iw0L"
+            },
+            {
+              "display_url": "pic.x.com/ii6Lw8iw0L",
+              "end": 121,
+              "expanded_url": "https://x.com/qiqi1127520/status/1959425278692012482/photo/1",
+              "media_key": "3_1959425259767226368",
+              "start": 98,
+              "url": "https://t.co/ii6Lw8iw0L"
+            },
+            {
+              "display_url": "pic.x.com/ii6Lw8iw0L",
+              "end": 121,
+              "expanded_url": "https://x.com/qiqi1127520/status/1959425278692012482/photo/1",
+              "media_key": "3_1959425259872059392",
+              "start": 98,
+              "url": "https://t.co/ii6Lw8iw0L"
+            },
+            {
+              "display_url": "pic.x.com/ii6Lw8iw0L",
+              "end": 121,
+              "expanded_url": "https://x.com/qiqi1127520/status/1959425278692012482/photo/1",
+              "media_key": "3_1959425259817533440",
+              "start": 98,
+              "url": "https://t.co/ii6Lw8iw0L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959425278692012482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3762,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "大家好！我是kiki\n我回归啦(/ω＼)\n好久没有营业有变得更可爱吗🥰\n如果喜欢我请多多支持叭！我态度超级好哦 奇怪的人就算啦～\n下面有人家的自介喵\n欢迎女孩子互fo互转喵～～\n#门槛妹 #门槛 https://t.co/ii6Lw8iw0L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 208,
+          "like_count": 1137,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 652
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T22:37:21.000Z",
+        "description": "孩子不懂随便发的 ^ ^ 喜欢我请打赏",
+        "id": "1815878828419629056",
+        "name": "kiki😀",
+        "pinned_tweet_id": "1959425278692012482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815879098868158464/_TUm3q6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 94,
+          "like_count": 1184,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 429
+        },
+        "username": "qiqi1127520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041863303937269760",
+        "3_2041863303920504832",
+        "3_2041863304059219969"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2041863322685898844",
+    "created_at": "2026-04-08T12:58:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T13:58:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041863322685898844"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2AXbDnql24",
+          "end": 55,
+          "expanded_url": "https://x.com/a23937117/status/2041863322685898844/photo/1",
+          "media_key": "3_2041863303937269760",
+          "start": 32,
+          "url": "https://t.co/2AXbDnql24"
+        },
+        {
+          "display_url": "pic.x.com/2AXbDnql24",
+          "end": 55,
+          "expanded_url": "https://x.com/a23937117/status/2041863322685898844/photo/1",
+          "media_key": "3_2041863303920504832",
+          "start": 32,
+          "url": "https://t.co/2AXbDnql24"
+        },
+        {
+          "display_url": "pic.x.com/2AXbDnql24",
+          "end": 55,
+          "expanded_url": "https://x.com/a23937117/status/2041863322685898844/photo/1",
+          "media_key": "3_2041863304059219969",
+          "start": 32,
+          "url": "https://t.co/2AXbDnql24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041863322685898844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这一世我放弃浓睫毛双眼皮，转头走向冷脸萌，我要夺回属于我的一切 https://t.co/2AXbDnql24"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041863303937269760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYn208WIAAOl1X.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1422,
+        "media_key": "3_2041863303920504832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYn204WUAAdq75.jpg",
+        "width": 1590
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041863304059219969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYn21Za8AEqQY6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041863303937269760",
+            "3_2041863303920504832",
+            "3_2041863304059219969"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041863322685898844",
+        "created_at": "2026-04-08T12:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041863322685898844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2AXbDnql24",
+              "end": 55,
+              "expanded_url": "https://x.com/a23937117/status/2041863322685898844/photo/1",
+              "media_key": "3_2041863303937269760",
+              "start": 32,
+              "url": "https://t.co/2AXbDnql24"
+            },
+            {
+              "display_url": "pic.x.com/2AXbDnql24",
+              "end": 55,
+              "expanded_url": "https://x.com/a23937117/status/2041863322685898844/photo/1",
+              "media_key": "3_2041863303920504832",
+              "start": 32,
+              "url": "https://t.co/2AXbDnql24"
+            },
+            {
+              "display_url": "pic.x.com/2AXbDnql24",
+              "end": 55,
+              "expanded_url": "https://x.com/a23937117/status/2041863322685898844/photo/1",
+              "media_key": "3_2041863304059219969",
+              "start": 32,
+              "url": "https://t.co/2AXbDnql24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041863322685898844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这一世我放弃浓睫毛双眼皮，转头走向冷脸萌，我要夺回属于我的一切 https://t.co/2AXbDnql24"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 205,
+          "like_count": 1402,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 686
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948321001680556032",
+        "3_1948321001659674625",
+        "3_1948321001672183808",
+        "3_1948321001688932352"
+      ],
+      "media_source_tweet_id": [
+        "1948321013277831385",
+        "1948321013277831385",
+        "1948321013277831385",
+        "1948321013277831385"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1954987099075252300",
+    "created_at": "2025-08-11T19:23:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T20:23:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954987099075252300"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 45,
+          "tag": "门槛"
+        },
+        {
+          "end": 53,
+          "start": 49,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "非绿"
+        },
+        {
+          "end": 61,
+          "start": 58,
+          "tag": "女大"
+        },
+        {
+          "end": 66,
+          "start": 62,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 72,
+          "start": 67,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 77,
+          "start": 73,
+          "tag": "求包养"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1948319170334203904",
+          "start": 3,
+          "username": "sr_wr4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KcGPy5kbXi",
+          "end": 101,
+          "expanded_url": "https://x.com/sr_wr4/status/1948321013277831385/photo/1",
+          "media_key": "3_1948321001680556032",
+          "start": 78,
+          "url": "https://t.co/KcGPy5kbXi"
+        },
+        {
+          "display_url": "pic.x.com/KcGPy5kbXi",
+          "end": 101,
+          "expanded_url": "https://x.com/sr_wr4/status/1948321013277831385/photo/1",
+          "media_key": "3_1948321001659674625",
+          "start": 78,
+          "url": "https://t.co/KcGPy5kbXi"
+        },
+        {
+          "display_url": "pic.x.com/KcGPy5kbXi",
+          "end": 101,
+          "expanded_url": "https://x.com/sr_wr4/status/1948321013277831385/photo/1",
+          "media_key": "3_1948321001672183808",
+          "start": 78,
+          "url": "https://t.co/KcGPy5kbXi"
+        },
+        {
+          "display_url": "pic.x.com/KcGPy5kbXi",
+          "end": 101,
+          "expanded_url": "https://x.com/sr_wr4/status/1948321013277831385/photo/1",
+          "media_key": "3_1948321001688932352",
+          "start": 78,
+          "url": "https://t.co/KcGPy5kbXi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954987099075252300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948321013277831385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sr_wr4: 我是小雨\n艰难生存中\n什么都卖\n重度缺💰\n欢迎找我互转互fo ～\n#门槛 #门槛妹 #非绿 #女大 #爸爸活 #金主爸爸 #求包养 https://t.co/KcGPy5kbXi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954987099075252300].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954987099075252300",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954987099075252300"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1047,
+        "media_key": "3_1948321001680556032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwnToN2aUAAzvTR.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1621,
+        "media_key": "3_1948321001659674625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwnToNxbsAEaBgv.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1613,
+        "media_key": "3_1948321001672183808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwnToN0akAAKI6J.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1515,
+        "media_key": "3_1948321001688932352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwnToN4aIAAPAPp.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948321001680556032",
+            "3_1948321001659674625",
+            "3_1948321001672183808",
+            "3_1948321001688932352"
+          ]
+        },
+        "author_id": "1948319170334203904",
+        "conversation_id": "1948321013277831385",
+        "created_at": "2025-07-24T09:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T10:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948321013277831385"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "门槛"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "非绿"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "女大"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 60,
+              "start": 55,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 65,
+              "start": 61,
+              "tag": "求包养"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KcGPy5kbXi",
+              "end": 89,
+              "expanded_url": "https://x.com/sr_wr4/status/1948321013277831385/photo/1",
+              "media_key": "3_1948321001680556032",
+              "start": 66,
+              "url": "https://t.co/KcGPy5kbXi"
+            },
+            {
+              "display_url": "pic.x.com/KcGPy5kbXi",
+              "end": 89,
+              "expanded_url": "https://x.com/sr_wr4/status/1948321013277831385/photo/1",
+              "media_key": "3_1948321001659674625",
+              "start": 66,
+              "url": "https://t.co/KcGPy5kbXi"
+            },
+            {
+              "display_url": "pic.x.com/KcGPy5kbXi",
+              "end": 89,
+              "expanded_url": "https://x.com/sr_wr4/status/1948321013277831385/photo/1",
+              "media_key": "3_1948321001672183808",
+              "start": 66,
+              "url": "https://t.co/KcGPy5kbXi"
+            },
+            {
+              "display_url": "pic.x.com/KcGPy5kbXi",
+              "end": 89,
+              "expanded_url": "https://x.com/sr_wr4/status/1948321013277831385/photo/1",
+              "media_key": "3_1948321001688932352",
+              "start": 66,
+              "url": "https://t.co/KcGPy5kbXi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948321013277831385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 19144,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "我是小雨\n艰难生存中\n什么都卖\n重度缺💰\n欢迎找我互转互fo ～\n#门槛 #门槛妹 #非绿 #女大 #爸爸活 #金主爸爸 #求包养 https://t.co/KcGPy5kbXi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 210,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 517
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T09:47:48.000Z",
+        "description": "问问题带口令 谢谢！欢迎互转互fo ～",
+        "id": "1948319170334203904",
+        "name": "时雨.",
+        "pinned_tweet_id": "1954786122028245376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948319941196914688/Shi4Cdqu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 52,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 125
+        },
+        "username": "sr_wr4",
+        "verified": false
+      }
+    ]
+  }
+}

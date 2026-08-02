@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1936302351176155264",
+    "created_at": "2025-06-23T03:15:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T04:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936986529483919520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1545565750118690816",
+          "start": 0,
+          "username": "yaoyaoxingguang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936986529483919520",
+    "in_reply_to_user_id": "1545565750118690816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936302351176155264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaoyaoxingguang 真的……生理期和发情了一样一直在蹭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1936302351176155264",
+        "created_at": "2025-06-23T03:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T04:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936986529483919520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1545565750118690816",
+              "start": 0,
+              "username": "yaoyaoxingguang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936986529483919520",
+        "in_reply_to_user_id": "1545565750118690816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936302351176155264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaoyaoxingguang 真的……生理期和发情了一样一直在蹭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545565750118690816",
+        "conversation_id": "1936302351176155264",
+        "created_at": "2025-06-21T05:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T06:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936302351176155264"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936302351176155264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 112103,
+          "like_count": 1090,
+          "quote_count": 10,
+          "reply_count": 46,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "生理期and生理期前三天：我操好想手冲……打开手机就想冲\n生理期结束：手冲真没意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "kissing",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 122,
+          "like_count": 779,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 126
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T00:29:32.000Z",
+        "description": "NTR仅限性癖 | 男性向剧情中文音声  🚪188/288/388  入门免费听福利音频（包括kp实录） 私信支付宝口令+姓氏  | 接定制音频   | ✨公开音频畅听 https://t.co/q2S3i4AEiZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yaoyao.fanbox.cc",
+                "end": 108,
+                "expanded_url": "https://yaoyao.fanbox.cc/",
+                "start": 85,
+                "url": "https://t.co/q2S3i4AEiZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/yun/core?wid=1…",
+                "end": 23,
+                "expanded_url": "https://www.hedaoapp.com/yun/core?wid=13140",
+                "start": 0,
+                "url": "https://t.co/0a5kQXvd4E"
+              }
+            ]
+          }
+        },
+        "id": "1545565750118690816",
+        "location": "贩售音频在这👇（累计购买音频满5赠1）",
+        "name": "摇摇星光",
+        "pinned_tweet_id": "1936412757878071413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629396250100658181/A8FTB9-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48469,
+          "following_count": 305,
+          "like_count": 36034,
+          "listed_count": 202,
+          "media_count": 201,
+          "tweet_count": 20345
+        },
+        "url": "https://t.co/0a5kQXvd4E",
+        "username": "yaoyaoxingguang",
+        "verified": false
+      }
+    ]
+  }
+}

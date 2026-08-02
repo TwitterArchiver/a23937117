@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950393987929423872"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1950393994736730118",
+    "created_at": "2025-07-30T03:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T04:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950393994736730118"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XqLxIKrsvy",
+          "end": 33,
+          "expanded_url": "https://x.com/a23937117/status/1950393994736730118/photo/1",
+          "media_key": "3_1950393987929423872",
+          "start": 10,
+          "url": "https://t.co/XqLxIKrsvy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950393994736730118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妈妈，你有什么目的 https://t.co/XqLxIKrsvy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1950393994736730118].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1950393994736730118",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1950393994736730118"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950393987929423872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxEw_5aXQAA2Wn-.jpg",
+        "width": 945
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949293859470524416/u1xTmqmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 181,
+          "like_count": 990,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 439
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

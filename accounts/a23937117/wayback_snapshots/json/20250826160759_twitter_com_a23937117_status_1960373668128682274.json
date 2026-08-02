@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1960290251186069534",
+    "created_at": "2025-08-26T16:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T17:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960373668128682274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4737972937",
+          "start": 0,
+          "username": "xy642155"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960373668128682274",
+    "in_reply_to_user_id": "4737972937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960290251186069534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xy642155 软软的，感觉很好捏（甩甩）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_1960290225311412224",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GzRZkuhbcAAII1W.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GzRZkuhbcAAII1W.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1960290251186069534",
+        "created_at": "2025-08-26T16:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T17:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960373668128682274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4737972937",
+              "start": 0,
+              "username": "xy642155"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960373668128682274",
+        "in_reply_to_user_id": "4737972937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960290251186069534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xy642155 软软的，感觉很好捏（甩甩）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1960290225311412224"
+          ]
+        },
+        "author_id": "4737972937",
+        "conversation_id": "1960290251186069534",
+        "created_at": "2025-08-26T10:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T11:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960290251186069534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5uLhkuqDgt",
+              "end": 30,
+              "expanded_url": "https://x.com/xy642155/status/1960290251186069534/photo/1",
+              "media_key": "16_1960290225311412224",
+              "start": 7,
+              "url": "https://t.co/5uLhkuqDgt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960290251186069534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2690,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "给你们吃精液 https://t.co/5uLhkuqDgt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 207,
+          "like_count": 1109,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 616
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-10T10:58:18.000Z",
+        "description": "成都s 直男 抖音：X0Y1. 🚪188H内容都在门槛内|目 198=vx好友位（朋友圈有脸照）+涩涩福利（视频群+定制）|",
+        "id": "4737972937",
+        "location": "成都",
+        "name": "冰块",
+        "pinned_tweet_id": "1802900387864932639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928569418923339776/f0J-yzlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47368,
+          "following_count": 18,
+          "like_count": 7,
+          "listed_count": 96,
+          "media_count": 17,
+          "tweet_count": 131
+        },
+        "username": "xy642155",
+        "verified": false
+      }
+    ]
+  }
+}

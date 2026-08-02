@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1944320827870388732",
+    "created_at": "2025-07-14T12:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T13:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944729748342706403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1115809099482980353",
+          "start": 0,
+          "username": "DKR_World"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944729748342706403",
+    "in_reply_to_user_id": "1115809099482980353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944320827870388732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DKR_World 帅帅哒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1827,
+        "media_key": "3_1944320815765282816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvudewEWYAAYGLv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1944320827870388732",
+        "created_at": "2025-07-14T12:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T13:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944729748342706403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1115809099482980353",
+              "start": 0,
+              "username": "DKR_World"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944729748342706403",
+        "in_reply_to_user_id": "1115809099482980353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944320827870388732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DKR_World 帅帅哒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944320815765282816"
+          ]
+        },
+        "author_id": "1115809099482980353",
+        "conversation_id": "1944320827870388732",
+        "created_at": "2025-07-13T08:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T09:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944320827870388732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bilIdrafDF",
+              "end": 27,
+              "expanded_url": "https://x.com/DKR_World/status/1944320827870388732/photo/1",
+              "media_key": "3_1944320815765282816",
+              "start": 4,
+              "url": "https://t.co/bilIdrafDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944320827870388732",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 567,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🫩🫩🫩 https://t.co/bilIdrafDF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 150,
+          "like_count": 926,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 298
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-10T02:49:54.000Z",
+        "description": "二律背反的執行日期。",
+        "id": "1115809099482980353",
+        "location": "無",
+        "name": "「二律背反実行日」",
+        "pinned_tweet_id": "1941766553953038555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942373133937455104/uF2ltAUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 533,
+          "like_count": 19377,
+          "listed_count": 7,
+          "media_count": 276,
+          "tweet_count": 3728
+        },
+        "username": "DKR_World",
+        "verified": false
+      }
+    ]
+  }
+}

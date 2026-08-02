@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956656935190843392",
+        "3_1956656935178240000"
+      ],
+      "media_source_tweet_id": [
+        "1956656944619696412",
+        "1956656944619696412"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962118076872220798",
+    "created_at": "2025-08-31T11:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T12:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962118076872220798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1950521580288884736",
+          "start": 3,
+          "username": "AmeKam10623"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PCz0gUZPVY",
+          "end": 132,
+          "expanded_url": "https://x.com/AmeKam10623/status/1956656944619696412/photo/1",
+          "media_key": "3_1956656935190843392",
+          "start": 109,
+          "url": "https://t.co/PCz0gUZPVY"
+        },
+        {
+          "display_url": "pic.x.com/PCz0gUZPVY",
+          "end": 132,
+          "expanded_url": "https://x.com/AmeKam10623/status/1956656944619696412/photo/1",
+          "media_key": "3_1956656935178240000",
+          "start": 109,
+          "url": "https://t.co/PCz0gUZPVY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962118076872220798",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956656944619696412",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AmeKam10623: 1000fo啦！！来一个小小的粉福\n轉贊評关注可领取\n抽两个188三个52\n顺便呢人家在上海接线下，江浙沪可空降\n价格私信我好不好\n拜托啦大家帮我转转嘛⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄ https://t.co/PCz0gUZPVY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956656935190843392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GydxHaFa0AAM4li.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1956656935178240000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GydxHaCagAAchrj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956656935190843392",
+            "3_1956656935178240000"
+          ],
+          "media_source_tweet_id": [
+            "1956656944619696412",
+            "1956656944619696412"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "1962118076872220798",
+        "created_at": "2025-08-31T11:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T12:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962118076872220798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1950521580288884736",
+              "start": 3,
+              "username": "AmeKam10623"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PCz0gUZPVY",
+              "end": 132,
+              "expanded_url": "https://x.com/AmeKam10623/status/1956656944619696412/photo/1",
+              "media_key": "3_1956656935190843392",
+              "start": 109,
+              "url": "https://t.co/PCz0gUZPVY"
+            },
+            {
+              "display_url": "pic.x.com/PCz0gUZPVY",
+              "end": 132,
+              "expanded_url": "https://x.com/AmeKam10623/status/1956656944619696412/photo/1",
+              "media_key": "3_1956656935178240000",
+              "start": 109,
+              "url": "https://t.co/PCz0gUZPVY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962118076872220798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956656944619696412",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AmeKam10623: 1000fo啦！！来一个小小的粉福\n轉贊評关注可领取\n抽两个188三个52\n顺便呢人家在上海接线下，江浙沪可空降\n价格私信我好不好\n拜托啦大家帮我转转嘛⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄ https://t.co/PCz0gUZPVY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956656935190843392",
+            "3_1956656935178240000"
+          ]
+        },
+        "author_id": "1950521580288884736",
+        "conversation_id": "1956656944619696412",
+        "created_at": "2025-08-16T09:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T10:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956656944619696412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PCz0gUZPVY",
+              "end": 115,
+              "expanded_url": "https://x.com/AmeKam10623/status/1956656944619696412/photo/1",
+              "media_key": "3_1956656935190843392",
+              "start": 92,
+              "url": "https://t.co/PCz0gUZPVY"
+            },
+            {
+              "display_url": "pic.x.com/PCz0gUZPVY",
+              "end": 115,
+              "expanded_url": "https://x.com/AmeKam10623/status/1956656944619696412/photo/1",
+              "media_key": "3_1956656935178240000",
+              "start": 92,
+              "url": "https://t.co/PCz0gUZPVY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956656944619696412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 44388,
+          "like_count": 434,
+          "quote_count": 0,
+          "reply_count": 91,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "1000fo啦！！来一个小小的粉福\n轉贊評关注可领取\n抽两个188三个52\n顺便呢人家在上海接线下，江浙沪可空降\n价格私信我好不好\n拜托啦大家帮我转转嘛⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄ https://t.co/PCz0gUZPVY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 208,
+          "like_count": 1137,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 654
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T11:39:27.000Z",
+        "description": "花沢あめ/花泽雨ame 再多了解我一点吧",
+        "id": "1950521580288884736",
+        "location": "🚪199/288/388/520/1314",
+        "name": "ここはあめよ",
+        "pinned_tweet_id": "1956656944619696412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953031902992175104/BS0-iCNw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3029,
+          "following_count": 72,
+          "like_count": 98,
+          "listed_count": 8,
+          "media_count": 27,
+          "tweet_count": 122
+        },
+        "username": "AmeKam10623",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962538325190853080",
+    "created_at": "2025-09-01T15:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T16:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962538325190853080"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 75,
+          "start": 71,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 81,
+          "start": 77,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "门槛"
+        },
+        {
+          "end": 90,
+          "start": 86,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 95,
+          "start": 91,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 100,
+          "start": 96,
+          "tag": "门槛姐"
+        },
+        {
+          "end": 105,
+          "start": 101,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 109,
+          "start": 106,
+          "tag": "金主"
+        },
+        {
+          "end": 115,
+          "start": 110,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "陪聊"
+        },
+        {
+          "end": 125,
+          "start": 120,
+          "tag": "一日女友"
+        },
+        {
+          "end": 129,
+          "start": 126,
+          "tag": "纯绿"
+        },
+        {
+          "end": 133,
+          "start": 130,
+          "tag": "半绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1848067059177168896",
+          "start": 3,
+          "username": "saku2dxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962538325190853080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896550714228556194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @saku2dxx: 一个置顶\n这里是伊吹\n上一世被奸人所害\n求求女宝来和我互转呀！\n坐标广州，我接纯绿半绿\n很缺钱请来过我🚪找我线下\n#爸爸活  #妈妈活 #门槛 #门槛哥 #门槛妹 #门槛姐 #门槛妹 #金主 #金主爸爸 #陪聊 #一日女友 #纯绿 #半绿 https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 679,
+        "media_key": "3_1896549444239196160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlHlq9LXgAAUKv1.png",
+        "width": 467
+      },
+      {
+        "height": 790,
+        "media_key": "3_1896549507418017792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlHluoiX0AAq6sk.png",
+        "width": 574
+      },
+      {
+        "height": 780,
+        "media_key": "3_1896549579744583680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlHly1-XoAABLNu.png",
+        "width": 574
+      },
+      {
+        "height": 298,
+        "media_key": "3_1896550569898033152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlHmselWQAAOi2E.png",
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1962538325190853080",
+        "created_at": "2025-09-01T15:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T16:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962538325190853080"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 71,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 81,
+              "start": 77,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "门槛"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "金主"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "陪聊"
+            },
+            {
+              "end": 125,
+              "start": 120,
+              "tag": "一日女友"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "纯绿"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "半绿"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1848067059177168896",
+              "start": 3,
+              "username": "saku2dxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962538325190853080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896550714228556194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @saku2dxx: 一个置顶\n这里是伊吹\n上一世被奸人所害\n求求女宝来和我互转呀！\n坐标广州，我接纯绿半绿\n很缺钱请来过我🚪找我线下\n#爸爸活  #妈妈活 #门槛 #门槛哥 #门槛妹 #门槛姐 #门槛妹 #金主 #金主爸爸 #陪聊 #一日女友 #纯绿 #半绿 https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896549444239196160",
+            "3_1896549507418017792",
+            "3_1896549579744583680",
+            "3_1896550569898033152"
+          ]
+        },
+        "author_id": "1848067059177168896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1896550714228556194",
+        "created_at": "2025-03-03T13:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T14:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896550714228556194"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 57,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "门槛"
+            },
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 81,
+              "start": 77,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "金主"
+            },
+            {
+              "end": 101,
+              "start": 96,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "陪聊"
+            },
+            {
+              "end": 111,
+              "start": 106,
+              "tag": "一日女友"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "纯绿"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "半绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Km9ano0i1v",
+              "end": 143,
+              "expanded_url": "https://x.com/MavisEstra31710/status/1896550714228556194/photo/1",
+              "media_key": "3_1896549444239196160",
+              "start": 120,
+              "url": "https://t.co/Km9ano0i1v"
+            },
+            {
+              "display_url": "pic.x.com/Km9ano0i1v",
+              "end": 143,
+              "expanded_url": "https://x.com/MavisEstra31710/status/1896550714228556194/photo/1",
+              "media_key": "3_1896549507418017792",
+              "start": 120,
+              "url": "https://t.co/Km9ano0i1v"
+            },
+            {
+              "display_url": "pic.x.com/Km9ano0i1v",
+              "end": 143,
+              "expanded_url": "https://x.com/MavisEstra31710/status/1896550714228556194/photo/1",
+              "media_key": "3_1896549579744583680",
+              "start": 120,
+              "url": "https://t.co/Km9ano0i1v"
+            },
+            {
+              "display_url": "pic.x.com/Km9ano0i1v",
+              "end": 143,
+              "expanded_url": "https://x.com/MavisEstra31710/status/1896550714228556194/photo/1",
+              "media_key": "3_1896550569898033152",
+              "start": 120,
+              "url": "https://t.co/Km9ano0i1v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896550714228556194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 30669,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "一个置顶\n这里是伊吹\n上一世被奸人所害\n求求女宝来和我互转呀！\n坐标广州，我接纯绿半绿\n很缺钱请来过我🚪找我线下\n#爸爸活  #妈妈活 #门槛 #门槛哥 #门槛妹 #门槛姐 #门槛妹 #金主 #金主爸爸 #陪聊 #一日女友 #纯绿 #半绿 https://t.co/Km9ano0i1v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 201,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 682
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T18:21:55.000Z",
+        "description": "只回口令🚪 欢迎小女孩互fo互推\n坐标广州接线下\n🚪188/288/520",
+        "id": "1848067059177168896",
+        "location": "广州",
+        "name": "伊吹2.0",
+        "pinned_tweet_id": "1896550714228556194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896551869800947712/NUXel7SW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 35,
+          "like_count": 2,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 171
+        },
+        "username": "saku2dxx",
+        "verified": false
+      }
+    ]
+  }
+}

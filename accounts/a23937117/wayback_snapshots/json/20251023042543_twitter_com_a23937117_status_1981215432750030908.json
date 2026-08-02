@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1981215432750030908",
+    "created_at": "2025-10-23T04:25:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T05:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981215432750030908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1966173444414095360",
+          "start": 3,
+          "username": "Tinaaaa9444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981215432750030908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980721051161227562",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tinaaaa9444: 劳资跟喜欢搞快餐恋爱的拼了，跟急着确定关系的拼了，跟不了解就上头说爱的人拼了，跟分不清性和爱的人也拼了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1981215432750030908",
+        "created_at": "2025-10-23T04:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T05:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981215432750030908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1966173444414095360",
+              "start": 3,
+              "username": "Tinaaaa9444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981215432750030908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980721051161227562",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tinaaaa9444: 劳资跟喜欢搞快餐恋爱的拼了，跟急着确定关系的拼了，跟不了解就上头说爱的人拼了，跟分不清性和爱的人也拼了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966173444414095360",
+        "conversation_id": "1980721051161227562",
+        "created_at": "2025-10-21T19:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T20:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980721051161227562"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980721051161227562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 37540,
+          "like_count": 468,
+          "quote_count": 4,
+          "reply_count": 27,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "劳资跟喜欢搞快餐恋爱的拼了，跟急着确定关系的拼了，跟不了解就上头说爱的人拼了，跟分不清性和爱的人也拼了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 221,
+          "like_count": 1306,
+          "listed_count": 3,
+          "media_count": 199,
+          "tweet_count": 728
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T16:14:24.000Z",
+        "description": "怎么办 这个下午好无聊｜未关不回｜4i3i",
+        "id": "1966173444414095360",
+        "name": "小莲神",
+        "pinned_tweet_id": "1976608528753397888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976685847413243905/wDVc8xIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 88,
+          "like_count": 7171,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1872
+        },
+        "username": "Tinaaaa9444",
+        "verified": false
+      }
+    ]
+  }
+}

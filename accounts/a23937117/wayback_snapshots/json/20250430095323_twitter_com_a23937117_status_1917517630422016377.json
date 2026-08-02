@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917517623174025216"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1917517630422016377",
+    "created_at": "2025-04-30T09:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T10:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917517630422016377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TYMzGEkG8u",
+          "end": 30,
+          "expanded_url": "https://x.com/a23937117/status/1917517630422016377/photo/1",
+          "media_key": "3_1917517623174025216",
+          "start": 7,
+          "url": "https://t.co/TYMzGEkG8u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917517630422016377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "痛是爱的眼睛 https://t.co/TYMzGEkG8u"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1917517630422016377].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1917517630422016377",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1917517630422016377"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1917517623174025216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpxkHmvW0AAM9sj.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 94,
+          "like_count": 625,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 58
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

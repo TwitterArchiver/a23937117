@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1965731116419358869",
+    "created_at": "2025-09-10T10:56:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T11:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965731116419358869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1965006577360134144",
+          "start": 3,
+          "username": "TTwumiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965731116419358869",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965091033794085312",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TTwumiiiii: miyoです、10年、153/75斤.中考完没学上了TT、正在努力赚钱养活自己、bblg/brat/依赖/讨好/恋痛/穿孔/纹身/喝酒 喜欢的主人门槛投喂口令红包爱你呀🤍请给我很多很多的钱和很多很多爱.🚪188/388/520/1314/5200…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_1965091020900868096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Vn3zwbIAAyXou.jpg",
+        "width": 1280
+      },
+      {
+        "height": 552,
+        "media_key": "3_1965091020938547200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Vn3z5aEAAgWxH.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1965731116419358869",
+        "created_at": "2025-09-10T10:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T11:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965731116419358869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1965006577360134144",
+              "start": 3,
+              "username": "TTwumiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965731116419358869",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965091033794085312",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TTwumiiiii: miyoです、10年、153/75斤.中考完没学上了TT、正在努力赚钱养活自己、bblg/brat/依赖/讨好/恋痛/穿孔/纹身/喝酒 喜欢的主人门槛投喂口令红包爱你呀🤍请给我很多很多的钱和很多很多爱.🚪188/388/520/1314/5200…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965091020900868096",
+            "3_1965091020938547200"
+          ]
+        },
+        "author_id": "1965006577360134144",
+        "conversation_id": "1965091033794085312",
+        "created_at": "2025-09-08T16:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T17:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965091033794085312"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 129,
+              "start": 125,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "金主"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "小狗"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "反差"
+            },
+            {
+              "end": 144,
+              "start": 142,
+              "tag": "m"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "白虎"
+            },
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "包养"
+            },
+            {
+              "end": 156,
+              "start": 153,
+              "tag": "女初"
+            },
+            {
+              "end": 160,
+              "start": 157,
+              "tag": "反差"
+            },
+            {
+              "end": 164,
+              "start": 161,
+              "tag": "母狗"
+            },
+            {
+              "end": 168,
+              "start": 165,
+              "tag": "上海"
+            },
+            {
+              "end": 172,
+              "start": 169,
+              "tag": "北京"
+            },
+            {
+              "end": 176,
+              "start": 173,
+              "tag": "骚逼"
+            },
+            {
+              "end": 180,
+              "start": 177,
+              "tag": "爸爸"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X2S6xYbxgh",
+              "end": 204,
+              "expanded_url": "https://x.com/TTwumiiiii/status/1965091033794085312/photo/1",
+              "media_key": "3_1965091020900868096",
+              "start": 181,
+              "url": "https://t.co/X2S6xYbxgh"
+            },
+            {
+              "display_url": "pic.x.com/X2S6xYbxgh",
+              "end": 204,
+              "expanded_url": "https://x.com/TTwumiiiii/status/1965091033794085312/photo/1",
+              "media_key": "3_1965091020938547200",
+              "start": 181,
+              "url": "https://t.co/X2S6xYbxgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965091033794085312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2890,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "miyoです、10年、153/75斤.中考完没学上了TT、正在努力赚钱养活自己、bblg/brat/依赖/讨好/恋痛/穿孔/纹身/喝酒 喜欢的主人门槛投喂口令红包爱你呀🤍请给我很多很多的钱和很多很多爱.🚪188/388/520/1314/5200.\n#爸爸活 #金主 #小狗 #反差 #m #白虎 #包养 #女初 #反差 #母狗 #上海 #北京 #骚逼 #爸爸 https://t.co/X2S6xYbxgh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 211,
+          "like_count": 1191,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 656
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-08T10:57:37.000Z",
+        "description": "妹纸们都和我互fo互转好不好我爱你们 od/自伤/穿孔/纹身 没有糖分酒精尼古丁就会死 等待有缘金主中…问坐标20 验证30 只回口令🤍",
+        "id": "1965006577360134144",
+        "location": "极乐世界",
+        "name": "miyo🤍",
+        "pinned_tweet_id": "1965091033794085312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965023066762985472/pcTKTKl7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 56
+        },
+        "username": "TTwumiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

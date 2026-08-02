@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937186904694308866"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1937186920452215064",
+    "created_at": "2025-06-23T16:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T17:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937186920452215064"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I4baewZX3t",
+          "end": 47,
+          "expanded_url": "https://x.com/a23937117/status/1937186920452215064/photo/1",
+          "media_key": "3_1937186904694308866",
+          "start": 24,
+          "url": "https://t.co/I4baewZX3t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937186920452215064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么p都是一张肥脸，豹真的崩溃了，我将继续液断 https://t.co/I4baewZX3t"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1937186920452215064].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1937186920452215064",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1937186920452215064"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937186904694308866",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuJFOeXXwAIWLFh.jpg",
+        "width": 1600
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "kissing",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 124,
+          "like_count": 803,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 138
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1999415502121390395",
+    "created_at": "2025-12-12T19:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T20:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999566439447937348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1638922874487730176",
+          "start": 0,
+          "username": "Sweet_xst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999566439447937348",
+    "in_reply_to_user_id": "1638922874487730176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999415502121390395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sweet_xst 让我学学，试了来回答"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1731,
+        "media_key": "3_1999415061845278724",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G79ZZ8fagAQPZNw.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1508,
+        "media_key": "3_1999415426716160000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G79ZvLvaUAAxQD8.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1999415502121390395",
+        "created_at": "2025-12-12T19:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T20:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999566439447937348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1638922874487730176",
+              "start": 0,
+              "username": "Sweet_xst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999566439447937348",
+        "in_reply_to_user_id": "1638922874487730176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999415502121390395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sweet_xst 让我学学，试了来回答"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999415061845278724",
+            "3_1999415426716160000"
+          ]
+        },
+        "author_id": "1638922874487730176",
+        "conversation_id": "1999415502121390395",
+        "created_at": "2025-12-12T09:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T10:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999415502121390395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RJ0hb3cGgP",
+              "end": 55,
+              "expanded_url": "https://x.com/Sweet_xst/status/1999415502121390395/photo/1",
+              "media_key": "3_1999415061845278724",
+              "start": 32,
+              "url": "https://t.co/RJ0hb3cGgP"
+            },
+            {
+              "display_url": "pic.x.com/RJ0hb3cGgP",
+              "end": 55,
+              "expanded_url": "https://x.com/Sweet_xst/status/1999415502121390395/photo/1",
+              "media_key": "3_1999415426716160000",
+              "start": 32,
+              "url": "https://t.co/RJ0hb3cGgP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999415502121390395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2606,
+          "impression_count": 756947,
+          "like_count": 8279,
+          "quote_count": 36,
+          "reply_count": 111,
+          "retweet_count": 459
+        },
+        "reply_settings": "everyone",
+        "text": "好...好厉害，有没有男生说下这是真的吗٩(๑•̀ω•́๑)۶ https://t.co/RJ0hb3cGgP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover  谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 213,
+          "like_count": 1340,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 730
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T15:17:31.000Z",
+        "description": "愿你每天都有好心情~",
+        "id": "1638922874487730176",
+        "name": "小薯条哭唧唧",
+        "pinned_tweet_id": "1984526992126198093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858729423815798784/6Gp3ENE4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53852,
+          "following_count": 45,
+          "like_count": 1272,
+          "listed_count": 187,
+          "media_count": 195,
+          "tweet_count": 598
+        },
+        "username": "Sweet_xst",
+        "verified": false
+      }
+    ]
+  }
+}

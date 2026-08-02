@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955026397308784777",
+    "created_at": "2025-08-11T21:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T22:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955026397308784777"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 51,
+          "tag": "反差"
+        },
+        {
+          "end": 58,
+          "start": 55,
+          "tag": "女高"
+        },
+        {
+          "end": 61,
+          "start": 59,
+          "tag": "s"
+        },
+        {
+          "end": 64,
+          "start": 62,
+          "tag": "m"
+        },
+        {
+          "end": 68,
+          "start": 65,
+          "tag": "调教"
+        },
+        {
+          "end": 72,
+          "start": 69,
+          "tag": "金主"
+        },
+        {
+          "end": 77,
+          "start": 73,
+          "tag": "ATM"
+        },
+        {
+          "end": 81,
+          "start": 78,
+          "tag": "母狗"
+        },
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "足控"
+        },
+        {
+          "end": 89,
+          "start": 86,
+          "tag": "腿控"
+        },
+        {
+          "end": 93,
+          "start": 90,
+          "tag": "黑丝"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "门槛"
+        },
+        {
+          "end": 101,
+          "start": 98,
+          "tag": "门妹"
+        },
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "线上"
+        },
+        {
+          "end": 109,
+          "start": 106,
+          "tag": "女友"
+        },
+        {
+          "end": 113,
+          "start": 110,
+          "tag": "袜子"
+        },
+        {
+          "end": 117,
+          "start": 114,
+          "tag": "yw"
+        },
+        {
+          "end": 122,
+          "start": 118,
+          "tag": "门槛哥"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1910146219030290432",
+          "start": 3,
+          "username": "zdxbmb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/GJa",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/GJa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955026397308784777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953867096418312684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zdxbmb: 喜欢我就成为我的粉丝宝宝..\n欢迎小宝宝找我互fo！喜欢我的哥哥过🚪找我玩呀 #反差 #女高 #s #m #调教 #金主 #ATM #母狗 #足控 #腿控 #黑丝 #门槛 #门妹 #线上 #女友 #袜子 #yw #门槛哥 https://t.co/GJa…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955026397308784777].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955026397308784777",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955026397308784777"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953867076914860032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx2HwSHXUAAG92l.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1784,
+        "media_key": "3_1953867076914794496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx2HwSHWUAAtdhd.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953867076914860032",
+            "3_1953867076914794496"
+          ]
+        },
+        "author_id": "1910146219030290432",
+        "conversation_id": "1953867096418312684",
+        "created_at": "2025-08-08T17:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T18:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953867096418312684"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "反差"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "女高"
+            },
+            {
+              "end": 49,
+              "start": 47,
+              "tag": "s"
+            },
+            {
+              "end": 52,
+              "start": 50,
+              "tag": "m"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "调教"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "金主"
+            },
+            {
+              "end": 65,
+              "start": 61,
+              "tag": "ATM"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "母狗"
+            },
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "足控"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "腿控"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "黑丝"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "门槛"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "门妹"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "线上"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "女友"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "袜子"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "yw"
+            },
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "门槛哥"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GJaQfGCNyH",
+              "end": 134,
+              "expanded_url": "https://x.com/zdxbmb/status/1953867096418312684/photo/1",
+              "media_key": "3_1953867076914860032",
+              "start": 111,
+              "url": "https://t.co/GJaQfGCNyH"
+            },
+            {
+              "display_url": "pic.x.com/GJaQfGCNyH",
+              "end": 134,
+              "expanded_url": "https://x.com/zdxbmb/status/1953867096418312684/photo/1",
+              "media_key": "3_1953867076914794496",
+              "start": 111,
+              "url": "https://t.co/GJaQfGCNyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953867096418312684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2347,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢我就成为我的粉丝宝宝..\n欢迎小宝宝找我互fo！喜欢我的哥哥过🚪找我玩呀 #反差 #女高 #s #m #调教 #金主 #ATM #母狗 #足控 #腿控 #黑丝 #门槛 #门妹 #线上 #女友 #袜子 #yw #门槛哥 https://t.co/GJaQfGCNyH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 226,
+          "like_count": 1074,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 540
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T01:42:18.000Z",
+        "description": "喜欢分享日常..学生妹回信息有点慢哥哥们一定要等等我呀🥹可验证！不要冒昧问坐标 zfb或赞赏码都可以！！喜欢爽快的哥哥 过了🚪都是我最爱的宝宝..",
+        "id": "1910146219030290432",
+        "location": "❤️喜欢我请过门❤️",
+        "name": "7_",
+        "pinned_tweet_id": "1953867096418312684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953730882402914304/cb4esMdB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 40,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 34
+        },
+        "username": "zdxbmb",
+        "verified": false
+      }
+    ]
+  }
+}

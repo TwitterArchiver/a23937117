@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955752503095804118",
+    "created_at": "2025-08-13T22:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T23:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955752503095804118"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 93,
+          "start": 90,
+          "tag": "上海"
+        },
+        {
+          "end": 99,
+          "start": 94,
+          "tag": "上海线下"
+        },
+        {
+          "end": 105,
+          "start": 100,
+          "tag": "一日女友"
+        },
+        {
+          "end": 112,
+          "start": 106,
+          "tag": "cos委托"
+        },
+        {
+          "end": 117,
+          "start": 113,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 122,
+          "start": 118,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 126,
+          "start": 123,
+          "tag": "纯绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1940448758237638656",
+          "start": 3,
+          "username": "yin_ren72732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955752503095804118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950317100331127095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yin_ren72732: 顶置｜我是贝叽\n接上海线下｜求互转🥺\n已成年/160/80｜报销路费全国飞🆗\n私信只回过门，赞赏请带号码\n女孩子互fo互转大欢迎！转关抽奶茶🥤\n#上海 #上海线下 #一日女友 #cos委托 #门槛妹 #门槛哥 #纯绿 https://t.co…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955752503095804118].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955752503095804118",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955752503095804118"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1213,
+        "media_key": "3_1950317086997360640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDrDrHaMAAlBHP.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950317086997434370",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDrDrHbUAIhxDN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950317087009964033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDrDrKagAE8CXF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950317086947074048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDrDq7a4AAHwnt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950317086997360640",
+            "3_1950317086997434370",
+            "3_1950317087009964033",
+            "3_1950317086947074048"
+          ]
+        },
+        "author_id": "1940448758237638656",
+        "conversation_id": "1950317100331127095",
+        "created_at": "2025-07-29T22:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T23:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950317100331127095"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "上海"
+            },
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "上海线下"
+            },
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "一日女友"
+            },
+            {
+              "end": 94,
+              "start": 88,
+              "tag": "cos委托"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "纯绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pdtl42HUFO",
+              "end": 132,
+              "expanded_url": "https://x.com/yin_ren72732/status/1950317100331127095/photo/1",
+              "media_key": "3_1950317086997360640",
+              "start": 109,
+              "url": "https://t.co/Pdtl42HUFO"
+            },
+            {
+              "display_url": "pic.x.com/Pdtl42HUFO",
+              "end": 132,
+              "expanded_url": "https://x.com/yin_ren72732/status/1950317100331127095/photo/1",
+              "media_key": "3_1950317086997434370",
+              "start": 109,
+              "url": "https://t.co/Pdtl42HUFO"
+            },
+            {
+              "display_url": "pic.x.com/Pdtl42HUFO",
+              "end": 132,
+              "expanded_url": "https://x.com/yin_ren72732/status/1950317100331127095/photo/1",
+              "media_key": "3_1950317087009964033",
+              "start": 109,
+              "url": "https://t.co/Pdtl42HUFO"
+            },
+            {
+              "display_url": "pic.x.com/Pdtl42HUFO",
+              "end": 132,
+              "expanded_url": "https://x.com/yin_ren72732/status/1950317100331127095/photo/1",
+              "media_key": "3_1950317086947074048",
+              "start": 109,
+              "url": "https://t.co/Pdtl42HUFO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950317100331127095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 14114,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "顶置｜我是贝叽\n接上海线下｜求互转🥺\n已成年/160/80｜报销路费全国飞🆗\n私信只回过门，赞赏请带号码\n女孩子互fo互转大欢迎！转关抽奶茶🥤\n#上海 #上海线下 #一日女友 #cos委托 #门槛妹 #门槛哥 #纯绿 https://t.co/Pdtl42HUFO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 229,
+          "like_count": 1083,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 587
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-02T16:34:09.000Z",
+        "description": "我是贝叽🐣｜🚪52/152/252｜上海-160-80｜女孩子互fo互转🆗｜只回复口令/赞赏码入门｜视奸大欢迎",
+        "id": "1940448758237638656",
+        "name": "贝叽喵喵",
+        "pinned_tweet_id": "1950317100331127095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950319148002635776/ztdkTZqu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 39,
+          "like_count": 25,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 150
+        },
+        "username": "yin_ren72732",
+        "verified": false
+      }
+    ]
+  }
+}

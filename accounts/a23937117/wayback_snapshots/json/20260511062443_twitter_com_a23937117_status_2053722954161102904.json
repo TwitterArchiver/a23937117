@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053722954161102904",
+    "created_at": "2026-05-11T06:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T07:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053722954161102904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "623275415",
+          "start": 3,
+          "username": "sintleziyaG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053722954161102904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053722401767334307",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sintleziyaG: 奈奈🔝因生活迫使我下海了我很缺钱给我钱让我干什么都可以\n问任何问题均18.88不回私信拉黑QwQ168cm 48kg\n线下🚪188/288/520/1314门槛区别可以我\n接cos非绿委托(需要提前预定因为假毛需要约毛娘\n转赞此帖抽三个188(…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053722395350040576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBJozIagAAeNp8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1559,
+        "media_key": "3_2053722398181261312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBJo9rbgAAVam8.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2053722954161102904",
+        "created_at": "2026-05-11T06:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053722954161102904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "623275415",
+              "start": 3,
+              "username": "sintleziyaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053722954161102904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053722401767334307",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sintleziyaG: 奈奈🔝因生活迫使我下海了我很缺钱给我钱让我干什么都可以\n问任何问题均18.88不回私信拉黑QwQ168cm 48kg\n线下🚪188/288/520/1314门槛区别可以我\n接cos非绿委托(需要提前预定因为假毛需要约毛娘\n转赞此帖抽三个188(…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053722395350040576",
+            "3_2053722398181261312"
+          ]
+        },
+        "author_id": "623275415",
+        "conversation_id": "2053722401767334307",
+        "created_at": "2026-05-11T06:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053722401767334307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GtVqaiPzgj",
+              "end": 164,
+              "expanded_url": "https://x.com/sintleziyaG/status/2053722401767334307/photo/1",
+              "media_key": "3_2053722395350040576",
+              "start": 141,
+              "url": "https://t.co/GtVqaiPzgj"
+            },
+            {
+              "display_url": "pic.x.com/GtVqaiPzgj",
+              "end": 164,
+              "expanded_url": "https://x.com/sintleziyaG/status/2053722401767334307/photo/1",
+              "media_key": "3_2053722398181261312",
+              "start": 141,
+              "url": "https://t.co/GtVqaiPzgj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053722401767334307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "奈奈🔝因生活迫使我下海了我很缺钱给我钱让我干什么都可以\n问任何问题均18.88不回私信拉黑QwQ168cm 48kg\n线下🚪188/288/520/1314门槛区别可以我\n接cos非绿委托(需要提前预定因为假毛需要约毛娘\n转赞此帖抽三个188(抽到直接口令🧧@记得查看私信错过不补 https://t.co/GtVqaiPzgj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 202,
+          "like_count": 1406,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 749
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T00:51:27.000Z",
+        "description": "168 48kg  接全国",
+        "id": "623275415",
+        "location": "🚪188/288/520/1314",
+        "name": "奈奈",
+        "pinned_tweet_id": "2053722401767334307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048261771970899968/9BW3Vn5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 0,
+          "like_count": 14,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 613
+        },
+        "username": "sintleziyaG",
+        "verified": false
+      }
+    ]
+  }
+}

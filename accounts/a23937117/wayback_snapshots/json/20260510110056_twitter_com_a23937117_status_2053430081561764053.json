@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053430081561764053",
+    "created_at": "2026-05-10T11:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T12:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053430081561764053"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "门槛"
+        },
+        {
+          "end": 100,
+          "start": 96,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 105,
+          "start": 101,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 110,
+          "start": 106,
+          "tag": "求入门"
+        },
+        {
+          "end": 116,
+          "start": 111,
+          "tag": "电子女友"
+        },
+        {
+          "end": 121,
+          "start": 117,
+          "tag": "求包养"
+        },
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "非绿"
+        },
+        {
+          "end": 129,
+          "start": 126,
+          "tag": "线下"
+        },
+        {
+          "end": 133,
+          "start": 130,
+          "tag": "女大"
+        },
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "反差"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "924164531101745152",
+          "start": 3,
+          "username": "Saneesh07465147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053430081561764053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047624435474268198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Saneesh07465147: 女大 反差 巨乳\ncos重度爱好者\n买c服买的生活费都没得了😭\n欢迎哥哥入门！！\n超级超级超级期待哥哥入门的说！\n欢迎宝贝找我互转互fo ～\n#门槛 #门槛妹 #门槛哥 #求入门 #电子女友 #求包养 #非绿 #线下 #女大 #反差 #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053430081561764053].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053430081561764053",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053430081561764053"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1229,
+        "media_key": "3_2047624418336346112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqfj0hakAA9KNO.jpg",
+        "width": 1284
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047624418336419840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqfj0hbsAAb1eJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047624418336346112",
+            "3_2047624418336419840"
+          ]
+        },
+        "author_id": "924164531101745152",
+        "conversation_id": "2047624435474268198",
+        "created_at": "2026-04-24T10:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047624435474268198"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "门槛"
+            },
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "求入门"
+            },
+            {
+              "end": 95,
+              "start": 90,
+              "tag": "电子女友"
+            },
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "求包养"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "非绿"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "线下"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "女大"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "反差"
+            },
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "cos"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "巨乳"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "陪玩"
+            },
+            {
+              "end": 134,
+              "start": 130,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/re9UpPy7lc",
+              "end": 158,
+              "expanded_url": "https://x.com/Saneesh07465147/status/2047624435474268198/photo/1",
+              "media_key": "3_2047624418336346112",
+              "start": 135,
+              "url": "https://t.co/re9UpPy7lc"
+            },
+            {
+              "display_url": "pic.x.com/re9UpPy7lc",
+              "end": 158,
+              "expanded_url": "https://x.com/Saneesh07465147/status/2047624435474268198/photo/1",
+              "media_key": "3_2047624418336419840",
+              "start": 135,
+              "url": "https://t.co/re9UpPy7lc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047624435474268198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 22241,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "女大 反差 巨乳\ncos重度爱好者\n买c服买的生活费都没得了😭\n欢迎哥哥入门！！\n超级超级超级期待哥哥入门的说！\n欢迎宝贝找我互转互fo ～\n#门槛 #门槛妹 #门槛哥 #求入门 #电子女友 #求包养 #非绿 #线下 #女大 #反差 #cos #巨乳 #陪玩 #爸爸活 https://t.co/re9UpPy7lc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 202,
+          "like_count": 1402,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 721
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-28T06:42:49.000Z",
+        "description": "前世千粉，被贱人所害，只是一个喜欢C服的小女生罢了，坐标20r，欢迎宝贝互转互fo ～",
+        "id": "924164531101745152",
+        "name": "小鱼儿（门槛版）",
+        "pinned_tweet_id": "2047624435474268198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994693762384265216/dQeFz9Me_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 148,
+          "like_count": 100,
+          "listed_count": 5,
+          "media_count": 29,
+          "tweet_count": 510
+        },
+        "username": "Saneesh07465147",
+        "verified": false
+      }
+    ]
+  }
+}

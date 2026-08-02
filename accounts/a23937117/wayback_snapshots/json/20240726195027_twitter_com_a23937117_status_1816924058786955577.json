@@ -1,0 +1,342 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1816924002579034112",
+        "3_1816924004466458626",
+        "3_1816924004458147841"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "Fighting",
+          "id": "1047520229192912896",
+          "name": "Combat sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "description": "WWE",
+          "id": "852587148666589184",
+          "name": "WWE"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544341584474112",
+          "name": "Wrestling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "WWE",
+          "id": "852587148666589184",
+          "name": "WWE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fighting",
+          "id": "1047520229192912896",
+          "name": "Combat sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1816924058786955577",
+    "created_at": "2024-07-26T19:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T20:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1816924058786955577"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 7,
+          "normalized_text": "明日香就是明日香",
+          "probability": 0.7284,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 13,
+          "start": 9,
+          "tag": "EVA"
+        },
+        {
+          "end": 22,
+          "start": 14,
+          "tag": "cosplay"
+        },
+        {
+          "end": 31,
+          "start": 23,
+          "tag": "新世纪福音战士"
+        },
+        {
+          "end": 38,
+          "start": 32,
+          "tag": "ASUKA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/skOyi9CNCh",
+          "end": 62,
+          "expanded_url": "https://twitter.com/a23937117/status/1816924058786955577/photo/1",
+          "media_key": "3_1816924002579034112",
+          "start": 39,
+          "url": "https://t.co/skOyi9CNCh"
+        },
+        {
+          "display_url": "pic.twitter.com/skOyi9CNCh",
+          "end": 62,
+          "expanded_url": "https://twitter.com/a23937117/status/1816924058786955577/photo/1",
+          "media_key": "3_1816924004466458626",
+          "start": 39,
+          "url": "https://t.co/skOyi9CNCh"
+        },
+        {
+          "display_url": "pic.twitter.com/skOyi9CNCh",
+          "end": 62,
+          "expanded_url": "https://twitter.com/a23937117/status/1816924058786955577/photo/1",
+          "media_key": "3_1816924004458147841",
+          "start": 39,
+          "url": "https://t.co/skOyi9CNCh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816924058786955577",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明日香就是明日香 #EVA #cosplay #新世纪福音战士 #ASUKA https://t.co/skOyi9CNCh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1816924058786955577].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1816924058786955577",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1816924058786955577"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1816924002579034112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTcCwP2asAAmJIr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1816924004466458626",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTcCwW4agAIT-G5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1816924004458147841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTcCwW2bsAEOxxZ.jpg",
+        "width": 1582
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/目前精神疾病治疗中——数媒艺备考ing 只会画破画 司岚重度依赖 偶尔分享日常 经常负能发言 “祝你无所畏惧 祝你快乐自由”",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585964829608665089/Y3G7Z8Ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 63,
+          "like_count": 395,
+          "listed_count": 0,
+          "tweet_count": 19
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

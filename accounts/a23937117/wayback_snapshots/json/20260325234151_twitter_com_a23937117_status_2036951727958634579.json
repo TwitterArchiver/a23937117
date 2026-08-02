@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2036951727958634579",
+    "created_at": "2026-03-25T23:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T00:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036951727958634579"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 83,
+          "start": 80,
+          "tag": "门槛"
+        },
+        {
+          "end": 88,
+          "start": 84,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 92,
+          "start": 89,
+          "tag": "非绿"
+        },
+        {
+          "end": 96,
+          "start": 93,
+          "tag": "线下"
+        },
+        {
+          "end": 102,
+          "start": 97,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 107,
+          "start": 103,
+          "tag": "求包养"
+        },
+        {
+          "end": 113,
+          "start": 108,
+          "tag": "电子女友"
+        },
+        {
+          "end": 117,
+          "start": 114,
+          "tag": "女大"
+        },
+        {
+          "end": 121,
+          "start": 118,
+          "tag": "反差"
+        },
+        {
+          "end": 126,
+          "start": 122,
+          "tag": "求入门"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "946813275437748225",
+          "start": 3,
+          "username": "shamim42328772"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036951727958634579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034578518080987339",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shamim42328772: 时雨🔝\n不卖火柴！卖13！\n生活费超级少的\n想挣一点钱让自己过的好一点🥺\n希望喜欢的哥哥可以入门！\n欢迎互转互fo ～\n#门槛 #门槛妹 #非绿 #线下 #金主爸爸 #求包养 #电子女友 #女大 #反差 #求入门 https://t.co…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2036951727958634579].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2036951727958634579",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2036951727958634579"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1047,
+        "media_key": "3_2034578509386117120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDxGX-eacAAG7Qe.jpg",
+        "width": 1284
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034578509616844800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDxGX_VbEAASaZK.jpg",
+        "width": 1534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034578509386117120",
+            "3_2034578509616844800"
+          ]
+        },
+        "author_id": "946813275437748225",
+        "conversation_id": "2034578518080987339",
+        "created_at": "2026-03-19T10:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034578518080987339"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "门槛"
+            },
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "非绿"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "线下"
+            },
+            {
+              "end": 82,
+              "start": 77,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 87,
+              "start": 83,
+              "tag": "求包养"
+            },
+            {
+              "end": 93,
+              "start": 88,
+              "tag": "电子女友"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "女大"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "反差"
+            },
+            {
+              "end": 106,
+              "start": 102,
+              "tag": "求入门"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v3wshjhnpn",
+              "end": 130,
+              "expanded_url": "https://x.com/shamim42328772/status/2034578518080987339/photo/1",
+              "media_key": "3_2034578509386117120",
+              "start": 107,
+              "url": "https://t.co/v3wshjhnpn"
+            },
+            {
+              "display_url": "pic.x.com/v3wshjhnpn",
+              "end": 130,
+              "expanded_url": "https://x.com/shamim42328772/status/2034578518080987339/photo/1",
+              "media_key": "3_2034578509616844800",
+              "start": 107,
+              "url": "https://t.co/v3wshjhnpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034578518080987339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5178,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "时雨🔝\n不卖火柴！卖13！\n生活费超级少的\n想挣一点钱让自己过的好一点🥺\n希望喜欢的哥哥可以入门！\n欢迎互转互fo ～\n#门槛 #门槛妹 #非绿 #线下 #金主爸爸 #求包养 #电子女友 #女大 #反差 #求入门 https://t.co/v3wshjhnpn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover  谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1980120686774591794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 198,
+          "like_count": 1367,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 775
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-29T18:40:50.000Z",
+        "description": "带口令问问题 养成好习惯！ 欢迎互转互fo~",
+        "id": "946813275437748225",
+        "name": "时雨·",
+        "pinned_tweet_id": "2034578518080987339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955858863191941122/RCoyDcTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1483,
+          "following_count": 201,
+          "like_count": 319,
+          "listed_count": 3,
+          "media_count": 160,
+          "tweet_count": 852
+        },
+        "username": "shamim42328772",
+        "verified": false
+      }
+    ]
+  }
+}

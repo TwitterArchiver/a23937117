@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960790889854349314"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1960790897961893998",
+    "created_at": "2025-08-27T19:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T20:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960790897961893998"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 9,
+          "tag": "m"
+        },
+        {
+          "end": 15,
+          "start": 12,
+          "tag": "sm"
+        },
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "k8"
+        },
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "项圈"
+        },
+        {
+          "end": 27,
+          "start": 24,
+          "tag": "臣服"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2g3qMAEvGF",
+          "end": 51,
+          "expanded_url": "https://x.com/a23937117/status/1960790897961893998/photo/1",
+          "media_key": "3_1960790889854349314",
+          "start": 28,
+          "url": "https://t.co/2g3qMAEvGF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960790897961893998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "属于小豹的项圈\n\n#m #sm #k8 #项圈 #臣服 https://t.co/2g3qMAEvGF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1960790897961893998].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1960790897961893998",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1960790897961893998"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1960790889854349314",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzYg7PSXMAILCcd.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰--子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1960490344723706120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 207,
+          "like_count": 1126,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 636
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

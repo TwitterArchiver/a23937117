@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046856347896156160",
+        "3_2046856347904512000"
+      ],
+      "media_source_tweet_id": [
+        "2046856359581450606",
+        "2046856359581450606"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053555061435851011",
+    "created_at": "2026-05-10T19:17:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T20:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053555061435851011"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 53,
+          "tag": "电子女友"
+        },
+        {
+          "end": 63,
+          "start": 59,
+          "tag": "福利姬"
+        },
+        {
+          "end": 67,
+          "start": 64,
+          "tag": "线下"
+        },
+        {
+          "end": 72,
+          "start": 68,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "反差"
+        },
+        {
+          "end": 80,
+          "start": 77,
+          "tag": "足控"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1123495198170857472",
+          "start": 3,
+          "username": "xi06678"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/07DBu3TtCg",
+          "end": 104,
+          "expanded_url": "https://x.com/xi06678/status/2046856359581450606/photo/1",
+          "media_key": "3_2046856347896156160",
+          "start": 81,
+          "url": "https://t.co/07DBu3TtCg"
+        },
+        {
+          "display_url": "pic.x.com/07DBu3TtCg",
+          "end": 104,
+          "expanded_url": "https://x.com/xi06678/status/2046856359581450606/photo/1",
+          "media_key": "3_2046856347904512000",
+          "start": 81,
+          "url": "https://t.co/07DBu3TtCg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053555061435851011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046856359581450606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xi06678: hello 我是夕 \n06 166 93\n欢迎宝宝跟我互转\n此贴抽3个188🧧\n#电子女友 #福利姬 #线下 #门槛妹 #反差 #足控 https://t.co/07DBu3TtCg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1175,
+        "media_key": "3_2046856347896156160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGflAPKakAAHRkd.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046856347904512000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGflAPMaEAA1ZD7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046856347896156160",
+            "3_2046856347904512000"
+          ],
+          "media_source_tweet_id": [
+            "2046856359581450606",
+            "2046856359581450606"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2053555061435851011",
+        "created_at": "2026-05-10T19:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T20:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053555061435851011"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "电子女友"
+            },
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "福利姬"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "线下"
+            },
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "反差"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "足控"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1123495198170857472",
+              "start": 3,
+              "username": "xi06678"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/07DBu3TtCg",
+              "end": 104,
+              "expanded_url": "https://x.com/xi06678/status/2046856359581450606/photo/1",
+              "media_key": "3_2046856347896156160",
+              "start": 81,
+              "url": "https://t.co/07DBu3TtCg"
+            },
+            {
+              "display_url": "pic.x.com/07DBu3TtCg",
+              "end": 104,
+              "expanded_url": "https://x.com/xi06678/status/2046856359581450606/photo/1",
+              "media_key": "3_2046856347904512000",
+              "start": 81,
+              "url": "https://t.co/07DBu3TtCg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053555061435851011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046856359581450606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xi06678: hello 我是夕 \n06 166 93\n欢迎宝宝跟我互转\n此贴抽3个188🧧\n#电子女友 #福利姬 #线下 #门槛妹 #反差 #足控 https://t.co/07DBu3TtCg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046856347896156160",
+            "3_2046856347904512000"
+          ]
+        },
+        "author_id": "1123495198170857472",
+        "conversation_id": "2046856359581450606",
+        "created_at": "2026-04-22T07:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046856359581450606"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "电子女友"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "福利姬"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "线下"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "反差"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "足控"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/07DBu3TtCg",
+              "end": 91,
+              "expanded_url": "https://x.com/xi06678/status/2046856359581450606/photo/1",
+              "media_key": "3_2046856347896156160",
+              "start": 68,
+              "url": "https://t.co/07DBu3TtCg"
+            },
+            {
+              "display_url": "pic.x.com/07DBu3TtCg",
+              "end": 91,
+              "expanded_url": "https://x.com/xi06678/status/2046856359581450606/photo/1",
+              "media_key": "3_2046856347904512000",
+              "start": 68,
+              "url": "https://t.co/07DBu3TtCg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046856359581450606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 21668,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "hello 我是夕 \n06 166 93\n欢迎宝宝跟我互转\n此贴抽3个188🧧\n#电子女友 #福利姬 #线下 #门槛妹 #反差 #足控 https://t.co/07DBu3TtCg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 202,
+          "like_count": 1405,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 742
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-01T07:51:43.000Z",
+        "description": "06年甜妹 欢迎小女孩找我互转互fo",
+        "id": "1123495198170857472",
+        "name": "夕3.0",
+        "pinned_tweet_id": "2046856359581450606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949214598793682944/kgFn_hEd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 63,
+          "like_count": 51,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 210
+        },
+        "username": "xi06678",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035747912018485248",
+        "3_2035747912060465152",
+        "3_2035747912018513920",
+        "3_2035747912039505920"
+      ],
+      "media_source_tweet_id": [
+        "2035747921942163884",
+        "2035747921942163884",
+        "2035747921942163884",
+        "2035747921942163884"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053560601759097180",
+    "created_at": "2026-05-10T19:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T20:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053560601759097180"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 86,
+          "start": 82,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 91,
+          "start": 87,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 96,
+          "start": 92,
+          "tag": "学生妹"
+        },
+        {
+          "end": 100,
+          "start": 97,
+          "tag": "反差"
+        },
+        {
+          "end": 105,
+          "start": 101,
+          "tag": "门槛哥"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2012680512062590978",
+          "start": 3,
+          "username": "stacydiaz189969"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GSFFGW4tOP",
+          "end": 129,
+          "expanded_url": "https://x.com/stacydiaz189969/status/2035747921942163884/photo/1",
+          "media_key": "3_2035747912018485248",
+          "start": 106,
+          "url": "https://t.co/GSFFGW4tOP"
+        },
+        {
+          "display_url": "pic.x.com/GSFFGW4tOP",
+          "end": 129,
+          "expanded_url": "https://x.com/stacydiaz189969/status/2035747921942163884/photo/1",
+          "media_key": "3_2035747912060465152",
+          "start": 106,
+          "url": "https://t.co/GSFFGW4tOP"
+        },
+        {
+          "display_url": "pic.x.com/GSFFGW4tOP",
+          "end": 129,
+          "expanded_url": "https://x.com/stacydiaz189969/status/2035747921942163884/photo/1",
+          "media_key": "3_2035747912018513920",
+          "start": 106,
+          "url": "https://t.co/GSFFGW4tOP"
+        },
+        {
+          "display_url": "pic.x.com/GSFFGW4tOP",
+          "end": 129,
+          "expanded_url": "https://x.com/stacydiaz189969/status/2035747921942163884/photo/1",
+          "media_key": "3_2035747912039505920",
+          "start": 106,
+          "url": "https://t.co/GSFFGW4tOP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053560601759097180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035747921942163884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @stacydiaz189969: 小唯大驾光临！\n163丨49丨20 接爸爸活妈妈活卖原味\n🚪188开放线下\n过🚪后小唯会非常粘人哦～\n欢迎哥哥过小唯门槛\n#爸爸活 #门槛妹 #学生妹 #反差 #门槛哥 https://t.co/GSFFGW4tOP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053560601759097180].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053560601759097180",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053560601759097180"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1190,
+        "media_key": "3_2035747912018485248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEBt8Kwa4AAYYM9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 734,
+        "media_key": "3_2035747912060465152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEBt8K6bcAA2tub.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035747912018513920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEBt8KwbUAAJsoH.jpg",
+        "width": 918
+      },
+      {
+        "height": 1773,
+        "media_key": "3_2035747912039505920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEBt8K1boAAEnwr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035747912018485248",
+            "3_2035747912060465152",
+            "3_2035747912018513920",
+            "3_2035747912039505920"
+          ]
+        },
+        "author_id": "2012680512062590978",
+        "conversation_id": "2035747921942163884",
+        "created_at": "2026-03-22T15:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T16:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035747921942163884"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 61,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 75,
+              "start": 71,
+              "tag": "学生妹"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "反差"
+            },
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "门槛哥"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GSFFGW4tOP",
+              "end": 108,
+              "expanded_url": "https://x.com/stacydiaz189969/status/2035747921942163884/photo/1",
+              "media_key": "3_2035747912018485248",
+              "start": 85,
+              "url": "https://t.co/GSFFGW4tOP"
+            },
+            {
+              "display_url": "pic.x.com/GSFFGW4tOP",
+              "end": 108,
+              "expanded_url": "https://x.com/stacydiaz189969/status/2035747921942163884/photo/1",
+              "media_key": "3_2035747912060465152",
+              "start": 85,
+              "url": "https://t.co/GSFFGW4tOP"
+            },
+            {
+              "display_url": "pic.x.com/GSFFGW4tOP",
+              "end": 108,
+              "expanded_url": "https://x.com/stacydiaz189969/status/2035747921942163884/photo/1",
+              "media_key": "3_2035747912018513920",
+              "start": 85,
+              "url": "https://t.co/GSFFGW4tOP"
+            },
+            {
+              "display_url": "pic.x.com/GSFFGW4tOP",
+              "end": 108,
+              "expanded_url": "https://x.com/stacydiaz189969/status/2035747921942163884/photo/1",
+              "media_key": "3_2035747912039505920",
+              "start": 85,
+              "url": "https://t.co/GSFFGW4tOP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035747921942163884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 14713,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "小唯大驾光临！\n163丨49丨20 接爸爸活妈妈活卖原味\n🚪188开放线下\n过🚪后小唯会非常粘人哦～\n欢迎哥哥过小唯门槛\n#爸爸活 #门槛妹 #学生妹 #反差 #门槛哥 https://t.co/GSFFGW4tOP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 202,
+          "like_count": 1406,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 747
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T00:16:51.000Z",
+        "description": "这里是呆唯宝宝：长居河南 🉑✈️ 163丨49丨20 喜欢我的宝宝请来过🚪叭ᜊ•͈⌔•͈ᜊ",
+        "id": "2012680512062590978",
+        "name": "呆唯",
+        "pinned_tweet_id": "2035747921942163884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034640125599338496/TkB3pLxb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 4,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 61
+        },
+        "username": "stacydiaz189969",
+        "verified": false
+      }
+    ]
+  }
+}

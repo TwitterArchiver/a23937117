@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1985857266575425661",
+    "created_at": "2025-11-05T15:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T16:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986098475730080110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "771427728365068288",
+          "start": 0,
+          "username": "Gulidooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986098475730080110",
+    "in_reply_to_user_id": "771427728365068288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985857266575425661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gulidooo 原来这里面长这样……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985857259264712704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G48up-EaoAAuqMG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1985857266575425661",
+        "created_at": "2025-11-05T15:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T16:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986098475730080110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "771427728365068288",
+              "start": 0,
+              "username": "Gulidooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986098475730080110",
+        "in_reply_to_user_id": "771427728365068288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985857266575425661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gulidooo 原来这里面长这样……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985857259264712704"
+          ]
+        },
+        "author_id": "771427728365068288",
+        "conversation_id": "1985857266575425661",
+        "created_at": "2025-11-04T23:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T00:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985857266575425661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v5QFyzKdCk",
+              "end": 51,
+              "expanded_url": "https://x.com/Gulidooo/status/1985857266575425661/photo/1",
+              "media_key": "3_1985857259264712704",
+              "start": 28,
+              "url": "https://t.co/v5QFyzKdCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985857266575425661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 298493,
+          "like_count": 1510,
+          "quote_count": 7,
+          "reply_count": 131,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "为什么啊张毛毛？这个家里除了你别人不能有自己的玩具吗？ https://t.co/v5QFyzKdCk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 220,
+          "like_count": 1340,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 750
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-01T19:21:17.000Z",
+        "description": "nsfw🪔不接推广/不太会主动聊天/共情能力比较低/礼貌友善的祖安ISTP/跟我要情绪价值那你算是缘木求鱼了兄弟/实录音频https://t.co/Up3pAXhKbf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gulidooo.fanbox.cc",
+                "end": 84,
+                "expanded_url": "https://gulidooo.fanbox.cc/",
+                "start": 61,
+                "url": "https://t.co/Up3pAXhKbf"
+              }
+            ]
+          }
+        },
+        "id": "771427728365068288",
+        "location": "好友位+不定时更新=🚪199",
+        "name": "🌾谷崽",
+        "pinned_tweet_id": "1761019679953519064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642286425734516737/EGAhcAZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10067,
+          "following_count": 183,
+          "like_count": 2325,
+          "listed_count": 32,
+          "media_count": 718,
+          "tweet_count": 2897
+        },
+        "username": "Gulidooo",
+        "verified": false
+      }
+    ]
+  }
+}

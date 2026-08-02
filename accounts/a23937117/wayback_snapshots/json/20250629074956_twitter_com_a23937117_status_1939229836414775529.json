@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1939229753560506368"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1939229836414775529",
+    "created_at": "2025-06-29T07:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T08:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939229836414775529"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zi7Pg3UzYf",
+          "end": 67,
+          "expanded_url": "https://x.com/a23937117/status/1939229836414775529/video/1",
+          "media_key": "13_1939229753560506368",
+          "start": 44,
+          "url": "https://t.co/zi7Pg3UzYf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939229836414775529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我吵架后就这样惩罚自己……我知道的，小豹一点都不重要……全都离开我吧，我才不想要你们。 https://t.co/zi7Pg3UzYf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1939229836414775529].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1939229836414775529",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1939229836414775529"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16166,
+        "height": 720,
+        "media_key": "13_1939229753560506368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1939229753560506368/img/IYR5HWhxRGgkvmU3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939229753560506368/vid/avc1/480x270/y3I47brnqz4hrzc8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939229753560506368/vid/avc1/640x360/uwDDAJ7kbUXz6yvh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939229753560506368/vid/avc1/1280x720/n7QKERb-ftPXjaQe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1939229753560506368/pl/I-9Tnu4rUAVzmqHL.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "kissing",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 132,
+          "like_count": 841,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 179
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

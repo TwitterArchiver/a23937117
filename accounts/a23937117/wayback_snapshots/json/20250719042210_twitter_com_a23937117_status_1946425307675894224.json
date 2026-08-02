@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1946384076153258064",
+    "created_at": "2025-07-19T04:22:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T05:22:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946425307675894224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1939632496569929729",
+          "start": 0,
+          "username": "Yu_12673"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946425307675894224",
+    "in_reply_to_user_id": "1939632496569929729",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946404335669444704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yu_12673 ᜊ꒰˃͈꒵˂͈꒱ᜊ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1946384076153258064",
+        "created_at": "2025-07-19T04:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T05:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946425307675894224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1939632496569929729",
+              "start": 0,
+              "username": "Yu_12673"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946425307675894224",
+        "in_reply_to_user_id": "1939632496569929729",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946404335669444704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yu_12673 ᜊ꒰˃͈꒵˂͈꒱ᜊ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939632496569929729",
+        "conversation_id": "1946384076153258064",
+        "created_at": "2025-07-19T02:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T03:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946404335669444704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442350932977610752",
+              "start": 0,
+              "username": "a23937117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946404335669444704",
+        "in_reply_to_user_id": "1442350932977610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946384076153258064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a23937117 咋这么可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 165,
+          "like_count": 959,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 383
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T10:30:09.000Z",
+        "description": "可以叫我鱼鱼/叫我小鱼或者小决都可以/INFJ-T/双子/1i＞4i/switch偏m/善良人格：靠本能活着/下辈子我一定要当一个幸福的小猫😼/谢谢大家喜欢我 欢迎大家和我聊天 我爱你们😽",
+        "id": "1939632496569929729",
+        "name": "鱼鱼决（恩师lii版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945908744413409280/RFIp6dRM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 118,
+          "like_count": 1467,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 838
+        },
+        "username": "Yu_12673",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961615169303216128",
+        "3_1961615169294868480",
+        "3_1961615169303306240"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1961615177863848317",
+    "created_at": "2025-08-30T02:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T03:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961615177863848317"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e3LV5Lzob3",
+          "end": 41,
+          "expanded_url": "https://x.com/a23937117/status/1961615177863848317/photo/1",
+          "media_key": "3_1961615169303216128",
+          "start": 18,
+          "url": "https://t.co/e3LV5Lzob3"
+        },
+        {
+          "display_url": "pic.x.com/e3LV5Lzob3",
+          "end": 41,
+          "expanded_url": "https://x.com/a23937117/status/1961615177863848317/photo/1",
+          "media_key": "3_1961615169294868480",
+          "start": 18,
+          "url": "https://t.co/e3LV5Lzob3"
+        },
+        {
+          "display_url": "pic.x.com/e3LV5Lzob3",
+          "end": 41,
+          "expanded_url": "https://x.com/a23937117/status/1961615177863848317/photo/1",
+          "media_key": "3_1961615169303306240",
+          "start": 18,
+          "url": "https://t.co/e3LV5Lzob3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961615177863848317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果能多收一点花，我会少掉一点眼泪 https://t.co/e3LV5Lzob3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1961615177863848317].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1961615177863848317",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1961615177863848317"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1961615169303216128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzkOmnhWAAAo8cr.jpg",
+        "width": 1822
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1961615169294868480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzkOmnfWoAAcRna.jpg",
+        "width": 1174
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1961615169303306240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzkOmnhXYAA2e4q.jpg",
+        "width": 1492
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰--子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1960490344723706120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 209,
+          "like_count": 1132,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 646
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

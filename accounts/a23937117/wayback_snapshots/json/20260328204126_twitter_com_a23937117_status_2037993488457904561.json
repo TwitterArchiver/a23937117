@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2037933288636260853",
+    "created_at": "2026-03-28T20:41:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T21:41:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037993488457904561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1987243077657055232",
+          "start": 0,
+          "username": "puppy0581"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037993488457904561",
+    "in_reply_to_user_id": "1987243077657055232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037933288636260853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puppy0581 上海两千真的命很苦了，我以前也是一个人在武汉杭州，要租房水电就给我一千多，越来越少，最后自己去当家教，接很多工作，甚至下海，起码能养活自己了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2037933286341951488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEgxhshbQAAzzwt.jpg",
+        "width": 893
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2037933288636260853",
+        "created_at": "2026-03-28T20:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T21:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037993488457904561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1987243077657055232",
+              "start": 0,
+              "username": "puppy0581"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037993488457904561",
+        "in_reply_to_user_id": "1987243077657055232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037933288636260853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puppy0581 上海两千真的命很苦了，我以前也是一个人在武汉杭州，要租房水电就给我一千多，越来越少，最后自己去当家教，接很多工作，甚至下海，起码能养活自己了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037933286341951488"
+          ]
+        },
+        "author_id": "1987243077657055232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037933288636260853",
+        "created_at": "2026-03-28T16:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T17:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037933288636260853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lElhWAweRf",
+              "end": 173,
+              "expanded_url": "https://x.com/puppy0581/status/2037933288636260853/photo/1",
+              "media_key": "3_2037933286341951488",
+              "start": 150,
+              "url": "https://t.co/lElhWAweRf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037933288636260853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 32679,
+          "like_count": 126,
+          "quote_count": 1,
+          "reply_count": 49,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘴上说着都是最疼我的 然后呢  每个月生活费2k 我一个人在离家两千公里的地方上学 上海物价又高 每个月除了生活费我一点都没有多要  还不够体谅你们吗 生活费发我了又三四百的往回要又不补 上学也是助学贷款  坚持每个月给我28岁的哥哥还房贷 不跟我哥要钱跟我学生要 不如以后都别给我给了 我烂命一条 https://t.co/lElhWAweRf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 200,
+          "like_count": 1378,
+          "listed_count": 2,
+          "media_count": 223,
+          "tweet_count": 804
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T19:37:43.000Z",
+        "description": "很容易心碎的小狗",
+        "id": "1987243077657055232",
+        "name": "mumusup",
+        "pinned_tweet_id": "2010667721818874048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012660836645339137/qx_FHqCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9526,
+          "following_count": 29,
+          "like_count": 56,
+          "listed_count": 36,
+          "media_count": 99,
+          "tweet_count": 536
+        },
+        "username": "puppy0581",
+        "verified": false
+      }
+    ]
+  }
+}

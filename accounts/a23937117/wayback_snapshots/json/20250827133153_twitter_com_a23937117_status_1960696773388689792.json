@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1960696773388689792",
+    "created_at": "2025-08-27T13:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T14:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960696773388689792"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 116,
+          "start": 112,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 121,
+          "start": 117,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "金主"
+        },
+        {
+          "end": 131,
+          "start": 126,
+          "tag": "广州线下"
+        },
+        {
+          "end": 136,
+          "start": 132,
+          "tag": "福利姬"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1853391899471593472",
+          "start": 3,
+          "username": "xiobn387120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960696773388689792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960615285830115385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiobn387120: 2500粉丝了，转此帖抽五个188🧧\n置顶 坐标广州 可接全国\n我是小研05|158cm|43kg 过188🚪接线下，接全国，接线上电子女友，接陪玩，线下车费你包接双飞\n详细价格表私信咨询\n#门槛哥 #爸爸活 #金主 #广州线下 #福利姬 #c…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1960696773388689792].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1960696773388689792",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1960696773388689792"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960615282705358849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzWBNjra4AEGkOg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1329,
+        "media_key": "3_1960615282206236672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzWBNh0a4AAEb-w.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960615282705358849",
+            "3_1960615282206236672"
+          ]
+        },
+        "author_id": "1853391899471593472",
+        "conversation_id": "1960615285830115385",
+        "created_at": "2025-08-27T08:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T09:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960615285830115385"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "金主"
+            },
+            {
+              "end": 114,
+              "start": 109,
+              "tag": "广州线下"
+            },
+            {
+              "end": 119,
+              "start": 115,
+              "tag": "福利姬"
+            },
+            {
+              "end": 132,
+              "start": 120,
+              "tag": "cosplaylife"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LyKCyCIXOL",
+              "end": 156,
+              "expanded_url": "https://x.com/xiobn387120/status/1960615285830115385/photo/1",
+              "media_key": "3_1960615282705358849",
+              "start": 133,
+              "url": "https://t.co/LyKCyCIXOL"
+            },
+            {
+              "display_url": "pic.x.com/LyKCyCIXOL",
+              "end": 156,
+              "expanded_url": "https://x.com/xiobn387120/status/1960615285830115385/photo/1",
+              "media_key": "3_1960615282206236672",
+              "start": 133,
+              "url": "https://t.co/LyKCyCIXOL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960615285830115385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 780,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "2500粉丝了，转此帖抽五个188🧧\n置顶 坐标广州 可接全国\n我是小研05|158cm|43kg 过188🚪接线下，接全国，接线上电子女友，接陪玩，线下车费你包接双飞\n详细价格表私信咨询\n#门槛哥 #爸爸活 #金主 #广州线下 #福利姬 #cosplaylife https://t.co/LyKCyCIXOL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰--子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 206,
+          "like_count": 1121,
+          "listed_count": 2,
+          "media_count": 168,
+          "tweet_count": 633
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T11:00:55.000Z",
+        "description": "🚪188/288/520/1314\n欢迎各位找我入门问坐标20一次/验证30",
+        "id": "1853391899471593472",
+        "name": "研酱",
+        "pinned_tweet_id": "1960615285830115385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940740977498497024/XFgYp0l1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2549,
+          "following_count": 8,
+          "like_count": 74,
+          "listed_count": 14,
+          "media_count": 22,
+          "tweet_count": 228
+        },
+        "username": "xiobn387120",
+        "verified": false
+      }
+    ]
+  }
+}

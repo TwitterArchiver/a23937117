@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070681773894258688",
+        "3_2070681773894152192"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2070681780668035424",
+    "created_at": "2026-06-27T01:33:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T02:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070681780668035424"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0W3KrrL6bH",
+          "end": 36,
+          "expanded_url": "https://x.com/a23937117/status/2070681780668035424/photo/1",
+          "media_key": "3_2070681773894258688",
+          "start": 13,
+          "url": "https://t.co/0W3KrrL6bH"
+        },
+        {
+          "display_url": "pic.x.com/0W3KrrL6bH",
+          "end": 36,
+          "expanded_url": "https://x.com/a23937117/status/2070681780668035424/photo/1",
+          "media_key": "3_2070681773894152192",
+          "start": 13,
+          "url": "https://t.co/0W3KrrL6bH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070681780668035424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么叫转过去你的脸不像她 https://t.co/0W3KrrL6bH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1450,
+        "media_key": "3_2070681773894258688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyKGjfX0AAEYia.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070681773894152192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyKGjfWMAAlE6f.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070681773894258688",
+            "3_2070681773894152192"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2070681780668035424",
+        "created_at": "2026-06-27T01:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T02:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070681780668035424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0W3KrrL6bH",
+              "end": 36,
+              "expanded_url": "https://x.com/a23937117/status/2070681780668035424/photo/1",
+              "media_key": "3_2070681773894258688",
+              "start": 13,
+              "url": "https://t.co/0W3KrrL6bH"
+            },
+            {
+              "display_url": "pic.x.com/0W3KrrL6bH",
+              "end": 36,
+              "expanded_url": "https://x.com/a23937117/status/2070681780668035424/photo/1",
+              "media_key": "3_2070681773894152192",
+              "start": 13,
+              "url": "https://t.co/0W3KrrL6bH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070681780668035424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫转过去你的脸不像她 https://t.co/0W3KrrL6bH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 190,
+          "like_count": 1416,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 765
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

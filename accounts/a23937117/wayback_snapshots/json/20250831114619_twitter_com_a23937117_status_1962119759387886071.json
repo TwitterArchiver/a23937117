@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957408955602485248",
+        "3_1957408955619307520"
+      ],
+      "media_source_tweet_id": [
+        "1957408972329148478",
+        "1957408972329148478"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962119759387886071",
+    "created_at": "2025-08-31T11:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T12:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962119759387886071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1944025293540474880",
+          "start": 3,
+          "username": "coiooy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4qx3rw1GYc",
+          "end": 43,
+          "expanded_url": "https://x.com/coiooy/status/1957408972329148478/photo/1",
+          "media_key": "3_1957408955602485248",
+          "start": 20,
+          "url": "https://t.co/4qx3rw1GYc"
+        },
+        {
+          "display_url": "pic.x.com/4qx3rw1GYc",
+          "end": 43,
+          "expanded_url": "https://x.com/coiooy/status/1957408972329148478/photo/1",
+          "media_key": "3_1957408955619307520",
+          "start": 20,
+          "url": "https://t.co/4qx3rw1GYc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962119759387886071",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957408972329148478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @coiooy: 小柔の投喂指南 https://t.co/4qx3rw1GYc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962119759387886071].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962119759387886071",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962119759387886071"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1284,
+        "media_key": "3_1957408955602485248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyodEwbawAApK4c.jpg",
+        "width": 1284
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1957408955619307520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyodEwfbcAA19F4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957408955602485248",
+            "3_1957408955619307520"
+          ]
+        },
+        "author_id": "1944025293540474880",
+        "conversation_id": "1957408972329148478",
+        "created_at": "2025-08-18T11:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T12:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957408972329148478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4qx3rw1GYc",
+              "end": 31,
+              "expanded_url": "https://x.com/coiooy/status/1957408972329148478/photo/1",
+              "media_key": "3_1957408955602485248",
+              "start": 8,
+              "url": "https://t.co/4qx3rw1GYc"
+            },
+            {
+              "display_url": "pic.x.com/4qx3rw1GYc",
+              "end": 31,
+              "expanded_url": "https://x.com/coiooy/status/1957408972329148478/photo/1",
+              "media_key": "3_1957408955619307520",
+              "start": 8,
+              "url": "https://t.co/4qx3rw1GYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957408972329148478",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 18787,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "小柔の投喂指南 https://t.co/4qx3rw1GYc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 208,
+          "like_count": 1137,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 670
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-12T13:25:50.000Z",
+        "description": "🚪99/288/520见置顶只回口令，别问接不接线下过520🚪解锁线下其余不回复，欢迎女宝宝互转互fo",
+        "id": "1944025293540474880",
+        "location": "江苏这边，问具体30r",
+        "name": "宅才没有错",
+        "pinned_tweet_id": "1957408972329148478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369295401615360/YcyN657F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 53,
+          "like_count": 58,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 320
+        },
+        "username": "coiooy",
+        "verified": false
+      }
+    ]
+  }
+}

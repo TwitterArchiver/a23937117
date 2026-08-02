@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1956313024207192236",
+    "created_at": "2025-08-15T11:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T12:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956313024207192236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1956222893677039616",
+          "start": 3,
+          "username": "xin_shou55485"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956313024207192236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956225696625516648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xin_shou55485: 发个🔝大家好是手心爸妈离婚 我离家出走了求主任过🚪\n有双向情感障碍\n欢迎爸爸们给我入🚪\n（188好友位➕朋友圈➕部分福利视频）  （288好友位➕朋友圈➕原味1➕全部福利视频）\n（520主动聊天 分享日常照片）\n（1314 永久电子女友 随…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956225680699744258",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyXo5F6a4AIcTdL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1841,
+        "media_key": "3_1956225680712327172",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyXo5F9a4AQ9Jst.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1956313024207192236",
+        "created_at": "2025-08-15T11:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T12:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956313024207192236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1956222893677039616",
+              "start": 3,
+              "username": "xin_shou55485"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956313024207192236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956225696625516648",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xin_shou55485: 发个🔝大家好是手心爸妈离婚 我离家出走了求主任过🚪\n有双向情感障碍\n欢迎爸爸们给我入🚪\n（188好友位➕朋友圈➕部分福利视频）  （288好友位➕朋友圈➕原味1➕全部福利视频）\n（520主动聊天 分享日常照片）\n（1314 永久电子女友 随…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956225680699744258",
+            "3_1956225680712327172"
+          ]
+        },
+        "author_id": "1956222893677039616",
+        "conversation_id": "1956225696625516648",
+        "created_at": "2025-08-15T05:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T06:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956225696625516648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pUrNLYzHVB",
+              "end": 171,
+              "expanded_url": "https://x.com/xin_shou55485/status/1956225696625516648/photo/1",
+              "media_key": "3_1956225680699744258",
+              "start": 148,
+              "url": "https://t.co/pUrNLYzHVB"
+            },
+            {
+              "display_url": "pic.x.com/pUrNLYzHVB",
+              "end": 171,
+              "expanded_url": "https://x.com/xin_shou55485/status/1956225696625516648/photo/1",
+              "media_key": "3_1956225680712327172",
+              "start": 148,
+              "url": "https://t.co/pUrNLYzHVB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956225696625516648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 557,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "发个🔝大家好是手心爸妈离婚 我离家出走了求主任过🚪\n有双向情感障碍\n欢迎爸爸们给我入🚪\n（188好友位➕朋友圈➕部分福利视频）  （288好友位➕朋友圈➕原味1➕全部福利视频）\n（520主动聊天 分享日常照片）\n（1314 永久电子女友 随机涩涩）\n🚪哥🚪来谢谢 可线下\n欢迎宝宝互推互fo ～ https://t.co/pUrNLYzHVB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 235,
+          "like_count": 1089,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 609
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T05:14:29.000Z",
+        "description": "坐标广州 165/50kg 可视频语音验证 30视频验证 15语音验证 不入不回 2057115672 ➕备注来意 加不上发私信",
+        "id": "1956222893677039616",
+        "location": "🚪188 288 520 1314 ",
+        "name": "手心",
+        "pinned_tweet_id": "1956225696625516648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956223340957589509/UgPPx8s8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 76
+        },
+        "username": "xin_shou55485",
+        "verified": false
+      }
+    ]
+  }
+}

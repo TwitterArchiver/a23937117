@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052912053367832576",
+        "3_2052912053367734272"
+      ],
+      "media_source_tweet_id": [
+        "2052912084141412614",
+        "2052912084141412614"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053551576669688112",
+    "created_at": "2026-05-10T19:03:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T20:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053551576669688112"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 40,
+          "tag": "广东"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "门槛"
+        },
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "线下"
+        },
+        {
+          "end": 55,
+          "start": 52,
+          "tag": "非绿"
+        },
+        {
+          "end": 60,
+          "start": 56,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 66,
+          "start": 61,
+          "tag": "一日女友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "803606943776514048",
+          "start": 3,
+          "username": "ranjeet47383178"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kOnF0QGWHY",
+          "end": 90,
+          "expanded_url": "https://x.com/ranjeet47383178/status/2052912084141412614/photo/1",
+          "media_key": "3_2052912053367832576",
+          "start": 67,
+          "url": "https://t.co/kOnF0QGWHY"
+        },
+        {
+          "display_url": "pic.x.com/kOnF0QGWHY",
+          "end": 90,
+          "expanded_url": "https://x.com/ranjeet47383178/status/2052912084141412614/photo/1",
+          "media_key": "3_2052912053367734272",
+          "start": 67,
+          "url": "https://t.co/kOnF0QGWHY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053551576669688112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052912084141412614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ranjeet47383178: 接线下，ip广东，入门私信，我很缺钱 #广东 #门槛 #线下 #非绿 #爸爸活 #一日女友 https://t.co/kOnF0QGWHY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053551576669688112].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053551576669688112",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053551576669688112"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052912053367832576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1oosAbgAAWnkU.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052912053367734272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1oosAaAAA7x8R.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052912053367832576",
+            "3_2052912053367734272"
+          ]
+        },
+        "author_id": "803606943776514048",
+        "conversation_id": "2052912084141412614",
+        "created_at": "2026-05-09T00:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T01:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052912084141412614"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "广东"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "门槛"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "线下"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "非绿"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "一日女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kOnF0QGWHY",
+              "end": 69,
+              "expanded_url": "https://x.com/ranjeet47383178/status/2052912084141412614/photo/1",
+              "media_key": "3_2052912053367832576",
+              "start": 46,
+              "url": "https://t.co/kOnF0QGWHY"
+            },
+            {
+              "display_url": "pic.x.com/kOnF0QGWHY",
+              "end": 69,
+              "expanded_url": "https://x.com/ranjeet47383178/status/2052912084141412614/photo/1",
+              "media_key": "3_2052912053367734272",
+              "start": 46,
+              "url": "https://t.co/kOnF0QGWHY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052912084141412614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2126,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "接线下，ip广东，入门私信，我很缺钱 #广东 #门槛 #线下 #非绿 #爸爸活 #一日女友 https://t.co/kOnF0QGWHY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 202,
+          "like_count": 1405,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 735
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-29T14:30:00.000Z",
+        "description": "入门私信线下私信",
+        "id": "803606943776514048",
+        "name": "愛？",
+        "pinned_tweet_id": "2052912084141412614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052914073596219392/QR9nRcH8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 32,
+          "like_count": 141,
+          "listed_count": 4,
+          "media_count": 5,
+          "tweet_count": 51
+        },
+        "username": "ranjeet47383178",
+        "verified": false
+      }
+    ]
+  }
+}

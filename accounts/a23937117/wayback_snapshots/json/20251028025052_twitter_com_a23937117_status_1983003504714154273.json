@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983003499085336576",
+        "3_1983003499085299712"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1983003504714154273",
+    "created_at": "2025-10-28T02:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T03:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983003504714154273"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 13,
+          "start": 11,
+          "tag": "m"
+        },
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "电子女友"
+        },
+        {
+          "end": 27,
+          "start": 20,
+          "tag": "lolita"
+        },
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "k8"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "小猫"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "门槛"
+        },
+        {
+          "end": 43,
+          "start": 40,
+          "tag": "过门"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5rvSWvohvU",
+          "end": 67,
+          "expanded_url": "https://x.com/a23937117/status/1983003504714154273/photo/1",
+          "media_key": "3_1983003499085336576",
+          "start": 44,
+          "url": "https://t.co/5rvSWvohvU"
+        },
+        {
+          "display_url": "pic.x.com/5rvSWvohvU",
+          "end": 67,
+          "expanded_url": "https://x.com/a23937117/status/1983003504714154273/photo/1",
+          "media_key": "3_1983003499085299712",
+          "start": 44,
+          "url": "https://t.co/5rvSWvohvU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983003504714154273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可以躲到我的裙子下\n\n#m #电子女友 #lolita #k8 #小猫 #门槛 #过门 https://t.co/5rvSWvohvU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1983003504714154273].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1983003504714154273",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1983003504714154273"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983003499085336576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ULLQ9WkAA_PPd.jpg",
+        "width": 1508
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983003499085299712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ULLQ9WAAAGUIp.jpg",
+        "width": 1365
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 218,
+          "like_count": 1306,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 741
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

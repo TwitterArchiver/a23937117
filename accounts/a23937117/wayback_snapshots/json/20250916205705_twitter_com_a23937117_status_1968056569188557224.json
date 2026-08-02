@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1968056569188557224",
+    "created_at": "2025-09-16T20:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T21:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968056569188557224"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oore02086112/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/oore02086112/status/1967586092959608891",
+          "start": 13,
+          "url": "https://t.co/eJuM8eUX4M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968056569188557224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967586092959608891",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是真的只存在于小说里了 https://t.co/eJuM8eUX4M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1069,
+        "media_key": "3_1967586079697248257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G05FHWFboAEYfxP.jpg",
+        "width": 1166
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1968056569188557224",
+        "created_at": "2025-09-16T20:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T21:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968056569188557224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oore02086112/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/oore02086112/status/1967586092959608891",
+              "start": 13,
+              "url": "https://t.co/eJuM8eUX4M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968056569188557224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967586092959608891",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是真的只存在于小说里了 https://t.co/eJuM8eUX4M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967586079697248257"
+          ]
+        },
+        "author_id": "1604154566206926848",
+        "conversation_id": "1967586092959608891",
+        "created_at": "2025-09-15T13:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T14:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967586092959608891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ieqv3GPGlw",
+              "end": 27,
+              "expanded_url": "https://x.com/OoRe02086112/status/1967586092959608891/photo/1",
+              "media_key": "3_1967586079697248257",
+              "start": 4,
+              "url": "https://t.co/Ieqv3GPGlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967586092959608891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 685,
+          "impression_count": 448263,
+          "like_count": 5864,
+          "quote_count": 31,
+          "reply_count": 64,
+          "retweet_count": 201
+        },
+        "reply_settings": "everyone",
+        "text": "年龄差 https://t.co/Ieqv3GPGlw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 不收🚪—谈恋爱了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 214,
+          "like_count": 1197,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 666
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T16:40:47.000Z",
+        "description": "叫我小o就好了☺️｜随便写写✍️｜偶尔写点抽象奖励自己｜录制前请先授权！发布请@ ｜接定制｜看置顶🔝",
+        "id": "1604154566206926848",
+        "name": "OO",
+        "pinned_tweet_id": "1917263464080498744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750602471830097921/4Mtu7c9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59263,
+          "following_count": 269,
+          "like_count": 5335,
+          "listed_count": 84,
+          "media_count": 231,
+          "tweet_count": 1906
+        },
+        "username": "OoRe02086112",
+        "verified": false
+      }
+    ]
+  }
+}

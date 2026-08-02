@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962540214506659869",
+    "created_at": "2025-09-01T15:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T16:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962540214506659869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1959865343989669888",
+          "start": 3,
+          "username": "d2424335374639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962540214506659869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959870991003472322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @d2424335374639: 发个置顶🔝这里是素颜\n双属性偏m\n可重口\n🚪188部分福利视频➕随机掉落\n325全部福利视频➕一件免费原味➕随机掉落\n520永久线下九折➕露脸视频定制两条➕两件原味盲盒➕每周非绿视频两次\n777永久线下八折➕露脸定制视频五条➕每周非绿视频…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962540214506659869].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962540214506659869",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962540214506659869"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959870977820778496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzLcRT6a4AA7bjA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1416,
+        "media_key": "3_1959870977787211776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzLcRTyasAA79xP.jpg",
+        "width": 1029
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959870977820778496",
+            "3_1959870977787211776"
+          ]
+        },
+        "author_id": "1959865343989669888",
+        "conversation_id": "1959870991003472322",
+        "created_at": "2025-08-25T06:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T07:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959870991003472322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VYbBDKuN3P",
+              "end": 172,
+              "expanded_url": "https://x.com/d2424335374639/status/1959870991003472322/photo/1",
+              "media_key": "3_1959870977820778496",
+              "start": 149,
+              "url": "https://t.co/VYbBDKuN3P"
+            },
+            {
+              "display_url": "pic.x.com/VYbBDKuN3P",
+              "end": 172,
+              "expanded_url": "https://x.com/d2424335374639/status/1959870991003472322/photo/1",
+              "media_key": "3_1959870977787211776",
+              "start": 149,
+              "url": "https://t.co/VYbBDKuN3P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959870991003472322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 12365,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "发个置顶🔝这里是素颜\n双属性偏m\n可重口\n🚪188部分福利视频➕随机掉落\n325全部福利视频➕一件免费原味➕随机掉落\n520永久线下九折➕露脸视频定制两条➕两件原味盲盒➕每周非绿视频两次\n777永久线下八折➕露脸定制视频五条➕每周非绿视频四次\n1314虽然知道没人入 \n转此条参与五个88红包抽奖 https://t.co/VYbBDKuN3P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 201,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 695
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T06:28:15.000Z",
+        "description": "坐标广东 以及附近地区 私信只回复门槛口令 可验证 164/48kg 我很缺钱希望有很多爸爸入我门槛",
+        "id": "1959865343989669888",
+        "location": "🚪188 325 520 777 1314",
+        "name": "素颜",
+        "pinned_tweet_id": "1959870991003472322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961019920940228608/gY9wPIG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 20,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 161
+        },
+        "username": "d2424335374639",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943481436503265280"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1943481444036186428",
+    "created_at": "2025-07-11T01:24:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T02:24:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943481444036186428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mYafIG1X89",
+          "end": 39,
+          "expanded_url": "https://x.com/a23937117/status/1943481444036186428/photo/1",
+          "media_key": "3_1943481436503265280",
+          "start": 16,
+          "url": "https://t.co/mYafIG1X89"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943481444036186428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "进食障碍吐到眼结膜下出血了…… https://t.co/mYafIG1X89"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1943481444036186428].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1943481444036186428",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1943481444036186428"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1309,
+        "media_key": "3_1943481436503265280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GviiEcpX0AAvns4.jpg",
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 134,
+          "like_count": 877,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 236
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926552043944128512"
+      ],
+      "media_source_tweet_id": [
+        "1926552065125290367"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1926783480219799653",
+    "created_at": "2025-05-25T23:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T00:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926783480219799653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VHIbT93ZsX",
+          "end": 49,
+          "expanded_url": "https://x.com/DDzhanshou5150/status/1926552065125290367/photo/1",
+          "media_key": "3_1926552043944128512",
+          "start": 26,
+          "url": "https://t.co/VHIbT93ZsX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926783480219799653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926552065125290367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 精神状态： https://t.co/VHIbT93ZsX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 613,
+        "media_key": "3_1926552043944128512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grx84GyXsAAAeGs.png",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926552043944128512"
+          ],
+          "media_source_tweet_id": [
+            "1926552065125290367"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "1926783480219799653",
+        "created_at": "2025-05-25T23:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T00:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926783480219799653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VHIbT93ZsX",
+              "end": 49,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1926552065125290367/photo/1",
+              "media_key": "3_1926552043944128512",
+              "start": 26,
+              "url": "https://t.co/VHIbT93ZsX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926783480219799653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926552065125290367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 精神状态： https://t.co/VHIbT93ZsX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926552043944128512"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1926552065125290367",
+        "created_at": "2025-05-25T08:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T09:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926552065125290367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VHIbT93ZsX",
+              "end": 29,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1926552065125290367/photo/1",
+              "media_key": "3_1926552043944128512",
+              "start": 6,
+              "url": "https://t.co/VHIbT93ZsX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926552065125290367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 40916,
+          "like_count": 838,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "精神状态： https://t.co/VHIbT93ZsX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "讨厌我的人有福了 因为我真的过的很惨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 103,
+          "like_count": 680,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 72
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人  fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "蒂蒂斩首",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908057654267990016/0WM0C63a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3546,
+          "following_count": 3653,
+          "like_count": 9862,
+          "listed_count": 4,
+          "media_count": 1713,
+          "tweet_count": 13919
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1978379556089192539",
+    "created_at": "2025-10-16T18:11:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T19:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978886622486708231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1911429446193602561",
+          "start": 0,
+          "username": "woaihuojimian11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978886622486708231",
+    "in_reply_to_user_id": "1911429446193602561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978379556089192539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaihuojimian11 写这种唐人文案的健全人你们够了没？我的少女时代只有一群突然冒出来的贱人把我给毁了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1250,
+        "media_key": "3_1978379552268451840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3SduIvbgAA_stb.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1978379556089192539",
+        "created_at": "2025-10-16T18:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T19:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978886622486708231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1911429446193602561",
+              "start": 0,
+              "username": "woaihuojimian11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978886622486708231",
+        "in_reply_to_user_id": "1911429446193602561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978379556089192539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaihuojimian11 写这种唐人文案的健全人你们够了没？我的少女时代只有一群突然冒出来的贱人把我给毁了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978379552268451840"
+          ]
+        },
+        "author_id": "1911429446193602561",
+        "conversation_id": "1978379556089192539",
+        "created_at": "2025-10-15T08:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T09:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978379556089192539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zl18cibGS1",
+              "end": 34,
+              "expanded_url": "https://x.com/woaihuojimian11/status/1978379556089192539/photo/1",
+              "media_key": "3_1978379552268451840",
+              "start": 11,
+              "url": "https://t.co/zl18cibGS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978379556089192539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 105276,
+          "like_count": 572,
+          "quote_count": 16,
+          "reply_count": 54,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我做梦都不敢这样梦。 https://t.co/zl18cibGS1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 人在海外 人在海外！！！ 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 217,
+          "like_count": 1290,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 700
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T14:41:19.000Z",
+        "description": "发我想发的｜不约不线下不聊骚不接定制不卖原味不看屌｜喜欢🉑入🚪52/188/520（入🚪请私信口令）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woaihuojimian11",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woaihuojimian11",
+                "start": 0,
+                "url": "https://t.co/hMcDposL3u"
+              }
+            ]
+          }
+        },
+        "id": "1911429446193602561",
+        "location": "🌧️",
+        "name": "泣",
+        "pinned_tweet_id": "1976904077469733193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943364944675901440/7Mjf0do9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4875,
+          "following_count": 171,
+          "like_count": 33065,
+          "listed_count": 11,
+          "media_count": 361,
+          "tweet_count": 10919
+        },
+        "url": "https://t.co/hMcDposL3u",
+        "username": "woaihuojimian11",
+        "verified": false
+      }
+    ]
+  }
+}

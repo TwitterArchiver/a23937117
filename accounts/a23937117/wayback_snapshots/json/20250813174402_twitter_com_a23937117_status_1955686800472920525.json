@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955479401703018984",
+    "created_at": "2025-08-13T17:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T18:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955686800472920525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1887467599287754755",
+          "start": 0,
+          "username": "with_WhiT3Rose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955686800472920525",
+    "in_reply_to_user_id": "1887467599287754755",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955479401703018984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@with_WhiT3Rose 妹妹来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1955479401703018984",
+        "created_at": "2025-08-13T17:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T18:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955686800472920525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1887467599287754755",
+              "start": 0,
+              "username": "with_WhiT3Rose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955686800472920525",
+        "in_reply_to_user_id": "1887467599287754755",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955479401703018984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@with_WhiT3Rose 妹妹来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887467599287754755",
+        "conversation_id": "1955479401703018984",
+        "created_at": "2025-08-13T03:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T04:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955479401703018984"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955479401703018984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2625,
+          "like_count": 48,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️七夕马上到了 切记推友之间禁止产生恋情！\n网恋＝推里勾搭 添加好友 日常聊骚 暧昧不断 互发照片 确定关系 线下见面  关系破裂 互删好友 双双退推🔞推友有别 安分守己！\n🔞偷尝禁果 万万不可！\n🔞一经发现 严惩不贷！\n网络对象都是虚拟和未知的❗\n网络不是不法之地 请爱护自己❗\n我不一样 妹妹加我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 228,
+          "like_count": 1081,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 582
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T11:45:28.000Z",
+        "description": "与你说些无聊事 挽手几千里/长发男重度依赖",
+        "id": "1887467599287754755",
+        "name": "StOr3",
+        "pinned_tweet_id": "1947644176482636066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955287112137445376/diSFUyMn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 535,
+          "like_count": 19216,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 2347
+        },
+        "username": "with_WhiT3Rose",
+        "verified": false
+      }
+    ]
+  }
+}

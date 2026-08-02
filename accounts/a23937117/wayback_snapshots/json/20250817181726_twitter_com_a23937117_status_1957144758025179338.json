@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957133039852732416"
+      ],
+      "media_source_tweet_id": [
+        "1957133042599989587"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1957144758025179338",
+    "created_at": "2025-08-17T18:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T19:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957144758025179338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1948304751537369088",
+          "start": 3,
+          "username": "anovaonu"
+        },
+        {
+          "end": 25,
+          "id": "1944562899713703936",
+          "start": 14,
+          "username": "Lelya___RU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mFO54d0MSO",
+          "end": 92,
+          "expanded_url": "https://x.com/anovaonu/status/1957133042599989587/photo/1",
+          "media_key": "3_1957133039852732416",
+          "start": 69,
+          "url": "https://t.co/mFO54d0MSO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957144758025179338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957133042599989587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anovaonu: @Lelya___RU这人是盗我图大号图的皮下男我的🚪88好友位288有福利会发给大人520纯圈钱电子抽象b https://t.co/mFO54d0MSO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1957144758025179338].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1957144758025179338",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1957144758025179338"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 513,
+        "media_key": "3_1957133039852732416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GykiIWKaQAAt0_l.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957133039852732416"
+          ]
+        },
+        "author_id": "1948304751537369088",
+        "conversation_id": "1957133042599989587",
+        "created_at": "2025-08-17T17:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T18:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957133042599989587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944562899713703936",
+              "start": 0,
+              "username": "Lelya___RU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mFO54d0MSO",
+              "end": 78,
+              "expanded_url": "https://x.com/anovaonu/status/1957133042599989587/photo/1",
+              "media_key": "3_1957133039852732416",
+              "start": 55,
+              "url": "https://t.co/mFO54d0MSO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957133042599989587",
+        "in_reply_to_user_id": "1944562899713703936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "@Lelya___RU这人是盗我图大号图的皮下男我的🚪88好友位288有福利会发给大人520纯圈钱电子抽象b https://t.co/mFO54d0MSO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 209,
+          "like_count": 1094,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 629
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T08:50:42.000Z",
+        "description": "🚪88 🚪288 🚪520   @Lelya___RU盗图狗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Lelya___RU"
+              }
+            ]
+          }
+        },
+        "id": "1948304751537369088",
+        "name": "呜泣",
+        "pinned_tweet_id": "1957133042599989587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956748605207064576/ulp_7cFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 287,
+          "like_count": 2437,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 588
+        },
+        "username": "anovaonu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T01:02:09.000Z",
+        "description": "🚪52/女 大 生（2004.08.08）/语 言：简 体 中 文 俄 文/别 看 我 这 样 其 实 中 文 说 的 比 俄 文 还 要 好. Ясчастлив жить здесь.地 雷 系❤️/🏳️‍⚧️❤️/🇷🇺❤️",
+        "id": "1944562899713703936",
+        "location": "位 置 10 元 ",
+        "name": "🇷🇺Леля🇷🇺",
+        "pinned_tweet_id": "1950300348318695677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950280757903314946/_wkiH9yN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 30,
+          "like_count": 105,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 95
+        },
+        "username": "Lelya___RU",
+        "verified": false
+      }
+    ]
+  }
+}

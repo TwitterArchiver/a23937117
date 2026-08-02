@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884797841152880641"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1884797849906393370",
+    "created_at": "2025-01-30T02:56:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T03:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884797849906393370"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 47,
+          "tag": "甜妹"
+        },
+        {
+          "end": 56,
+          "start": 53,
+          "tag": "萌系"
+        },
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "女友"
+        },
+        {
+          "end": 67,
+          "start": 65,
+          "tag": "爱"
+        },
+        {
+          "end": 77,
+          "start": 70,
+          "tag": "双相情感障碍"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hIjffm7mtf",
+          "end": 101,
+          "expanded_url": "https://x.com/a23937117/status/1884797849906393370/photo/1",
+          "media_key": "3_1884797841152880641",
+          "start": 78,
+          "url": "https://t.co/hIjffm7mtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884797849906393370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不能只看着我吗\n想你很久了，为什么不能只看着我呢？如果还和其他人讲话就再也不准靠近我了哦~\n #甜妹   #萌系   #女友   #爱   #双相情感障碍 https://t.co/hIjffm7mtf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1884797849906393370].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1884797849906393370",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1884797849906393370"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1884797841152880641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiglpoNXMAEa_82.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——严重露出lover  中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877871932521009152/ENngS7iN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 71,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 28
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

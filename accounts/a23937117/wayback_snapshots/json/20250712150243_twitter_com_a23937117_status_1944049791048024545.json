@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1943638646265086404",
+    "created_at": "2025-07-12T15:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T16:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944049791048024545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1916183836079362048",
+          "start": 0,
+          "username": "Bainobxbai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944049791048024545",
+    "in_reply_to_user_id": "1916183836079362048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943638646265086404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bainobxbai 给你爽死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 735,
+        "media_key": "3_1943638554724483072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvkw97obQAALF2R.jpg",
+        "width": 1242
+      },
+      {
+        "height": 4032,
+        "media_key": "3_1943638554900377600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvkw98SXMAAn_oc.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1943638646265086404",
+        "created_at": "2025-07-12T15:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T16:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944049791048024545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1916183836079362048",
+              "start": 0,
+              "username": "Bainobxbai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944049791048024545",
+        "in_reply_to_user_id": "1916183836079362048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943638646265086404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bainobxbai 给你爽死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943638554724483072",
+            "3_1943638554900377600"
+          ]
+        },
+        "author_id": "1916183836079362048",
+        "conversation_id": "1943638646265086404",
+        "created_at": "2025-07-11T11:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T12:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943638646265086404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GPuRHpWnp6",
+              "end": 57,
+              "expanded_url": "https://x.com/Bainobxbai/status/1943638646265086404/photo/1",
+              "media_key": "3_1943638554724483072",
+              "start": 34,
+              "url": "https://t.co/GPuRHpWnp6"
+            },
+            {
+              "display_url": "pic.x.com/GPuRHpWnp6",
+              "end": 57,
+              "expanded_url": "https://x.com/Bainobxbai/status/1943638646265086404/photo/1",
+              "media_key": "3_1943638554900377600",
+              "start": 34,
+              "url": "https://t.co/GPuRHpWnp6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943638646265086404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6295,
+          "like_count": 117,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "没看懂，我买了一盒pr80，怎么给我发了十盒啊，pdd你是个人物🤔 https://t.co/GPuRHpWnp6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 147,
+          "like_count": 909,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 280
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T17:33:32.000Z",
+        "description": "MTF🍥🏳️‍⚧️｜巨蟹｜height:183 超大一只，我是巨人(bushi｜生产日期：2009.06.23｜高二｜INFP｜坐标Nanking｜欢迎互关🥰｜日语业余🇯🇵｜垃圾音游佬｜骚扰筑波可随机爆QQ号(不是小号)｜见证大舞台，有胆你就来｜永远热爱nachoneko❤️｜什么我居然是ztmy的粉丝😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/pkMP6UEq",
+                "end": 23,
+                "expanded_url": "https://discord.gg/pkMP6UEq",
+                "start": 0,
+                "url": "https://t.co/HoatiFYxHN"
+              }
+            ]
+          }
+        },
+        "id": "1916183836079362048",
+        "location": "Nanking",
+        "name": "白诺Baino",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916185382737350660/y2LI2YIy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 259,
+          "like_count": 857,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 91
+        },
+        "url": "https://t.co/HoatiFYxHN",
+        "username": "Bainobxbai",
+        "verified": false
+      }
+    ]
+  }
+}

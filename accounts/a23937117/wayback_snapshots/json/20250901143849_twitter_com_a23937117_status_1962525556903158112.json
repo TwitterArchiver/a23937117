@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900272947019005952",
+        "3_1900272953323147264",
+        "3_1900272957219319808",
+        "3_1900272960570875910"
+      ],
+      "media_source_tweet_id": [
+        "1900272963242557669",
+        "1900272963242557669",
+        "1900272963242557669",
+        "1900272963242557669"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962525556903158112",
+    "created_at": "2025-09-01T14:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T15:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962525556903158112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2796249791",
+          "start": 3,
+          "username": "arouxiangchiro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hyOOJhQYUW",
+          "end": 120,
+          "expanded_url": "https://x.com/arouxiangchiro/status/1900272963242557669/photo/1",
+          "media_key": "3_1900272947019005952",
+          "start": 97,
+          "url": "https://t.co/hyOOJhQYUW"
+        },
+        {
+          "display_url": "pic.x.com/hyOOJhQYUW",
+          "end": 120,
+          "expanded_url": "https://x.com/arouxiangchiro/status/1900272963242557669/photo/1",
+          "media_key": "3_1900272953323147264",
+          "start": 97,
+          "url": "https://t.co/hyOOJhQYUW"
+        },
+        {
+          "display_url": "pic.x.com/hyOOJhQYUW",
+          "end": 120,
+          "expanded_url": "https://x.com/arouxiangchiro/status/1900272963242557669/photo/1",
+          "media_key": "3_1900272957219319808",
+          "start": 97,
+          "url": "https://t.co/hyOOJhQYUW"
+        },
+        {
+          "display_url": "pic.x.com/hyOOJhQYUW",
+          "end": 120,
+          "expanded_url": "https://x.com/arouxiangchiro/status/1900272963242557669/photo/1",
+          "media_key": "3_1900272960570875910",
+          "start": 97,
+          "url": "https://t.co/hyOOJhQYUW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962525556903158112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900272963242557669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @arouxiangchiro: 泥萌好我系阿柔，因为手笨不小心删掉了自己的置顶，所以重新做了个。\n\n07/辍学/精神病/喜欢二次元\n\n非常焦虑生活所以想要钱。喜欢我请给我打钱，非常感谢 https://t.co/hyOOJhQYUW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962525556903158112].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962525556903158112",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962525556903158112"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1900272947019005952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl8gLV9aQAAknww.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2133,
+        "media_key": "3_1900272953323147264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl8gLtcb0AAkTVp.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1037,
+        "media_key": "3_1900272957219319808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl8gL79WsAANfR8.jpg",
+        "width": 1037
+      },
+      {
+        "height": 880,
+        "media_key": "3_1900272960570875910",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl8gMIcbYAYpiAV.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900272947019005952",
+            "3_1900272953323147264",
+            "3_1900272957219319808",
+            "3_1900272960570875910"
+          ]
+        },
+        "author_id": "2796249791",
+        "conversation_id": "1900272963242557669",
+        "created_at": "2025-03-13T19:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T20:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900272963242557669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hyOOJhQYUW",
+              "end": 100,
+              "expanded_url": "https://x.com/arouxiangchiro/status/1900272963242557669/photo/1",
+              "media_key": "3_1900272947019005952",
+              "start": 77,
+              "url": "https://t.co/hyOOJhQYUW"
+            },
+            {
+              "display_url": "pic.x.com/hyOOJhQYUW",
+              "end": 100,
+              "expanded_url": "https://x.com/arouxiangchiro/status/1900272963242557669/photo/1",
+              "media_key": "3_1900272953323147264",
+              "start": 77,
+              "url": "https://t.co/hyOOJhQYUW"
+            },
+            {
+              "display_url": "pic.x.com/hyOOJhQYUW",
+              "end": 100,
+              "expanded_url": "https://x.com/arouxiangchiro/status/1900272963242557669/photo/1",
+              "media_key": "3_1900272957219319808",
+              "start": 77,
+              "url": "https://t.co/hyOOJhQYUW"
+            },
+            {
+              "display_url": "pic.x.com/hyOOJhQYUW",
+              "end": 100,
+              "expanded_url": "https://x.com/arouxiangchiro/status/1900272963242557669/photo/1",
+              "media_key": "3_1900272960570875910",
+              "start": 77,
+              "url": "https://t.co/hyOOJhQYUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900272963242557669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 32362,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "泥萌好我系阿柔，因为手笨不小心删掉了自己的置顶，所以重新做了个。\n\n07/辍学/精神病/喜欢二次元\n\n非常焦虑生活所以想要钱。喜欢我请给我打钱，非常感谢 https://t.co/hyOOJhQYUW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 201,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 678
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-30T20:13:08.000Z",
+        "description": "🚪52/99/128/288/520/1314\n问坐标15",
+        "id": "2796249791",
+        "location": "距离6km",
+        "name": "阿柔薄纱马斯克",
+        "pinned_tweet_id": "1900272963242557669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858758409400840196/_4T6m3J__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 125,
+          "like_count": 2315,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 382
+        },
+        "username": "arouxiangchiro",
+        "verified": false
+      }
+    ]
+  }
+}

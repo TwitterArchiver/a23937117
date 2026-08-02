@@ -1,0 +1,514 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053427487606964231",
+        "3_2053427487598649350",
+        "3_2053427487602794500",
+        "3_2053427487602855943"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2053427495295176825",
+    "created_at": "2026-05-10T10:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053427495295176825"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 85,
+          "start": 81,
+          "tag": "电子烟"
+        },
+        {
+          "end": 89,
+          "start": 86,
+          "tag": "烟代"
+        },
+        {
+          "end": 93,
+          "start": 90,
+          "tag": "百乐"
+        },
+        {
+          "end": 98,
+          "start": 94,
+          "tag": "铁塔猫"
+        },
+        {
+          "end": 103,
+          "start": 99,
+          "tag": "万宝路"
+        },
+        {
+          "end": 112,
+          "start": 104,
+          "tag": "cosplay"
+        },
+        {
+          "end": 120,
+          "start": 114,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "甜妹"
+        },
+        {
+          "end": 130,
+          "start": 125,
+          "tag": "女大学生"
+        },
+        {
+          "end": 133,
+          "start": 131,
+          "tag": "m"
+        },
+        {
+          "end": 138,
+          "start": 134,
+          "tag": "sub"
+        },
+        {
+          "end": 144,
+          "start": 139,
+          "tag": "brat"
+        },
+        {
+          "end": 149,
+          "start": 146,
+          "tag": "门榄"
+        },
+        {
+          "end": 154,
+          "start": 150,
+          "tag": "门榄妹"
+        },
+        {
+          "end": 158,
+          "start": 155,
+          "tag": "过门"
+        },
+        {
+          "end": 161,
+          "start": 159,
+          "tag": "门"
+        },
+        {
+          "end": 165,
+          "start": 162,
+          "tag": "三陪"
+        },
+        {
+          "end": 169,
+          "start": 166,
+          "tag": "反差"
+        },
+        {
+          "end": 173,
+          "start": 170,
+          "tag": "话唠"
+        },
+        {
+          "end": 177,
+          "start": 174,
+          "tag": "女大"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bizQpDFIml",
+          "end": 201,
+          "expanded_url": "https://x.com/a23937117/status/2053427495295176825/photo/1",
+          "media_key": "3_2053427487606964231",
+          "start": 178,
+          "url": "https://t.co/bizQpDFIml"
+        },
+        {
+          "display_url": "pic.x.com/bizQpDFIml",
+          "end": 201,
+          "expanded_url": "https://x.com/a23937117/status/2053427495295176825/photo/1",
+          "media_key": "3_2053427487598649350",
+          "start": 178,
+          "url": "https://t.co/bizQpDFIml"
+        },
+        {
+          "display_url": "pic.x.com/bizQpDFIml",
+          "end": 201,
+          "expanded_url": "https://x.com/a23937117/status/2053427495295176825/photo/1",
+          "media_key": "3_2053427487602794500",
+          "start": 178,
+          "url": "https://t.co/bizQpDFIml"
+        },
+        {
+          "display_url": "pic.x.com/bizQpDFIml",
+          "end": 201,
+          "expanded_url": "https://x.com/a23937117/status/2053427495295176825/photo/1",
+          "media_key": "3_2053427487602855943",
+          "start": 178,
+          "url": "https://t.co/bizQpDFIml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053427495295176825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是小豹，我重生了——\n求互关互转日 依旧：88.88\n不知道为什么之前的没了 欢迎互转\n烟代一韩/日/国/欧 电子烟（长期稳定）\n接稿：xhs\n陪玩陪聊：qq\n#电子烟 #烟代 ＃百乐 ＃铁塔猫 ＃万宝路 #cosplay  #地雷系女子 ＃甜妹 #女大学生 #m #sub #brat  #门榄 #门榄妹 #过门 #门 #三陪 #反差 #话唠 #女大 https://t.co/bizQpDFIml"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053427487606964231",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH89a6LWAAcsjt_.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053427487598649350",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH89a6JXIAYjII4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053427487602794500",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH89a6KWYAQSqWB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053427487602855943",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH89a6KXUAcAfrY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053427487606964231",
+            "3_2053427487598649350",
+            "3_2053427487602794500",
+            "3_2053427487602855943"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2053427495295176825",
+        "created_at": "2026-05-10T10:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053427495295176825"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 81,
+              "tag": "电子烟"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "烟代"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "百乐"
+            },
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "铁塔猫"
+            },
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "万宝路"
+            },
+            {
+              "end": 112,
+              "start": 104,
+              "tag": "cosplay"
+            },
+            {
+              "end": 120,
+              "start": 114,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "甜妹"
+            },
+            {
+              "end": 130,
+              "start": 125,
+              "tag": "女大学生"
+            },
+            {
+              "end": 133,
+              "start": 131,
+              "tag": "m"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "sub"
+            },
+            {
+              "end": 144,
+              "start": 139,
+              "tag": "brat"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "门榄"
+            },
+            {
+              "end": 154,
+              "start": 150,
+              "tag": "门榄妹"
+            },
+            {
+              "end": 158,
+              "start": 155,
+              "tag": "过门"
+            },
+            {
+              "end": 161,
+              "start": 159,
+              "tag": "门"
+            },
+            {
+              "end": 165,
+              "start": 162,
+              "tag": "三陪"
+            },
+            {
+              "end": 169,
+              "start": 166,
+              "tag": "反差"
+            },
+            {
+              "end": 173,
+              "start": 170,
+              "tag": "话唠"
+            },
+            {
+              "end": 177,
+              "start": 174,
+              "tag": "女大"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bizQpDFIml",
+              "end": 201,
+              "expanded_url": "https://x.com/a23937117/status/2053427495295176825/photo/1",
+              "media_key": "3_2053427487606964231",
+              "start": 178,
+              "url": "https://t.co/bizQpDFIml"
+            },
+            {
+              "display_url": "pic.x.com/bizQpDFIml",
+              "end": 201,
+              "expanded_url": "https://x.com/a23937117/status/2053427495295176825/photo/1",
+              "media_key": "3_2053427487598649350",
+              "start": 178,
+              "url": "https://t.co/bizQpDFIml"
+            },
+            {
+              "display_url": "pic.x.com/bizQpDFIml",
+              "end": 201,
+              "expanded_url": "https://x.com/a23937117/status/2053427495295176825/photo/1",
+              "media_key": "3_2053427487602794500",
+              "start": 178,
+              "url": "https://t.co/bizQpDFIml"
+            },
+            {
+              "display_url": "pic.x.com/bizQpDFIml",
+              "end": 201,
+              "expanded_url": "https://x.com/a23937117/status/2053427495295176825/photo/1",
+              "media_key": "3_2053427487602855943",
+              "start": 178,
+              "url": "https://t.co/bizQpDFIml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053427495295176825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是小豹，我重生了——\n求互关互转日 依旧：88.88\n不知道为什么之前的没了 欢迎互转\n烟代一韩/日/国/欧 电子烟（长期稳定）\n接稿：xhs\n陪玩陪聊：qq\n#电子烟 #烟代 ＃百乐 ＃铁塔猫 ＃万宝路 #cosplay  #地雷系女子 ＃甜妹 #女大学生 #m #sub #brat  #门榄 #门榄妹 #过门 #门 #三陪 #反差 #话唠 #女大 https://t.co/bizQpDFIml"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 202,
+          "like_count": 1402,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 709
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

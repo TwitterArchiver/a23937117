@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962119410056933421",
+    "created_at": "2025-08-31T11:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T12:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962119410056933421"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "门槛"
+        },
+        {
+          "end": 115,
+          "start": 111,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "非绿"
+        },
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "半绿"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "上海"
+        },
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "苏州"
+        },
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "杭州"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1754886027125121024",
+          "start": 3,
+          "username": "TehsomeZ87947"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962119410056933421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960975502359060600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TehsomeZ87947: 05 166 53 d \n日理万姬为爱可✈️\n验证20 🚪99 199 520 \n关注转发抽奖🧧5个28. 免3个🚪\n需要了解入门解锁欧 只回口令骚扰屏蔽\n欢迎女孩子互互fo\n#门槛 #门槛妹  #非绿 #半绿 #上海 #苏州   \n#杭州…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962119410056933421].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962119410056933421",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962119410056933421"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960975493697822721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzbI0mMa4AEn9AU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1736,
+        "media_key": "3_1960975493722959872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzbI0mSacAAkr3t.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960975493697822721",
+            "3_1960975493722959872"
+          ]
+        },
+        "author_id": "1754886027125121024",
+        "conversation_id": "1960975502359060600",
+        "created_at": "2025-08-28T07:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T08:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960975502359060600"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "门槛"
+            },
+            {
+              "end": 96,
+              "start": 92,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "非绿"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "半绿"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "上海"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "苏州"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "杭州"
+            },
+            {
+              "end": 126,
+              "start": 121,
+              "tag": "女大学生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OGAtIk1A6r",
+              "end": 150,
+              "expanded_url": "https://x.com/TehsomeZ87947/status/1960975502359060600/photo/1",
+              "media_key": "3_1960975493697822721",
+              "start": 127,
+              "url": "https://t.co/OGAtIk1A6r"
+            },
+            {
+              "display_url": "pic.x.com/OGAtIk1A6r",
+              "end": 150,
+              "expanded_url": "https://x.com/TehsomeZ87947/status/1960975502359060600/photo/1",
+              "media_key": "3_1960975493722959872",
+              "start": 127,
+              "url": "https://t.co/OGAtIk1A6r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960975502359060600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4339,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "05 166 53 d \n日理万姬为爱可✈️\n验证20 🚪99 199 520 \n关注转发抽奖🧧5个28. 免3个🚪\n需要了解入门解锁欧 只回口令骚扰屏蔽\n欢迎女孩子互互fo\n#门槛 #门槛妹  #非绿 #半绿 #上海 #苏州   \n#杭州 #女大学生 https://t.co/OGAtIk1A6r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 208,
+          "like_count": 1137,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 665
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T15:14:27.000Z",
+        "description": "长住：江苏 验证20 06 165 d 🚪99 199 520 接非绿入门解锁菜单只回口令kh骚扰拉黑 欢迎女孩子互转fo",
+        "id": "1754886027125121024",
+        "name": "野生🥝",
+        "pinned_tweet_id": "1960975502359060600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960957851855413254/v9uY8IBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 13,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 54
+        },
+        "username": "TehsomeZ87947",
+        "verified": false
+      }
+    ]
+  }
+}

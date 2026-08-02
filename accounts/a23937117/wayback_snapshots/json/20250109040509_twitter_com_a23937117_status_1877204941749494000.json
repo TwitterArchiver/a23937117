@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1876839930279649380",
+    "created_at": "2025-01-09T04:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T05:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877204941749494000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1801826810059231232",
+          "start": 0,
+          "username": "nub1483959"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877204941749494000",
+    "in_reply_to_user_id": "1801826810059231232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876841177179120110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nub1483959 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1876839930279649380",
+        "created_at": "2025-01-09T04:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T05:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877204941749494000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1801826810059231232",
+              "start": 0,
+              "username": "nub1483959"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877204941749494000",
+        "in_reply_to_user_id": "1801826810059231232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876841177179120110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nub1483959 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801826810059231232",
+        "conversation_id": "1876839930279649380",
+        "created_at": "2025-01-08T03:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T04:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876841177179120110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442350932977610752",
+              "start": 0,
+              "username": "a23937117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876841177179120110",
+        "in_reply_to_user_id": "1442350932977610752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876839930279649380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a23937117 好涩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——不线下 只是兴趣 阿根廷裔 中文/西文/英文/数媒艺备考ing 司岚重度依赖 地雷女 最喜欢男朋友 M-brat-sub",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585964829608665089/Y3G7Z8Ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 65,
+          "like_count": 442,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 25
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T03:59:34.000Z",
+        "description": "要好好生活，健康快乐⌯oᴗo⌯",
+        "id": "1801826810059231232",
+        "name": "来一份豆包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867396281590542336/nILRFJci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 82,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 94
+        },
+        "username": "nub1483959",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876839919747776513",
+        "3_1876839919747788800",
+        "3_1876839919747821568"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1876839930279649380",
+    "created_at": "2025-01-08T03:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T04:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1876839930279649380"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "反差"
+        },
+        {
+          "end": 9,
+          "start": 4,
+          "tag": "露出女友"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uEQmJSzZ5B",
+          "end": 33,
+          "expanded_url": "https://x.com/a23937117/status/1876839930279649380/photo/1",
+          "media_key": "3_1876839919747776513",
+          "start": 10,
+          "url": "https://t.co/uEQmJSzZ5B"
+        },
+        {
+          "display_url": "pic.x.com/uEQmJSzZ5B",
+          "end": 33,
+          "expanded_url": "https://x.com/a23937117/status/1876839930279649380/photo/1",
+          "media_key": "3_1876839919747788800",
+          "start": 10,
+          "url": "https://t.co/uEQmJSzZ5B"
+        },
+        {
+          "display_url": "pic.x.com/uEQmJSzZ5B",
+          "end": 33,
+          "expanded_url": "https://x.com/a23937117/status/1876839930279649380/photo/1",
+          "media_key": "3_1876839919747821568",
+          "start": 10,
+          "url": "https://t.co/uEQmJSzZ5B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876839930279649380",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#反差 #露出女友 https://t.co/uEQmJSzZ5B"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1876839930279649380].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1876839930279649380",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1876839930279649380"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1876839919747776513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ggvf9ozWwAEstvV.jpg",
+        "width": 1608
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1876839919747788800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ggvf9ozW8AA3_Uy.jpg",
+        "width": 1944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1876839919747821568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ggvf9ozXcAATena.jpg",
+        "width": 1733
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——阿根廷裔 中文/西文/英文/数媒艺备考ing 司岚重度依赖 负能发言 brat-sub",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585964829608665089/Y3G7Z8Ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 65,
+          "like_count": 437,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 20
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

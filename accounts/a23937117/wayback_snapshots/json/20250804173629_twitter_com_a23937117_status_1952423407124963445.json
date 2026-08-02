@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1952052682342211865",
+    "created_at": "2025-08-04T17:36:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T18:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952423407124963445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1525172701366693888",
+          "start": 0,
+          "username": "wook29880826"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952423407124963445",
+    "in_reply_to_user_id": "1525172701366693888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952052682342211865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wook29880826 美死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6650,
+        "height": 720,
+        "media_key": "13_1952052616055185408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1952052616055185408/img/FIzwZXSOR7sOMp0h.jpg",
+        "public_metrics": {
+          "view_count": 11032
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952052616055185408/vid/avc1/480x270/ISirh_A9Lkl7nENI.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952052616055185408/vid/avc1/640x360/Xsv0syM9qPybwlqA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952052616055185408/vid/avc1/1280x720/mBN0oON0tMzttP7h.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1952052616055185408/pl/jK7A8pNnpE-NR8A2.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1952052682342211865",
+        "created_at": "2025-08-04T17:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T18:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952423407124963445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1525172701366693888",
+              "start": 0,
+              "username": "wook29880826"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952423407124963445",
+        "in_reply_to_user_id": "1525172701366693888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952052682342211865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wook29880826 美死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1952052616055185408"
+          ]
+        },
+        "author_id": "1525172701366693888",
+        "conversation_id": "1952052682342211865",
+        "created_at": "2025-08-03T17:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T18:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952052682342211865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/05VlJaZLs6",
+              "end": 53,
+              "expanded_url": "https://x.com/wook29880826/status/1952052682342211865/video/1",
+              "media_key": "13_1952052616055185408",
+              "start": 30,
+              "url": "https://t.co/05VlJaZLs6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952052682342211865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 217,
+          "impression_count": 25607,
+          "like_count": 1534,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "谁来懂一下…\n大腿勒肉以及超绝大乳晕和此套适配100%😋😋 https://t.co/05VlJaZLs6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 186,
+          "like_count": 1020,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 456
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-13T17:54:49.000Z",
+        "description": "不线下别再说我卖逼了求你们了…./会更新女喘和奈奈和漂亮小照片/🚪请直接口令288完整版录音/520瑟瑟视频/1314//5200即可获得一只赛博小猫🐈‍⬛/过门后👉@aiya32300/请用我🪜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "aiya32300"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw03.damoplane1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw03.damoplane1.com/#/register?code=Lvx0umNo",
+                "start": 0,
+                "url": "https://t.co/RvOm4iTIeK"
+              }
+            ]
+          }
+        },
+        "id": "1525172701366693888",
+        "name": "jshzjsk-.-",
+        "pinned_tweet_id": "1944081383196176856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729217681029828608/BIbcX17g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86213,
+          "following_count": 485,
+          "like_count": 3420,
+          "listed_count": 227,
+          "media_count": 435,
+          "tweet_count": 3398
+        },
+        "url": "https://t.co/RvOm4iTIeK",
+        "username": "wook29880826",
+        "verified": false
+      }
+    ]
+  }
+}

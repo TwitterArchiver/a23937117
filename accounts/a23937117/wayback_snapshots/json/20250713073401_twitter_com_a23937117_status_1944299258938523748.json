@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1944091118058017065",
+    "created_at": "2025-07-13T07:34:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T08:34:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944299258938523748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1624782389443706880",
+          "start": 0,
+          "username": "jlxbhk"
+        },
+        {
+          "end": 24,
+          "id": "1697465480901222400",
+          "start": 8,
+          "username": "MissKitty_catty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944299258938523748",
+    "in_reply_to_user_id": "1624782389443706880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944238970055143672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxbhk @MissKitty_catty 爱意领域好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1944091118058017065",
+        "created_at": "2025-07-13T07:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T08:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944299258938523748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1624782389443706880",
+              "start": 0,
+              "username": "jlxbhk"
+            },
+            {
+              "end": 24,
+              "id": "1697465480901222400",
+              "start": 8,
+              "username": "MissKitty_catty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944299258938523748",
+        "in_reply_to_user_id": "1624782389443706880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944238970055143672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxbhk @MissKitty_catty 爱意领域好看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624782389443706880",
+        "conversation_id": "1944091118058017065",
+        "created_at": "2025-07-13T03:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T04:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944238970055143672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1697465480901222400",
+              "start": 0,
+              "username": "MissKitty_catty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944238970055143672",
+        "in_reply_to_user_id": "1697465480901222400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1983,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944091118058017065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MissKitty_catty 求qqny推荐店铺……买到的质量好差"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 148,
+          "like_count": 918,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 286
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-12T14:48:13.000Z",
+        "description": "",
+        "id": "1624782389443706880",
+        "name": "一定要起名字吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665715813503074307/G8imMzTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 25,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 42
+        },
+        "username": "jlxbhk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T04:24:56.000Z",
+        "description": "是樹洞｜bi | I’m her｜finding myself happiness ｜better then best｜FYI: https://t.co/1Jxqj1RQUi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ham26446",
+                "end": 88,
+                "expanded_url": "https://ngl.link/ham26446",
+                "start": 65,
+                "url": "https://t.co/1Jxqj1RQUi"
+              }
+            ]
+          }
+        },
+        "id": "1697465480901222400",
+        "location": "島",
+        "name": "가가가가가자",
+        "pinned_tweet_id": "1895915136533348400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697466234881875968/0aXKyElQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 315,
+          "like_count": 1915,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 954
+        },
+        "username": "MissKitty_catty",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070996105777545216"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2070996111657992320",
+    "created_at": "2026-06-27T22:22:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T23:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070996111657992320"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FLLSQeZFTt",
+          "end": 35,
+          "expanded_url": "https://x.com/a23937117/status/2070996111657992320/photo/1",
+          "media_key": "3_2070996105777545216",
+          "start": 12,
+          "url": "https://t.co/FLLSQeZFTt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070996111657992320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抖的热度真的很莫名其妙 https://t.co/FLLSQeZFTt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070996105777545216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL2n_FAWgAAfgbx.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070996105777545216"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2070996111657992320",
+        "created_at": "2026-06-27T22:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T23:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070996111657992320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FLLSQeZFTt",
+              "end": 35,
+              "expanded_url": "https://x.com/a23937117/status/2070996111657992320/photo/1",
+              "media_key": "3_2070996105777545216",
+              "start": 12,
+              "url": "https://t.co/FLLSQeZFTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070996111657992320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抖的热度真的很莫名其妙 https://t.co/FLLSQeZFTt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 189,
+          "like_count": 1417,
+          "listed_count": 2,
+          "media_count": 243,
+          "tweet_count": 768
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

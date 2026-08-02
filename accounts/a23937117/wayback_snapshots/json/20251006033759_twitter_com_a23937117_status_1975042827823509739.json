@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975042822362324992"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1975042827823509739",
+    "created_at": "2025-10-06T03:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T04:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975042827823509739"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "门槛"
+        },
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "女高"
+        },
+        {
+          "end": 23,
+          "start": 21,
+          "tag": "m"
+        },
+        {
+          "end": 27,
+          "start": 24,
+          "tag": "k8"
+        },
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "sm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0PRnG8INvq",
+          "end": 55,
+          "expanded_url": "https://x.com/a23937117/status/1975042827823509739/photo/1",
+          "media_key": "3_1975042822362324992",
+          "start": 32,
+          "url": "https://t.co/0PRnG8INvq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975042827823509739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁来骂我两句让我爽一下\n\n#门槛 #女高 #m #k8 #sm https://t.co/0PRnG8INvq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1975042827823509739].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1975042827823509739",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1975042827823509739"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975042822362324992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2jC-5MXYAAjnKO.jpg",
+        "width": 1811
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 人在海外 人在海外！！！ 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱有对象了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 216,
+          "like_count": 1276,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 693
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

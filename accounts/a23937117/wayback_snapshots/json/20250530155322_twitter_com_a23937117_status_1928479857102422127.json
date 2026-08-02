@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1928310676038033720",
+    "created_at": "2025-05-30T15:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T16:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928479857102422127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1905354825547788288",
+          "start": 0,
+          "username": "nanakau_lu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928479857102422127",
+    "in_reply_to_user_id": "1905354825547788288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928310676038033720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanakau_lu 某些贱货日常操作卖惨的算盘崩我脸上了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1928310653376143360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsK8UpcWIAAG8pU.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1928310660166828032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsK8VCvXwAAtDIA.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1928310666789617664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsK8VbaXgAAB2_M.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1928310673592745984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsK8V0wXAAAf6BV.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1928310676038033720",
+        "created_at": "2025-05-30T15:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T16:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928479857102422127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1905354825547788288",
+              "start": 0,
+              "username": "nanakau_lu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928479857102422127",
+        "in_reply_to_user_id": "1905354825547788288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928310676038033720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanakau_lu 某些贱货日常操作卖惨的算盘崩我脸上了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928310653376143360",
+            "3_1928310660166828032",
+            "3_1928310666789617664",
+            "3_1928310673592745984"
+          ]
+        },
+        "author_id": "1905354825547788288",
+        "conversation_id": "1928310676038033720",
+        "created_at": "2025-05-30T04:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T05:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928310676038033720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZAwgYs8vlB",
+              "end": 41,
+              "expanded_url": "https://x.com/nanakau_lu/status/1928310676038033720/photo/1",
+              "media_key": "3_1928310653376143360",
+              "start": 18,
+              "url": "https://t.co/ZAwgYs8vlB"
+            },
+            {
+              "display_url": "pic.x.com/ZAwgYs8vlB",
+              "end": 41,
+              "expanded_url": "https://x.com/nanakau_lu/status/1928310676038033720/photo/1",
+              "media_key": "3_1928310660166828032",
+              "start": 18,
+              "url": "https://t.co/ZAwgYs8vlB"
+            },
+            {
+              "display_url": "pic.x.com/ZAwgYs8vlB",
+              "end": 41,
+              "expanded_url": "https://x.com/nanakau_lu/status/1928310676038033720/photo/1",
+              "media_key": "3_1928310666789617664",
+              "start": 18,
+              "url": "https://t.co/ZAwgYs8vlB"
+            },
+            {
+              "display_url": "pic.x.com/ZAwgYs8vlB",
+              "end": 41,
+              "expanded_url": "https://x.com/nanakau_lu/status/1928310676038033720/photo/1",
+              "media_key": "3_1928310673592745984",
+              "start": 18,
+              "url": "https://t.co/ZAwgYs8vlB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928310676038033720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1033,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给你们看看这死男的多贱 给我气死了 https://t.co/ZAwgYs8vlB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "讨厌我的人有福了 因为我真的过的很惨",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 115,
+          "like_count": 715,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 106
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T20:22:48.000Z",
+        "description": "这里是小言呀(*^ω^*) 154 68斤 🚪200｜520｜1314｜5200  坐标20 快来入小言的门吧                  \n提问箱：https://t.co/QPLWnM9UTV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nanakau_lu",
+                "end": 101,
+                "expanded_url": "https://ngl.link/nanakau_lu",
+                "start": 78,
+                "url": "https://t.co/QPLWnM9UTV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=Lrlvomoh",
+                "start": 0,
+                "url": "https://t.co/Ll3Ev8WHiS"
+              }
+            ]
+          }
+        },
+        "id": "1905354825547788288",
+        "location": "自用蜂鸟vpn 稳定不掉线",
+        "name": "nanakau",
+        "pinned_tweet_id": "1928470612437061729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914349462304034818/FnmZ-cRh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3083,
+          "following_count": 375,
+          "like_count": 259,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 367
+        },
+        "url": "https://t.co/Ll3Ev8WHiS",
+        "username": "nanakau_lu",
+        "verified": false
+      }
+    ]
+  }
+}

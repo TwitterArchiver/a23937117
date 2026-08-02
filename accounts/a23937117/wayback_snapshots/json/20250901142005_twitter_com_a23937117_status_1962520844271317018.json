@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962520844271317018",
+    "created_at": "2025-09-01T14:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T15:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962520844271317018"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "门槛"
+        },
+        {
+          "end": 119,
+          "start": 115,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 124,
+          "start": 120,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "金主"
+        },
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "包养"
+        },
+        {
+          "end": 138,
+          "start": 133,
+          "tag": "一日女友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1745797441054703616",
+          "start": 3,
+          "username": "Sirasirko_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962520844271317018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958784914494775694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sirasirko_: =小伤伤 坐标广州 接线下爸爸活妈妈活\n门槛详细看p2 入门请发口令或奖赏码\n我很温良 不要欺负我 我会偷偷哭泣\n入门找我玩叭 我们将成为很好的朋友\n欢迎女孩纸互fo互转˃̶͈ ꇴ ˂̶͈\n#门槛 #门槛妹 #门槛哥 #金主 #包养 #一日女友…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962520844271317018].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962520844271317018",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962520844271317018"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958784897616945154",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy8AfH3boAIR1hO.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1958784897654693890",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy8AfIAboAI7yyb.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958784897616945154",
+            "3_1958784897654693890"
+          ]
+        },
+        "author_id": "1745797441054703616",
+        "conversation_id": "1958784914494775694",
+        "created_at": "2025-08-22T06:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T07:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958784914494775694"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "门槛"
+            },
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "金主"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "包养"
+            },
+            {
+              "end": 122,
+              "start": 117,
+              "tag": "一日女友"
+            },
+            {
+              "end": 128,
+              "start": 123,
+              "tag": "电子女友"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "女高"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "反差"
+            },
+            {
+              "end": 142,
+              "start": 137,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 147,
+              "start": 143,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 152,
+              "start": 148,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 156,
+              "start": 153,
+              "tag": "纯绿"
+            },
+            {
+              "end": 160,
+              "start": 157,
+              "tag": "半绿"
+            },
+            {
+              "end": 164,
+              "start": 161,
+              "tag": "线下"
+            },
+            {
+              "end": 168,
+              "start": 165,
+              "tag": "线上"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iJ5IGWOJ1c",
+              "end": 192,
+              "expanded_url": "https://x.com/Sirasirko_/status/1958784914494775694/photo/1",
+              "media_key": "3_1958784897616945154",
+              "start": 169,
+              "url": "https://t.co/iJ5IGWOJ1c"
+            },
+            {
+              "display_url": "pic.x.com/iJ5IGWOJ1c",
+              "end": 192,
+              "expanded_url": "https://x.com/Sirasirko_/status/1958784914494775694/photo/1",
+              "media_key": "3_1958784897654693890",
+              "start": 169,
+              "url": "https://t.co/iJ5IGWOJ1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958784914494775694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 18902,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "=小伤伤 坐标广州 接线下爸爸活妈妈活\n门槛详细看p2 入门请发口令或奖赏码\n我很温良 不要欺负我 我会偷偷哭泣\n入门找我玩叭 我们将成为很好的朋友\n欢迎女孩纸互fo互转˃̶͈ ꇴ ˂̶͈\n#门槛 #门槛妹 #门槛哥 #金主 #包养 #一日女友 #电子女友 #女高 #反差 #ATM奴 #妈妈活 #爸爸活 #纯绿 #半绿 #线下 #线上 https://t.co/iJ5IGWOJ1c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 211,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 673
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T13:18:50.000Z",
+        "description": "只是在我的末日世界边缘犹豫而已 ｜防炸号转帖一周清",
+        "id": "1745797441054703616",
+        "location": "128/288",
+        "name": "自宅警備員",
+        "pinned_tweet_id": "1962479070878519392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960020014289104896/-JYekbro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 197,
+          "like_count": 213,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 1052
+        },
+        "username": "Sirasirko_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962120230374641707",
+    "created_at": "2025-08-31T11:48:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T12:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962120230374641707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1644336219751583747",
+          "start": 3,
+          "username": "banban4444886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962120230374641707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960290483365908688",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @banban4444886: 可以叫我泡泡 坐标成都\n接半绿，非绿，线上。线下请过闲聊及以上门槛再问价。\n🚪88\n188开放朋友圈\n288偶尔闲聊\n520闲聊+不露出照片\n999闲聊+无码照片\n其他请问价…只回复口令\n互关请私信我🫶🏻\n谢谢转发不小心被我删掉了只能重新发…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962120230374641707].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962120230374641707",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962120230374641707"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960290472364249088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzRZzG3akAA7-zU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960290472364249088"
+          ]
+        },
+        "author_id": "1644336219751583747",
+        "conversation_id": "1960290483365908688",
+        "created_at": "2025-08-26T10:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T11:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960290483365908688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L4cp3TL7X2",
+              "end": 148,
+              "expanded_url": "https://x.com/banban4444886/status/1960290483365908688/photo/1",
+              "media_key": "3_1960290472364249088",
+              "start": 125,
+              "url": "https://t.co/L4cp3TL7X2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960290483365908688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 9842,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "可以叫我泡泡 坐标成都\n接半绿，非绿，线上。线下请过闲聊及以上门槛再问价。\n🚪88\n188开放朋友圈\n288偶尔闲聊\n520闲聊+不露出照片\n999闲聊+无码照片\n其他请问价…只回复口令\n互关请私信我🫶🏻\n谢谢转发不小心被我删掉了只能重新发感谢大家 https://t.co/L4cp3TL7X2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 208,
+          "like_count": 1136,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 672
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T13:48:14.000Z",
+        "description": "互转挂3天会清掉还是爱你们…",
+        "id": "1644336219751583747",
+        "name": "日本继女",
+        "pinned_tweet_id": "1960290483365908688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960982728590950400/-cT_tdyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 72,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 189
+        },
+        "username": "banban4444886",
+        "verified": false
+      }
+    ]
+  }
+}

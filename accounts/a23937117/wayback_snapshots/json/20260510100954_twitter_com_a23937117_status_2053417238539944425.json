@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053417225726427140",
+        "3_2053417225726373891",
+        "3_2053417225726443524",
+        "3_2053417225726373894"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053417238539944425",
+    "created_at": "2026-05-10T10:09:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:09:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053417238539944425"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "线香"
+        },
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "塔罗"
+        },
+        {
+          "end": 136,
+          "start": 132,
+          "tag": "神秘学"
+        },
+        {
+          "end": 140,
+          "start": 137,
+          "tag": "仪式"
+        },
+        {
+          "end": 144,
+          "start": 141,
+          "tag": "净化"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rTDK0RydJ5",
+          "end": 168,
+          "expanded_url": "https://x.com/a23937117/status/2053417238539944425/photo/1",
+          "media_key": "3_2053417225726427140",
+          "start": 145,
+          "url": "https://t.co/rTDK0RydJ5"
+        },
+        {
+          "display_url": "pic.x.com/rTDK0RydJ5",
+          "end": 168,
+          "expanded_url": "https://x.com/a23937117/status/2053417238539944425/photo/1",
+          "media_key": "3_2053417225726373891",
+          "start": 145,
+          "url": "https://t.co/rTDK0RydJ5"
+        },
+        {
+          "display_url": "pic.x.com/rTDK0RydJ5",
+          "end": 168,
+          "expanded_url": "https://x.com/a23937117/status/2053417238539944425/photo/1",
+          "media_key": "3_2053417225726443524",
+          "start": 145,
+          "url": "https://t.co/rTDK0RydJ5"
+        },
+        {
+          "display_url": "pic.x.com/rTDK0RydJ5",
+          "end": 168,
+          "expanded_url": "https://x.com/a23937117/status/2053417238539944425/photo/1",
+          "media_key": "3_2053417225726373894",
+          "start": 145,
+          "url": "https://t.co/rTDK0RydJ5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053417238539944425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "国内做塔罗的各位，本人阿根廷国籍，学习塔罗六年，在“灵气功能线香”产地，同款线香在国内超高价还没货，甚至可能是假货，但是我在发源地可以帮你代购，当然…需要一点代购费，七月份就回国，想要的找我预定，我会去门店拍照挑选，不了解的也直接问我，我帮助挑选\n#线香 #塔罗 #神秘学 #仪式 #净化 https://t.co/rTDK0RydJ5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2053417225726427140",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH80FlsXgAQJFwu.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2053417225726373891",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH80FlsWsAMtSSg.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2053417225726443524",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH80FlsXwAQ-LSb.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2053417225726373894",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH80FlsWsAYL-rL.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053417225726427140",
+            "3_2053417225726373891",
+            "3_2053417225726443524",
+            "3_2053417225726373894"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053417238539944425",
+        "created_at": "2026-05-10T10:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053417238539944425"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "线香"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "塔罗"
+            },
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "神秘学"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "仪式"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "净化"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rTDK0RydJ5",
+              "end": 168,
+              "expanded_url": "https://x.com/a23937117/status/2053417238539944425/photo/1",
+              "media_key": "3_2053417225726427140",
+              "start": 145,
+              "url": "https://t.co/rTDK0RydJ5"
+            },
+            {
+              "display_url": "pic.x.com/rTDK0RydJ5",
+              "end": 168,
+              "expanded_url": "https://x.com/a23937117/status/2053417238539944425/photo/1",
+              "media_key": "3_2053417225726373891",
+              "start": 145,
+              "url": "https://t.co/rTDK0RydJ5"
+            },
+            {
+              "display_url": "pic.x.com/rTDK0RydJ5",
+              "end": 168,
+              "expanded_url": "https://x.com/a23937117/status/2053417238539944425/photo/1",
+              "media_key": "3_2053417225726443524",
+              "start": 145,
+              "url": "https://t.co/rTDK0RydJ5"
+            },
+            {
+              "display_url": "pic.x.com/rTDK0RydJ5",
+              "end": 168,
+              "expanded_url": "https://x.com/a23937117/status/2053417238539944425/photo/1",
+              "media_key": "3_2053417225726373894",
+              "start": 145,
+              "url": "https://t.co/rTDK0RydJ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053417238539944425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国内做塔罗的各位，本人阿根廷国籍，学习塔罗六年，在“灵气功能线香”产地，同款线香在国内超高价还没货，甚至可能是假货，但是我在发源地可以帮你代购，当然…需要一点代购费，七月份就回国，想要的找我预定，我会去门店拍照挑选，不了解的也直接问我，我帮助挑选\n#线香 #塔罗 #神秘学 #仪式 #净化 https://t.co/rTDK0RydJ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 202,
+          "like_count": 1402,
+          "listed_count": 2,
+          "media_count": 219,
+          "tweet_count": 709
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1972698517169909898",
+    "created_at": "2025-09-29T16:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T17:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972698517169909898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1954201403146346496",
+          "start": 3,
+          "username": "tngxunyun12792"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972698517169909898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 117
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967314233030500649",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @tngxunyun12792: 188图包20张➕聊天➕打游戏\n200线下基础门\n420图包30张➕聊天➕打游戏➕每周视频一次\n888图包30张➕线下非绿一小时\n1888图包三十张➕聊天加非绿一晚\n门槛不可面付 门槛可后续补\n问位置和价格10元 验证15元\n情绪价值包满…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1972698517169909898].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1972698517169909898",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1972698517169909898"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4000,
+        "height": 1280,
+        "media_key": "13_1967314155972833280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1967314155972833280/img/pZEcECUB2Wmygf68.jpg",
+        "public_metrics": {
+          "view_count": 4089
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967314155972833280/vid/avc1/320x568/PFjWa82wclMvcfOS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967314155972833280/vid/avc1/480x852/reZFKljcrd_TSab4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967314155972833280/vid/avc1/720x1280/63g8pecwfMWnWWKj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1967314155972833280/pl/odXB3aPH26tn080a.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 5966,
+        "height": 1280,
+        "media_key": "13_1967314155876294656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1967314155876294656/img/3j2ZaFHNgSX_VDcf.jpg",
+        "public_metrics": {
+          "view_count": 665
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967314155876294656/vid/avc1/320x568/kkciq4ZRT-gF9YEC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967314155876294656/vid/avc1/480x852/rVcm8bhzH1hEnxWe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967314155876294656/vid/avc1/720x1280/YN3WD1pGBn_NeScU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1967314155876294656/pl/Ah-3tgi6HCpyT1N1.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 12000,
+        "height": 640,
+        "media_key": "13_1967314155901427713",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1967314155901427713/img/NN4iC2A37ta1lfOV.jpg",
+        "public_metrics": {
+          "view_count": 569
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967314155901427713/vid/avc1/320x568/v2n3WqZvwrfLHVRg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967314155901427713/vid/avc1/360x640/vXaERUHg8q4-dfAg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1967314155901427713/pl/IF0DOLDST7Pfml3W.m3u8?v=cfc"
+          }
+        ],
+        "width": 360
+      },
+      {
+        "height": 669,
+        "media_key": "3_1967314155863789568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G01NzS3b0AAKMRV.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1967314155972833280",
+            "13_1967314155876294656",
+            "13_1967314155901427713",
+            "3_1967314155863789568"
+          ]
+        },
+        "author_id": "1954201403146346496",
+        "conversation_id": "1967314233030500649",
+        "created_at": "2025-09-14T19:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T20:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967314233030500649"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 158,
+              "start": 154,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t87tWEi96a",
+              "end": 182,
+              "expanded_url": "https://x.com/tngxunyun12792/status/1967314233030500649/video/1",
+              "media_key": "13_1967314155972833280",
+              "start": 159,
+              "url": "https://t.co/t87tWEi96a"
+            },
+            {
+              "display_url": "pic.x.com/t87tWEi96a",
+              "end": 182,
+              "expanded_url": "https://x.com/tngxunyun12792/status/1967314233030500649/video/1",
+              "media_key": "13_1967314155876294656",
+              "start": 159,
+              "url": "https://t.co/t87tWEi96a"
+            },
+            {
+              "display_url": "pic.x.com/t87tWEi96a",
+              "end": 182,
+              "expanded_url": "https://x.com/tngxunyun12792/status/1967314233030500649/video/1",
+              "media_key": "13_1967314155901427713",
+              "start": 159,
+              "url": "https://t.co/t87tWEi96a"
+            },
+            {
+              "display_url": "pic.x.com/t87tWEi96a",
+              "end": 182,
+              "expanded_url": "https://x.com/tngxunyun12792/status/1967314233030500649/video/1",
+              "media_key": "3_1967314155863789568",
+              "start": 159,
+              "url": "https://t.co/t87tWEi96a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967314233030500649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 16951,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 117
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "188图包20张➕聊天➕打游戏\n200线下基础门\n420图包30张➕聊天➕打游戏➕每周视频一次\n888图包30张➕线下非绿一小时\n1888图包三十张➕聊天加非绿一晚\n门槛不可面付 门槛可后续补\n问位置和价格10元 验证15元\n情绪价值包满意的 身材也包满意的 门哥看看我好不好 我不是骗子 可以随时找我聊天\n#门槛妹 https://t.co/t87tWEi96a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88—谈恋爱了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 215,
+          "like_count": 1253,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 693
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-09T15:21:45.000Z",
+        "description": "🚪188/420/888/1888",
+        "id": "1954201403146346496",
+        "name": "盐摄王（魔童）",
+        "pinned_tweet_id": "1967314233030500649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954201775017541632/Zohkanpo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 78,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 106
+        },
+        "username": "tngxunyun12792",
+        "verified": false
+      }
+    ]
+  }
+}

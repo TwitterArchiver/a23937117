@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1944798816718188893",
+    "created_at": "2025-07-15T03:47:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T04:47:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944966909050626140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1431620426262740992",
+          "start": 0,
+          "username": "taiyi_sensei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944966909050626140",
+    "in_reply_to_user_id": "1431620426262740992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944964318719852701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taiyi_sensei 老公私信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1944798816718188893",
+        "created_at": "2025-07-15T03:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T04:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944966909050626140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1431620426262740992",
+              "start": 0,
+              "username": "taiyi_sensei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944966909050626140",
+        "in_reply_to_user_id": "1431620426262740992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944964318719852701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taiyi_sensei 老公私信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431620426262740992",
+        "conversation_id": "1944798816718188893",
+        "created_at": "2025-07-15T03:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T04:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944964318719852701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442350932977610752",
+              "start": 0,
+              "username": "a23937117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944964318719852701",
+        "in_reply_to_user_id": "1442350932977610752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944839810578883037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a23937117 看看喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 155,
+          "like_count": 928,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 323
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-28T14:11:34.000Z",
+        "description": "这里太一/泛性恋/大猛1喵/vrc糕手\n喜欢和好友一起打游戏，目前在美国\n❤️：@Kappa30163913",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kappa30163913"
+              }
+            ]
+          }
+        },
+        "id": "1431620426262740992",
+        "name": "太一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838431086398816256/MI7PnEEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 218,
+          "like_count": 302,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 120
+        },
+        "username": "taiyi_sensei",
+        "verified": false
+      }
+    ]
+  }
+}

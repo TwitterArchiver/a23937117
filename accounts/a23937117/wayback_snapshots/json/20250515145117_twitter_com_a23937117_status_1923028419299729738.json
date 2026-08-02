@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922955230343290880"
+      ],
+      "media_source_tweet_id": [
+        "1922955236701823303"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1923028419299729738",
+    "created_at": "2025-05-15T14:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T15:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923028419299729738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1392083916127887361",
+          "start": 3,
+          "username": "qiandaiyiyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HxUCCDgn02",
+          "end": 48,
+          "expanded_url": "https://x.com/qiandaiyiyu/status/1922955236701823303/photo/1",
+          "media_key": "3_1922955230343290880",
+          "start": 25,
+          "url": "https://t.co/HxUCCDgn02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923028419299729738",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3015
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922955236701823303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiandaiyiyu: ゴスフリーレン https://t.co/HxUCCDgn02"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1922955230343290880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq-1l_-XYAA3thd.jpg",
+        "width": 1566
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922955230343290880"
+          ],
+          "media_source_tweet_id": [
+            "1922955236701823303"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "1923028419299729738",
+        "created_at": "2025-05-15T14:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T15:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923028419299729738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1392083916127887361",
+              "start": 3,
+              "username": "qiandaiyiyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HxUCCDgn02",
+              "end": 48,
+              "expanded_url": "https://x.com/qiandaiyiyu/status/1922955236701823303/photo/1",
+              "media_key": "3_1922955230343290880",
+              "start": 25,
+              "url": "https://t.co/HxUCCDgn02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923028419299729738",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3015
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922955236701823303",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiandaiyiyu: ゴスフリーレン https://t.co/HxUCCDgn02"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922955230343290880"
+          ]
+        },
+        "author_id": "1392083916127887361",
+        "conversation_id": "1922955236701823303",
+        "created_at": "2025-05-15T10:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T11:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922955236701823303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HxUCCDgn02",
+              "end": 31,
+              "expanded_url": "https://x.com/qiandaiyiyu/status/1922955236701823303/photo/1",
+              "media_key": "3_1922955230343290880",
+              "start": 8,
+              "url": "https://t.co/HxUCCDgn02"
+            },
+            {
+              "display_url": "x.com/qiandaiyiyu/st…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/qiandaiyiyu/status/1922588974389797176",
+              "start": 32,
+              "url": "https://t.co/SnFqNrmLm3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922955236701823303",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5333,
+          "impression_count": 575871,
+          "like_count": 37864,
+          "quote_count": 31,
+          "reply_count": 49,
+          "retweet_count": 3015
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922588974389797176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ゴスフリーレン https://t.co/HxUCCDgn02 https://t.co/SnFqNrmLm3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 94,
+          "like_count": 633,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 62
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-11T11:47:43.000Z",
+        "description": "♡ NSFW on Patreon and Fanbox ♡ https://t.co/FDCzclyj0q | https://t.co/MBQbqU2M8o | Illustrator | English, 日本語OK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/qiandaiyiyu",
+                "end": 54,
+                "expanded_url": "http://patreon.com/qiandaiyiyu",
+                "start": 31,
+                "url": "https://t.co/FDCzclyj0q"
+              },
+              {
+                "display_url": "qiandaiyiyu.fanbox.cc",
+                "end": 80,
+                "expanded_url": "http://qiandaiyiyu.fanbox.cc",
+                "start": 57,
+                "url": "https://t.co/MBQbqU2M8o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/qiandaiyiyu",
+                "end": 23,
+                "expanded_url": "http://patreon.com/qiandaiyiyu",
+                "start": 0,
+                "url": "https://t.co/FDCzclyj0q"
+              }
+            ]
+          }
+        },
+        "id": "1392083916127887361",
+        "name": "Qiandai以宇",
+        "pinned_tweet_id": "1922608370348851347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800141135253323776/fz6dNy11_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627555,
+          "following_count": 379,
+          "like_count": 22156,
+          "listed_count": 3124,
+          "media_count": 395,
+          "tweet_count": 2294
+        },
+        "url": "https://t.co/FDCzclyj0q",
+        "username": "qiandaiyiyu",
+        "verified": true
+      }
+    ]
+  }
+}

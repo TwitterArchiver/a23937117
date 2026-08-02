@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954782752345354241",
+        "3_1954782752353693696",
+        "3_1954782752374726656",
+        "3_1954782752349519872"
+      ],
+      "media_source_tweet_id": [
+        "1954782775632138748",
+        "1954782775632138748",
+        "1954782775632138748",
+        "1954782775632138748"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1956733890862653709",
+    "created_at": "2025-08-16T15:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T16:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956733890862653709"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "门槛"
+        },
+        {
+          "end": 71,
+          "start": 67,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 75,
+          "start": 72,
+          "tag": "巨乳"
+        },
+        {
+          "end": 79,
+          "start": 76,
+          "tag": "非绿"
+        },
+        {
+          "end": 83,
+          "start": 80,
+          "tag": "线下"
+        },
+        {
+          "end": 88,
+          "start": 84,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 93,
+          "start": 89,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 99,
+          "start": 94,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 104,
+          "start": 100,
+          "tag": "求包养"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "女大"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "反差"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1907384022655004672",
+          "start": 3,
+          "username": "susukax"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rFfCivxHrC",
+          "end": 136,
+          "expanded_url": "https://x.com/susukax/status/1954782775632138748/photo/1",
+          "media_key": "3_1954782752345354241",
+          "start": 113,
+          "url": "https://t.co/rFfCivxHrC"
+        },
+        {
+          "display_url": "pic.x.com/rFfCivxHrC",
+          "end": 136,
+          "expanded_url": "https://x.com/susukax/status/1954782775632138748/photo/1",
+          "media_key": "3_1954782752353693696",
+          "start": 113,
+          "url": "https://t.co/rFfCivxHrC"
+        },
+        {
+          "display_url": "pic.x.com/rFfCivxHrC",
+          "end": 136,
+          "expanded_url": "https://x.com/susukax/status/1954782775632138748/photo/1",
+          "media_key": "3_1954782752374726656",
+          "start": 113,
+          "url": "https://t.co/rFfCivxHrC"
+        },
+        {
+          "display_url": "pic.x.com/rFfCivxHrC",
+          "end": 136,
+          "expanded_url": "https://x.com/susukax/status/1954782775632138748/photo/1",
+          "media_key": "3_1954782752349519872",
+          "start": 113,
+          "url": "https://t.co/rFfCivxHrC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956733890862653709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954782775632138748",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @susukax: 苏苏\n不喜欢开玩笑的人\n只是一个希望哥哥入门的小女生\n欢迎真心入🚪的哥哥\n女宝快来找我互转互fo～\n#门槛 #门槛妹 #巨乳 #非绿 #线下 #爸爸活 #妈妈活 #金主爸爸 #求包养 #女大 #反差 https://t.co/rFfCivxHrC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1956733890862653709].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1956733890862653709",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1956733890862653709"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 986,
+        "media_key": "3_1954782752345354241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDIjm6a8AEp0Rc.jpg",
+        "width": 1231
+      },
+      {
+        "height": 1397,
+        "media_key": "3_1954782752353693696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDIjm8aMAALz8g.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1356,
+        "media_key": "3_1954782752374726656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDIjnBbIAAaDiw.jpg",
+        "width": 1125
+      },
+      {
+        "height": 1366,
+        "media_key": "3_1954782752349519872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDIjm7agAAdvva.jpg",
+        "width": 1113
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954782752345354241",
+            "3_1954782752353693696",
+            "3_1954782752374726656",
+            "3_1954782752349519872"
+          ]
+        },
+        "author_id": "1907384022655004672",
+        "conversation_id": "1954782775632138748",
+        "created_at": "2025-08-11T05:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T06:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954782775632138748"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "门槛"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "巨乳"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "非绿"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "线下"
+            },
+            {
+              "end": 75,
+              "start": 71,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "求包养"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "女大"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFfCivxHrC",
+              "end": 123,
+              "expanded_url": "https://x.com/susukax/status/1954782775632138748/photo/1",
+              "media_key": "3_1954782752345354241",
+              "start": 100,
+              "url": "https://t.co/rFfCivxHrC"
+            },
+            {
+              "display_url": "pic.x.com/rFfCivxHrC",
+              "end": 123,
+              "expanded_url": "https://x.com/susukax/status/1954782775632138748/photo/1",
+              "media_key": "3_1954782752353693696",
+              "start": 100,
+              "url": "https://t.co/rFfCivxHrC"
+            },
+            {
+              "display_url": "pic.x.com/rFfCivxHrC",
+              "end": 123,
+              "expanded_url": "https://x.com/susukax/status/1954782775632138748/photo/1",
+              "media_key": "3_1954782752374726656",
+              "start": 100,
+              "url": "https://t.co/rFfCivxHrC"
+            },
+            {
+              "display_url": "pic.x.com/rFfCivxHrC",
+              "end": 123,
+              "expanded_url": "https://x.com/susukax/status/1954782775632138748/photo/1",
+              "media_key": "3_1954782752349519872",
+              "start": 100,
+              "url": "https://t.co/rFfCivxHrC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954782775632138748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4616,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "苏苏\n不喜欢开玩笑的人\n只是一个希望哥哥入门的小女生\n欢迎真心入🚪的哥哥\n女宝快来找我互转互fo～\n#门槛 #门槛妹 #巨乳 #非绿 #线下 #爸爸活 #妈妈活 #金主爸爸 #求包养 #女大 #反差 https://t.co/rFfCivxHrC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 207,
+          "like_count": 1099,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 627
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T10:46:11.000Z",
+        "description": "欢迎喜欢我的哥哥入🚪，只回复口令哟～（坐标验证20r精准到区），喜欢爽快的哥哥～欢迎女宝互推互fo～",
+        "id": "1907384022655004672",
+        "name": "苏su",
+        "pinned_tweet_id": "1954782775632138748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924503493358043136/2eBrHagb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 140,
+          "like_count": 491,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 658
+        },
+        "username": "susukax",
+        "verified": false
+      }
+    ]
+  }
+}

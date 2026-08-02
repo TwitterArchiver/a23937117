@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962194468091703346",
+    "created_at": "2025-08-31T16:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T17:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962194468091703346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "850547197275889665",
+          "start": 3,
+          "username": "NnnonTra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962194468091703346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960658998635762004",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NnnonTra: 🔝腻嚎 我是琪琪 168cm \n🉑接全国✈️（机票你付）\n接半绿非绿\n下面大活好的哥哥入🚪线下七折哟\n线下🚪188/520/1314➡️🚪\n🚪520及以上有图包福利\n线下会主动找话题 不会冷场 约会时会要亲亲抱抱\n以上，转关赞抽3个188，抽到直接私…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962194468091703346].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962194468091703346",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962194468091703346"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960658990897225741",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzWo9tYa4A0Hf4C.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1114,
+        "media_key": "3_1960658996001693699",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzWo-AZa4AMwxW6.jpg",
+        "width": 1213
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960658990897225741",
+            "3_1960658996001693699"
+          ]
+        },
+        "author_id": "850547197275889665",
+        "conversation_id": "1960658998635762004",
+        "created_at": "2025-08-27T11:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T12:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960658998635762004"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 152,
+              "start": 147,
+              "tag": "非绿线下"
+            },
+            {
+              "end": 156,
+              "start": 153,
+              "tag": "缺爱"
+            },
+            {
+              "end": 162,
+              "start": 157,
+              "tag": "女高母狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eaEiOKiCmt",
+              "end": 186,
+              "expanded_url": "https://x.com/NnnonTra/status/1960658998635762004/photo/1",
+              "media_key": "3_1960658990897225741",
+              "start": 163,
+              "url": "https://t.co/eaEiOKiCmt"
+            },
+            {
+              "display_url": "pic.x.com/eaEiOKiCmt",
+              "end": 186,
+              "expanded_url": "https://x.com/NnnonTra/status/1960658998635762004/photo/1",
+              "media_key": "3_1960658996001693699",
+              "start": 163,
+              "url": "https://t.co/eaEiOKiCmt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960658998635762004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9361,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "🔝腻嚎 我是琪琪 168cm \n🉑接全国✈️（机票你付）\n接半绿非绿\n下面大活好的哥哥入🚪线下七折哟\n线下🚪188/520/1314➡️🚪\n🚪520及以上有图包福利\n线下会主动找话题 不会冷场 约会时会要亲亲抱抱\n以上，转关赞抽3个188，抽到直接私信口令🧧（抽到的哥哥姐姐帮我多转发一下）\n\n#非绿线下 #缺爱 #女高母狗 https://t.co/eaEiOKiCmt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 209,
+          "like_count": 1133,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 637
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-08T03:13:49.000Z",
+        "description": "喜欢我的哥哥直接口令 脾气不好 不要废话  欢迎女孩子互转互fo 🉑线下",
+        "id": "850547197275889665",
+        "name": "琪琪",
+        "pinned_tweet_id": "1960658998635762004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951934854280695808/VKWerAqx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 50,
+          "like_count": 28,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 136
+        },
+        "username": "NnnonTra",
+        "verified": false
+      }
+    ]
+  }
+}

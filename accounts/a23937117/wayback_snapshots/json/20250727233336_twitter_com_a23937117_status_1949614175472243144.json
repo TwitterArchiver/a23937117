@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1949396568156598450",
+    "created_at": "2025-07-27T23:33:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T00:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949614175472243144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1697903165570686976",
+          "start": 0,
+          "username": "kikoxts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949614175472243144",
+    "in_reply_to_user_id": "1697903165570686976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949396568156598450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kikoxts 小宝宝，辛苦了，全地球都在为难你(⸝⸝⸝ᵒ̴̶̷̥́ ⌑ ᵒ̴̶̷̣̥̀⸝⸝⸝)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1949396568156598450",
+        "created_at": "2025-07-27T23:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T00:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949614175472243144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1697903165570686976",
+              "start": 0,
+              "username": "kikoxts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949614175472243144",
+        "in_reply_to_user_id": "1697903165570686976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949396568156598450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikoxts 小宝宝，辛苦了，全地球都在为难你(⸝⸝⸝ᵒ̴̶̷̥́ ⌑ ᵒ̴̶̷̣̥̀⸝⸝⸝)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697903165570686976",
+        "conversation_id": "1949396568156598450",
+        "created_at": "2025-07-27T09:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T10:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949396568156598450"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949396568156598450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 391,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为和家长起了争执\n工作没了.......手机也摔了........头也破了\n未来两三个月的规划全部被打烂了\n我这一生是受苦来的吗?\n我真的还能承受如此多、如此重的苦难吗？\n不知我的身上还要多出多少伤口\n不知我的心上还要添加几道疤痕\n不知我的灵魂还要遭受多少摧残\n不知我是否，还能见到明年的太阳.........."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 纯绿🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949293859470524416/u1xTmqmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 170,
+          "like_count": 973,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 434
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T09:24:11.000Z",
+        "description": "这里是精神封印不稳定的INFP-A笨蛋一只。情绪有时会有点极端（在改了，在改了）（新建文件夹）由于心理问题有时会极度渴望安全感。想见每只友善同类一面。（偶有🩸图掉落）永远的好朋友@HJS_2403_0可爱奇奇@ringochichidim",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "HJS_2403_0"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "ringochichidim"
+              }
+            ]
+          }
+        },
+        "id": "1697903165570686976",
+        "location": "随机刷新在你身边1000米以内",
+        "name": "是kiko哦~",
+        "pinned_tweet_id": "1899655556660429124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895111547455762433/svnvayy3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 366,
+          "like_count": 4955,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 1832
+        },
+        "username": "kikoxts",
+        "verified": false
+      }
+    ]
+  }
+}

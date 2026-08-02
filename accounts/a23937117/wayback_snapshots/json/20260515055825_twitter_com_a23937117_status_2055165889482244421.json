@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045462774210555904",
+        "3_2045462774197993472",
+        "3_2045462774189629440"
+      ],
+      "media_source_tweet_id": [
+        "2045462812739375228",
+        "2045462812739375228",
+        "2045462812739375228"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2055165889482244421",
+    "created_at": "2026-05-15T05:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T06:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055165889482244421"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 80,
+          "start": 76,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 85,
+          "start": 81,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 89,
+          "start": 86,
+          "tag": "线下"
+        },
+        {
+          "end": 93,
+          "start": 90,
+          "tag": "线上"
+        },
+        {
+          "end": 98,
+          "start": 94,
+          "tag": "福利姬"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "253438950",
+          "start": 3,
+          "username": "pys0916"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sEy6TFHx4z",
+          "end": 122,
+          "expanded_url": "https://x.com/pys0916/status/2045462812739375228/photo/1",
+          "media_key": "3_2045462774210555904",
+          "start": 99,
+          "url": "https://t.co/sEy6TFHx4z"
+        },
+        {
+          "display_url": "pic.x.com/sEy6TFHx4z",
+          "end": 122,
+          "expanded_url": "https://x.com/pys0916/status/2045462812739375228/photo/1",
+          "media_key": "3_2045462774197993472",
+          "start": 99,
+          "url": "https://t.co/sEy6TFHx4z"
+        },
+        {
+          "display_url": "pic.x.com/sEy6TFHx4z",
+          "end": 122,
+          "expanded_url": "https://x.com/pys0916/status/2045462812739375228/photo/1",
+          "media_key": "3_2045462774189629440",
+          "start": 99,
+          "url": "https://t.co/sEy6TFHx4z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055165889482244421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045462812739375228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pys0916: 置顶🔝\n这里小锁，ip江浙沪，验证免费，缺钱缺钱缺钱！需要看病，超级缺钱，接大量🚪哥！第一次玩推，欢迎女孩子们和我互fo互转。#门槛哥 #门槛妹 #线下 #线上 #福利姬 https://t.co/sEy6TFHx4z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045462774210555904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLxjkoa8AArDyR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 887,
+        "media_key": "3_2045462774197993472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLxjklbQAADFV8.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1031,
+        "media_key": "3_2045462774189629440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLxjkjboAAGz4R.jpg",
+        "width": 876
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045462774210555904",
+            "3_2045462774197993472",
+            "3_2045462774189629440"
+          ],
+          "media_source_tweet_id": [
+            "2045462812739375228",
+            "2045462812739375228",
+            "2045462812739375228"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2055165889482244421",
+        "created_at": "2026-05-15T05:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055165889482244421"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 85,
+              "start": 81,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "线下"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "线上"
+            },
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "福利姬"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "253438950",
+              "start": 3,
+              "username": "pys0916"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sEy6TFHx4z",
+              "end": 122,
+              "expanded_url": "https://x.com/pys0916/status/2045462812739375228/photo/1",
+              "media_key": "3_2045462774210555904",
+              "start": 99,
+              "url": "https://t.co/sEy6TFHx4z"
+            },
+            {
+              "display_url": "pic.x.com/sEy6TFHx4z",
+              "end": 122,
+              "expanded_url": "https://x.com/pys0916/status/2045462812739375228/photo/1",
+              "media_key": "3_2045462774197993472",
+              "start": 99,
+              "url": "https://t.co/sEy6TFHx4z"
+            },
+            {
+              "display_url": "pic.x.com/sEy6TFHx4z",
+              "end": 122,
+              "expanded_url": "https://x.com/pys0916/status/2045462812739375228/photo/1",
+              "media_key": "3_2045462774189629440",
+              "start": 99,
+              "url": "https://t.co/sEy6TFHx4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055165889482244421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045462812739375228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pys0916: 置顶🔝\n这里小锁，ip江浙沪，验证免费，缺钱缺钱缺钱！需要看病，超级缺钱，接大量🚪哥！第一次玩推，欢迎女孩子们和我互fo互转。#门槛哥 #门槛妹 #线下 #线上 #福利姬 https://t.co/sEy6TFHx4z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045462774210555904",
+            "3_2045462774197993472",
+            "3_2045462774189629440"
+          ]
+        },
+        "author_id": "253438950",
+        "conversation_id": "2045462812739375228",
+        "created_at": "2026-04-18T11:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T12:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045462812739375228"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "线下"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "线上"
+            },
+            {
+              "end": 85,
+              "start": 81,
+              "tag": "福利姬"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sEy6TFHx4z",
+              "end": 109,
+              "expanded_url": "https://x.com/pys0916/status/2045462812739375228/photo/1",
+              "media_key": "3_2045462774210555904",
+              "start": 86,
+              "url": "https://t.co/sEy6TFHx4z"
+            },
+            {
+              "display_url": "pic.x.com/sEy6TFHx4z",
+              "end": 109,
+              "expanded_url": "https://x.com/pys0916/status/2045462812739375228/photo/1",
+              "media_key": "3_2045462774197993472",
+              "start": 86,
+              "url": "https://t.co/sEy6TFHx4z"
+            },
+            {
+              "display_url": "pic.x.com/sEy6TFHx4z",
+              "end": 109,
+              "expanded_url": "https://x.com/pys0916/status/2045462812739375228/photo/1",
+              "media_key": "3_2045462774189629440",
+              "start": 86,
+              "url": "https://t.co/sEy6TFHx4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045462812739375228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6408,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "置顶🔝\n这里小锁，ip江浙沪，验证免费，缺钱缺钱缺钱！需要看病，超级缺钱，接大量🚪哥！第一次玩推，欢迎女孩子们和我互fo互转。#门槛哥 #门槛妹 #线下 #线上 #福利姬 https://t.co/sEy6TFHx4z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 202,
+          "like_count": 1410,
+          "listed_count": 2,
+          "media_count": 234,
+          "tweet_count": 774
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-17T07:24:55.000Z",
+        "description": "19 165 110 ip江浙沪🚪188/288/520/1314 口令优先 验证免费",
+        "id": "253438950",
+        "name": "小锁",
+        "pinned_tweet_id": "2045462812739375228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045461308104130560/mZMIOxmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 0,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 31
+        },
+        "username": "pys0916",
+        "verified": false
+      }
+    ]
+  }
+}

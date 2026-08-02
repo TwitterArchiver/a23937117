@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1960785287899955200"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1960785345634820290",
+    "created_at": "2025-08-27T19:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T20:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960785345634820290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ivt4Q6Y5es",
+          "end": 37,
+          "expanded_url": "https://x.com/a23937117/status/1960785345634820290/video/1",
+          "media_key": "13_1960785287899955200",
+          "start": 14,
+          "url": "https://t.co/ivt4Q6Y5es"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960785345634820290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这其实是一个消音的生日祝福 https://t.co/ivt4Q6Y5es"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1960785345634820290].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1960785345634820290",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1960785345634820290"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6166,
+        "height": 960,
+        "media_key": "13_1960785287899955200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1960785287899955200/img/M2_O_vJaXAySemDe.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960785287899955200/vid/avc1/320x426/v4w62iJjDlCGrkwY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960785287899955200/vid/avc1/480x640/kTlpFTRRVQ0AKRFg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960785287899955200/vid/avc1/720x960/Opsi99rBfdBBDSub.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1960785287899955200/pl/UxpyGmgbyGoRwUGW.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰--子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1960490344723706120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 207,
+          "like_count": 1125,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 636
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

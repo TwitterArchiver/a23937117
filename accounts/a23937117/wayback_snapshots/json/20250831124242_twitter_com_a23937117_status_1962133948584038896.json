@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962133940526800896"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1962133948584038896",
+    "created_at": "2025-08-31T12:42:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T13:42:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962133948584038896"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 13,
+          "tag": "cosplay"
+        },
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "cos"
+        },
+        {
+          "end": 36,
+          "start": 27,
+          "tag": "主播女孩重度依赖"
+        },
+        {
+          "end": 41,
+          "start": 37,
+          "tag": "超天酱"
+        },
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "糖糖"
+        },
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "主播女孩"
+        },
+        {
+          "end": 56,
+          "start": 53,
+          "tag": "门槛"
+        },
+        {
+          "end": 63,
+          "start": 57,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 68,
+          "start": 64,
+          "tag": "地雷系"
+        },
+        {
+          "end": 79,
+          "start": 69,
+          "tag": "地雷系kawaii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IYa37DjkdG",
+          "end": 103,
+          "expanded_url": "https://x.com/a23937117/status/1962133948584038896/photo/1",
+          "media_key": "3_1962133940526800896",
+          "start": 80,
+          "url": "https://t.co/IYa37DjkdG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962133948584038896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "阿p会一直陪着我的对吧\n\n#cosplay #cos #主播女孩重度依赖 #超天酱  #糖糖 #主播女孩 #门槛 #地雷系女子 #地雷系 #地雷系kawaii https://t.co/IYa37DjkdG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962133948584038896].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962133948584038896",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962133948584038896"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962133940526800896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzrmbE7WYAA71hh.jpg",
+        "width": 1542
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 209,
+          "like_count": 1133,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 635
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956465758646493185"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1956465765034475757",
+    "created_at": "2025-08-15T21:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T22:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956465765034475757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y5v8ZBSOAT",
+          "end": 34,
+          "expanded_url": "https://x.com/a23937117/status/1956465765034475757/photo/1",
+          "media_key": "3_1956465758646493185",
+          "start": 11,
+          "url": "https://t.co/Y5v8ZBSOAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956465765034475757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "夸我可爱就给你亲一下 https://t.co/Y5v8ZBSOAT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1956465765034475757].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1956465765034475757",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1956465765034475757"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956465758646493185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GybDPd9W4AEVnMw.jpg",
+        "width": 1366
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 207,
+          "like_count": 1098,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 619
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1954988205067079759",
+    "created_at": "2025-08-11T19:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T20:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954988205067079759"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 136,
+          "start": 132,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1954201403146346496",
+          "start": 3,
+          "username": "prubln1811115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954988205067079759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954204964005265843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @prubln1811115: 188图包20张➕聊天➕打游戏\n200线下基础门\n420图包30张➕聊天➕打游戏➕每周视频一次\n888图包30张➕线下非绿一小时\n1888图包三十张➕聊天加非绿一晚\n门槛不可面付 门槛可后续补\n问位置和价格10元 验证15元\n#门槛妹 ht…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954988205067079759].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954988205067079759",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954988205067079759"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1436,
+        "media_key": "3_1954204954975248384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx67DX-boAAHdBc.jpg",
+        "width": 1076
+      },
+      {
+        "height": 810,
+        "media_key": "3_1954204954954207232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx67DX5akAAzlhz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1954204954983645184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx67DYAbwAAKtLe.jpg",
+        "width": 1440
+      },
+      {
+        "height": 669,
+        "media_key": "3_1954204954937413632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx67DX1aUAAYN9u.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954204954975248384",
+            "3_1954204954954207232",
+            "3_1954204954983645184",
+            "3_1954204954937413632"
+          ]
+        },
+        "author_id": "1954201403146346496",
+        "conversation_id": "1954204964005265843",
+        "created_at": "2025-08-09T15:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T16:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954204964005265843"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 117,
+              "start": 113,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NYSv03jsGQ",
+              "end": 141,
+              "expanded_url": "https://x.com/prubln1811115/status/1954204964005265843/photo/1",
+              "media_key": "3_1954204954975248384",
+              "start": 118,
+              "url": "https://t.co/NYSv03jsGQ"
+            },
+            {
+              "display_url": "pic.x.com/NYSv03jsGQ",
+              "end": 141,
+              "expanded_url": "https://x.com/prubln1811115/status/1954204964005265843/photo/1",
+              "media_key": "3_1954204954954207232",
+              "start": 118,
+              "url": "https://t.co/NYSv03jsGQ"
+            },
+            {
+              "display_url": "pic.x.com/NYSv03jsGQ",
+              "end": 141,
+              "expanded_url": "https://x.com/prubln1811115/status/1954204964005265843/photo/1",
+              "media_key": "3_1954204954983645184",
+              "start": 118,
+              "url": "https://t.co/NYSv03jsGQ"
+            },
+            {
+              "display_url": "pic.x.com/NYSv03jsGQ",
+              "end": 141,
+              "expanded_url": "https://x.com/prubln1811115/status/1954204964005265843/photo/1",
+              "media_key": "3_1954204954937413632",
+              "start": 118,
+              "url": "https://t.co/NYSv03jsGQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954204964005265843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3095,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "188图包20张➕聊天➕打游戏\n200线下基础门\n420图包30张➕聊天➕打游戏➕每周视频一次\n888图包30张➕线下非绿一小时\n1888图包三十张➕聊天加非绿一晚\n门槛不可面付 门槛可后续补\n问位置和价格10元 验证15元\n#门槛妹 https://t.co/NYSv03jsGQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 211,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 518
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-09T15:21:45.000Z",
+        "description": "🚪188/420/888/1888",
+        "id": "1954201403146346496",
+        "name": "普瑞巴林",
+        "pinned_tweet_id": "1954204964005265843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954201775017541632/Zohkanpo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 15
+        },
+        "username": "prubln1811115",
+        "verified": false
+      }
+    ]
+  }
+}

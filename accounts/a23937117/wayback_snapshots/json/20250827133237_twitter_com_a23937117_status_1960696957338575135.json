@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1960628733640855880",
+    "created_at": "2025-08-27T13:32:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T14:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960696957338575135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1930292502415978497",
+          "start": 0,
+          "username": "tou_luo0808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960696957338575135",
+    "in_reply_to_user_id": "1930292502415978497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960628733640855880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tou_luo0808 求教程"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1960628733640855880].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1960628733640855880",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1960628733640855880"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1960628733640855880",
+        "created_at": "2025-08-27T13:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T14:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960696957338575135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1930292502415978497",
+              "start": 0,
+              "username": "tou_luo0808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960696957338575135",
+        "in_reply_to_user_id": "1930292502415978497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960628733640855880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tou_luo0808 求教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰--子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 206,
+          "like_count": 1123,
+          "listed_count": 2,
+          "media_count": 168,
+          "tweet_count": 634
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T15:56:20.000Z",
+        "description": "清水，鞋拔子长脸自行车坐垫，小号@luobotoujunior ，自用蜂鸟VPN：https://t.co/0judP72omm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "luobotoujunior"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 64,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=MjvYc25r",
+                "start": 41,
+                "url": "https://t.co/0judP72omm"
+              }
+            ]
+          }
+        },
+        "id": "1930292502415978497",
+        "location": "🇸🇬",
+        "name": "萝卜头",
+        "pinned_tweet_id": "1941174396988817501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960352336620261377/-9TQJ-3__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 9364,
+          "following_count": 275,
+          "like_count": 6110,
+          "listed_count": 19,
+          "media_count": 257,
+          "tweet_count": 2998
+        },
+        "username": "tou_luo0808",
+        "verified": true
+      }
+    ]
+  }
+}

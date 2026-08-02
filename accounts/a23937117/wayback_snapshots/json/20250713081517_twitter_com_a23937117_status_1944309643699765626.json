@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1944256532952363420",
+    "created_at": "2025-07-13T08:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T09:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944309643699765626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1680544465671561216",
+          "start": 0,
+          "username": "LXL0102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944309643699765626",
+    "in_reply_to_user_id": "1680544465671561216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944256532952363420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LXL0102 举手"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1944256532952363420",
+        "created_at": "2025-07-13T08:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T09:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944309643699765626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944309643699765626",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944256532952363420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 举手"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1944256532952363420",
+        "created_at": "2025-07-13T04:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T05:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944256532952363420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944256532952363420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我准备把我oc做成游戏，谁在意？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 148,
+          "like_count": 920,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 288
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 256,
+          "like_count": 1228,
+          "listed_count": 4,
+          "media_count": 442,
+          "tweet_count": 2691
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

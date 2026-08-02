@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1944961217405317229",
+    "created_at": "2025-07-15T15:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T16:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945139654547677332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1939632496569929729",
+          "start": 0,
+          "username": "Yu_12673"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945139654547677332",
+    "in_reply_to_user_id": "1939632496569929729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944961931854667998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yu_12673 小宝你也是啊啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1944961217405317229",
+        "created_at": "2025-07-15T15:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T16:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945139654547677332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1939632496569929729",
+              "start": 0,
+              "username": "Yu_12673"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945139654547677332",
+        "in_reply_to_user_id": "1939632496569929729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944961931854667998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yu_12673 小宝你也是啊啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939632496569929729",
+        "conversation_id": "1944961217405317229",
+        "created_at": "2025-07-15T03:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T04:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944961931854667998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442350932977610752",
+              "start": 0,
+              "username": "a23937117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944961931854667998",
+        "in_reply_to_user_id": "1442350932977610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944961217405317229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a23937117 老师你特别美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 156,
+          "like_count": 928,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 323
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T10:30:09.000Z",
+        "description": "男的 想到啥发啥 反正发啥也没人看😿",
+        "id": "1939632496569929729",
+        "name": "鱼鱼决（无人问津版）",
+        "pinned_tweet_id": "1944453827836674255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944446451217780736/6XBM1gM5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 72,
+          "like_count": 882,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 491
+        },
+        "username": "Yu_12673",
+        "verified": false
+      }
+    ]
+  }
+}

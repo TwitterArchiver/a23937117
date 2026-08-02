@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2041617752775876988",
+    "created_at": "2026-04-07T20:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T21:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041617752775876988"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "上海"
+        },
+        {
+          "end": 139,
+          "start": 135,
+          "tag": "爸爸活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "251669636",
+          "start": 3,
+          "username": "Kergoodninc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041617752775876988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041111013748261182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kergoodninc: 线上线下都接，欢迎各位哥哥宝宝过我🚪详细费用见置顶⬆️\n大家好呀 这里是宅宅全国可✈️\n坐标江浙沪164 92斤\n语音验证5r视频验证10r\n特价188 🚪过+V\n288 🚪开放朋友圈照片都是本人\n可接线下女友约会请多多关照啦\n#上海 #爸爸活…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041110106885206016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFN60_RaMAAVUJy.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2041110106893635585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFN60_Ta0AEIgCH.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1498,
+        "media_key": "3_2041110106893590528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFN60_TaIAA4BMc.jpg",
+        "width": 1118
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2041617752775876988",
+        "created_at": "2026-04-07T20:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T21:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041617752775876988"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "上海"
+            },
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "爸爸活"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "251669636",
+              "start": 3,
+              "username": "Kergoodninc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041617752775876988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041111013748261182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kergoodninc: 线上线下都接，欢迎各位哥哥宝宝过我🚪详细费用见置顶⬆️\n大家好呀 这里是宅宅全国可✈️\n坐标江浙沪164 92斤\n语音验证5r视频验证10r\n特价188 🚪过+V\n288 🚪开放朋友圈照片都是本人\n可接线下女友约会请多多关照啦\n#上海 #爸爸活…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041110106885206016",
+            "3_2041110106893635585",
+            "3_2041110106893590528"
+          ]
+        },
+        "author_id": "251669636",
+        "conversation_id": "2041111013748261182",
+        "created_at": "2026-04-06T11:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041111013748261182"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "上海"
+            },
+            {
+              "end": 122,
+              "start": 118,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "门槛"
+            },
+            {
+              "end": 132,
+              "start": 127,
+              "tag": "女高中生"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "金主"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "萝莉"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "可爱"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "fyp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7slGSRACLs",
+              "end": 173,
+              "expanded_url": "https://x.com/Kergoodninc/status/2041111013748261182/photo/1",
+              "media_key": "3_2041110106885206016",
+              "start": 150,
+              "url": "https://t.co/7slGSRACLs"
+            },
+            {
+              "display_url": "pic.x.com/7slGSRACLs",
+              "end": 173,
+              "expanded_url": "https://x.com/Kergoodninc/status/2041111013748261182/photo/1",
+              "media_key": "3_2041110106893635585",
+              "start": 150,
+              "url": "https://t.co/7slGSRACLs"
+            },
+            {
+              "display_url": "pic.x.com/7slGSRACLs",
+              "end": 173,
+              "expanded_url": "https://x.com/Kergoodninc/status/2041111013748261182/photo/1",
+              "media_key": "3_2041110106893590528",
+              "start": 150,
+              "url": "https://t.co/7slGSRACLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041111013748261182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1102,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "线上线下都接，欢迎各位哥哥宝宝过我🚪详细费用见置顶⬆️\n大家好呀 这里是宅宅全国可✈️\n坐标江浙沪164 92斤\n语音验证5r视频验证10r\n特价188 🚪过+V\n288 🚪开放朋友圈照片都是本人\n可接线下女友约会请多多关照啦\n#上海 #爸爸活 #门槛 #女高中生 #金主 #萝莉 #可爱 #fyp https://t.co/7slGSRACLs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 205,
+          "like_count": 1402,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 691
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-13T16:26:43.000Z",
+        "description": "宅儿 19 163 92 ip江浙沪 🚪188/288/520/1314 （口令优先！）语音免费验证视频验证10R",
+        "id": "251669636",
+        "name": "崽崽",
+        "pinned_tweet_id": "2041111013748261182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041486802775945216/PRybEnyw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 4,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 48
+        },
+        "username": "Kergoodninc",
+        "verified": false
+      }
+    ]
+  }
+}

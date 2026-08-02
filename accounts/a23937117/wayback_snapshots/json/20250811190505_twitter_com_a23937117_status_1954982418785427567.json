@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1954982418785427567",
+    "created_at": "2025-08-11T19:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T20:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954982418785427567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1442350932977610752",
+          "start": 3,
+          "username": "a23937117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954982418785427567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954948657901674855",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @a23937117: 求转求互关~\n拜托给我投喂吧~🚪88.88\n只线上，陪聊半绿陪玩游戏，需要投喂，投喂程度不同聊天频率回复时间也不同，但情绪价值会给足。不定期掉落照片/自拍\n额外业务：\n烟代—韩，国，美，日（欢迎问价）\n塔罗—便宜，精准\n翻译—南美阿根廷华裔西/中/…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954982418785427567].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954982418785427567",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954982418785427567"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1954948648317444096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyFfcBkXYAAYa2I.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1954948648195727360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyFfcBHWIAAAx0y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954948648317444096",
+            "3_1954948648195727360"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "1954948657901674855",
+        "created_at": "2025-08-11T16:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T17:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954948657901674855"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "电子女友"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "半绿"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "门妹"
+            },
+            {
+              "end": 144,
+              "start": 140,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 155,
+              "start": 150,
+              "tag": "反差女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NePcC7UlWh",
+              "end": 179,
+              "expanded_url": "https://x.com/a23937117/status/1954948657901674855/photo/1",
+              "media_key": "3_1954948648317444096",
+              "start": 156,
+              "url": "https://t.co/NePcC7UlWh"
+            },
+            {
+              "display_url": "pic.x.com/NePcC7UlWh",
+              "end": 179,
+              "expanded_url": "https://x.com/a23937117/status/1954948657901674855/photo/1",
+              "media_key": "3_1954948648195727360",
+              "start": 156,
+              "url": "https://t.co/NePcC7UlWh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954948657901674855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "求转求互关~\n拜托给我投喂吧~🚪88.88\n只线上，陪聊半绿陪玩游戏，需要投喂，投喂程度不同聊天频率回复时间也不同，但情绪价值会给足。不定期掉落照片/自拍\n额外业务：\n烟代—韩，国，美，日（欢迎问价）\n塔罗—便宜，精准\n翻译—南美阿根廷华裔西/中/英\n#电子女友 #半绿 #门妹 #爸爸活 #妈妈活 #反差女友 https://t.co/NePcC7UlWh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 187,
+          "like_count": 1056,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 494
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

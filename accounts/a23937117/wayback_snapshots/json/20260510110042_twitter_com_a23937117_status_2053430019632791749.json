@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053430019632791749",
+    "created_at": "2026-05-10T11:00:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T12:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053430019632791749"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 135,
+          "start": 131,
+          "tag": "门槛哥"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "359833089",
+          "start": 3,
+          "username": "djawjddbs80"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053430019632791749",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048455429844537544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @djawjddbs80: (^_^)ノ哥哥我是Xx！\n05辍学家里 没人管的\n为了治疗下海喽❥(ゝω・✿ฺ)\n接线下线上的 哥哥可以入🚪了解我哦\n想要一个金主爸爸一直陪我  ˗ˋˏᰔᩚˎˊ˗ \n姐妹们可以找我互转呀\n可以私信我哦打开就是为了等主人你🐶\n #门槛哥 #门槛…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1569,
+        "media_key": "3_2048455419392348160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2TWcsa0AAkiEH.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1562,
+        "media_key": "3_2048455417844682752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2TWW7bUAA_0HV.jpg",
+        "width": 1178
+      },
+      {
+        "height": 1548,
+        "media_key": "3_2048455417853014016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2TWW9acAA_Kym.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1222,
+        "media_key": "3_2048455417853034496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2TWW9awAAOL8L.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2053430019632791749",
+        "created_at": "2026-05-10T11:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053430019632791749"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 131,
+              "tag": "门槛哥"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "359833089",
+              "start": 3,
+              "username": "djawjddbs80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053430019632791749",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048455429844537544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @djawjddbs80: (^_^)ノ哥哥我是Xx！\n05辍学家里 没人管的\n为了治疗下海喽❥(ゝω・✿ฺ)\n接线下线上的 哥哥可以入🚪了解我哦\n想要一个金主爸爸一直陪我  ˗ˋˏᰔᩚˎˊ˗ \n姐妹们可以找我互转呀\n可以私信我哦打开就是为了等主人你🐶\n #门槛哥 #门槛…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048455419392348160",
+            "3_2048455417844682752",
+            "3_2048455417853014016",
+            "3_2048455417853034496"
+          ]
+        },
+        "author_id": "359833089",
+        "conversation_id": "2048455429844537544",
+        "created_at": "2026-04-26T17:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048455429844537544"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 118,
+              "start": 114,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "金主"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "陪聊"
+            },
+            {
+              "end": 137,
+              "start": 132,
+              "tag": "一日女友"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "吃土"
+            },
+            {
+              "end": 146,
+              "start": 142,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 151,
+              "start": 147,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 157,
+              "start": 152,
+              "tag": "线上陪聊"
+            },
+            {
+              "end": 161,
+              "start": 158,
+              "tag": "半绿"
+            },
+            {
+              "end": 165,
+              "start": 162,
+              "tag": "金主"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vbYWqC9sRp",
+              "end": 189,
+              "expanded_url": "https://x.com/djawjddbs80/status/2048455429844537544/photo/1",
+              "media_key": "3_2048455419392348160",
+              "start": 166,
+              "url": "https://t.co/vbYWqC9sRp"
+            },
+            {
+              "display_url": "pic.x.com/vbYWqC9sRp",
+              "end": 189,
+              "expanded_url": "https://x.com/djawjddbs80/status/2048455429844537544/photo/1",
+              "media_key": "3_2048455417844682752",
+              "start": 166,
+              "url": "https://t.co/vbYWqC9sRp"
+            },
+            {
+              "display_url": "pic.x.com/vbYWqC9sRp",
+              "end": 189,
+              "expanded_url": "https://x.com/djawjddbs80/status/2048455429844537544/photo/1",
+              "media_key": "3_2048455417853014016",
+              "start": 166,
+              "url": "https://t.co/vbYWqC9sRp"
+            },
+            {
+              "display_url": "pic.x.com/vbYWqC9sRp",
+              "end": 189,
+              "expanded_url": "https://x.com/djawjddbs80/status/2048455429844537544/photo/1",
+              "media_key": "3_2048455417853034496",
+              "start": 166,
+              "url": "https://t.co/vbYWqC9sRp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048455429844537544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7067,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "(^_^)ノ哥哥我是Xx！\n05辍学家里 没人管的\n为了治疗下海喽❥(ゝω・✿ฺ)\n接线下线上的 哥哥可以入🚪了解我哦\n想要一个金主爸爸一直陪我  ˗ˋˏᰔᩚˎˊ˗ \n姐妹们可以找我互转呀\n可以私信我哦打开就是为了等主人你🐶\n #门槛哥 #门槛姐 #金主 #陪聊 #一日女友 #吃土 #爸爸活 #妈妈活 #线上陪聊 #半绿 #金主 https://t.co/vbYWqC9sRp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 202,
+          "like_count": 1402,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 720
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-22T07:28:40.000Z",
+        "description": "一只小狗罢了，坐标20！\n口嗨哥别来，回复口令欢迎哥哥入🚪！",
+        "id": "359833089",
+        "location": "2.7",
+        "name": "Xx",
+        "pinned_tweet_id": "2048455429844537544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048452768957186048/FMyIpGsr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 0,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 445
+        },
+        "username": "djawjddbs80",
+        "verified": false
+      }
+    ]
+  }
+}

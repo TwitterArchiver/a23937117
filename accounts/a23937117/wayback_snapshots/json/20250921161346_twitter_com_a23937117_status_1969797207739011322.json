@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1969797207739011322",
+    "created_at": "2025-09-21T16:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T17:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969797207739011322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1969441767448854531",
+          "start": 3,
+          "username": "xiaojiu999000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969797207739011322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969643347813024076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaojiu999000: Hi 我是小9 我号没了已转生 前世1000fo\nip重庆08年 174cm105斤\n接纯绿半绿非绿可陪玩出原味\n欢迎女孩子互转互fo~\n我需要很多爱和很多钱🥺\n全国可飞\n比较缺钱急用 前五个🚪哥抽一个免费线下四个半价 可非绿\n存够七万我会…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969643333892145152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1WULTLbgAAekCq.jpg",
+        "width": 1156
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1969643333896323073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1WULTMbQAE6DE3.jpg",
+        "width": 1542
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1969643333904633856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1WULTOaEAAN5n1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1969643333913100292",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1WULTQbQAQ-h0I.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1969797207739011322",
+        "created_at": "2025-09-21T16:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T17:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969797207739011322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1969441767448854531",
+              "start": 3,
+              "username": "xiaojiu999000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969797207739011322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969643347813024076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaojiu999000: Hi 我是小9 我号没了已转生 前世1000fo\nip重庆08年 174cm105斤\n接纯绿半绿非绿可陪玩出原味\n欢迎女孩子互转互fo~\n我需要很多爱和很多钱🥺\n全国可飞\n比较缺钱急用 前五个🚪哥抽一个免费线下四个半价 可非绿\n存够七万我会…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969643333892145152",
+            "3_1969643333896323073",
+            "3_1969643333904633856",
+            "3_1969643333913100292"
+          ]
+        },
+        "author_id": "1969441767448854531",
+        "conversation_id": "1969643347813024076",
+        "created_at": "2025-09-21T06:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T07:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969643347813024076"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "线下"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "重庆"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "非绿"
+            },
+            {
+              "end": 146,
+              "start": 142,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "母狗"
+            },
+            {
+              "end": 154,
+              "start": 151,
+              "tag": "门槛"
+            },
+            {
+              "end": 158,
+              "start": 155,
+              "tag": "骚逼"
+            },
+            {
+              "end": 162,
+              "start": 159,
+              "tag": "金主"
+            },
+            {
+              "end": 166,
+              "start": 163,
+              "tag": "包养"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fmguXgMTRa",
+              "end": 190,
+              "expanded_url": "https://x.com/xiaojiu999000/status/1969643347813024076/photo/1",
+              "media_key": "3_1969643333892145152",
+              "start": 167,
+              "url": "https://t.co/fmguXgMTRa"
+            },
+            {
+              "display_url": "pic.x.com/fmguXgMTRa",
+              "end": 190,
+              "expanded_url": "https://x.com/xiaojiu999000/status/1969643347813024076/photo/1",
+              "media_key": "3_1969643333896323073",
+              "start": 167,
+              "url": "https://t.co/fmguXgMTRa"
+            },
+            {
+              "display_url": "pic.x.com/fmguXgMTRa",
+              "end": 190,
+              "expanded_url": "https://x.com/xiaojiu999000/status/1969643347813024076/photo/1",
+              "media_key": "3_1969643333904633856",
+              "start": 167,
+              "url": "https://t.co/fmguXgMTRa"
+            },
+            {
+              "display_url": "pic.x.com/fmguXgMTRa",
+              "end": 190,
+              "expanded_url": "https://x.com/xiaojiu999000/status/1969643347813024076/photo/1",
+              "media_key": "3_1969643333913100292",
+              "start": 167,
+              "url": "https://t.co/fmguXgMTRa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969643347813024076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Hi 我是小9 我号没了已转生 前世1000fo\nip重庆08年 174cm105斤\n接纯绿半绿非绿可陪玩出原味\n欢迎女孩子互转互fo~\n我需要很多爱和很多钱🥺\n全国可飞\n比较缺钱急用 前五个🚪哥抽一个免费线下四个半价 可非绿\n存够七万我会上岸 先到先得哟🥰\n#线下 #重庆 #非绿 #爸爸活 #母狗 #门槛 #骚逼 #金主 #包养 https://t.co/fmguXgMTRa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88—谈恋爱了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 216,
+          "like_count": 1213,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 688
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T16:41:36.000Z",
+        "description": "🚪88/188/288/520 接纯绿非绿半绿 全国可飞只回口令我出原味我接线上线下陪玩 我很缺钱我啥都干🥹 前五个🚪哥抽一人免费四人半价线下可非绿 欢迎女孩子互转互fo",
+        "id": "1969441767448854531",
+        "name": "小玖",
+        "pinned_tweet_id": "1969643347813024076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969442042419036161/HQROjWQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 5,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "username": "xiaojiu999000",
+        "verified": false
+      }
+    ]
+  }
+}

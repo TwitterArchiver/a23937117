@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948540698451394560",
+        "3_1948540698464030720",
+        "3_1948540698505916416"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1948540708488458743",
+    "created_at": "2025-07-25T00:28:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T01:28:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948540708488458743"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n7vNzmIH3a",
+          "end": 47,
+          "expanded_url": "https://x.com/a23937117/status/1948540708488458743/photo/1",
+          "media_key": "3_1948540698451394560",
+          "start": 24,
+          "url": "https://t.co/n7vNzmIH3a"
+        },
+        {
+          "display_url": "pic.x.com/n7vNzmIH3a",
+          "end": 47,
+          "expanded_url": "https://x.com/a23937117/status/1948540708488458743/photo/1",
+          "media_key": "3_1948540698464030720",
+          "start": 24,
+          "url": "https://t.co/n7vNzmIH3a"
+        },
+        {
+          "display_url": "pic.x.com/n7vNzmIH3a",
+          "end": 47,
+          "expanded_url": "https://x.com/a23937117/status/1948540708488458743/photo/1",
+          "media_key": "3_1948540698505916416",
+          "start": 24,
+          "url": "https://t.co/n7vNzmIH3a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948540708488458743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就当那是吻吧\n（真的要夸夸自己，今天好漂亮） https://t.co/n7vNzmIH3a"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1948540708488458743].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1948540708488458743",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1948540708488458743"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1948540698451394560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwqbcQGWQAAhVKW.jpg",
+        "width": 1610
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1948540698464030720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwqbcQJXEAAARsP.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1948540698505916416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwqbcQTWMAAVs1Q.jpg",
+        "width": 1384
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 166,
+          "like_count": 971,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 423
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

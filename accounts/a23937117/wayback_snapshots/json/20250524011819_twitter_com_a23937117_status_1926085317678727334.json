@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1926085242936254464"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "Fighting",
+          "id": "1047520229192912896",
+          "name": "Combat sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "description": "WWE",
+          "id": "852587148666589184",
+          "name": "WWE"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544341584474112",
+          "name": "Wrestling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "WWE",
+          "id": "852587148666589184",
+          "name": "WWE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fighting",
+          "id": "1047520229192912896",
+          "name": "Combat sports"
+        }
+      }
+    ],
+    "conversation_id": "1926085317678727334",
+    "created_at": "2025-05-24T01:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T02:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926085317678727334"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 27,
+          "tag": "asuka"
+        },
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "eva"
+        },
+        {
+          "end": 47,
+          "start": 39,
+          "tag": "cosplay"
+        },
+        {
+          "end": 52,
+          "start": 48,
+          "tag": "cos"
+        },
+        {
+          "end": 57,
+          "start": 53,
+          "tag": "明日香"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l37lUzR0gu",
+          "end": 81,
+          "expanded_url": "https://x.com/a23937117/status/1926085317678727334/video/1",
+          "media_key": "13_1926085242936254464",
+          "start": 58,
+          "url": "https://t.co/l37lUzR0gu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926085317678727334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“Asuka已经一个人走了很久 以后也不需要别人”\n\n#asuka #eva #cosplay #cos #明日香 https://t.co/l37lUzR0gu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1926085317678727334].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1926085317678727334",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1926085317678727334"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26260,
+        "height": 720,
+        "media_key": "13_1926085242936254464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1926085242936254464/img/08PR4EZLSVJ7LOJ8.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926085242936254464/vid/avc1/480x270/1xR-6bqI8JOKY6bT.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926085242936254464/vid/avc1/640x360/D34u7_0B7iaXoE2_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926085242936254464/vid/avc1/1280x720/0DMzYPvEUtaq2K-r.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1926085242936254464/pl/JAniQoMNNP01vnhu.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "讨厌我的人有福了 因为我真的过的很惨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 99,
+          "like_count": 665,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 63
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

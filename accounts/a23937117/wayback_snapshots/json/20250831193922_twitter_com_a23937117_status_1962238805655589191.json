@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960651998539472897",
+        "3_1960651998547861511"
+      ],
+      "media_source_tweet_id": [
+        "1960652008916226164",
+        "1960652008916226164"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962238805655589191",
+    "created_at": "2025-08-31T19:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T20:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962238805655589191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1937096175351689216",
+          "start": 3,
+          "username": "iki8937"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yyN48XvsYi",
+          "end": 67,
+          "expanded_url": "https://x.com/iki8937/status/1960652008916226164/photo/1",
+          "media_key": "3_1960651998539472897",
+          "start": 44,
+          "url": "https://t.co/yyN48XvsYi"
+        },
+        {
+          "display_url": "pic.x.com/yyN48XvsYi",
+          "end": 67,
+          "expanded_url": "https://x.com/iki8937/status/1960652008916226164/photo/1",
+          "media_key": "3_1960651998547861511",
+          "start": 44,
+          "url": "https://t.co/yyN48XvsYi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962238805655589191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960652008916226164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iki8937: 我是小树皮a新号福利来了转推抽五个199，以后此号更新更多哦 https://t.co/yyN48XvsYi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962238805655589191].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962238805655589191",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962238805655589191"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1670,
+        "media_key": "3_1960651998539472897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzWims0a4AE1ouJ.jpg",
+        "width": 1210
+      },
+      {
+        "height": 1656,
+        "media_key": "3_1960651998547861511",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzWims2a4AccnXz.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960651998539472897",
+            "3_1960651998547861511"
+          ]
+        },
+        "author_id": "1937096175351689216",
+        "conversation_id": "1960652008916226164",
+        "created_at": "2025-08-27T10:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T11:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960652008916226164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yyN48XvsYi",
+              "end": 54,
+              "expanded_url": "https://x.com/iki8937/status/1960652008916226164/photo/1",
+              "media_key": "3_1960651998539472897",
+              "start": 31,
+              "url": "https://t.co/yyN48XvsYi"
+            },
+            {
+              "display_url": "pic.x.com/yyN48XvsYi",
+              "end": 54,
+              "expanded_url": "https://x.com/iki8937/status/1960652008916226164/photo/1",
+              "media_key": "3_1960651998547861511",
+              "start": 31,
+              "url": "https://t.co/yyN48XvsYi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960652008916226164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 17123,
+          "like_count": 132,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "我是小树皮a新号福利来了转推抽五个199，以后此号更新更多哦 https://t.co/yyN48XvsYi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 210,
+          "like_count": 1134,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 641
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T10:32:03.000Z",
+        "description": "🚪99/199/299/520线下全国🉑 欢迎交友欢迎私信",
+        "id": "1937096175351689216",
+        "location": "美国",
+        "name": "小树皮",
+        "pinned_tweet_id": "1960652008916226164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960639232852287488/cdLmK5eU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 72,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 31
+        },
+        "username": "iki8937",
+        "verified": false
+      }
+    ]
+  }
+}

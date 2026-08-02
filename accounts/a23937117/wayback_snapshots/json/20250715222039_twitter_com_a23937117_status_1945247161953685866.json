@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945247156073385985",
+        "3_1945247156090101760",
+        "3_1945247156073295872",
+        "3_1945247156085960704"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1945247161953685866",
+    "created_at": "2025-07-15T22:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T23:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945247161953685866"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4Ro1CVZ6tv",
+          "end": 57,
+          "expanded_url": "https://x.com/a23937117/status/1945247161953685866/photo/1",
+          "media_key": "3_1945247156073385985",
+          "start": 34,
+          "url": "https://t.co/4Ro1CVZ6tv"
+        },
+        {
+          "display_url": "pic.x.com/4Ro1CVZ6tv",
+          "end": 57,
+          "expanded_url": "https://x.com/a23937117/status/1945247161953685866/photo/1",
+          "media_key": "3_1945247156090101760",
+          "start": 34,
+          "url": "https://t.co/4Ro1CVZ6tv"
+        },
+        {
+          "display_url": "pic.x.com/4Ro1CVZ6tv",
+          "end": 57,
+          "expanded_url": "https://x.com/a23937117/status/1945247161953685866/photo/1",
+          "media_key": "3_1945247156073295872",
+          "start": 34,
+          "url": "https://t.co/4Ro1CVZ6tv"
+        },
+        {
+          "display_url": "pic.x.com/4Ro1CVZ6tv",
+          "end": 57,
+          "expanded_url": "https://x.com/a23937117/status/1945247161953685866/photo/1",
+          "media_key": "3_1945247156085960704",
+          "start": 34,
+          "url": "https://t.co/4Ro1CVZ6tv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945247161953685866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "塔罗接单，便宜且超准~~~口碑在这 都是老客户 需要的老师码码转转 https://t.co/4Ro1CVZ6tv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1945247161953685866].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1945247161953685866",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1945247161953685866"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1945247156073385985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv7n-2oX0AEJjRc.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1945247156090101760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv7n-2sW4AANJzS.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1945247156073295872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv7n-2oWcAASwPN.jpg",
+        "width": 944
+      },
+      {
+        "height": 1288,
+        "media_key": "3_1945247156085960704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv7n-2rXsAAKSxV.jpg",
+        "width": 1289
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1944721626525761843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 159,
+          "like_count": 934,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 334
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

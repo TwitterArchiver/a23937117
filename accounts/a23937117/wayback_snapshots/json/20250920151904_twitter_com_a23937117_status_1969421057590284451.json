@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1969421057590284451",
+    "created_at": "2025-09-20T15:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T16:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969421057590284451"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 106,
+          "start": 102,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 111,
+          "start": 107,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 116,
+          "start": 112,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "线下"
+        },
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "非绿"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "杭州"
+        },
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "上海"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1915372442668679168",
+          "start": 3,
+          "username": "lingnai0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969421057590284451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969307775860605233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lingnai0306: 引流视频  一周删\nip杭州接爸爸活\n本条转发➕评论可以找我领一个视频\n抽奖：抽一个520门槛 一个52门槛 一条原味黑丝（三天 原味内裤（三天 抽一个免费见面一起玩\n\n#爸爸活 #门槛哥 #门槛妹 #线下 #非绿 #杭州 #上海 \n\n@Sex…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1969421057590284451].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1969421057590284451",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1969421057590284451"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59958,
+        "height": 1280,
+        "media_key": "13_1969307632587718658",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1969307632587718658/img/jnd4vI9k765plNaG.jpg",
+        "public_metrics": {
+          "view_count": 513
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969307632587718658/vid/avc1/320x568/sj3R1Gcu03ZCMtIs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969307632587718658/vid/avc1/480x852/DOsN_JQddNMAIUGq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969307632587718658/vid/avc1/720x1280/2zOrOcRXT1nzT3cO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1969307632587718658/pl/Z95IUa-2U5VPrRyB.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1969307632587718658"
+          ]
+        },
+        "author_id": "1915372442668679168",
+        "conversation_id": "1969307775860605233",
+        "created_at": "2025-09-20T07:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T08:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969307775860605233"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "线下"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "非绿"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "杭州"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "上海"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 129,
+              "id": "1526018966707179520",
+              "start": 118,
+              "username": "SexytoBaby"
+            },
+            {
+              "end": 142,
+              "id": "1757780025032802304",
+              "start": 131,
+              "username": "SexytoGirl"
+            },
+            {
+              "end": 155,
+              "id": "1692492982187114497",
+              "start": 144,
+              "username": "SexytoDoll"
+            },
+            {
+              "end": 170,
+              "id": "1069656418670862336",
+              "start": 157,
+              "username": "BBYouzhiyuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Ozb4cc0vO",
+              "end": 194,
+              "expanded_url": "https://x.com/lingnai0306/status/1969307775860605233/video/1",
+              "media_key": "13_1969307632587718658",
+              "start": 171,
+              "url": "https://t.co/4Ozb4cc0vO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969307775860605233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2756,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "引流视频  一周删\nip杭州接爸爸活\n本条转发➕评论可以找我领一个视频\n抽奖：抽一个520门槛 一个52门槛 一条原味黑丝（三天 原味内裤（三天 抽一个免费见面一起玩\n\n#爸爸活 #门槛哥 #门槛妹 #线下 #非绿 #杭州 #上海 \n\n@SexytoBaby \n@SexytoGirl \n@SexytoDoll \n@BBYouzhiyuan https://t.co/4Ozb4cc0vO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88—谈恋爱了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 216,
+          "like_count": 1213,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 686
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-24T11:49:20.000Z",
+        "description": "前世4kfo转世归来163/105斤胸围e罩杯ip杭州门  槛:88/150/288/388/520/1314/2888/5200...可以验证(验证费20提问题20可以抵扣门费求互转互fo日理万机验证",
+        "id": "1915372442668679168",
+        "name": "绫奈（可视频验证）",
+        "pinned_tweet_id": "1969307775860605233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954133516247326720/ih1ILSIv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5322,
+          "following_count": 165,
+          "like_count": 1,
+          "listed_count": 26,
+          "media_count": 110,
+          "tweet_count": 500
+        },
+        "username": "lingnai0306",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053552203734876407",
+    "created_at": "2026-05-10T19:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T20:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053552203734876407"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 109,
+          "start": 106,
+          "tag": "纯绿"
+        },
+        {
+          "end": 115,
+          "start": 110,
+          "tag": "一日女友"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "门槛"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "线下"
+        },
+        {
+          "end": 128,
+          "start": 124,
+          "tag": "地雷系"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1909540060699279362",
+          "start": 3,
+          "username": "suzukii_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053552203734876407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052405602203373994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suzukii_ovo: 💜我叫牙牙\n💜坐标浙江宁波\n🚪88/188/520/1314…\n💜88仅好友位 188开放纯绿线下\n💜只接纯绿线下一日女友 只接公共场合喵\n💜喜欢我请投喂🥺 互转互fo请私我\n\n#纯绿 #一日女友 #门槛 #线下 #地雷系 https://t.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052405571069026304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHub_iaaIAAkmqR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2052405571077476352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHub_icbEAAM3NM.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2053552203734876407",
+        "created_at": "2026-05-10T19:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T20:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053552203734876407"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "纯绿"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "一日女友"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "门槛"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "线下"
+            },
+            {
+              "end": 128,
+              "start": 124,
+              "tag": "地雷系"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1909540060699279362",
+              "start": 3,
+              "username": "suzukii_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053552203734876407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052405602203373994",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suzukii_ovo: 💜我叫牙牙\n💜坐标浙江宁波\n🚪88/188/520/1314…\n💜88仅好友位 188开放纯绿线下\n💜只接纯绿线下一日女友 只接公共场合喵\n💜喜欢我请投喂🥺 互转互fo请私我\n\n#纯绿 #一日女友 #门槛 #线下 #地雷系 https://t.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052405571069026304",
+            "3_2052405571077476352"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "2052405602203373994",
+        "created_at": "2026-05-07T15:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052405602203373994"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "纯绿"
+            },
+            {
+              "end": 98,
+              "start": 93,
+              "tag": "一日女友"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "门槛"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "线下"
+            },
+            {
+              "end": 111,
+              "start": 107,
+              "tag": "地雷系"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ckx6EI27Py",
+              "end": 135,
+              "expanded_url": "https://x.com/suzukii_ovo/status/2052405602203373994/photo/1",
+              "media_key": "3_2052405571069026304",
+              "start": 112,
+              "url": "https://t.co/Ckx6EI27Py"
+            },
+            {
+              "display_url": "pic.x.com/Ckx6EI27Py",
+              "end": 135,
+              "expanded_url": "https://x.com/suzukii_ovo/status/2052405602203373994/photo/1",
+              "media_key": "3_2052405571077476352",
+              "start": 112,
+              "url": "https://t.co/Ckx6EI27Py"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052405602203373994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2289,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "💜我叫牙牙\n💜坐标浙江宁波\n🚪88/188/520/1314…\n💜88仅好友位 188开放纯绿线下\n💜只接纯绿线下一日女友 只接公共场合喵\n💜喜欢我请投喂🥺 互转互fo请私我\n\n#纯绿 #一日女友 #门槛 #线下 #地雷系 https://t.co/Ckx6EI27Py"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 202,
+          "like_count": 1405,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 738
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "🚪88好友位 \n低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2052405602203373994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1509,
+          "following_count": 105,
+          "like_count": 1287,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 203
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

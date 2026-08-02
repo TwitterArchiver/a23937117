@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1877202820429905920",
+        "3_1877202820425752576"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1877202826373345452",
+    "created_at": "2025-01-09T03:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T04:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1877202826373345452"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "女仆"
+        },
+        {
+          "end": 8,
+          "start": 4,
+          "tag": "女仆装"
+        },
+        {
+          "end": 12,
+          "start": 9,
+          "tag": "下跪"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RuVgephsTr",
+          "end": 45,
+          "expanded_url": "https://x.com/a23937117/status/1877202826373345452/photo/1",
+          "media_key": "3_1877202820429905920",
+          "start": 22,
+          "url": "https://t.co/RuVgephsTr"
+        },
+        {
+          "display_url": "pic.x.com/RuVgephsTr",
+          "end": 45,
+          "expanded_url": "https://x.com/a23937117/status/1877202826373345452/photo/1",
+          "media_key": "3_1877202820425752576",
+          "start": 22,
+          "url": "https://t.co/RuVgephsTr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877202826373345452",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#女仆 #女仆装 #下跪 #反差女友#反差 https://t.co/RuVgephsTr"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1877202826373345452].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1877202826373345452",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1877202826373345452"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1513,
+        "media_key": "3_1877202820429905920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg0qBPMWAAAW1np.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1877202820425752576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg0qBPLWoAAtNH2.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——阿根廷裔 中文/西文/英文/数媒艺备考ing 司岚重度依赖 地雷女 最喜欢男朋友 brat-sub",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585964829608665089/Y3G7Z8Ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 65,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 22
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

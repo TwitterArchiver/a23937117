@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1941901393411158335",
+    "created_at": "2025-07-07T00:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T01:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942019070594834864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1487351578419871746",
+          "start": 0,
+          "username": "kirakira1026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942019070594834864",
+    "in_reply_to_user_id": "1487351578419871746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941901393411158335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirakira1026 在老什么……是有ltp吗 ^ ╸▵╺ ^ ੭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1765,
+        "media_key": "3_1941901384846393344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvMFBVibwAAWb58.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1941901393411158335",
+        "created_at": "2025-07-07T00:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T01:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942019070594834864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1487351578419871746",
+              "start": 0,
+              "username": "kirakira1026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942019070594834864",
+        "in_reply_to_user_id": "1487351578419871746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941901393411158335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirakira1026 在老什么……是有ltp吗 ^ ╸▵╺ ^ ੭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941901384846393344"
+          ]
+        },
+        "author_id": "1487351578419871746",
+        "conversation_id": "1941901393411158335",
+        "created_at": "2025-07-06T16:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T17:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941901393411158335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KNDRzu9Xzu",
+              "end": 41,
+              "expanded_url": "https://x.com/kirakira1026/status/1941901393411158335/photo/1",
+              "media_key": "3_1941901384846393344",
+              "start": 18,
+              "url": "https://t.co/KNDRzu9Xzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941901393411158335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7339,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别在这我…我也了行吗，字都看不明白 https://t.co/KNDRzu9Xzu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "kissing",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 132,
+          "like_count": 860,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 207
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T09:07:14.000Z",
+        "description": "19岁｜♏️｜switch｜ENTP ｜不加任何联系方式（大字标红）｜恐怖片品鉴大师｜提问箱https://t.co/HgCYQp4pPU｜私信会看但不一定回｜不接推广！！！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kirakira1026",
+                "end": 69,
+                "expanded_url": "https://ngl.link/kirakira1026",
+                "start": 46,
+                "url": "https://t.co/HgCYQp4pPU"
+              }
+            ]
+          }
+        },
+        "id": "1487351578419871746",
+        "location": "双人被",
+        "name": "伊月🌙",
+        "pinned_tweet_id": "1869746551066951735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913144971525582848/tHhIDzqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21782,
+          "following_count": 1019,
+          "like_count": 21379,
+          "listed_count": 51,
+          "media_count": 206,
+          "tweet_count": 8785
+        },
+        "username": "kirakira1026",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983208004280373248"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1983208009170821131",
+    "created_at": "2025-10-28T16:23:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T17:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983208009170821131"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 8,
+          "tag": "m"
+        },
+        {
+          "end": 16,
+          "start": 11,
+          "tag": "电子女友"
+        },
+        {
+          "end": 24,
+          "start": 17,
+          "tag": "lolita"
+        },
+        {
+          "end": 28,
+          "start": 25,
+          "tag": "k8"
+        },
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "小猫"
+        },
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "门槛"
+        },
+        {
+          "end": 40,
+          "start": 37,
+          "tag": "过门"
+        },
+        {
+          "end": 44,
+          "start": 41,
+          "tag": "女高"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WeWviBidFC",
+          "end": 68,
+          "expanded_url": "https://x.com/a23937117/status/1983208009170821131/photo/1",
+          "media_key": "3_1983208004280373248",
+          "start": 45,
+          "url": "https://t.co/WeWviBidFC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983208009170821131",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那就带我逃跑\n\n#m #电子女友 #lolita #k8 #小猫 #门槛 #过门 #女高 https://t.co/WeWviBidFC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1983208009170821131].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1983208009170821131",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1983208009170821131"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983208004280373248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4XFLCLX0AAJSp2.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 218,
+          "like_count": 1308,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 742
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

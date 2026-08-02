@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071476041760034816",
+        "3_2071476041751707648"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2071476049238479100",
+    "created_at": "2026-06-29T06:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T07:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071476049238479100"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 13,
+          "start": 9,
+          "tag": "福利姬"
+        },
+        {
+          "end": 17,
+          "start": 14,
+          "tag": "反差"
+        },
+        {
+          "end": 21,
+          "start": 18,
+          "tag": "甜妹"
+        },
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "门槛"
+        },
+        {
+          "end": 34,
+          "start": 31,
+          "tag": "腿控"
+        },
+        {
+          "end": 38,
+          "start": 35,
+          "tag": "郁娇"
+        },
+        {
+          "end": 42,
+          "start": 39,
+          "tag": "女大"
+        },
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "舌钉"
+        },
+        {
+          "end": 49,
+          "start": 47,
+          "tag": "m"
+        },
+        {
+          "end": 55,
+          "start": 50,
+          "tag": "brat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gHvTbfNWu0",
+          "end": 79,
+          "expanded_url": "https://x.com/a23937117/status/2071476049238479100/photo/1",
+          "media_key": "3_2071476041760034816",
+          "start": 56,
+          "url": "https://t.co/gHvTbfNWu0"
+        },
+        {
+          "display_url": "pic.x.com/gHvTbfNWu0",
+          "end": 79,
+          "expanded_url": "https://x.com/a23937117/status/2071476049238479100/photo/1",
+          "media_key": "3_2071476041751707648",
+          "start": 56,
+          "url": "https://t.co/gHvTbfNWu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071476049238479100",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "主人叫小豹拍的\n\n#福利姬 #反差 #甜妹 #门槛妹 #门槛 #腿控 #郁娇 #女大 #舌钉 #m #brat https://t.co/gHvTbfNWu0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071476041760034816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9cfB3W0AArGJ2.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071476041751707648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9cfB1XwAAVuPY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071476041760034816",
+            "3_2071476041751707648"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2071476049238479100",
+        "created_at": "2026-06-29T06:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071476049238479100"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "福利姬"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "反差"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "甜妹"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "门槛"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "腿控"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "郁娇"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "女大"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "舌钉"
+            },
+            {
+              "end": 49,
+              "start": 47,
+              "tag": "m"
+            },
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "brat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gHvTbfNWu0",
+              "end": 79,
+              "expanded_url": "https://x.com/a23937117/status/2071476049238479100/photo/1",
+              "media_key": "3_2071476041760034816",
+              "start": 56,
+              "url": "https://t.co/gHvTbfNWu0"
+            },
+            {
+              "display_url": "pic.x.com/gHvTbfNWu0",
+              "end": 79,
+              "expanded_url": "https://x.com/a23937117/status/2071476049238479100/photo/1",
+              "media_key": "3_2071476041751707648",
+              "start": 56,
+              "url": "https://t.co/gHvTbfNWu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071476049238479100",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主人叫小豹拍的\n\n#福利姬 #反差 #甜妹 #门槛妹 #门槛 #腿控 #郁娇 #女大 #舌钉 #m #brat https://t.co/gHvTbfNWu0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 189,
+          "like_count": 1416,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 772
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

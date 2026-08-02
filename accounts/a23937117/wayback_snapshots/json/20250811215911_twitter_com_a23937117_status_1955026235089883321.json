@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954784374119084032",
+        "3_1954784374396006400"
+      ],
+      "media_source_tweet_id": [
+        "1954784398488035631",
+        "1954784398488035631"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955026235089883321",
+    "created_at": "2025-08-11T21:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T22:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955026235089883321"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 52,
+          "tag": "门槛"
+        },
+        {
+          "end": 60,
+          "start": 56,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 64,
+          "start": 61,
+          "tag": "入门"
+        },
+        {
+          "end": 68,
+          "start": 65,
+          "tag": "非绿"
+        },
+        {
+          "end": 74,
+          "start": 69,
+          "tag": "女友系列"
+        },
+        {
+          "end": 79,
+          "start": 75,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 85,
+          "start": 80,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 90,
+          "start": 86,
+          "tag": "求包养"
+        },
+        {
+          "end": 94,
+          "start": 91,
+          "tag": "线下"
+        },
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "线上"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "女大"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "反差"
+        },
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "巨乳"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1943884140988051456",
+          "start": 3,
+          "username": "jingyuerz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PprTtbMg3R",
+          "end": 134,
+          "expanded_url": "https://x.com/jingyuerz/status/1954784398488035631/photo/1",
+          "media_key": "3_1954784374119084032",
+          "start": 111,
+          "url": "https://t.co/PprTtbMg3R"
+        },
+        {
+          "display_url": "pic.x.com/PprTtbMg3R",
+          "end": 134,
+          "expanded_url": "https://x.com/jingyuerz/status/1954784398488035631/photo/1",
+          "media_key": "3_1954784374396006400",
+          "start": 111,
+          "url": "https://t.co/PprTtbMg3R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955026235089883321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954784398488035631",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingyuerz: 反差 女大\n只为买漂亮衣服\n期待哥哥入🚪！！！\n欢迎宝贝找我互转互fo～\n#门槛 #门槛哥 #入门 #非绿 #女友系列 #爸爸活 #金主爸爸 #求包养 #线下 #线上 #女大 #反差 #巨乳 https://t.co/PprTtbMg3R"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955026235089883321].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955026235089883321",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955026235089883321"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_1954784374119084032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDKCAfaMAA26WZ.jpg",
+        "width": 1284
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1954784374396006400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDKCBhbsAAtqto.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954784374119084032",
+            "3_1954784374396006400"
+          ]
+        },
+        "author_id": "1943884140988051456",
+        "conversation_id": "1954784398488035631",
+        "created_at": "2025-08-11T05:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T06:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954784398488035631"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "门槛"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "入门"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "非绿"
+            },
+            {
+              "end": 59,
+              "start": 54,
+              "tag": "女友系列"
+            },
+            {
+              "end": 64,
+              "start": 60,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 70,
+              "start": 65,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 75,
+              "start": 71,
+              "tag": "求包养"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "线下"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "线上"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "女大"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "反差"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "巨乳"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PprTtbMg3R",
+              "end": 119,
+              "expanded_url": "https://x.com/jingyuerz/status/1954784398488035631/photo/1",
+              "media_key": "3_1954784374119084032",
+              "start": 96,
+              "url": "https://t.co/PprTtbMg3R"
+            },
+            {
+              "display_url": "pic.x.com/PprTtbMg3R",
+              "end": 119,
+              "expanded_url": "https://x.com/jingyuerz/status/1954784398488035631/photo/1",
+              "media_key": "3_1954784374396006400",
+              "start": 96,
+              "url": "https://t.co/PprTtbMg3R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954784398488035631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 736,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "反差 女大\n只为买漂亮衣服\n期待哥哥入🚪！！！\n欢迎宝贝找我互转互fo～\n#门槛 #门槛哥 #入门 #非绿 #女友系列 #爸爸活 #金主爸爸 #求包养 #线下 #线上 #女大 #反差 #巨乳 https://t.co/PprTtbMg3R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 224,
+          "like_count": 1074,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 538
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-12T04:04:38.000Z",
+        "description": "一直在重启！164/54kg 坐标20r验证 期待有宝宝找我互转互fo ～",
+        "id": "1943884140988051456",
+        "name": "小鱼儿（重启版）",
+        "pinned_tweet_id": "1954784398488035631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943885015898603520/mKhfr2hF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 68,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 259
+        },
+        "username": "jingyuerz",
+        "verified": false
+      }
+    ]
+  }
+}

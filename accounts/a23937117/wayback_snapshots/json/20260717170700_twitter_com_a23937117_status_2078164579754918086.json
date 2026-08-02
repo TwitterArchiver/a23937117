@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078164571546636288"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2078164579754918086",
+    "created_at": "2026-07-17T17:07:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T18:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078164579754918086"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "球衣"
+        },
+        {
+          "end": 36,
+          "start": 32,
+          "tag": "世界杯"
+        },
+        {
+          "end": 41,
+          "start": 37,
+          "tag": "阿根廷"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "梅西"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cXehePSZqs",
+          "end": 69,
+          "expanded_url": "https://x.com/a23937117/status/2078164579754918086/photo/1",
+          "media_key": "3_2078164571546636288",
+          "start": 46,
+          "url": "https://t.co/cXehePSZqs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078164579754918086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真得要去健身房了，之前宽松的衣服现在勒的我喘不过气\n\n#球衣 #世界杯 #阿根廷 #梅西 https://t.co/cXehePSZqs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2078164571546636288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcfqs_W0AAl_Ac.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078164571546636288"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2078164579754918086",
+        "created_at": "2026-07-17T17:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078164579754918086"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "球衣"
+            },
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "世界杯"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "阿根廷"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "梅西"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cXehePSZqs",
+              "end": 69,
+              "expanded_url": "https://x.com/a23937117/status/2078164579754918086/photo/1",
+              "media_key": "3_2078164571546636288",
+              "start": 46,
+              "url": "https://t.co/cXehePSZqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078164579754918086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真得要去健身房了，之前宽松的衣服现在勒的我喘不过气\n\n#球衣 #世界杯 #阿根廷 #梅西 https://t.co/cXehePSZqs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 191,
+          "like_count": 1443,
+          "listed_count": 2,
+          "media_count": 254,
+          "tweet_count": 791
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053753858262769948",
+    "created_at": "2026-05-11T08:27:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T09:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053753858262769948"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 122,
+          "start": 118,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 127,
+          "start": 123,
+          "tag": "樱花妹"
+        },
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "女大"
+        },
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "罩杯"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1027339075",
+          "start": 3,
+          "username": "ninevision566"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053753858262769948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053540317346009416",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @ninevision566: 这里是cc萌哦  21/164/93斤 欢迎来找我互转宝宝们 喜欢二次元！ 欢迎来和我探讨 接游戏陪玩 什么都可以哦 欢迎来询问我 生活不易来做门槛妹 希望不要被误解 以及熟人刷到后可以来vx问我 #门槛妹 #樱花妹 #女大 #罩杯 #爸爸…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053540294558400512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-kBI0awAAi1OK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053540294529028096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-kBItakAAZ5kt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053540294575226880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-kBI4bgAA5Nln.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1740,
+        "media_key": "3_2053540294550044672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-kBIybQAACVGI.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2053753858262769948",
+        "created_at": "2026-05-11T08:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053753858262769948"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 122,
+              "start": 118,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 127,
+              "start": 123,
+              "tag": "樱花妹"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "女大"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "罩杯"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1027339075",
+              "start": 3,
+              "username": "ninevision566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053753858262769948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053540317346009416",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @ninevision566: 这里是cc萌哦  21/164/93斤 欢迎来找我互转宝宝们 喜欢二次元！ 欢迎来和我探讨 接游戏陪玩 什么都可以哦 欢迎来询问我 生活不易来做门槛妹 希望不要被误解 以及熟人刷到后可以来vx问我 #门槛妹 #樱花妹 #女大 #罩杯 #爸爸…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053540294558400512",
+            "3_2053540294529028096",
+            "3_2053540294575226880",
+            "3_2053540294550044672"
+          ]
+        },
+        "author_id": "1027339075",
+        "conversation_id": "2053540317346009416",
+        "created_at": "2026-05-10T18:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053540317346009416"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "樱花妹"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "女大"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "罩杯"
+            },
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1TfKnw8A1s",
+              "end": 145,
+              "expanded_url": "https://x.com/ninevision566/status/2053540317346009416/photo/1",
+              "media_key": "3_2053540294558400512",
+              "start": 122,
+              "url": "https://t.co/1TfKnw8A1s"
+            },
+            {
+              "display_url": "pic.x.com/1TfKnw8A1s",
+              "end": 145,
+              "expanded_url": "https://x.com/ninevision566/status/2053540317346009416/photo/1",
+              "media_key": "3_2053540294529028096",
+              "start": 122,
+              "url": "https://t.co/1TfKnw8A1s"
+            },
+            {
+              "display_url": "pic.x.com/1TfKnw8A1s",
+              "end": 145,
+              "expanded_url": "https://x.com/ninevision566/status/2053540317346009416/photo/1",
+              "media_key": "3_2053540294575226880",
+              "start": 122,
+              "url": "https://t.co/1TfKnw8A1s"
+            },
+            {
+              "display_url": "pic.x.com/1TfKnw8A1s",
+              "end": 145,
+              "expanded_url": "https://x.com/ninevision566/status/2053540317346009416/photo/1",
+              "media_key": "3_2053540294550044672",
+              "start": 122,
+              "url": "https://t.co/1TfKnw8A1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053540317346009416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 794,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "这里是cc萌哦  21/164/93斤 欢迎来找我互转宝宝们 喜欢二次元！ 欢迎来和我探讨 接游戏陪玩 什么都可以哦 欢迎来询问我 生活不易来做门槛妹 希望不要被误解 以及熟人刷到后可以来vx问我 #门槛妹 #樱花妹 #女大 #罩杯 #爸爸活 https://t.co/1TfKnw8A1s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 202,
+          "like_count": 1408,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 740
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-21T23:06:38.000Z",
+        "description": "21/164/92请入🚪我前世1w粉丝 重开版 福利很多欢迎宝宝们互fo互贴 目前在上学 不闲聊 不要白嫖我我已经够惨的了我就想一个人说说话记录生活（正在过大叔认证请给我匿名提问 https://t.co/CSa7CNu8Nh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ccmeng",
+                "end": 113,
+                "expanded_url": "http://ngl.link/ccmeng",
+                "start": 90,
+                "url": "https://t.co/CSa7CNu8Nh"
+              }
+            ]
+          }
+        },
+        "id": "1027339075",
+        "location": "少女心",
+        "name": "cc萌（蓝v大号被封",
+        "pinned_tweet_id": "2053540317346009416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044324604911726594/tmsNrpJo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 3,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 75
+        },
+        "username": "ninevision566",
+        "verified": false
+      }
+    ]
+  }
+}

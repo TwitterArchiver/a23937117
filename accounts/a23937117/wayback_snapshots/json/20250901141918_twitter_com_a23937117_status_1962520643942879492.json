@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962520643942879492",
+    "created_at": "2025-09-01T14:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T15:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962520643942879492"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 111,
+          "start": 107,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "门槛"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "圆角"
+        },
+        {
+          "end": 124,
+          "start": 120,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 129,
+          "start": 125,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 135,
+          "start": 130,
+          "tag": "一日女友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1933112167676739584",
+          "start": 3,
+          "username": "CZ6XLZQhbB33282"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962520643942879492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958108606756421897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CZ6XLZQhbB33282: 你们好可以叫我猫猫\n08年休学在家 164/48kg 胸围b+\n业务包括电子女友 爸爸活 定制照片 圆角 cos委托（我会尽力贴合角色\n我很需要钱谢谢你们给我钱(≧▽≦)\n#门槛妹 #门槛 #圆角 #门槛哥 #爸爸活 #一日女友 #女高…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962520643942879492].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962520643942879492",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962520643942879492"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1958108570060484608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyyZXrYacAA49Nm.jpg",
+        "width": 720
+      },
+      {
+        "height": 960,
+        "media_key": "3_1958108570001825792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyyZXrKbYAAR7_1.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1958108570064760832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyyZXrZbsAA31sQ.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958108570060484608",
+            "3_1958108570001825792",
+            "3_1958108570064760832"
+          ]
+        },
+        "author_id": "1933112167676739584",
+        "conversation_id": "1958108606756421897",
+        "created_at": "2025-08-20T10:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T11:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958108606756421897"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "门槛"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "圆角"
+            },
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 114,
+              "start": 109,
+              "tag": "一日女友"
+            },
+            {
+              "end": 120,
+              "start": 115,
+              "tag": "女高中生"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "包养"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nyEad9h8Em",
+              "end": 152,
+              "expanded_url": "https://x.com/CZ6XLZQhbB33282/status/1958108606756421897/photo/1",
+              "media_key": "3_1958108570060484608",
+              "start": 129,
+              "url": "https://t.co/nyEad9h8Em"
+            },
+            {
+              "display_url": "pic.x.com/nyEad9h8Em",
+              "end": 152,
+              "expanded_url": "https://x.com/CZ6XLZQhbB33282/status/1958108606756421897/photo/1",
+              "media_key": "3_1958108570001825792",
+              "start": 129,
+              "url": "https://t.co/nyEad9h8Em"
+            },
+            {
+              "display_url": "pic.x.com/nyEad9h8Em",
+              "end": 152,
+              "expanded_url": "https://x.com/CZ6XLZQhbB33282/status/1958108606756421897/photo/1",
+              "media_key": "3_1958108570064760832",
+              "start": 129,
+              "url": "https://t.co/nyEad9h8Em"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958108606756421897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3436,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "你们好可以叫我猫猫\n08年休学在家 164/48kg 胸围b+\n业务包括电子女友 爸爸活 定制照片 圆角 cos委托（我会尽力贴合角色\n我很需要钱谢谢你们给我钱(≧▽≦)\n#门槛妹 #门槛 #圆角 #门槛哥 #爸爸活 #一日女友 #女高中生 #包养 #线下 https://t.co/nyEad9h8Em"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 211,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 671
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T10:40:57.000Z",
+        "description": "🚪52/88朋友圈/388电子女友 ｜坐标东莞｜没过门只回答价格相关问题",
+        "id": "1933112167676739584",
+        "name": "猫猫",
+        "pinned_tweet_id": "1958108606756421897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933113626015232001/JVahrmoJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 42,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 46
+        },
+        "username": "CZ6XLZQhbB33282",
+        "verified": false
+      }
+    ]
+  }
+}

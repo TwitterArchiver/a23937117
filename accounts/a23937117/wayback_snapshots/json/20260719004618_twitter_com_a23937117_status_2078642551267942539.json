@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2078642551267942539",
+    "created_at": "2026-07-19T00:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T01:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078642551267942539"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ytkk999/status…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/ytkk999/status/2078333873172423140",
+          "start": 18,
+          "url": "https://t.co/4VgejfVEl7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078642551267942539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078333873172423140",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我来虐待你18年然后你去幸福的生活 https://t.co/4VgejfVEl7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2078642551267942539",
+        "created_at": "2026-07-19T00:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T01:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078642551267942539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ytkk999/status…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/ytkk999/status/2078333873172423140",
+              "start": 18,
+              "url": "https://t.co/4VgejfVEl7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078642551267942539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078333873172423140",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我来虐待你18年然后你去幸福的生活 https://t.co/4VgejfVEl7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935535718933090304",
+        "conversation_id": "2078333873172423140",
+        "created_at": "2026-07-18T04:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078333873172423140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078333873172423140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 103407,
+          "like_count": 607,
+          "quote_count": 32,
+          "reply_count": 285,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "很多时候提童年创伤干嘛呢？不可否认童年创伤对人的影响很大，可是你都二三十岁了还要持续提原生家庭吗？？提到多少岁才是个头呢？纵使它影响真的很深远，人不能坐以待毙就放任它影响自己的一生吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 190,
+          "like_count": 1444,
+          "listed_count": 2,
+          "media_count": 254,
+          "tweet_count": 797
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-19T03:10:59.000Z",
+        "description": "你如冬天般流淌 而我甚至不认识白色\n\n不线下不加v",
+        "id": "1935535718933090304",
+        "location": "BJ",
+        "name": "K k",
+        "pinned_tweet_id": "2060743740852256813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935548487283687424/DXQxhi7M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 73,
+          "like_count": 1454,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1261
+        },
+        "url": "",
+        "username": "Ytkk999",
+        "verified": false
+      }
+    ]
+  }
+}

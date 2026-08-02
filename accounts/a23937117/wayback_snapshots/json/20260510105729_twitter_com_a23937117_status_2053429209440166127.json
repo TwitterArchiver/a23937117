@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053429209440166127",
+    "created_at": "2026-05-10T10:57:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053429209440166127"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "门槛"
+        },
+        {
+          "end": 79,
+          "start": 75,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 83,
+          "start": 80,
+          "tag": "非绿"
+        },
+        {
+          "end": 87,
+          "start": 84,
+          "tag": "线下"
+        },
+        {
+          "end": 93,
+          "start": 88,
+          "tag": "电子女友"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "女大"
+        },
+        {
+          "end": 102,
+          "start": 98,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "反差"
+        },
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "御姐"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "援交"
+        },
+        {
+          "end": 119,
+          "start": 115,
+          "tag": "求包养"
+        },
+        {
+          "end": 124,
+          "start": 120,
+          "tag": "求入门"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1343965202002432002",
+          "start": 3,
+          "username": "Adriele88961086"
+        }
+      ],
+      "urls": [
+        {
+          "description": "email: {first letter of first name}{last name} at gmail phone: multiply 3, 5, 41, and 19907819. I don't usually pick up calls from unknown phone numbers GitHub Most recent resume Google Scholar I currently work at HRT as an Algorithm Developer on HAIL - HRT AI Labs - doing deep learning. I started in August 2019 as an Algorithm Engineer. I went to MIT for undergrad and my MEng. During undergrad, while interning at Google, my mentor and I wrote and published a paper. It was presented orally at INTERSPEECH",
+          "display_url": "jackserrino.com/tcoshort",
+          "end": 139,
+          "expanded_url": "http://jackserrino.com/tcoshort",
+          "start": 125,
+          "status": 200,
+          "title": "Jack Serrino",
+          "unwound_url": "https://jack.plus/",
+          "url": "https://t.co/S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053429209440166127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047983512519917693",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Adriele88961086: 04 女大 🔝\n喜欢的哥哥入🚪好不好🥺\n线上线下都可以哒\n可以非绿😭\n欢迎女孩子找我互转互fo ～\n#门槛 #门槛妹 #非绿 #线下 #电子女友 #女大 #爸爸活 #反差 #御姐 #援交 #求包养 #求入门 https://t.co/S…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053429209440166127].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053429209440166127",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053429209440166127"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1006,
+        "media_key": "3_2047983498884263936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvmJDzbsAAadBf.jpg",
+        "width": 1284
+      },
+      {
+        "height": 960,
+        "media_key": "3_2047983498921984001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvmJD8bQAETuOh.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1759,
+        "media_key": "3_2047983498888466432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvmJD0b0AA6fv3.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1465,
+        "media_key": "3_2047983498917761024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvmJD7a0AAE-e-.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047983498884263936",
+            "3_2047983498921984001",
+            "3_2047983498888466432",
+            "3_2047983498917761024"
+          ]
+        },
+        "author_id": "1343965202002432002",
+        "conversation_id": "2047983512519917693",
+        "created_at": "2026-04-25T10:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047983512519917693"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "门槛"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "非绿"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "线下"
+            },
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "电子女友"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "女大"
+            },
+            {
+              "end": 81,
+              "start": 77,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "反差"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "御姐"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "援交"
+            },
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "求包养"
+            },
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "求入门"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SuS06jv7SV",
+              "end": 127,
+              "expanded_url": "https://x.com/Adriele88961086/status/2047983512519917693/photo/1",
+              "media_key": "3_2047983498884263936",
+              "start": 104,
+              "url": "https://t.co/SuS06jv7SV"
+            },
+            {
+              "display_url": "pic.x.com/SuS06jv7SV",
+              "end": 127,
+              "expanded_url": "https://x.com/Adriele88961086/status/2047983512519917693/photo/1",
+              "media_key": "3_2047983498921984001",
+              "start": 104,
+              "url": "https://t.co/SuS06jv7SV"
+            },
+            {
+              "display_url": "pic.x.com/SuS06jv7SV",
+              "end": 127,
+              "expanded_url": "https://x.com/Adriele88961086/status/2047983512519917693/photo/1",
+              "media_key": "3_2047983498888466432",
+              "start": 104,
+              "url": "https://t.co/SuS06jv7SV"
+            },
+            {
+              "display_url": "pic.x.com/SuS06jv7SV",
+              "end": 127,
+              "expanded_url": "https://x.com/Adriele88961086/status/2047983512519917693/photo/1",
+              "media_key": "3_2047983498917761024",
+              "start": 104,
+              "url": "https://t.co/SuS06jv7SV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047983512519917693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 15706,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "04 女大 🔝\n喜欢的哥哥入🚪好不好🥺\n线上线下都可以哒\n可以非绿😭\n欢迎女孩子找我互转互fo ～\n#门槛 #门槛妹 #非绿 #线下 #电子女友 #女大 #爸爸活 #反差 #御姐 #援交 #求包养 #求入门 https://t.co/SuS06jv7SV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 202,
+          "like_count": 1402,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 712
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-29T17:01:06.000Z",
+        "description": "不入🚪请不要骚扰 大感谢🙏 只是一个普通小女生！",
+        "id": "1343965202002432002",
+        "name": "可乐橘子2.0",
+        "pinned_tweet_id": "2047983512519917693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945689849282904064/nZTodPOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 229,
+          "like_count": 404,
+          "listed_count": 3,
+          "media_count": 219,
+          "tweet_count": 1065
+        },
+        "username": "Adriele88961086",
+        "verified": false
+      }
+    ]
+  }
+}

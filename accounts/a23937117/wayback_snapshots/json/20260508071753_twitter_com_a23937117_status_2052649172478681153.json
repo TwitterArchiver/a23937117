@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052649167072198656",
+        "3_2052649167076421636",
+        "3_2052649167067955205"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2052649172478681153",
+    "created_at": "2026-05-08T07:17:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T08:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052649172478681153"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AypTKveZa1",
+          "end": 43,
+          "expanded_url": "https://x.com/a23937117/status/2052649172478681153/photo/1",
+          "media_key": "3_2052649167072198656",
+          "start": 20,
+          "url": "https://t.co/AypTKveZa1"
+        },
+        {
+          "display_url": "pic.x.com/AypTKveZa1",
+          "end": 43,
+          "expanded_url": "https://x.com/a23937117/status/2052649172478681153/photo/1",
+          "media_key": "3_2052649167076421636",
+          "start": 20,
+          "url": "https://t.co/AypTKveZa1"
+        },
+        {
+          "display_url": "pic.x.com/AypTKveZa1",
+          "end": 43,
+          "expanded_url": "https://x.com/a23937117/status/2052649172478681153/photo/1",
+          "media_key": "3_2052649167067955205",
+          "start": 20,
+          "url": "https://t.co/AypTKveZa1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052649172478681153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "让你们过我🚪和我线下像要害你们一样…… https://t.co/AypTKveZa1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2052649167072198656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHx5isPXAAAeX0n.jpg",
+        "width": 720
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2052649167076421636",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHx5isQXcAQXAdG.jpg",
+        "width": 768
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052649167067955205",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHx5isOWQAUm27m.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052649167072198656",
+            "3_2052649167076421636",
+            "3_2052649167067955205"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2052649172478681153",
+        "created_at": "2026-05-08T07:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052649172478681153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AypTKveZa1",
+              "end": 43,
+              "expanded_url": "https://x.com/a23937117/status/2052649172478681153/photo/1",
+              "media_key": "3_2052649167072198656",
+              "start": 20,
+              "url": "https://t.co/AypTKveZa1"
+            },
+            {
+              "display_url": "pic.x.com/AypTKveZa1",
+              "end": 43,
+              "expanded_url": "https://x.com/a23937117/status/2052649172478681153/photo/1",
+              "media_key": "3_2052649167076421636",
+              "start": 20,
+              "url": "https://t.co/AypTKveZa1"
+            },
+            {
+              "display_url": "pic.x.com/AypTKveZa1",
+              "end": 43,
+              "expanded_url": "https://x.com/a23937117/status/2052649172478681153/photo/1",
+              "media_key": "3_2052649167067955205",
+              "start": 20,
+              "url": "https://t.co/AypTKveZa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052649172478681153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让你们过我🚪和我线下像要害你们一样…… https://t.co/AypTKveZa1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 202,
+          "like_count": 1407,
+          "listed_count": 3,
+          "media_count": 218,
+          "tweet_count": 724
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

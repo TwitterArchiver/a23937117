@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954786926311206912",
+        "3_1954786926315356160"
+      ],
+      "media_source_tweet_id": [
+        "1954786939372240902",
+        "1954786939372240902"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1957061754841657623",
+    "created_at": "2025-08-17T12:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T13:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957061754841657623"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 35,
+          "tag": "门槛"
+        },
+        {
+          "end": 43,
+          "start": 39,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "非绿"
+        },
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "线下"
+        },
+        {
+          "end": 56,
+          "start": 52,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 62,
+          "start": 57,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 67,
+          "start": 63,
+          "tag": "求包养"
+        },
+        {
+          "end": 71,
+          "start": 68,
+          "tag": "圆角"
+        },
+        {
+          "end": 75,
+          "start": 72,
+          "tag": "女大"
+        },
+        {
+          "end": 79,
+          "start": 76,
+          "tag": "反差"
+        },
+        {
+          "end": 84,
+          "start": 80,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 90,
+          "start": 85,
+          "tag": "电子女友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1947549184313462785",
+          "start": 3,
+          "username": "110110110xiao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sSkYIHoEMG",
+          "end": 114,
+          "expanded_url": "https://x.com/110110110xiao/status/1954786939372240902/photo/1",
+          "media_key": "3_1954786926311206912",
+          "start": 91,
+          "url": "https://t.co/sSkYIHoEMG"
+        },
+        {
+          "display_url": "pic.x.com/sSkYIHoEMG",
+          "end": 114,
+          "expanded_url": "https://x.com/110110110xiao/status/1954786939372240902/photo/1",
+          "media_key": "3_1954786926315356160",
+          "start": 91,
+          "url": "https://t.co/sSkYIHoEMG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957061754841657623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954786939372240902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @110110110xiao: 入门看这里\n欢迎互推互fo ～\n#门槛 #门槛妹 #非绿 #线下 #爸爸活 #金主爸爸 #求包养 #圆角 #女大 #反差 #妈妈活 #电子女友 https://t.co/sSkYIHoEMG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1957061754841657623].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1957061754841657623",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1957061754841657623"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1072,
+        "media_key": "3_1954786926311206912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDMWkJbcAAOp5I.jpg",
+        "width": 1284
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1954786926315356160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDMWkKawAAEqQk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954786926311206912",
+            "3_1954786926315356160"
+          ]
+        },
+        "author_id": "1947549184313462785",
+        "conversation_id": "1954786939372240902",
+        "created_at": "2025-08-11T06:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T07:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954786939372240902"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "门槛"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "非绿"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "线下"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "求包养"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "圆角"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "女大"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "反差"
+            },
+            {
+              "end": 65,
+              "start": 61,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 71,
+              "start": 66,
+              "tag": "电子女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sSkYIHoEMG",
+              "end": 95,
+              "expanded_url": "https://x.com/110110110xiao/status/1954786939372240902/photo/1",
+              "media_key": "3_1954786926311206912",
+              "start": 72,
+              "url": "https://t.co/sSkYIHoEMG"
+            },
+            {
+              "display_url": "pic.x.com/sSkYIHoEMG",
+              "end": 95,
+              "expanded_url": "https://x.com/110110110xiao/status/1954786939372240902/photo/1",
+              "media_key": "3_1954786926315356160",
+              "start": 72,
+              "url": "https://t.co/sSkYIHoEMG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954786939372240902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4705,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "入门看这里\n欢迎互推互fo ～\n#门槛 #门槛妹 #非绿 #线下 #爸爸活 #金主爸爸 #求包养 #圆角 #女大 #反差 #妈妈活 #电子女友 https://t.co/sSkYIHoEMG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 209,
+          "like_count": 1096,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 629
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T06:48:13.000Z",
+        "description": "看到都会回复的！！！",
+        "id": "1947549184313462785",
+        "name": "小妖5.0",
+        "pinned_tweet_id": "1954786939372240902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947550357275701248/0E2Bm4lk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 51,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 164
+        },
+        "username": "110110110xiao",
+        "verified": false
+      }
+    ]
+  }
+}

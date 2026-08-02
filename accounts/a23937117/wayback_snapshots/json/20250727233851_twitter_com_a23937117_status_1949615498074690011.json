@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1949321909973524592",
+    "created_at": "2025-07-27T23:38:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T00:38:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949615498074690011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1692814547948560385",
+          "start": 0,
+          "username": "LoveYu0328"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949615498074690011",
+    "in_reply_to_user_id": "1692814547948560385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949321909973524592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoveYu0328 我是真得接了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949321907041628160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw1h8k4acAAUTRz.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1949321909973524592",
+        "created_at": "2025-07-27T23:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T00:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949615498074690011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1692814547948560385",
+              "start": 0,
+              "username": "LoveYu0328"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949615498074690011",
+        "in_reply_to_user_id": "1692814547948560385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949321909973524592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoveYu0328 我是真得接了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949321907041628160"
+          ]
+        },
+        "author_id": "1692814547948560385",
+        "conversation_id": "1949321909973524592",
+        "created_at": "2025-07-27T04:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T05:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949321909973524592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KODYy9aLU7",
+              "end": 29,
+              "expanded_url": "https://x.com/LoveYu0328/status/1949321909973524592/photo/1",
+              "media_key": "3_1949321907041628160",
+              "start": 6,
+              "url": "https://t.co/KODYy9aLU7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949321909973524592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 34875,
+          "like_count": 316,
+          "quote_count": 13,
+          "reply_count": 208,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "这个谁接。 https://t.co/KODYy9aLU7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 纯绿🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949293859470524416/u1xTmqmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 171,
+          "like_count": 977,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 436
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-19T08:23:45.000Z",
+        "description": "唉 小虞 ꒦ິ^꒦ິ   🚪52丨88丨128幸福请降临小虞手心 不过🚪不闲聊",
+        "id": "1692814547948560385",
+        "location": "爱我请打钱",
+        "name": "我只有一个虞",
+        "pinned_tweet_id": "1948009660923216019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945050136423620608/NFba1TQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1383,
+          "following_count": 321,
+          "like_count": 15140,
+          "listed_count": 6,
+          "media_count": 127,
+          "tweet_count": 1214
+        },
+        "username": "LoveYu0328",
+        "verified": false
+      }
+    ]
+  }
+}

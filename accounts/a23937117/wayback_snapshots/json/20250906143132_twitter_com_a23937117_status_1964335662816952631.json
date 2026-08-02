@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1964335662816952631",
+    "created_at": "2025-09-06T14:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T15:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964335662816952631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1088832825502052352",
+          "start": 3,
+          "username": "yoosuf09462538"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964335662816952631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963827140690133026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoosuf09462538: 米娜桑可以叫我月月...\n属性157/47kg/05女大休学ing\n生日09.14\n🚪52 可加好友 🚪88 送图包+聊天随机掉落福利 🚪128送图包和一个视频，可线下 🚪188送图包fuli视频合集🚪288全套fuli（图包+视频）\n线…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1963827073795125248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0DqUZ3acAAXQq7.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1963827101494288384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0DqWBDaIAAIzJT.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1964335662816952631",
+        "created_at": "2025-09-06T14:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T15:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964335662816952631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1088832825502052352",
+              "start": 3,
+              "username": "yoosuf09462538"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964335662816952631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963827140690133026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoosuf09462538: 米娜桑可以叫我月月...\n属性157/47kg/05女大休学ing\n生日09.14\n🚪52 可加好友 🚪88 送图包+聊天随机掉落福利 🚪128送图包和一个视频，可线下 🚪188送图包fuli视频合集🚪288全套fuli（图包+视频）\n线…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963827073795125248",
+            "3_1963827101494288384"
+          ]
+        },
+        "author_id": "1088832825502052352",
+        "conversation_id": "1963827140690133026",
+        "created_at": "2025-09-05T04:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T05:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963827140690133026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Syj3e1tKZp",
+              "end": 203,
+              "expanded_url": "https://x.com/yoosuf09462538/status/1963827140690133026/photo/1",
+              "media_key": "3_1963827073795125248",
+              "start": 180,
+              "url": "https://t.co/Syj3e1tKZp"
+            },
+            {
+              "display_url": "pic.x.com/Syj3e1tKZp",
+              "end": 203,
+              "expanded_url": "https://x.com/yoosuf09462538/status/1963827140690133026/photo/1",
+              "media_key": "3_1963827101494288384",
+              "start": 180,
+              "url": "https://t.co/Syj3e1tKZp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963827140690133026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 847,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "米娜桑可以叫我月月...\n属性157/47kg/05女大休学ing\n生日09.14\n🚪52 可加好友 🚪88 送图包+聊天随机掉落福利 🚪128送图包和一个视频，可线下 🚪188送图包fuli视频合集🚪288全套fuli（图包+视频）\n线下坐标10r，\n纯/半/非绿（请看清楚⚠）\n520/888/1314 3h\n私信只回口令蟹蟹骚扰会拉黑\n女宝互转欢迎吖~ https://t.co/Syj3e1tKZp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 208,
+          "like_count": 1156,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 646
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-25T16:15:49.000Z",
+        "description": "谢谢你的喜欢...🚪52 88 128 188 无上限......",
+        "id": "1088832825502052352",
+        "location": "坐标10r",
+        "name": "✞🤍『楽園毁滅程序』🤍✞",
+        "pinned_tweet_id": "1963827140690133026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963821634340757504/sofc0DVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 5,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 13
+        },
+        "username": "yoosuf09462538",
+        "verified": false
+      }
+    ]
+  }
+}

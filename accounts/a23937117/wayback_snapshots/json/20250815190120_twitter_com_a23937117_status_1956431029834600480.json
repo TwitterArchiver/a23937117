@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1956431029834600480",
+    "created_at": "2025-08-15T19:01:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T20:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956431029834600480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1747931023277502465",
+          "start": 3,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956431029834600480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853825713683812826",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @damatte8964: 看到首页的二次元叽叽喳喳，我喜欢；\n看到首页的mtf喵来咱去，我喜欢；\n看到首页的文案博主瑞萍，我喜欢；\n看到首页的鉴证推互相吵架，我喜欢；\n看到首页的餐券妹好看的血图，我喜欢；\n看到首页的漂亮脸蛋和身材，我喜欢。\n我喜欢推特，我喜欢你们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1956431029834600480",
+        "created_at": "2025-08-15T19:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T20:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956431029834600480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1747931023277502465",
+              "start": 3,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956431029834600480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853825713683812826",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @damatte8964: 看到首页的二次元叽叽喳喳，我喜欢；\n看到首页的mtf喵来咱去，我喜欢；\n看到首页的文案博主瑞萍，我喜欢；\n看到首页的鉴证推互相吵架，我喜欢；\n看到首页的餐券妹好看的血图，我喜欢；\n看到首页的漂亮脸蛋和身材，我喜欢。\n我喜欢推特，我喜欢你们"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1853825713683812826",
+        "created_at": "2024-11-05T15:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T16:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853825713683812826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1853825713683812826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 30793,
+          "like_count": 377,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "看到首页的二次元叽叽喳喳，我喜欢；\n看到首页的mtf喵来咱去，我喜欢；\n看到首页的文案博主瑞萍，我喜欢；\n看到首页的鉴证推互相吵架，我喜欢；\n看到首页的餐券妹好看的血图，我喜欢；\n看到首页的漂亮脸蛋和身材，我喜欢。\n我喜欢推特，我喜欢你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 207,
+          "like_count": 1099,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 617
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ* 人デ無シ マタ智慧モ無シ｜我是小咪 很想介绍一下自己 但是我是一个空洞的人 最喜欢兔狲｜🚪99/198/520/1314 谢谢你的善意(´；ω；｀)接纯绿线下…",
+        "id": "1747931023277502465",
+        "location": "Tokyo-to, Japan",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1866766840078164028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929548470274367488/QK72McBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34650,
+          "following_count": 772,
+          "like_count": 6992,
+          "listed_count": 42,
+          "media_count": 236,
+          "tweet_count": 2510
+        },
+        "username": "damatte8964",
+        "verified": true
+      }
+    ]
+  }
+}

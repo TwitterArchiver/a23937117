@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938327091021570048"
+      ],
+      "media_source_tweet_id": [
+        "1938327098617221175"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1939071203807006742",
+    "created_at": "2025-06-28T21:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T22:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939071203807006742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1712967662295527424",
+          "start": 3,
+          "username": "Deehoo0203"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ozKnZJoXVm",
+          "end": 135,
+          "expanded_url": "https://x.com/Deehoo0203/status/1938327098617221175/photo/1",
+          "media_key": "3_1938327091021570048",
+          "start": 112,
+          "url": "https://t.co/ozKnZJoXVm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939071203807006742",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938327098617221175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Deehoo0203: 17岁本该是在高中里紧张的校园生活，你的生活却是断断续续去学校、吃药自残、结交社会不良网友、买性用品，你已经脱离了一个17岁孩子本该的生活轨迹，如果这是你选择的人生，将来不后悔，我不再管你了 https://t.co/ozKnZJoXVm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1938327091021570048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuZSODbbYAAZHPc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938327091021570048"
+          ],
+          "media_source_tweet_id": [
+            "1938327098617221175"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "1939071203807006742",
+        "created_at": "2025-06-28T21:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T22:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939071203807006742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1712967662295527424",
+              "start": 3,
+              "username": "Deehoo0203"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ozKnZJoXVm",
+              "end": 135,
+              "expanded_url": "https://x.com/Deehoo0203/status/1938327098617221175/photo/1",
+              "media_key": "3_1938327091021570048",
+              "start": 112,
+              "url": "https://t.co/ozKnZJoXVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939071203807006742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938327098617221175",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Deehoo0203: 17岁本该是在高中里紧张的校园生活，你的生活却是断断续续去学校、吃药自残、结交社会不良网友、买性用品，你已经脱离了一个17岁孩子本该的生活轨迹，如果这是你选择的人生，将来不后悔，我不再管你了 https://t.co/ozKnZJoXVm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938327091021570048"
+          ]
+        },
+        "author_id": "1712967662295527424",
+        "conversation_id": "1938327098617221175",
+        "created_at": "2025-06-26T20:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T21:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938327098617221175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ozKnZJoXVm",
+              "end": 119,
+              "expanded_url": "https://x.com/Deehoo0203/status/1938327098617221175/photo/1",
+              "media_key": "3_1938327091021570048",
+              "start": 96,
+              "url": "https://t.co/ozKnZJoXVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938327098617221175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 122565,
+          "like_count": 1361,
+          "quote_count": 12,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "reply_settings": "following",
+        "text": "17岁本该是在高中里紧张的校园生活，你的生活却是断断续续去学校、吃药自残、结交社会不良网友、买性用品，你已经脱离了一个17岁孩子本该的生活轨迹，如果这是你选择的人生，将来不后悔，我不再管你了 https://t.co/ozKnZJoXVm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "kissing",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 132,
+          "like_count": 841,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 178
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-13T23:05:00.000Z",
+        "description": "@Deehoo0203 has blocked you",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "Deehoo0203"
+              }
+            ]
+          }
+        },
+        "id": "1712967662295527424",
+        "name": "寂.寞.夏.日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860396748361072641/7-Oh-IhN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9203,
+          "following_count": 1,
+          "like_count": 205,
+          "listed_count": 15,
+          "media_count": 75,
+          "tweet_count": 607
+        },
+        "username": "Deehoo0203",
+        "verified": false
+      }
+    ]
+  }
+}

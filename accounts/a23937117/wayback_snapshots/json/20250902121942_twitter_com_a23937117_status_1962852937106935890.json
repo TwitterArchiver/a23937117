@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1835728454102437888",
+        "3_1835728547312492544",
+        "3_1835728602891227136",
+        "3_1835728643202686976"
+      ],
+      "media_source_tweet_id": [
+        "1835729412568015299",
+        "1835729412568015299",
+        "1835729412568015299",
+        "1835729412568015299"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962852937106935890",
+    "created_at": "2025-09-02T12:19:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T13:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962852937106935890"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 67,
+          "start": 64,
+          "tag": "线下"
+        },
+        {
+          "end": 72,
+          "start": 68,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "金主"
+        },
+        {
+          "end": 82,
+          "start": 78,
+          "tag": "小女孩"
+        },
+        {
+          "end": 88,
+          "start": 83,
+          "tag": "一日女友"
+        },
+        {
+          "end": 93,
+          "start": 89,
+          "tag": "爸爸活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1835044271633973252",
+          "start": 3,
+          "username": "kitachani"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y508V3b7E3",
+          "end": 117,
+          "expanded_url": "https://x.com/kitachani/status/1835729412568015299/photo/1",
+          "media_key": "3_1835728454102437888",
+          "start": 94,
+          "url": "https://t.co/y508V3b7E3"
+        },
+        {
+          "display_url": "pic.x.com/y508V3b7E3",
+          "end": 117,
+          "expanded_url": "https://x.com/kitachani/status/1835729412568015299/photo/1",
+          "media_key": "3_1835728547312492544",
+          "start": 94,
+          "url": "https://t.co/y508V3b7E3"
+        },
+        {
+          "display_url": "pic.x.com/y508V3b7E3",
+          "end": 117,
+          "expanded_url": "https://x.com/kitachani/status/1835729412568015299/photo/1",
+          "media_key": "3_1835728602891227136",
+          "start": 94,
+          "url": "https://t.co/y508V3b7E3"
+        },
+        {
+          "display_url": "pic.x.com/y508V3b7E3",
+          "end": 117,
+          "expanded_url": "https://x.com/kitachani/status/1835729412568015299/photo/1",
+          "media_key": "3_1835728643202686976",
+          "start": 94,
+          "url": "https://t.co/y508V3b7E3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962852937106935890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835729412568015299",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @kitachani: 新顶置\n这里是沐沐\n喜欢我请来过我🚪\n我接武汉爸爸活（可指定衣服）\n小女孩互fo互转大欢迎！！！\n#线下 #门槛妹 #金主  #小女孩 #一日女友 #爸爸活 https://t.co/y508V3b7E3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962852937106935890].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962852937106935890",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962852937106935890"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 836,
+        "media_key": "3_1835728454102437888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXnRTYraUAAO1nZ.jpg",
+        "width": 1280
+      },
+      {
+        "height": 921,
+        "media_key": "3_1835728547312492544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXnRYz6a4AASr0_.jpg",
+        "width": 574
+      },
+      {
+        "height": 927,
+        "media_key": "3_1835728602891227136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXnRcC9bEAAyxJj.jpg",
+        "width": 574
+      },
+      {
+        "height": 1104,
+        "media_key": "3_1835728643202686976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXnReZIbIAAUgph.jpg",
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835728454102437888",
+            "3_1835728547312492544",
+            "3_1835728602891227136",
+            "3_1835728643202686976"
+          ]
+        },
+        "author_id": "1835044271633973252",
+        "conversation_id": "1835729412568015299",
+        "created_at": "2024-09-16T17:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T18:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835729412568015299"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "线下"
+            },
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "金主"
+            },
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "小女孩"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "一日女友"
+            },
+            {
+              "end": 78,
+              "start": 74,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y508V3b7E3",
+              "end": 102,
+              "expanded_url": "https://x.com/kitachani/status/1835729412568015299/photo/1",
+              "media_key": "3_1835728454102437888",
+              "start": 79,
+              "url": "https://t.co/y508V3b7E3"
+            },
+            {
+              "display_url": "pic.x.com/y508V3b7E3",
+              "end": 102,
+              "expanded_url": "https://x.com/kitachani/status/1835729412568015299/photo/1",
+              "media_key": "3_1835728547312492544",
+              "start": 79,
+              "url": "https://t.co/y508V3b7E3"
+            },
+            {
+              "display_url": "pic.x.com/y508V3b7E3",
+              "end": 102,
+              "expanded_url": "https://x.com/kitachani/status/1835729412568015299/photo/1",
+              "media_key": "3_1835728602891227136",
+              "start": 79,
+              "url": "https://t.co/y508V3b7E3"
+            },
+            {
+              "display_url": "pic.x.com/y508V3b7E3",
+              "end": 102,
+              "expanded_url": "https://x.com/kitachani/status/1835729412568015299/photo/1",
+              "media_key": "3_1835728643202686976",
+              "start": 79,
+              "url": "https://t.co/y508V3b7E3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835729412568015299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 79096,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "新顶置\n这里是沐沐\n喜欢我请来过我🚪\n我接武汉爸爸活（可指定衣服）\n小女孩互fo互转大欢迎！！！\n#线下 #门槛妹 #金主  #小女孩 #一日女友 #爸爸活 https://t.co/y508V3b7E3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 202,
+          "like_count": 1139,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 694
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T19:53:49.000Z",
+        "description": "🚪188/288/520\n接武汉爸爸活",
+        "id": "1835044271633973252",
+        "name": "沐沐2.0",
+        "pinned_tweet_id": "1835729412568015299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835729855243329536/nX0LbTZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 107,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 289
+        },
+        "username": "kitachani",
+        "verified": false
+      }
+    ]
+  }
+}

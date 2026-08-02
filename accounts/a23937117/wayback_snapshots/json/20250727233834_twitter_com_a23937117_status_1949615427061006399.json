@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949615422396932096"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1949615427061006399",
+    "created_at": "2025-07-27T23:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T00:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949615427061006399"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ldmtf47WnW",
+          "end": 53,
+          "expanded_url": "https://x.com/a23937117/status/1949615427061006399/photo/1",
+          "media_key": "3_1949615422396932096",
+          "start": 30,
+          "url": "https://t.co/Ldmtf47WnW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949615427061006399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不要再说自己下海站街了，明明一杯水一句我爱你，你就又免费了 https://t.co/Ldmtf47WnW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1949615427061006399].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1949615427061006399",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1949615427061006399"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1380,
+        "media_key": "3_1949615422396932096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw5s5ayXoAATE7H.jpg",
+        "width": 1061
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 纯绿🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949293859470524416/u1xTmqmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 171,
+          "like_count": 976,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 435
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

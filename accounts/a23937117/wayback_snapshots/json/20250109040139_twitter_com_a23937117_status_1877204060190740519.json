@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1877204054159273984"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1877204060190740519",
+    "created_at": "2025-01-09T04:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T05:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1877204060190740519"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "低温蜡"
+        },
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "反差"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yDGfP7iAnp",
+          "end": 50,
+          "expanded_url": "https://x.com/a23937117/status/1877204060190740519/photo/1",
+          "media_key": "3_1877204054159273984",
+          "start": 27,
+          "url": "https://t.co/yDGfP7iAnp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877204060190740519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜欢蜡的痛感，特别是出自男朋友的手\n#低温蜡 #反差 https://t.co/yDGfP7iAnp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1877204060190740519].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1877204060190740519",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1877204060190740519"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1877204054159273984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg0rJDMWMAA9RM8.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——阿根廷裔 中文/西文/英文/数媒艺备考ing 司岚重度依赖 地雷女 最喜欢男朋友 brat-sub",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585964829608665089/Y3G7Z8Ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 65,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 24
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

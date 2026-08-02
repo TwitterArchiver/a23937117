@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962120348905656432",
+    "created_at": "2025-08-31T11:48:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T12:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962120348905656432"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "线下"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "非绿"
+        },
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "定制"
+        },
+        {
+          "end": 108,
+          "start": 104,
+          "tag": "1v1"
+        },
+        {
+          "end": 113,
+          "start": 109,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 117,
+          "start": 114,
+          "tag": "空降"
+        },
+        {
+          "end": 124,
+          "start": 118,
+          "tag": "喜欢爆金币"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "反差"
+        },
+        {
+          "end": 133,
+          "start": 129,
+          "tag": "腰臀比"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1912730014950531072",
+          "start": 3,
+          "username": "bingqingqrq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962120348905656432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 99
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938193847500345621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bingqingqrq: 大家好我是木木，这是我的新一世\n05，一个普通小女孩\n\n会打游戏端游，会擦会cos爸爸活\n业务在图里，过门请正确姿势～\n如果想和我在一起就口令我吧～\n#线下 #非绿 #定制 #1v1 #门槛妹 #空降 #喜欢爆金币 #反差 #腰臀比 https…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962120348905656432].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962120348905656432",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962120348905656432"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1684,
+        "media_key": "3_1938193837266243585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuXZBqgbEAEmBhj.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1706,
+        "media_key": "3_1938193837161385986",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuXZBqHbEAIoh6Z.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938193837266243585",
+            "3_1938193837161385986"
+          ]
+        },
+        "author_id": "1912730014950531072",
+        "conversation_id": "1938193847500345621",
+        "created_at": "2025-06-26T11:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T12:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938193847500345621"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "线下"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "非绿"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "定制"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "1v1"
+            },
+            {
+              "end": 96,
+              "start": 92,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "空降"
+            },
+            {
+              "end": 107,
+              "start": 101,
+              "tag": "喜欢爆金币"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "反差"
+            },
+            {
+              "end": 116,
+              "start": 112,
+              "tag": "腰臀比"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/inTSIJP2BJ",
+              "end": 140,
+              "expanded_url": "https://x.com/bingqingqrq/status/1938193847500345621/photo/1",
+              "media_key": "3_1938193837266243585",
+              "start": 117,
+              "url": "https://t.co/inTSIJP2BJ"
+            },
+            {
+              "display_url": "pic.x.com/inTSIJP2BJ",
+              "end": 140,
+              "expanded_url": "https://x.com/bingqingqrq/status/1938193847500345621/photo/1",
+              "media_key": "3_1938193837161385986",
+              "start": 117,
+              "url": "https://t.co/inTSIJP2BJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938193847500345621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 60147,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "大家好我是木木，这是我的新一世\n05，一个普通小女孩\n\n会打游戏端游，会擦会cos爸爸活\n业务在图里，过门请正确姿势～\n如果想和我在一起就口令我吧～\n#线下 #非绿 #定制 #1v1 #门槛妹 #空降 #喜欢爆金币 #反差 #腰臀比 https://t.co/inTSIJP2BJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 208,
+          "like_count": 1136,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 673
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T04:49:16.000Z",
+        "description": "欢迎哥哥来找我玩呀｜有🚪｜坐标验证20r ｜希望能有哥哥喜欢，欢迎投喂～女宝宝来互fo～",
+        "id": "1912730014950531072",
+        "location": "过🚪dd领图包",
+        "name": "林木木i",
+        "pinned_tweet_id": "1938193847500345621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943260686341095425/EQP4f_dL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 24,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 237
+        },
+        "username": "bingqingqrq",
+        "verified": false
+      }
+    ]
+  }
+}

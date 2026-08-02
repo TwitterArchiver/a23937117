@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075417831663890433"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2075417838198685700",
+    "created_at": "2026-07-10T03:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T04:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075417838198685700"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cFkJhug4JP",
+          "end": 29,
+          "expanded_url": "https://x.com/a23937117/status/2075417838198685700/photo/1",
+          "media_key": "3_2075417831663890433",
+          "start": 6,
+          "url": "https://t.co/cFkJhug4JP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075417838198685700",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小豹剃毛捏 https://t.co/cFkJhug4JP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075417831663890433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1dhZjWcAEI7eb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075417831663890433"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2075417838198685700",
+        "created_at": "2026-07-10T03:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075417838198685700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cFkJhug4JP",
+              "end": 29,
+              "expanded_url": "https://x.com/a23937117/status/2075417838198685700/photo/1",
+              "media_key": "3_2075417831663890433",
+              "start": 6,
+              "url": "https://t.co/cFkJhug4JP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075417838198685700",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小豹剃毛捏 https://t.co/cFkJhug4JP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 189,
+          "like_count": 1426,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 767
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": true
+      }
+    ]
+  }
+}

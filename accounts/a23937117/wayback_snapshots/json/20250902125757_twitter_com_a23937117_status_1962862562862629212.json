@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962862562862629212",
+    "created_at": "2025-09-02T12:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T13:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962862562862629212"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "电子女友"
+        },
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "门槛"
+        },
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "门槛姐"
+        },
+        {
+          "end": 43,
+          "start": 39,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "烟代"
+        },
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "爱喜"
+        },
+        {
+          "end": 55,
+          "start": 52,
+          "tag": "韩烟"
+        },
+        {
+          "end": 59,
+          "start": 56,
+          "tag": "外烟"
+        },
+        {
+          "end": 62,
+          "start": 60,
+          "tag": "m"
+        },
+        {
+          "end": 68,
+          "start": 63,
+          "tag": "女高中生"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962862562862629212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好饿，想吃饭……谁入🚪或者买点烟让我吃个饭。\n\n#电子女友 #门槛 #门槛姐 #门槛妹 #烟代 #爱喜 #韩烟 #外烟 #m #女高中生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1962862562862629212",
+        "created_at": "2025-09-02T12:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T13:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962862562862629212"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "电子女友"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "门槛"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "烟代"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "爱喜"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "韩烟"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "外烟"
+            },
+            {
+              "end": 62,
+              "start": 60,
+              "tag": "m"
+            },
+            {
+              "end": 68,
+              "start": 63,
+              "tag": "女高中生"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962862562862629212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好饿，想吃饭……谁入🚪或者买点烟让我吃个饭。\n\n#电子女友 #门槛 #门槛姐 #门槛妹 #烟代 #爱喜 #韩烟 #外烟 #m #女高中生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 202,
+          "like_count": 1140,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 696
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

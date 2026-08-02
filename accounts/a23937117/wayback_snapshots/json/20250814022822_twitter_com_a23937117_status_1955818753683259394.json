@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955818748029403139"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955818753683259394",
+    "created_at": "2025-08-14T02:28:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T03:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955818753683259394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y3ZVOI0pxM",
+          "end": 40,
+          "expanded_url": "https://x.com/a23937117/status/1955818753683259394/photo/1",
+          "media_key": "3_1955818748029403139",
+          "start": 17,
+          "url": "https://t.co/Y3ZVOI0pxM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955818753683259394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前的cos名单有一些已经出过了 https://t.co/Y3ZVOI0pxM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955818753683259394].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955818753683259394",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955818753683259394"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955818748029403139",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyR2yflXgAMdUWH.jpg",
+        "width": 945
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 233,
+          "like_count": 1088,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 598
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

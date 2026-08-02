@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077190524801343488",
+        "3_2077190524813914112",
+        "3_2077190524826533888",
+        "3_2077190524839047168"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2077190532304953472",
+    "created_at": "2026-07-15T00:36:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T01:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077190532304953472"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 31,
+          "tag": "门槛"
+        },
+        {
+          "end": 39,
+          "start": 35,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 44,
+          "start": 40,
+          "tag": "福利姬"
+        },
+        {
+          "end": 48,
+          "start": 45,
+          "tag": "福利"
+        },
+        {
+          "end": 52,
+          "start": 49,
+          "tag": "投票"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aDQOm7Mcy8",
+          "end": 76,
+          "expanded_url": "https://x.com/a23937117/status/2077190532304953472/photo/1",
+          "media_key": "3_2077190524801343488",
+          "start": 53,
+          "url": "https://t.co/aDQOm7Mcy8"
+        },
+        {
+          "display_url": "pic.x.com/aDQOm7Mcy8",
+          "end": 76,
+          "expanded_url": "https://x.com/a23937117/status/2077190532304953472/photo/1",
+          "media_key": "3_2077190524813914112",
+          "start": 53,
+          "url": "https://t.co/aDQOm7Mcy8"
+        },
+        {
+          "display_url": "pic.x.com/aDQOm7Mcy8",
+          "end": 76,
+          "expanded_url": "https://x.com/a23937117/status/2077190532304953472/photo/1",
+          "media_key": "3_2077190524826533888",
+          "start": 53,
+          "url": "https://t.co/aDQOm7Mcy8"
+        },
+        {
+          "display_url": "pic.x.com/aDQOm7Mcy8",
+          "end": 76,
+          "expanded_url": "https://x.com/a23937117/status/2077190532304953472/photo/1",
+          "media_key": "3_2077190524839047168",
+          "start": 53,
+          "url": "https://t.co/aDQOm7Mcy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077190532304953472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "马上八百粉福利哦，小暴要拍一套写真，哥哥们投票最喜欢哪件呀\n\n#门槛 #门槛妹 #福利姬 #福利 #投票 https://t.co/aDQOm7Mcy8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077190524801343488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNOpxuGXYAABs0u.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077190524813914112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNOpxuJXMAAh_az.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077190524826533888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNOpxuMXwAAFh6M.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077190524839047168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNOpxuPWsAAqDuR.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077190524801343488",
+            "3_2077190524813914112",
+            "3_2077190524826533888",
+            "3_2077190524839047168"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2077190532304953472",
+        "created_at": "2026-07-15T00:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T01:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077190532304953472"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "门槛"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "福利姬"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "福利"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "投票"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aDQOm7Mcy8",
+              "end": 76,
+              "expanded_url": "https://x.com/a23937117/status/2077190532304953472/photo/1",
+              "media_key": "3_2077190524801343488",
+              "start": 53,
+              "url": "https://t.co/aDQOm7Mcy8"
+            },
+            {
+              "display_url": "pic.x.com/aDQOm7Mcy8",
+              "end": 76,
+              "expanded_url": "https://x.com/a23937117/status/2077190532304953472/photo/1",
+              "media_key": "3_2077190524813914112",
+              "start": 53,
+              "url": "https://t.co/aDQOm7Mcy8"
+            },
+            {
+              "display_url": "pic.x.com/aDQOm7Mcy8",
+              "end": 76,
+              "expanded_url": "https://x.com/a23937117/status/2077190532304953472/photo/1",
+              "media_key": "3_2077190524826533888",
+              "start": 53,
+              "url": "https://t.co/aDQOm7Mcy8"
+            },
+            {
+              "display_url": "pic.x.com/aDQOm7Mcy8",
+              "end": 76,
+              "expanded_url": "https://x.com/a23937117/status/2077190532304953472/photo/1",
+              "media_key": "3_2077190524839047168",
+              "start": 53,
+              "url": "https://t.co/aDQOm7Mcy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077190532304953472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马上八百粉福利哦，小暴要拍一套写真，哥哥们投票最喜欢哪件呀\n\n#门槛 #门槛妹 #福利姬 #福利 #投票 https://t.co/aDQOm7Mcy8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 190,
+          "like_count": 1431,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 777
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": true
+      }
+    ]
+  }
+}

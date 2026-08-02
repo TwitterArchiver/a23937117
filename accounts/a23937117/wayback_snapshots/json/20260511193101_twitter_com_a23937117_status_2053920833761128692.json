@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053920833761128692",
+    "created_at": "2026-05-11T19:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T20:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053920833761128692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1991686137367392258",
+          "start": 3,
+          "username": "MarietteT7712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053920833761128692",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005342230324912551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MarietteT7712: 晴晴大王驾到噜 📍福建厦门\n不上学了比较早出社会 爸妈都不管我 我一个人在厦门打工…🥹\n这段时间辞职了宅在家里很无聊 天天打王者看韩剧🎮希望能在这里认识到好朋友！\n不打游戏的哥哥也可以入门找我聊天\n我分享欲很强 人甜话多多！ https:/…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053920833761128692].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053920833761128692",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053920833761128692"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3023,
+        "height": 962,
+        "media_key": "13_2005342171009052672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2005342171009052672/img/6g6cLHqawA88BGVZ.jpg",
+        "public_metrics": {
+          "view_count": 18139
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005342171009052672/vid/avc1/320x426/WravScERCOdOS7QP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005342171009052672/vid/avc1/480x640/GaGN_8H1KkUY1JeJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005342171009052672/vid/avc1/720x962/DQrS0CrHngx28ecT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2005342171009052672/pl/LLvNwN7KurKppnje.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1089,
+        "media_key": "3_2005342170971242496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9RoFGnaAAAPsub.jpg",
+        "width": 1053
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005342171009052672",
+            "3_2005342170971242496"
+          ]
+        },
+        "author_id": "1991686137367392258",
+        "conversation_id": "2005342230324912551",
+        "created_at": "2025-12-28T18:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T19:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005342230324912551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dCAWfRS57M",
+              "end": 136,
+              "expanded_url": "https://x.com/MarietteT7712/status/2005342230324912551/video/1",
+              "media_key": "13_2005342171009052672",
+              "start": 113,
+              "url": "https://t.co/dCAWfRS57M"
+            },
+            {
+              "display_url": "pic.x.com/dCAWfRS57M",
+              "end": 136,
+              "expanded_url": "https://x.com/MarietteT7712/status/2005342230324912551/video/1",
+              "media_key": "3_2005342170971242496",
+              "start": 113,
+              "url": "https://t.co/dCAWfRS57M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005342230324912551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 55115,
+          "like_count": 81,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "晴晴大王驾到噜 📍福建厦门\n不上学了比较早出社会 爸妈都不管我 我一个人在厦门打工…🥹\n这段时间辞职了宅在家里很无聊 天天打王者看韩剧🎮希望能在这里认识到好朋友！\n不打游戏的哥哥也可以入门找我聊天\n我分享欲很强 人甜话多多！ https://t.co/dCAWfRS57M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 202,
+          "like_count": 1409,
+          "listed_count": 2,
+          "media_count": 226,
+          "tweet_count": 762
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T01:52:35.000Z",
+        "description": "谢谢你来看我！对我感兴趣的话请入门吧～我对门哥超级好的说！",
+        "id": "1991686137367392258",
+        "location": "厦门",
+        "name": "天気晴",
+        "pinned_tweet_id": "2005342230324912551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005339803588743168/MU7O6xQ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 13,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 208
+        },
+        "username": "MarietteT7712",
+        "verified": false
+      }
+    ]
+  }
+}

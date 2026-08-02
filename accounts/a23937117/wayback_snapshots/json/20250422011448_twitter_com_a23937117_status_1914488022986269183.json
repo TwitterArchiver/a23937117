@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914487962093473792",
+        "13_1914487962068258816"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1914488022986269183",
+    "created_at": "2025-04-22T01:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T02:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914488022986269183"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CQt0DQKi7M",
+          "end": 39,
+          "expanded_url": "https://x.com/a23937117/status/1914488022986269183/video/1",
+          "media_key": "3_1914487962093473792",
+          "start": 16,
+          "url": "https://t.co/CQt0DQKi7M"
+        },
+        {
+          "display_url": "pic.x.com/CQt0DQKi7M",
+          "end": 39,
+          "expanded_url": "https://x.com/a23937117/status/1914488022986269183/video/1",
+          "media_key": "13_1914487962068258816",
+          "start": 16,
+          "url": "https://t.co/CQt0DQKi7M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914488022986269183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爱我，连同我的伤痛和丑陋的疤。 https://t.co/CQt0DQKi7M"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1914488022986269183].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1914488022986269183",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1914488022986269183"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1914487962093473792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpGgqHtX0AA_W0Z.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 8361,
+        "height": 960,
+        "media_key": "13_1914487962068258816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1914487962068258816/img/awLFCe-_3tOJLYWp.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914487962068258816/vid/avc1/320x426/ZY8b6wqIqTJrZcA-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914487962068258816/vid/avc1/480x640/LlKmrO6ycx9PWIZn.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914487962068258816/vid/avc1/720x960/ucnpdyThlcGjbTsY.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1914487962068258816/pl/zQQk27EEfKTIYlig.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 94,
+          "like_count": 624,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 56
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1848308485479452672",
+        "3_1848308485475221504",
+        "3_1848308485466828800",
+        "3_1848308485475237888"
+      ],
+      "media_source_tweet_id": [
+        "1848308548976972013",
+        "1848308548976972013",
+        "1848308548976972013",
+        "1848308548976972013"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1968383068919730680",
+    "created_at": "2025-09-17T18:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T19:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968383068919730680"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 80,
+          "start": 77,
+          "tag": "线下"
+        },
+        {
+          "end": 85,
+          "start": 81,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 90,
+          "start": 86,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 94,
+          "start": 91,
+          "tag": "包养"
+        },
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "萝莉"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "广东"
+        },
+        {
+          "end": 108,
+          "start": 103,
+          "tag": "深圳线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1846029762827112448",
+          "start": 3,
+          "username": "ogamio1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OJVumCjg4j",
+          "end": 132,
+          "expanded_url": "https://x.com/ogamio1/status/1848308548976972013/photo/1",
+          "media_key": "3_1848308485479452672",
+          "start": 109,
+          "url": "https://t.co/OJVumCjg4j"
+        },
+        {
+          "display_url": "pic.x.com/OJVumCjg4j",
+          "end": 132,
+          "expanded_url": "https://x.com/ogamio1/status/1848308548976972013/photo/1",
+          "media_key": "3_1848308485475221504",
+          "start": 109,
+          "url": "https://t.co/OJVumCjg4j"
+        },
+        {
+          "display_url": "pic.x.com/OJVumCjg4j",
+          "end": 132,
+          "expanded_url": "https://x.com/ogamio1/status/1848308548976972013/photo/1",
+          "media_key": "3_1848308485466828800",
+          "start": 109,
+          "url": "https://t.co/OJVumCjg4j"
+        },
+        {
+          "display_url": "pic.x.com/OJVumCjg4j",
+          "end": 132,
+          "expanded_url": "https://x.com/ogamio1/status/1848308548976972013/photo/1",
+          "media_key": "3_1848308485475237888",
+          "start": 109,
+          "url": "https://t.co/OJVumCjg4j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968383068919730680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848308548976972013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ogamio1: 新顶置  这里是mioଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚  🚪188/288/520求溺爱无上限  女孩子们欢迎来和我互fo互转  #线下 #爸爸活 #妈妈活 #包养 #萝莉 #广东 #深圳线下 https://t.co/OJVumCjg4j"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1968383068919730680].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1968383068919730680",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1968383068919730680"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 979,
+        "media_key": "3_1848308485479452672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaaCxlhX0AAgrYH.jpg",
+        "width": 1280
+      },
+      {
+        "height": 793,
+        "media_key": "3_1848308485475221504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaaCxlgXQAAal4G.jpg",
+        "width": 574
+      },
+      {
+        "height": 793,
+        "media_key": "3_1848308485466828800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaaCxleXMAAxJEZ.jpg",
+        "width": 574
+      },
+      {
+        "height": 807,
+        "media_key": "3_1848308485475237888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaaCxlgXgAAnNSS.jpg",
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1848308485479452672",
+            "3_1848308485475221504",
+            "3_1848308485466828800",
+            "3_1848308485475237888"
+          ]
+        },
+        "author_id": "1846029762827112448",
+        "conversation_id": "1848308548976972013",
+        "created_at": "2024-10-21T10:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-21T11:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1848308548976972013"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "线下"
+            },
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "包养"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "萝莉"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "广东"
+            },
+            {
+              "end": 95,
+              "start": 90,
+              "tag": "深圳线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OJVumCjg4j",
+              "end": 119,
+              "expanded_url": "https://x.com/ogamio1/status/1848308548976972013/photo/1",
+              "media_key": "3_1848308485479452672",
+              "start": 96,
+              "url": "https://t.co/OJVumCjg4j"
+            },
+            {
+              "display_url": "pic.x.com/OJVumCjg4j",
+              "end": 119,
+              "expanded_url": "https://x.com/ogamio1/status/1848308548976972013/photo/1",
+              "media_key": "3_1848308485475221504",
+              "start": 96,
+              "url": "https://t.co/OJVumCjg4j"
+            },
+            {
+              "display_url": "pic.x.com/OJVumCjg4j",
+              "end": 119,
+              "expanded_url": "https://x.com/ogamio1/status/1848308548976972013/photo/1",
+              "media_key": "3_1848308485466828800",
+              "start": 96,
+              "url": "https://t.co/OJVumCjg4j"
+            },
+            {
+              "display_url": "pic.x.com/OJVumCjg4j",
+              "end": 119,
+              "expanded_url": "https://x.com/ogamio1/status/1848308548976972013/photo/1",
+              "media_key": "3_1848308485475237888",
+              "start": 96,
+              "url": "https://t.co/OJVumCjg4j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848308548976972013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 23549,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "新顶置  这里是mioଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚  🚪188/288/520求溺爱无上限  女孩子们欢迎来和我互fo互转  #线下 #爸爸活 #妈妈活 #包养 #萝莉 #广东 #深圳线下 https://t.co/OJVumCjg4j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88—谈恋爱了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 214,
+          "like_count": 1205,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 674
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T03:26:25.000Z",
+        "description": "🚪\n私信只回口令和女孩子",
+        "id": "1846029762827112448",
+        "location": "深圳",
+        "name": "mio 5.0",
+        "pinned_tweet_id": "1848308548976972013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848097288507260928/5Bfs1NmL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 3,
+          "media_count": 18,
+          "tweet_count": 176
+        },
+        "username": "ogamio1",
+        "verified": false
+      }
+    ]
+  }
+}

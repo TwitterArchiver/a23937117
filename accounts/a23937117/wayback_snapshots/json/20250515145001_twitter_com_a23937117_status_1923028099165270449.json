@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923028092227866624"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1923028099165270449",
+    "created_at": "2025-05-15T14:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T15:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1923028099165270449"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 16,
+          "tag": "cos"
+        },
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "超天酱"
+        },
+        {
+          "end": 35,
+          "start": 26,
+          "tag": "主播女孩重度依赖"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VA7zsC9xnx",
+          "end": 59,
+          "expanded_url": "https://x.com/a23937117/status/1923028099165270449/photo/1",
+          "media_key": "3_1923028092227866624",
+          "start": 36,
+          "url": "https://t.co/VA7zsC9xnx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923028099165270449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "痛的不是手臂，是我腐烂的灵魂\n\n#cos #超天酱 #主播女孩重度依赖 https://t.co/VA7zsC9xnx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1923028099165270449].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1923028099165270449",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1923028099165270449"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1923028092227866624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq_33HpW0AAuPpt.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 94,
+          "like_count": 629,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 61
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962244122091413504"
+      ],
+      "media_source_tweet_id": [
+        "1962244130782036351"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962520605216927829",
+    "created_at": "2025-09-01T14:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T15:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962520605216927829"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 56,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 64,
+          "start": 61,
+          "tag": "线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "805779842646110208",
+          "start": 3,
+          "username": "Dyc911900"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ayIkMaT4QY",
+          "end": 88,
+          "expanded_url": "https://x.com/Dyc911900/status/1962244130782036351/photo/1",
+          "media_key": "3_1962244122091413504",
+          "start": 65,
+          "url": "https://t.co/ayIkMaT4QY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962520605216927829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962244130782036351",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dyc911900: 这里是豆豆呀！ \n🚪88/188/288/388\n本人线下很好相处 各种类型都可\n#爸爸活 #线下 https://t.co/ayIkMaT4QY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962244122091413504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GztKofPbYAAam8J.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962244122091413504"
+          ],
+          "media_source_tweet_id": [
+            "1962244130782036351"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "1962520605216927829",
+        "created_at": "2025-09-01T14:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T15:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962520605216927829"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "线下"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "805779842646110208",
+              "start": 3,
+              "username": "Dyc911900"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ayIkMaT4QY",
+              "end": 88,
+              "expanded_url": "https://x.com/Dyc911900/status/1962244130782036351/photo/1",
+              "media_key": "3_1962244122091413504",
+              "start": 65,
+              "url": "https://t.co/ayIkMaT4QY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962520605216927829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962244130782036351",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dyc911900: 这里是豆豆呀！ \n🚪88/188/288/388\n本人线下很好相处 各种类型都可\n#爸爸活 #线下 https://t.co/ayIkMaT4QY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962244122091413504"
+          ]
+        },
+        "author_id": "805779842646110208",
+        "conversation_id": "1962244130782036351",
+        "created_at": "2025-08-31T20:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T21:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962244130782036351"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ayIkMaT4QY",
+              "end": 73,
+              "expanded_url": "https://x.com/Dyc911900/status/1962244130782036351/photo/1",
+              "media_key": "3_1962244122091413504",
+              "start": 50,
+              "url": "https://t.co/ayIkMaT4QY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962244130782036351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7219,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "这里是豆豆呀！ \n🚪88/188/288/388\n本人线下很好相处 各种类型都可\n#爸爸活 #线下 https://t.co/ayIkMaT4QY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 211,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 670
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-05T14:24:19.000Z",
+        "description": "豆豆/地雷4i /目前主宅中/精神狀態棒棒的",
+        "id": "805779842646110208",
+        "location": "地狱99 ／188/288",
+        "name": "マメ（接线下版）",
+        "pinned_tweet_id": "1962244130782036351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919688215784783880/GLAunYvs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2857,
+          "following_count": 103,
+          "like_count": 384,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 383
+        },
+        "username": "Dyc911900",
+        "verified": false
+      }
+    ]
+  }
+}

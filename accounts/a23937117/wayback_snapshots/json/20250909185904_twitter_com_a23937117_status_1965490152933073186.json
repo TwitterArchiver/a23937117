@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1965490152933073186",
+    "created_at": "2025-09-09T18:59:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T19:59:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965490152933073186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1942480632279617536",
+          "start": 3,
+          "username": "whiterat_cang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965490152933073186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965419471188975963",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whiterat_cang: 我只想当小朋友，当小孩子……\n想被摸摸头，夸我乖\n想要不听话的时候被打屁股(T . T)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1965490152933073186",
+        "created_at": "2025-09-09T18:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T19:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965490152933073186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1942480632279617536",
+              "start": 3,
+              "username": "whiterat_cang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965490152933073186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965419471188975963",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whiterat_cang: 我只想当小朋友，当小孩子……\n想被摸摸头，夸我乖\n想要不听话的时候被打屁股(T . T)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942480632279617536",
+        "conversation_id": "1965419471188975963",
+        "created_at": "2025-09-09T14:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T15:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965419471188975963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965419471188975963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2410,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只想当小朋友，当小孩子……\n想被摸摸头，夸我乖\n想要不听话的时候被打屁股(T . T)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 211,
+          "like_count": 1189,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 655
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-08T07:07:38.000Z",
+        "description": "02｜无主｜ENTP狮子🇯🇵🇨🇳 ｜Brat little girl 😈｜喜欢吃米线！🍜｜脆皮嘴炮｜😋 喜欢那种被发现zw后，打屁股惩罚的play！(⁎⁍̴̛ᴗ⁍̴̛⁎) 欢迎自愿打赏哦( ̀⌄ ́)",
+        "id": "1942480632279617536",
+        "location": "被窝窝里🛌",
+        "name": "鼠小仓",
+        "pinned_tweet_id": "1942571288163409976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942562658953441280/EGxeNJ8o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2531,
+          "following_count": 26,
+          "like_count": 61,
+          "listed_count": 3,
+          "media_count": 31,
+          "tweet_count": 110
+        },
+        "username": "whiterat_cang",
+        "verified": false
+      }
+    ]
+  }
+}

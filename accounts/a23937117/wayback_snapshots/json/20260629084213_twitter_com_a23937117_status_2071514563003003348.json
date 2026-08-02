@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2071514563003003348",
+    "created_at": "2026-06-29T08:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T09:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071514563003003348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2060708364544548864",
+          "start": 3,
+          "username": "jwdu4kn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071514563003003348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070774327939838283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jwdu4kn: 我是牙疼 前世被封 现在回归  我接任何线下 坐标天津北京 和江浙沪 其他地方也可以全国可飞  门槛价格和线下都在p3 不要问我了 私信除口令都不会回复 私信不了我的可以在纸飞机找到我纸飞机联系方式放图四了 露脸验证66🧧 主页发过验证可以自己去看 #…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070774283400527872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzePUQaQAAnngn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2070774283383840768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzePUMboAAkO5K.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1781,
+        "media_key": "3_2070774283404820481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzePURbwAEakLb.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070774283396411392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzePUPbcAAVpJG.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2071514563003003348",
+        "created_at": "2026-06-29T08:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071514563003003348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2060708364544548864",
+              "start": 3,
+              "username": "jwdu4kn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071514563003003348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070774327939838283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jwdu4kn: 我是牙疼 前世被封 现在回归  我接任何线下 坐标天津北京 和江浙沪 其他地方也可以全国可飞  门槛价格和线下都在p3 不要问我了 私信除口令都不会回复 私信不了我的可以在纸飞机找到我纸飞机联系方式放图四了 露脸验证66🧧 主页发过验证可以自己去看 #…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070774283400527872",
+            "3_2070774283383840768",
+            "3_2070774283404820481",
+            "3_2070774283396411392"
+          ]
+        },
+        "author_id": "2060708364544548864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070774327939838283",
+        "created_at": "2026-06-27T07:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T08:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070774327939838283"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 125,
+              "tag": "天津北京"
+            },
+            {
+              "end": 135,
+              "start": 131,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "非绿"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "巨乳"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vnCNhcuykf",
+              "end": 167,
+              "expanded_url": "https://x.com/jwdu4kn/status/2070774327939838283/photo/1",
+              "media_key": "3_2070774283400527872",
+              "start": 144,
+              "url": "https://t.co/vnCNhcuykf"
+            },
+            {
+              "display_url": "pic.x.com/vnCNhcuykf",
+              "end": 167,
+              "expanded_url": "https://x.com/jwdu4kn/status/2070774327939838283/photo/1",
+              "media_key": "3_2070774283383840768",
+              "start": 144,
+              "url": "https://t.co/vnCNhcuykf"
+            },
+            {
+              "display_url": "pic.x.com/vnCNhcuykf",
+              "end": 167,
+              "expanded_url": "https://x.com/jwdu4kn/status/2070774327939838283/photo/1",
+              "media_key": "3_2070774283404820481",
+              "start": 144,
+              "url": "https://t.co/vnCNhcuykf"
+            },
+            {
+              "display_url": "pic.x.com/vnCNhcuykf",
+              "end": 167,
+              "expanded_url": "https://x.com/jwdu4kn/status/2070774327939838283/photo/1",
+              "media_key": "3_2070774283396411392",
+              "start": 144,
+              "url": "https://t.co/vnCNhcuykf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070774327939838283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4110,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "我是牙疼 前世被封 现在回归  我接任何线下 坐标天津北京 和江浙沪 其他地方也可以全国可飞  门槛价格和线下都在p3 不要问我了 私信除口令都不会回复 私信不了我的可以在纸飞机找到我纸飞机联系方式放图四了 露脸验证66🧧 主页发过验证可以自己去看 #天津北京 #江浙沪 #非绿 #巨乳 https://t.co/vnCNhcuykf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 189,
+          "like_count": 1416,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 774
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T13:02:30.000Z",
+        "description": "嗯嗯嗯嗯",
+        "id": "2060708364544548864",
+        "name": "jwd",
+        "pinned_tweet_id": "2070774327939838283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071493719711494144/bcsCjOVQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 6,
+          "like_count": 48,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 176
+        },
+        "url": "",
+        "username": "jwdu4kn",
+        "verified": false
+      }
+    ]
+  }
+}

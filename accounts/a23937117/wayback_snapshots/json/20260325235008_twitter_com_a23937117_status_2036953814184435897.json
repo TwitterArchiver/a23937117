@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2036953814184435897",
+    "created_at": "2026-03-25T23:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T00:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036953814184435897"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 77,
+          "start": 74,
+          "tag": "门槛"
+        },
+        {
+          "end": 82,
+          "start": 78,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 86,
+          "start": 83,
+          "tag": "广东"
+        },
+        {
+          "end": 90,
+          "start": 87,
+          "tag": "线下"
+        },
+        {
+          "end": 94,
+          "start": 91,
+          "tag": "反差"
+        },
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "女高"
+        },
+        {
+          "end": 104,
+          "start": 99,
+          "tag": "女高中生"
+        },
+        {
+          "end": 109,
+          "start": 105,
+          "tag": "找金主"
+        },
+        {
+          "end": 115,
+          "start": 110,
+          "tag": "一日女友"
+        },
+        {
+          "end": 120,
+          "start": 116,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 125,
+          "start": 121,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 129,
+          "start": 126,
+          "tag": "非绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "803606943776514048",
+          "start": 3,
+          "username": "ranjeet47383178"
+        },
+        {
+          "end": 72,
+          "id": "2017219499045359616",
+          "start": 64,
+          "username": "Xioy098"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036953814184435897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031291135214170190",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ranjeet47383178: 你们好我是小妤\n一个人艰难生活\n我什么都接我真的很缺钱🥺\n这是我的小号，已过丑哥认证 @Xioy098 \n#门槛 #门槛妹 #广东 #线下 #反差 #女高 #女高中生 #找金主 #一日女友 #爸爸活 #妈妈活 #非绿 https://t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031291116629241856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDCYgiIXsAA6dU_.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031291116830470144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDCYgi4WMAAue2F.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2036953814184435897",
+        "created_at": "2026-03-25T23:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T00:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036953814184435897"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "门槛"
+            },
+            {
+              "end": 82,
+              "start": 78,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "广东"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "线下"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "反差"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "女高"
+            },
+            {
+              "end": 104,
+              "start": 99,
+              "tag": "女高中生"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "找金主"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "一日女友"
+            },
+            {
+              "end": 120,
+              "start": 116,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "非绿"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "803606943776514048",
+              "start": 3,
+              "username": "ranjeet47383178"
+            },
+            {
+              "end": 72,
+              "id": "2017219499045359616",
+              "start": 64,
+              "username": "Xioy098"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036953814184435897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031291135214170190",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ranjeet47383178: 你们好我是小妤\n一个人艰难生活\n我什么都接我真的很缺钱🥺\n这是我的小号，已过丑哥认证 @Xioy098 \n#门槛 #门槛妹 #广东 #线下 #反差 #女高 #女高中生 #找金主 #一日女友 #爸爸活 #妈妈活 #非绿 https://t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031291116629241856",
+            "3_2031291116830470144"
+          ]
+        },
+        "author_id": "803606943776514048",
+        "conversation_id": "2031291135214170190",
+        "created_at": "2026-03-10T08:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T09:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031291135214170190"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "门槛"
+            },
+            {
+              "end": 61,
+              "start": 57,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "广东"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "线下"
+            },
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "反差"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "女高"
+            },
+            {
+              "end": 83,
+              "start": 78,
+              "tag": "女高中生"
+            },
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "找金主"
+            },
+            {
+              "end": 94,
+              "start": 89,
+              "tag": "一日女友"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "非绿"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 51,
+              "id": "2017219499045359616",
+              "start": 43,
+              "username": "Xioy098"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rIAQMbnviP",
+              "end": 132,
+              "expanded_url": "https://x.com/ranjeet47383178/status/2031291135214170190/photo/1",
+              "media_key": "3_2031291116629241856",
+              "start": 109,
+              "url": "https://t.co/rIAQMbnviP"
+            },
+            {
+              "display_url": "pic.x.com/rIAQMbnviP",
+              "end": 132,
+              "expanded_url": "https://x.com/ranjeet47383178/status/2031291135214170190/photo/1",
+              "media_key": "3_2031291116830470144",
+              "start": 109,
+              "url": "https://t.co/rIAQMbnviP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031291135214170190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 17568,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "你们好我是小妤\n一个人艰难生活\n我什么都接我真的很缺钱🥺\n这是我的小号，已过丑哥认证 @Xioy098 \n#门槛 #门槛妹 #广东 #线下 #反差 #女高 #女高中生 #找金主 #一日女友 #爸爸活 #妈妈活 #非绿 https://t.co/rIAQMbnviP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover  谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1980120686774591794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 198,
+          "like_count": 1367,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 787
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-29T14:30:00.000Z",
+        "description": "🚪88 188 288 520",
+        "id": "803606943776514048",
+        "location": "我粉丝是买的求求哥哥入🚪吧我真的好缺钱T_T",
+        "name": "愛？",
+        "pinned_tweet_id": "2031291135214170190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031147186394988544/gYpQjfEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1626,
+          "following_count": 20,
+          "like_count": 83,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 104
+        },
+        "username": "ranjeet47383178",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-30T12:54:03.000Z",
+        "description": "",
+        "id": "2017219499045359616",
+        "name": "除了明天我們還能去哪裡",
+        "pinned_tweet_id": "2031291655697895924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022530386425753600/_qcsFYAM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 35,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "username": "Xioy098",
+        "verified": false
+      }
+    ]
+  }
+}

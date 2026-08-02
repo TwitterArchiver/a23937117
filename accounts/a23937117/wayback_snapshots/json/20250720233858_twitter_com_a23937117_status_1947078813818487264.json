@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1947030394920120341",
+    "created_at": "2025-07-20T23:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T00:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947078813818487264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916074220108582912",
+          "start": 0,
+          "username": "GlyndaMcdo97923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947078813818487264",
+    "in_reply_to_user_id": "1916074220108582912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947030394920120341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GlyndaMcdo97923 贱货啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_1947030383477784576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwU90WYWAAAGswC.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1301,
+        "media_key": "3_1947030383477825538",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwU90WYWoAIi54n.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1947030394920120341",
+        "created_at": "2025-07-20T23:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T00:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947078813818487264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916074220108582912",
+              "start": 0,
+              "username": "GlyndaMcdo97923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947078813818487264",
+        "in_reply_to_user_id": "1916074220108582912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947030394920120341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GlyndaMcdo97923 贱货啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947030383477784576",
+            "3_1947030383477825538"
+          ]
+        },
+        "author_id": "1916074220108582912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1947030394920120341",
+        "created_at": "2025-07-20T20:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T21:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947030394920120341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LL6LKdfBjz",
+              "end": 57,
+              "expanded_url": "https://x.com/GlyndaMcdo97923/status/1947030394920120341/photo/1",
+              "media_key": "3_1947030383477784576",
+              "start": 34,
+              "url": "https://t.co/LL6LKdfBjz"
+            },
+            {
+              "display_url": "pic.x.com/LL6LKdfBjz",
+              "end": 57,
+              "expanded_url": "https://x.com/GlyndaMcdo97923/status/1947030394920120341/photo/1",
+              "media_key": "3_1947030383477825538",
+              "start": 34,
+              "url": "https://t.co/LL6LKdfBjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947030394920120341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人蹲我门口5分钟之内把我的外卖拿走了😭😭😭我一直在哭法在2025 https://t.co/LL6LKdfBjz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 165,
+          "like_count": 957,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 395
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです!🚪88/128/288/520/1314爱我请打钱!纯绿纯绿纯绿 让我不舒服我会直接删除 底线很顽强不用问了仅纯绿 自用蜂鸟VPN：https://t.co/6cFJKQOOb1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 105,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=pG2Mmfa4",
+                "start": 82,
+                "url": "https://t.co/6cFJKQOOb1"
+              }
+            ]
+          }
+        },
+        "id": "1916074220108582912",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "1930674013401182714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930605203939827712/FSWOWu3Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 59,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 398
+        },
+        "username": "GlyndaMcdo97923",
+        "verified": false
+      }
+    ]
+  }
+}

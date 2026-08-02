@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047612928434774016",
+        "3_2047612928443195392"
+      ],
+      "media_source_tweet_id": [
+        "2047612940992610730",
+        "2047612940992610730"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053554995925074290",
+    "created_at": "2026-05-10T19:17:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T20:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053554995925074290"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 53,
+          "tag": "门槛"
+        },
+        {
+          "end": 61,
+          "start": 57,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "女大"
+        },
+        {
+          "end": 69,
+          "start": 66,
+          "tag": "反差"
+        },
+        {
+          "end": 75,
+          "start": 70,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 80,
+          "start": 76,
+          "tag": "求包养"
+        },
+        {
+          "end": 84,
+          "start": 81,
+          "tag": "线下"
+        },
+        {
+          "end": 88,
+          "start": 85,
+          "tag": "非绿"
+        },
+        {
+          "end": 92,
+          "start": 89,
+          "tag": "陪玩"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "陪聊"
+        },
+        {
+          "end": 103,
+          "start": 98,
+          "tag": "情绪价值"
+        },
+        {
+          "end": 109,
+          "start": 105,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 115,
+          "start": 110,
+          "tag": "电子女友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "228079662",
+          "start": 3,
+          "username": "DeEjA_KhAn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P8cD5Swxtw",
+          "end": 139,
+          "expanded_url": "https://x.com/DeEjA_KhAn/status/2047612940992610730/photo/1",
+          "media_key": "3_2047612928434774016",
+          "start": 116,
+          "url": "https://t.co/P8cD5Swxtw"
+        },
+        {
+          "display_url": "pic.x.com/P8cD5Swxtw",
+          "end": 139,
+          "expanded_url": "https://x.com/DeEjA_KhAn/status/2047612940992610730/photo/1",
+          "media_key": "3_2047612928443195392",
+          "start": 116,
+          "url": "https://t.co/P8cD5Swxtw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053554995925074290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047612940992610730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DeEjA_KhAn: 小伊 置顶🔝\n期待会有哥哥会入我的🚪\n拒绝骚扰的呢\n欢迎宝贝互转互fo~\n#门槛 #门槛妹 #女大 #反差 #金主爸爸 #求包养 #线下 #非绿 #陪玩  #陪聊 #情绪价值  #爸爸活 #电子女友 https://t.co/P8cD5Swxtw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1237,
+        "media_key": "3_2047612928434774016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqVHBTaIAAZg9Q.jpg",
+        "width": 1219
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047612928443195392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqVHBVaoAASp26.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047612928434774016",
+            "3_2047612928443195392"
+          ],
+          "media_source_tweet_id": [
+            "2047612940992610730",
+            "2047612940992610730"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2053554995925074290",
+        "created_at": "2026-05-10T19:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T20:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053554995925074290"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "门槛"
+            },
+            {
+              "end": 61,
+              "start": 57,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "女大"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "反差"
+            },
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "求包养"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "线下"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "非绿"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "陪玩"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "陪聊"
+            },
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "情绪价值"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "电子女友"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "228079662",
+              "start": 3,
+              "username": "DeEjA_KhAn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P8cD5Swxtw",
+              "end": 139,
+              "expanded_url": "https://x.com/DeEjA_KhAn/status/2047612940992610730/photo/1",
+              "media_key": "3_2047612928434774016",
+              "start": 116,
+              "url": "https://t.co/P8cD5Swxtw"
+            },
+            {
+              "display_url": "pic.x.com/P8cD5Swxtw",
+              "end": 139,
+              "expanded_url": "https://x.com/DeEjA_KhAn/status/2047612940992610730/photo/1",
+              "media_key": "3_2047612928443195392",
+              "start": 116,
+              "url": "https://t.co/P8cD5Swxtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053554995925074290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047612940992610730",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DeEjA_KhAn: 小伊 置顶🔝\n期待会有哥哥会入我的🚪\n拒绝骚扰的呢\n欢迎宝贝互转互fo~\n#门槛 #门槛妹 #女大 #反差 #金主爸爸 #求包养 #线下 #非绿 #陪玩  #陪聊 #情绪价值  #爸爸活 #电子女友 https://t.co/P8cD5Swxtw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047612928434774016",
+            "3_2047612928443195392"
+          ]
+        },
+        "author_id": "228079662",
+        "conversation_id": "2047612940992610730",
+        "created_at": "2026-04-24T09:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047612940992610730"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "门槛"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "女大"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "反差"
+            },
+            {
+              "end": 59,
+              "start": 54,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 64,
+              "start": 60,
+              "tag": "求包养"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "线下"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "非绿"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "陪玩"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "陪聊"
+            },
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "情绪价值"
+            },
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 99,
+              "start": 94,
+              "tag": "电子女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P8cD5Swxtw",
+              "end": 123,
+              "expanded_url": "https://x.com/DeEjA_KhAn/status/2047612940992610730/photo/1",
+              "media_key": "3_2047612928434774016",
+              "start": 100,
+              "url": "https://t.co/P8cD5Swxtw"
+            },
+            {
+              "display_url": "pic.x.com/P8cD5Swxtw",
+              "end": 123,
+              "expanded_url": "https://x.com/DeEjA_KhAn/status/2047612940992610730/photo/1",
+              "media_key": "3_2047612928443195392",
+              "start": 100,
+              "url": "https://t.co/P8cD5Swxtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047612940992610730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 12343,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "小伊 置顶🔝\n期待会有哥哥会入我的🚪\n拒绝骚扰的呢\n欢迎宝贝互转互fo~\n#门槛 #门槛妹 #女大 #反差 #金主爸爸 #求包养 #线下 #非绿 #陪玩  #陪聊 #情绪价值  #爸爸活 #电子女友 https://t.co/P8cD5Swxtw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 202,
+          "like_count": 1405,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 741
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-18T17:13:53.000Z",
+        "description": "玩了这么久了 才发现有这个圈子 希望被善待 坐标20的 拒绝闲聊！ 欢迎女生找我互转互fo ～",
+        "id": "228079662",
+        "name": "伊布布",
+        "pinned_tweet_id": "2047612940992610730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004127428101476352/v84wLcoz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 124,
+          "like_count": 198,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 624
+        },
+        "username": "DeEjA_KhAn",
+        "verified": false
+      }
+    ]
+  }
+}

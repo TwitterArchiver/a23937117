@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077634510590554112"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2077634518085767254",
+    "created_at": "2026-07-16T06:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T07:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077634518085767254"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 3,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 11,
+          "start": 8,
+          "tag": "门槛"
+        },
+        {
+          "end": 16,
+          "start": 12,
+          "tag": "福利姬"
+        },
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "可爱"
+        },
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "宅女"
+        },
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "game"
+        },
+        {
+          "end": 35,
+          "start": 31,
+          "tag": "雌小鬼"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mqM49UaHjO",
+          "end": 59,
+          "expanded_url": "https://x.com/a23937117/status/2077634518085767254/photo/1",
+          "media_key": "3_2077634510590554112",
+          "start": 36,
+          "url": "https://t.co/mqM49UaHjO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077634518085767254",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猫\n\n#门槛妹 #门槛 #福利姬 #可爱 #宅女 #game #雌小鬼 https://t.co/mqM49UaHjO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2077634510590554112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNU9lGDXsAA2j5E.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077634510590554112"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2077634518085767254",
+        "created_at": "2026-07-16T06:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T07:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077634518085767254"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 3,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "门槛"
+            },
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "福利姬"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "可爱"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "宅女"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "game"
+            },
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "雌小鬼"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mqM49UaHjO",
+              "end": 59,
+              "expanded_url": "https://x.com/a23937117/status/2077634518085767254/photo/1",
+              "media_key": "3_2077634510590554112",
+              "start": 36,
+              "url": "https://t.co/mqM49UaHjO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077634518085767254",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫\n\n#门槛妹 #门槛 #福利姬 #可爱 #宅女 #game #雌小鬼 https://t.co/mqM49UaHjO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 190,
+          "like_count": 1437,
+          "listed_count": 2,
+          "media_count": 251,
+          "tweet_count": 784
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": true
+      }
+    ]
+  }
+}

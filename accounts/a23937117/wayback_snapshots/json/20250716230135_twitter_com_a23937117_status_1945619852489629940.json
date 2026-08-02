@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945619844902076416",
+        "3_1945619844918857728"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1945619852489629940",
+    "created_at": "2025-07-16T23:01:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T00:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945619852489629940"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ct9DpceOkl",
+          "end": 172,
+          "expanded_url": "https://x.com/a23937117/status/1945619852489629940/photo/1",
+          "media_key": "3_1945619844902076416",
+          "start": 149,
+          "url": "https://t.co/Ct9DpceOkl"
+        },
+        {
+          "display_url": "pic.x.com/Ct9DpceOkl",
+          "end": 172,
+          "expanded_url": "https://x.com/a23937117/status/1945619852489629940/photo/1",
+          "media_key": "3_1945619844918857728",
+          "start": 149,
+          "url": "https://t.co/Ct9DpceOkl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945619852489629940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "求投喂——\n烟代——什么都有，韩，国，美，日（欢迎问价）\n塔罗——便宜且精准，看图，都是老客户业务能力不用多说。\n翻译——南美阿根廷华裔西语/中文/英语\n陪聊陪玩——加好友需要投喂，投喂程度不同聊天频率回复时间也不同，不能一直秒回，情绪价值会给足。不定期掉落照片/自拍（有对象但是态度不会有影响） https://t.co/Ct9DpceOkl"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1945619852489629940].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1945619852489629940",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1945619852489629940"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1945619844902076416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwA68MtWwAAo75w.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1945619844918857728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwA68MxW0AAus3d.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1944721626525761843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 162,
+          "like_count": 946,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 361
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

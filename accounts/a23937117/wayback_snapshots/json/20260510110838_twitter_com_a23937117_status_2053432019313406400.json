@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053432019313406400",
+    "created_at": "2026-05-10T11:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T12:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053432019313406400"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 99,
+          "start": 94,
+          "tag": "小狗日记"
+        },
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "微胖"
+        },
+        {
+          "end": 108,
+          "start": 104,
+          "tag": "bbw"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "可飞"
+        },
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "门槛"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "线下"
+        },
+        {
+          "end": 125,
+          "start": 121,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 129,
+          "start": 126,
+          "tag": "语音"
+        },
+        {
+          "end": 133,
+          "start": 130,
+          "tag": "连麦"
+        },
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "视频"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "938516984",
+          "start": 3,
+          "username": "BasavarajAvi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053432019313406400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041955895509504205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BasavarajAvi: 关于小柒\n想做宝宝的小公主不想吃苦\n一个缺钱的小女生🥺玻璃心.喜欢礼貌\n接受程度高很热情💕可验证\n线上/下都接，主打口碑\n欢迎老婆们多找我互转先谢谢咯 #小狗日记 #微胖 #bbw #可飞 #门槛 #线下 #爸爸活 #语音 #连麦 #视频 h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 663,
+        "media_key": "3_2041955879038459904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZ8DaEboAAGPiD.jpg",
+        "width": 1020
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041955879877275648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZ8DdMa8AAYdIB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2053432019313406400",
+        "created_at": "2026-05-10T11:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053432019313406400"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 94,
+              "tag": "小狗日记"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "微胖"
+            },
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "bbw"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "可飞"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "门槛"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "线下"
+            },
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "语音"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "连麦"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "视频"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "938516984",
+              "start": 3,
+              "username": "BasavarajAvi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053432019313406400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041955895509504205",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BasavarajAvi: 关于小柒\n想做宝宝的小公主不想吃苦\n一个缺钱的小女生🥺玻璃心.喜欢礼貌\n接受程度高很热情💕可验证\n线上/下都接，主打口碑\n欢迎老婆们多找我互转先谢谢咯 #小狗日记 #微胖 #bbw #可飞 #门槛 #线下 #爸爸活 #语音 #连麦 #视频 h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041955879038459904",
+            "3_2041955879877275648"
+          ]
+        },
+        "author_id": "938516984",
+        "conversation_id": "2041955895509504205",
+        "created_at": "2026-04-08T19:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T20:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041955895509504205"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "小狗日记"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "微胖"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "bbw"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "可飞"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "门槛"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "线下"
+            },
+            {
+              "end": 107,
+              "start": 103,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "语音"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "连麦"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "视频"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/izs0JaXnd9",
+              "end": 143,
+              "expanded_url": "https://x.com/BasavarajAvi/status/2041955895509504205/photo/1",
+              "media_key": "3_2041955879038459904",
+              "start": 120,
+              "url": "https://t.co/izs0JaXnd9"
+            },
+            {
+              "display_url": "pic.x.com/izs0JaXnd9",
+              "end": 143,
+              "expanded_url": "https://x.com/BasavarajAvi/status/2041955895509504205/photo/1",
+              "media_key": "3_2041955879877275648",
+              "start": 120,
+              "url": "https://t.co/izs0JaXnd9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041955895509504205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 16775,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "关于小柒\n想做宝宝的小公主不想吃苦\n一个缺钱的小女生🥺玻璃心.喜欢礼貌\n接受程度高很热情💕可验证\n线上/下都接，主打口碑\n欢迎老婆们多找我互转先谢谢咯 #小狗日记 #微胖 #bbw #可飞 #门槛 #线下 #爸爸活 #语音 #连麦 #视频 https://t.co/izs0JaXnd9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 202,
+          "like_count": 1402,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 732
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-10T06:45:25.000Z",
+        "description": "可🪂｜性格开朗懂付出🎈深情心态｜请不要欺负我🫶礼貌问问题请带口令哦｜坐标2️⃣0️⃣💓",
+        "id": "938516984",
+        "name": "小柒月",
+        "pinned_tweet_id": "2041955895509504205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038359541285543936/NIfhrGmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 31,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 158
+        },
+        "username": "BasavarajAvi",
+        "verified": false
+      }
+    ]
+  }
+}

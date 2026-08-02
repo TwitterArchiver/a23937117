@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1965432229599064427",
+    "created_at": "2025-09-09T15:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T16:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965432229599064427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1002268110403981312",
+          "start": 3,
+          "username": "snow_222_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965432229599064427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965376039619817753",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @snow_222_: 🔝重新写个置顶\n哥哥们好 我是琳琳\n辍学 攒钱旅游 可全国✈️车票你包\n因为要自生自灭所以出来做🚪妹啦。\n不退🚪请谅解\n家里欠了很多钱 喜欢情绪稳定 且礼貌的宝贝 欢迎女宝互转互fo\n接线下 线下🚪288/520/1314\n喜欢我的哥哥多多投喂\n#…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965376032808353792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ZrFr2bwAAPSh3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1058,
+        "media_key": "3_1965376037417799680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ZrF9BaUAA2Up0.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1965432229599064427",
+        "created_at": "2025-09-09T15:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T16:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965432229599064427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1002268110403981312",
+              "start": 3,
+              "username": "snow_222_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965432229599064427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965376039619817753",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @snow_222_: 🔝重新写个置顶\n哥哥们好 我是琳琳\n辍学 攒钱旅游 可全国✈️车票你包\n因为要自生自灭所以出来做🚪妹啦。\n不退🚪请谅解\n家里欠了很多钱 喜欢情绪稳定 且礼貌的宝贝 欢迎女宝互转互fo\n接线下 线下🚪288/520/1314\n喜欢我的哥哥多多投喂\n#…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965376032808353792",
+            "3_1965376037417799680"
+          ]
+        },
+        "author_id": "1002268110403981312",
+        "conversation_id": "1965376039619817753",
+        "created_at": "2025-09-09T11:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T12:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965376039619817753"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "线下"
+            },
+            {
+              "end": 131,
+              "start": 127,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "杭州"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "女大"
+            },
+            {
+              "end": 145,
+              "start": 140,
+              "tag": "电子女友"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "包养"
+            },
+            {
+              "end": 155,
+              "start": 150,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 159,
+              "start": 156,
+              "tag": "非绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uvcU58Webo",
+              "end": 183,
+              "expanded_url": "https://x.com/snow_222_/status/1965376039619817753/photo/1",
+              "media_key": "3_1965376032808353792",
+              "start": 160,
+              "url": "https://t.co/uvcU58Webo"
+            },
+            {
+              "display_url": "pic.x.com/uvcU58Webo",
+              "end": 183,
+              "expanded_url": "https://x.com/snow_222_/status/1965376039619817753/photo/1",
+              "media_key": "3_1965376037417799680",
+              "start": 160,
+              "url": "https://t.co/uvcU58Webo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965376039619817753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1301,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "🔝重新写个置顶\n哥哥们好 我是琳琳\n辍学 攒钱旅游 可全国✈️车票你包\n因为要自生自灭所以出来做🚪妹啦。\n不退🚪请谅解\n家里欠了很多钱 喜欢情绪稳定 且礼貌的宝贝 欢迎女宝互转互fo\n接线下 线下🚪288/520/1314\n喜欢我的哥哥多多投喂\n#线下 #爸爸活 #杭州 #女大 #电子女友 #包养 #金主爸爸 #非绿 https://t.co/uvcU58Webo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 210,
+          "like_count": 1160,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 661
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-31T19:18:33.000Z",
+        "description": "🚪99/188/520 不是皮下男 🉑露脸验证 喜欢我的哥哥请多多投喂 问ip20带口令回复～ 不入🚪的哥哥请勿打扰 谢谢啦",
+        "id": "1002268110403981312",
+        "name": "琳琳（口令回复）",
+        "pinned_tweet_id": "1965376039619817753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964750832664264705/zHCawNUE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 81,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 139
+        },
+        "username": "snow_222_",
+        "verified": false
+      }
+    ]
+  }
+}

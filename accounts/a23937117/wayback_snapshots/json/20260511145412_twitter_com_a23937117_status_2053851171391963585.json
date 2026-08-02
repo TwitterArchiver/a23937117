@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053851171391963585",
+    "created_at": "2026-05-11T14:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T15:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053851171391963585"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 74,
+          "start": 70,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "线下"
+        },
+        {
+          "end": 84,
+          "start": 79,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 88,
+          "start": 85,
+          "tag": "包夜"
+        },
+        {
+          "end": 94,
+          "start": 89,
+          "tag": "女大反差"
+        },
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "娇喘"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "连麦"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "甜妹"
+        },
+        {
+          "end": 111,
+          "start": 107,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 117,
+          "start": 112,
+          "tag": "私人订制"
+        },
+        {
+          "end": 123,
+          "start": 118,
+          "tag": "一日女友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "328711183",
+          "start": 3,
+          "username": "cgnettie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/xF",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/xF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053851171391963585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042443261223309752",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cgnettie: 橘妹很缺💰接线下\n只会被💰打动\n喜欢大大方方的男生\n喜欢我请过🚪我会很开心ovo\n老公哥请放心投喂♥️♥️♥️\n#门槛妹 #线下 #金主爸爸 #包夜 #女大反差 #娇喘 #连麦 #甜妹 #爸爸活 #私人订制 #一日女友 https://t.co/xF…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042443241191325701",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFg3TnkbQAUTELG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 644,
+        "media_key": "3_2042443242076323844",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFg3Tq3bQAQ-Q8-.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2053851171391963585",
+        "created_at": "2026-05-11T14:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053851171391963585"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "线下"
+            },
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "包夜"
+            },
+            {
+              "end": 94,
+              "start": 89,
+              "tag": "女大反差"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "娇喘"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "连麦"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "甜妹"
+            },
+            {
+              "end": 111,
+              "start": 107,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 117,
+              "start": 112,
+              "tag": "私人订制"
+            },
+            {
+              "end": 123,
+              "start": 118,
+              "tag": "一日女友"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "328711183",
+              "start": 3,
+              "username": "cgnettie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/xF",
+              "end": 139,
+              "start": 124,
+              "url": "https://t.co/xF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053851171391963585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042443261223309752",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cgnettie: 橘妹很缺💰接线下\n只会被💰打动\n喜欢大大方方的男生\n喜欢我请过🚪我会很开心ovo\n老公哥请放心投喂♥️♥️♥️\n#门槛妹 #线下 #金主爸爸 #包夜 #女大反差 #娇喘 #连麦 #甜妹 #爸爸活 #私人订制 #一日女友 https://t.co/xF…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042443241191325701",
+            "3_2042443242076323844"
+          ]
+        },
+        "author_id": "328711183",
+        "conversation_id": "2042443261223309752",
+        "created_at": "2026-04-10T03:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042443261223309752"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "线下"
+            },
+            {
+              "end": 70,
+              "start": 65,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "包夜"
+            },
+            {
+              "end": 80,
+              "start": 75,
+              "tag": "女大反差"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "娇喘"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "连麦"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "甜妹"
+            },
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "私人订制"
+            },
+            {
+              "end": 109,
+              "start": 104,
+              "tag": "一日女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xFAo93YVLZ",
+              "end": 133,
+              "expanded_url": "https://x.com/cgnettie/status/2042443261223309752/photo/1",
+              "media_key": "3_2042443241191325701",
+              "start": 110,
+              "url": "https://t.co/xFAo93YVLZ"
+            },
+            {
+              "display_url": "pic.x.com/xFAo93YVLZ",
+              "end": 133,
+              "expanded_url": "https://x.com/cgnettie/status/2042443261223309752/photo/1",
+              "media_key": "3_2042443242076323844",
+              "start": 110,
+              "url": "https://t.co/xFAo93YVLZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042443261223309752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 26682,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "橘妹很缺💰接线下\n只会被💰打动\n喜欢大大方方的男生\n喜欢我请过🚪我会很开心ovo\n老公哥请放心投喂♥️♥️♥️\n#门槛妹 #线下 #金主爸爸 #包夜 #女大反差 #娇喘 #连麦 #甜妹 #爸爸活 #私人订制 #一日女友 https://t.co/xFAo93YVLZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 202,
+          "like_count": 1409,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 757
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-03T22:00:45.000Z",
+        "description": "#女大 ｜03/166/45kg｜只会被钱打动｜入门后可接单｜置顶有详细｜投喂请口令➕🛰️｜接定制｜坐标20～",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "女大"
+              }
+            ]
+          }
+        },
+        "id": "328711183",
+        "location": "1.8km",
+        "name": "橘什么妹.",
+        "pinned_tweet_id": "2042443261223309752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031805347170828290/aw7xKTNe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 23,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 212
+        },
+        "username": "cgnettie",
+        "verified": false
+      }
+    ]
+  }
+}

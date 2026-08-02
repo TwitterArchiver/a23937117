@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962519985995034994",
+    "created_at": "2025-09-01T14:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T15:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962519985995034994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1962342331035860992",
+          "start": 3,
+          "username": "xiao96099"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962519985995034994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962344697483112891",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @xiao96099: 发个置顶🔝这里是小耳朵\n我重生了\n双属性偏m\n🚪188部分福利视频➕随机掉落\n325全部福利视频➕一件免费原味➕随机掉落\n520永久线下九折➕露脸视频定制两条➕两件原味盲盒➕每周非绿视频两次\n777永久线下八折➕露脸定制视频五条➕每周非绿视频四次…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962344683063136256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzumF6Da0AA8WJD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1994,
+        "media_key": "3_1962344683088252928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzumF6JaEAAH8bd.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1962519985995034994",
+        "created_at": "2025-09-01T14:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T15:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962519985995034994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1962342331035860992",
+              "start": 3,
+              "username": "xiao96099"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962519985995034994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962344697483112891",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @xiao96099: 发个置顶🔝这里是小耳朵\n我重生了\n双属性偏m\n🚪188部分福利视频➕随机掉落\n325全部福利视频➕一件免费原味➕随机掉落\n520永久线下九折➕露脸视频定制两条➕两件原味盲盒➕每周非绿视频两次\n777永久线下八折➕露脸定制视频五条➕每周非绿视频四次…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962344683063136256",
+            "3_1962344683088252928"
+          ]
+        },
+        "author_id": "1962342331035860992",
+        "conversation_id": "1962344697483112891",
+        "created_at": "2025-09-01T02:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T03:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962344697483112891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aw2niiT0pm",
+              "end": 174,
+              "expanded_url": "https://x.com/xiao96099/status/1962344697483112891/photo/1",
+              "media_key": "3_1962344683063136256",
+              "start": 151,
+              "url": "https://t.co/aw2niiT0pm"
+            },
+            {
+              "display_url": "pic.x.com/aw2niiT0pm",
+              "end": 174,
+              "expanded_url": "https://x.com/xiao96099/status/1962344697483112891/photo/1",
+              "media_key": "3_1962344683088252928",
+              "start": 151,
+              "url": "https://t.co/aw2niiT0pm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962344697483112891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1546,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "发个置顶🔝这里是小耳朵\n我重生了\n双属性偏m\n🚪188部分福利视频➕随机掉落\n325全部福利视频➕一件免费原味➕随机掉落\n520永久线下九折➕露脸视频定制两条➕两件原味盲盒➕每周非绿视频两次\n777永久线下八折➕露脸定制视频五条➕每周非绿视频四次\n1314虽然知道没人入 \n转此条参与五个88红包抽奖 https://t.co/aw2niiT0pm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 211,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 664
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T02:30:57.000Z",
+        "description": "坐标江浙沪 可验证 165/49kg 只回复门槛口令 具体线下私聊",
+        "id": "1962342331035860992",
+        "location": "🚪188 328 520 777 1314",
+        "name": "小耳朵",
+        "pinned_tweet_id": "1962344697483112891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962342872264679424/eJNUvtW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 24,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 89
+        },
+        "username": "xiao96099",
+        "verified": false
+      }
+    ]
+  }
+}

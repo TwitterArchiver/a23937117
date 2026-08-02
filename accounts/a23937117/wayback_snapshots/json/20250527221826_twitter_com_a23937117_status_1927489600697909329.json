@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1927163970764390891",
+    "created_at": "2025-05-27T22:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T23:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927489600697909329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1618557658163970049",
+          "start": 0,
+          "username": "qqqqqf5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927489600697909329",
+    "in_reply_to_user_id": "1618557658163970049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927163970764390891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqf5 吃到普瑞巴林药片你就老实了，没水硬嚼然后生吞苦的我感觉自己要飞升了，在街上乱爬。˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1927163970764390891",
+        "created_at": "2025-05-27T22:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T23:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927489600697909329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1618557658163970049",
+              "start": 0,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927489600697909329",
+        "in_reply_to_user_id": "1618557658163970049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927163970764390891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf5 吃到普瑞巴林药片你就老实了，没水硬嚼然后生吞苦的我感觉自己要飞升了，在街上乱爬。˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618557658163970049",
+        "conversation_id": "1927163970764390891",
+        "created_at": "2025-05-27T00:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T01:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927163970764390891"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927163970764390891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃到胶囊味就犯恶心😭\n普瑞巴林增加了我对所有胶囊的PTSD，就连氟西汀这种用水吞服都恶心\n再这样下去我要对所有精神药物ptsd了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "讨厌我的人有福了 因为我真的过的很惨",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 114,
+          "like_count": 697,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 98
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "名为清凤/091115/泛性恋/生理性别男/🏳️‍⚧️/ISTP-T/158CM/40KG/hrt2025.1.3/MTF/不碰政治",
+        "id": "1618557658163970049",
+        "location": "ZheJiang NingBo",
+        "name": "qqqqqf🍥",
+        "pinned_tweet_id": "1924113711738102217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815436051437285380/AdFj8fW3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 1361,
+          "like_count": 2356,
+          "listed_count": 6,
+          "media_count": 259,
+          "tweet_count": 771
+        },
+        "username": "qqqqqf5",
+        "verified": false
+      }
+    ]
+  }
+}

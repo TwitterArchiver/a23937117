@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069241012405325825",
+        "3_2069241012413726721"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2069241020974313716",
+    "created_at": "2026-06-23T02:07:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T03:07:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069241020974313716"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 27,
+          "tag": "回忆录"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "反差"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "伤痛"
+        },
+        {
+          "end": 43,
+          "start": 40,
+          "tag": "门槛"
+        },
+        {
+          "end": 48,
+          "start": 44,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 52,
+          "start": 49,
+          "tag": "女大"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qGYMc7K1Kg",
+          "end": 76,
+          "expanded_url": "https://x.com/a23937117/status/2069241020974313716/photo/1",
+          "media_key": "3_2069241012405325825",
+          "start": 53,
+          "url": "https://t.co/qGYMc7K1Kg"
+        },
+        {
+          "display_url": "pic.x.com/qGYMc7K1Kg",
+          "end": 76,
+          "expanded_url": "https://x.com/a23937117/status/2069241020974313716/photo/1",
+          "media_key": "3_2069241012413726721",
+          "start": 53,
+          "url": "https://t.co/qGYMc7K1Kg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069241020974313716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我讨厌你啊，你本来把我养的那么漂亮，为什么抛弃我？\n\n#回忆录 #反差 #伤痛 #门槛 #门槛妹 #女大 https://t.co/qGYMc7K1Kg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069241012405325825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLdrvMsW0AE2axW.jpg",
+        "width": 1756
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069241012413726721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLdrvMuXAAEd8nm.jpg",
+        "width": 1624
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069241012405325825",
+            "3_2069241012413726721"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2069241020974313716",
+        "created_at": "2026-06-23T02:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T03:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069241020974313716"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "回忆录"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "反差"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "伤痛"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "门槛"
+            },
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "女大"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qGYMc7K1Kg",
+              "end": 76,
+              "expanded_url": "https://x.com/a23937117/status/2069241020974313716/photo/1",
+              "media_key": "3_2069241012405325825",
+              "start": 53,
+              "url": "https://t.co/qGYMc7K1Kg"
+            },
+            {
+              "display_url": "pic.x.com/qGYMc7K1Kg",
+              "end": 76,
+              "expanded_url": "https://x.com/a23937117/status/2069241020974313716/photo/1",
+              "media_key": "3_2069241012413726721",
+              "start": 53,
+              "url": "https://t.co/qGYMc7K1Kg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069241020974313716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌你啊，你本来把我养的那么漂亮，为什么抛弃我？\n\n#回忆录 #反差 #伤痛 #门槛 #门槛妹 #女大 https://t.co/qGYMc7K1Kg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 191,
+          "like_count": 1416,
+          "listed_count": 2,
+          "media_count": 239,
+          "tweet_count": 764
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

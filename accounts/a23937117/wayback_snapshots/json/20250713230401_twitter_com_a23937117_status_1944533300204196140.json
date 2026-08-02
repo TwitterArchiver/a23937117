@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1944533300204196140",
+    "created_at": "2025-07-13T23:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T00:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944533300204196140"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/a23937117/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/a23937117/status/1944506773576007720",
+          "start": 16,
+          "url": "https://t.co/jRPZIDBX2g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944533300204196140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944506773576007720",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宝宝们帮转如果人多的话我就抽奖 https://t.co/jRPZIDBX2g"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1944533300204196140",
+        "created_at": "2025-07-13T23:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T00:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944533300204196140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/a23937117/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/a23937117/status/1944506773576007720",
+              "start": 16,
+              "url": "https://t.co/jRPZIDBX2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944533300204196140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944506773576007720",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝宝们帮转如果人多的话我就抽奖 https://t.co/jRPZIDBX2g"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1944506773576007720",
+        "created_at": "2025-07-13T21:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T22:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944506773576007720"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944506773576007720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有没有小宝宝要找我买烟……最近真的好穷要死了……什么烟都有，韩，国，美，日……宝宝帮我转转，要我帮转，互fo也可以……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 150,
+          "like_count": 924,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 294
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955006566819856798",
+    "created_at": "2025-08-11T20:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T21:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955006566819856798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1834941120796934144",
+          "start": 3,
+          "username": "uu_uuuovo080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955006566819856798",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 127
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931401635345174749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uu_uuuovo080: 🔝坐标广东 可接全国✈\n我是小uu，很需要钱的一个小女孩现在我在接半绿非绿线下\n06/162cm/45kg\n解锁线下🚪288/520/1314➡具体转移私信\n我可以接受双飞要求不是太过分都可以满足你。\n以上，转关赞抽3个188 抽到直接私信口…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955006566819856798].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955006566819856798",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955006566819856798"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 556,
+        "media_key": "3_1931401627350765568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs23jAzakAARKLe.jpg",
+        "width": 749
+      },
+      {
+        "height": 741,
+        "media_key": "3_1931401627342413825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs23jAxbIAECCOf.jpg",
+        "width": 749
+      },
+      {
+        "height": 1017,
+        "media_key": "3_1931401627350822912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs23jAzbcAAKjHl.jpg",
+        "width": 749
+      },
+      {
+        "height": 990,
+        "media_key": "3_1931401627354943489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs23jA0aUAEbH-V.jpg",
+        "width": 749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931401627350765568",
+            "3_1931401627342413825",
+            "3_1931401627350822912",
+            "3_1931401627354943489"
+          ]
+        },
+        "author_id": "1834941120796934144",
+        "conversation_id": "1931401635345174749",
+        "created_at": "2025-06-07T17:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T18:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931401635345174749"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 136,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 146,
+              "start": 141,
+              "tag": "非绿线下"
+            },
+            {
+              "end": 152,
+              "start": 147,
+              "tag": "线下陪玩"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1C2C0CUE9I",
+              "end": 176,
+              "expanded_url": "https://x.com/Uuuovo121/status/1931401635345174749/photo/1",
+              "media_key": "3_1931401627350765568",
+              "start": 153,
+              "url": "https://t.co/1C2C0CUE9I"
+            },
+            {
+              "display_url": "pic.x.com/1C2C0CUE9I",
+              "end": 176,
+              "expanded_url": "https://x.com/Uuuovo121/status/1931401635345174749/photo/1",
+              "media_key": "3_1931401627342413825",
+              "start": 153,
+              "url": "https://t.co/1C2C0CUE9I"
+            },
+            {
+              "display_url": "pic.x.com/1C2C0CUE9I",
+              "end": 176,
+              "expanded_url": "https://x.com/Uuuovo121/status/1931401635345174749/photo/1",
+              "media_key": "3_1931401627350822912",
+              "start": 153,
+              "url": "https://t.co/1C2C0CUE9I"
+            },
+            {
+              "display_url": "pic.x.com/1C2C0CUE9I",
+              "end": 176,
+              "expanded_url": "https://x.com/Uuuovo121/status/1931401635345174749/photo/1",
+              "media_key": "3_1931401627354943489",
+              "start": 153,
+              "url": "https://t.co/1C2C0CUE9I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931401635345174749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 98883,
+          "like_count": 161,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "🔝坐标广东 可接全国✈\n我是小uu，很需要钱的一个小女孩现在我在接半绿非绿线下\n06/162cm/45kg\n解锁线下🚪288/520/1314➡具体转移私信\n我可以接受双飞要求不是太过分都可以满足你。\n以上，转关赞抽3个188 抽到直接私信口令🧧（超过24h没领到不补\n #爸爸活 #非绿线下 #线下陪玩 https://t.co/1C2C0CUE9I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 211,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 519
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T13:04:06.000Z",
+        "description": "🚪188/288/520/1314欢迎各位找我入门喵/验证30，女宝宝可以找我互fo互转",
+        "id": "1834941120796934144",
+        "location": "10km",
+        "name": "uu",
+        "pinned_tweet_id": "1931401635345174749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950849546126528512/qitUHX50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 55,
+          "like_count": 5,
+          "listed_count": 5,
+          "media_count": 27,
+          "tweet_count": 103
+        },
+        "username": "uu_uuuovo080",
+        "verified": false
+      }
+    ]
+  }
+}

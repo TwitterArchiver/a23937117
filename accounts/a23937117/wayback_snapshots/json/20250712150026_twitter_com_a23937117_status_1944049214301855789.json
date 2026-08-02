@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944049208882872321"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1943238832301937050",
+    "created_at": "2025-07-12T15:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T16:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944049214301855789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1906980266033508352",
+          "start": 0,
+          "username": "ICYI333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0sOoclK1o6",
+          "end": 32,
+          "expanded_url": "https://x.com/a23937117/status/1944049214301855789/photo/1",
+          "media_key": "3_1944049208882872321",
+          "start": 9,
+          "url": "https://t.co/0sOoclK1o6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944049214301855789",
+    "in_reply_to_user_id": "1906980266033508352",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943238832301937050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ICYI333 https://t.co/0sOoclK1o6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1944049214301855789].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1944049214301855789",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1944049214301855789"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1382,
+        "media_key": "3_1944049208882872321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvqmdJlXwAE27z9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1382,
+        "media_key": "3_1943238828552032256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvfFazmXEAAfQ20.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943238828552032256"
+          ]
+        },
+        "author_id": "1906980266033508352",
+        "conversation_id": "1943238832301937050",
+        "created_at": "2025-07-10T09:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T10:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943238832301937050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Do1ZcPwgz3",
+              "end": 29,
+              "expanded_url": "https://x.com/ICYI333/status/1943238832301937050/photo/1",
+              "media_key": "3_1943238828552032256",
+              "start": 6,
+              "url": "https://t.co/Do1ZcPwgz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943238832301937050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 27717,
+          "like_count": 22,
+          "quote_count": 16,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有人做吗。 https://t.co/Do1ZcPwgz3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 147,
+          "like_count": 909,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 279
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T08:02:34.000Z",
+        "description": "用于yapping的暴论制造机。\n大号：@ICYI3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 20,
+                "username": "ICYI3"
+              }
+            ]
+          }
+        },
+        "id": "1906980266033508352",
+        "name": "ICYI333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909476511041961987/cwauwRiS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 181,
+          "like_count": 6118,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 598
+        },
+        "username": "ICYI333",
+        "verified": false
+      }
+    ]
+  }
+}

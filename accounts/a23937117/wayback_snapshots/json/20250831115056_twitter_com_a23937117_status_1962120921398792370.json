@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1795094234665472002",
+        "3_1795094258170368000",
+        "3_1795094277816557572"
+      ],
+      "media_source_tweet_id": [
+        "1795094406426436059",
+        "1795094406426436059",
+        "1795094406426436059"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962120921398792370",
+    "created_at": "2025-08-31T11:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T12:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962120921398792370"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 55,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 65,
+          "start": 61,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 70,
+          "start": 66,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 75,
+          "start": 71,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 83,
+          "start": 78,
+          "tag": "一日女友"
+        },
+        {
+          "end": 89,
+          "start": 84,
+          "tag": "上海线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1774636726520098816",
+          "start": 3,
+          "username": "hurioldoll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bcgu76Hq1g",
+          "end": 113,
+          "expanded_url": "https://x.com/hurioldoll/status/1795094406426436059/photo/1",
+          "media_key": "3_1795094234665472002",
+          "start": 90,
+          "url": "https://t.co/bcgu76Hq1g"
+        },
+        {
+          "display_url": "pic.x.com/bcgu76Hq1g",
+          "end": 113,
+          "expanded_url": "https://x.com/hurioldoll/status/1795094406426436059/photo/1",
+          "media_key": "3_1795094258170368000",
+          "start": 90,
+          "url": "https://t.co/bcgu76Hq1g"
+        },
+        {
+          "display_url": "pic.x.com/bcgu76Hq1g",
+          "end": 113,
+          "expanded_url": "https://x.com/hurioldoll/status/1795094406426436059/photo/1",
+          "media_key": "3_1795094277816557572",
+          "start": 90,
+          "url": "https://t.co/bcgu76Hq1g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962120921398792370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795094406426436059",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @hurioldoll: 我是洋希 05女大\n 欢迎小女孩们互fo互转 \n🚪199 坐标上海，可线下 \n#金主爸爸 #爸爸活 #妈妈活 #门槛哥   #一日女友 #上海线下 https://t.co/bcgu76Hq1g"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962120921398792370].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962120921398792370",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962120921398792370"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1795094234665472002",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOl0shOWUAIK9s5.jpg",
+        "width": 851
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1795094258170368000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOl0t4yWkAA9yEg.jpg",
+        "width": 838
+      },
+      {
+        "height": 1249,
+        "media_key": "3_1795094277816557572",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOl0vB-XoAQfGi-.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1795094234665472002",
+            "3_1795094258170368000",
+            "3_1795094277816557572"
+          ]
+        },
+        "author_id": "1774636726520098816",
+        "conversation_id": "1795094406426436059",
+        "created_at": "2024-05-27T14:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T15:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795094406426436059"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "一日女友"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "上海线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bcgu76Hq1g",
+              "end": 97,
+              "expanded_url": "https://x.com/hurioldoll/status/1795094406426436059/photo/1",
+              "media_key": "3_1795094234665472002",
+              "start": 74,
+              "url": "https://t.co/bcgu76Hq1g"
+            },
+            {
+              "display_url": "pic.x.com/bcgu76Hq1g",
+              "end": 97,
+              "expanded_url": "https://x.com/hurioldoll/status/1795094406426436059/photo/1",
+              "media_key": "3_1795094258170368000",
+              "start": 74,
+              "url": "https://t.co/bcgu76Hq1g"
+            },
+            {
+              "display_url": "pic.x.com/bcgu76Hq1g",
+              "end": 97,
+              "expanded_url": "https://x.com/hurioldoll/status/1795094406426436059/photo/1",
+              "media_key": "3_1795094277816557572",
+              "start": 74,
+              "url": "https://t.co/bcgu76Hq1g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795094406426436059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 60416,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 63
+        },
+        "reply_settings": "verified",
+        "text": "我是洋希 05女大\n 欢迎小女孩们互fo互转 \n🚪199 坐标上海，可线下 \n#金主爸爸 #爸爸活 #妈妈活 #门槛哥   #一日女友 #上海线下 https://t.co/bcgu76Hq1g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 209,
+          "like_count": 1136,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 678
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T03:15:49.000Z",
+        "description": "",
+        "id": "1774636726520098816",
+        "location": "上海",
+        "name": "洋希",
+        "pinned_tweet_id": "1795094406426436059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795091366617247744/A4It-qFN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 70,
+          "like_count": 1,
+          "listed_count": 3,
+          "media_count": 8,
+          "tweet_count": 251
+        },
+        "username": "hurioldoll",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1960233261713502567",
+    "created_at": "2025-08-26T21:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T22:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960459622264742182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866458229527764992",
+          "start": 0,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960459622264742182",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960233261713502567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citrus_amara 求推荐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960233257867300864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzQlwyQWUAASKCX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1960233261713502567",
+        "created_at": "2025-08-26T21:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T22:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960459622264742182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960459622264742182",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960233261713502567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 求推荐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960233257867300864"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "1960233261713502567",
+        "created_at": "2025-08-26T06:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T07:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960233261713502567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Yxgl0lqmP",
+              "end": 66,
+              "expanded_url": "https://x.com/Citrus_amara/status/1960233261713502567/photo/1",
+              "media_key": "3_1960233257867300864",
+              "start": 43,
+              "url": "https://t.co/2Yxgl0lqmP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960233261713502567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1056,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯对我觉得促智药不算od，我的脑子被疾病和抗精神病药毁了，我需要促智药修复我的脑神经 https://t.co/2Yxgl0lqmP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 207,
+          "like_count": 1115,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 619
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby。od的请陪我玩。#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "odtwt"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 361,
+          "like_count": 4538,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 1801
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

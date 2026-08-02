@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1954984853218247045",
+    "created_at": "2025-08-11T19:14:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T20:14:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954984853218247045"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 123,
+          "start": 119,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "非绿"
+        },
+        {
+          "end": 133,
+          "start": 128,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1951316038488039427",
+          "start": 3,
+          "username": "qq6100878714925"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954984853218247045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953854329997185490",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qq6100878714925: 哈喽我是小碗鱼07| 163| 45kg\n双向情感障碍极度缺钱所以被迫下海，情绪不稳定会od发疯，过🚪288接线下，接全国✈️车费你包，接线下私信咨询，欢迎女孩子来找我互fo互转私信我就可以啦～\n#爸爸活 #非绿 #金主爸爸 #线下 h…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954984853218247045].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954984853218247045",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954984853218247045"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1953854287160758283",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx18H0kXUAs6U7d.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1953854287143948288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx18H0gW0AAoiB3.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953854287160758283",
+            "3_1953854287143948288"
+          ]
+        },
+        "author_id": "1951316038488039427",
+        "conversation_id": "1953854329997185490",
+        "created_at": "2025-08-08T16:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T17:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953854329997185490"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 98,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "非绿"
+            },
+            {
+              "end": 112,
+              "start": 107,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ujn507XcN1",
+              "end": 140,
+              "expanded_url": "https://x.com/qq6100878714925/status/1953854329997185490/photo/1",
+              "media_key": "3_1953854287160758283",
+              "start": 117,
+              "url": "https://t.co/ujn507XcN1"
+            },
+            {
+              "display_url": "pic.x.com/ujn507XcN1",
+              "end": 140,
+              "expanded_url": "https://x.com/qq6100878714925/status/1953854329997185490/photo/1",
+              "media_key": "3_1953854287143948288",
+              "start": 117,
+              "url": "https://t.co/ujn507XcN1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953854329997185490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11043,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "哈喽我是小碗鱼07| 163| 45kg\n双向情感障碍极度缺钱所以被迫下海，情绪不稳定会od发疯，过🚪288接线下，接全国✈️车费你包，接线下私信咨询，欢迎女孩子来找我互fo互转私信我就可以啦～\n#爸爸活 #非绿 #金主爸爸 #线下 https://t.co/ujn507XcN1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 194,
+          "like_count": 1060,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 500
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T16:16:23.000Z",
+        "description": "🚪",
+        "id": "1951316038488039427",
+        "name": "小碗鱼",
+        "pinned_tweet_id": "1953854329997185490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951316634733518851/RwtefZGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 0,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 97
+        },
+        "username": "qq6100878714925",
+        "verified": false
+      }
+    ]
+  }
+}

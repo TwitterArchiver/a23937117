@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1804571369109151744",
+        "3_1804571369113292800",
+        "3_1804571369109094400",
+        "3_1804571369113280512"
+      ],
+      "media_source_tweet_id": [
+        "1804575451764953557",
+        "1804575451764953557",
+        "1804575451764953557",
+        "1804575451764953557"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1965432348356542505",
+    "created_at": "2025-09-09T15:09:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T16:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965432348356542505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1701789483669090304",
+          "start": 3,
+          "username": "RuoruoUna"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c0UbTO9UbH",
+          "end": 75,
+          "expanded_url": "https://x.com/RuoruoUna/status/1804575451764953557/photo/1",
+          "media_key": "3_1804571369109151744",
+          "start": 52,
+          "url": "https://t.co/c0UbTO9UbH"
+        },
+        {
+          "display_url": "pic.x.com/c0UbTO9UbH",
+          "end": 75,
+          "expanded_url": "https://x.com/RuoruoUna/status/1804575451764953557/photo/1",
+          "media_key": "3_1804571369113292800",
+          "start": 52,
+          "url": "https://t.co/c0UbTO9UbH"
+        },
+        {
+          "display_url": "pic.x.com/c0UbTO9UbH",
+          "end": 75,
+          "expanded_url": "https://x.com/RuoruoUna/status/1804575451764953557/photo/1",
+          "media_key": "3_1804571369109094400",
+          "start": 52,
+          "url": "https://t.co/c0UbTO9UbH"
+        },
+        {
+          "display_url": "pic.x.com/c0UbTO9UbH",
+          "end": 75,
+          "expanded_url": "https://x.com/RuoruoUna/status/1804575451764953557/photo/1",
+          "media_key": "3_1804571369113280512",
+          "start": 52,
+          "url": "https://t.co/c0UbTO9UbH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965432348356542505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804575451764953557",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RuoruoUna: 顶置\n我是若若 \n喜欢我请过我🚪\n坐标温州，接线下\n小女孩互关互转大欢迎 https://t.co/c0UbTO9UbH"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1965432348356542505].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1965432348356542505",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1965432348356542505"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1804571369109151744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQsgGWOXYAAEs9w.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1804571369113292800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQsgGWPWkAA65iR.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1804571369109094400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQsgGWOWgAAraGr.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1804571369113280512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQsgGWPWYAA15CM.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1804571369109151744",
+            "3_1804571369113292800",
+            "3_1804571369109094400",
+            "3_1804571369113280512"
+          ]
+        },
+        "author_id": "1701789483669090304",
+        "conversation_id": "1804575451764953557",
+        "created_at": "2024-06-22T18:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T19:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804575451764953557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c0UbTO9UbH",
+              "end": 60,
+              "expanded_url": "https://x.com/RuoruoUna/status/1804575451764953557/photo/1",
+              "media_key": "3_1804571369109151744",
+              "start": 37,
+              "url": "https://t.co/c0UbTO9UbH"
+            },
+            {
+              "display_url": "pic.x.com/c0UbTO9UbH",
+              "end": 60,
+              "expanded_url": "https://x.com/RuoruoUna/status/1804575451764953557/photo/1",
+              "media_key": "3_1804571369113292800",
+              "start": 37,
+              "url": "https://t.co/c0UbTO9UbH"
+            },
+            {
+              "display_url": "pic.x.com/c0UbTO9UbH",
+              "end": 60,
+              "expanded_url": "https://x.com/RuoruoUna/status/1804575451764953557/photo/1",
+              "media_key": "3_1804571369109094400",
+              "start": 37,
+              "url": "https://t.co/c0UbTO9UbH"
+            },
+            {
+              "display_url": "pic.x.com/c0UbTO9UbH",
+              "end": 60,
+              "expanded_url": "https://x.com/RuoruoUna/status/1804575451764953557/photo/1",
+              "media_key": "3_1804571369113280512",
+              "start": 37,
+              "url": "https://t.co/c0UbTO9UbH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804575451764953557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 95966,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "顶置\n我是若若 \n喜欢我请过我🚪\n坐标温州，接线下\n小女孩互关互转大欢迎 https://t.co/c0UbTO9UbH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 210,
+          "like_count": 1160,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 662
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-13T02:46:53.000Z",
+        "description": "私信只回口令",
+        "id": "1701789483669090304",
+        "location": "🚪188",
+        "name": "若若2.0",
+        "pinned_tweet_id": "1804575451764953557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804571019505504257/s3YCnghI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 105,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 308
+        },
+        "username": "RuoruoUna",
+        "verified": false
+      }
+    ]
+  }
+}

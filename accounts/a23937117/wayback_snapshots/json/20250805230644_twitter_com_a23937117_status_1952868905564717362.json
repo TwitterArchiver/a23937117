@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1952656451597418514",
+    "created_at": "2025-08-05T23:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T00:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952868905564717362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1804054015552163842",
+          "start": 0,
+          "username": "c_cmdz38356"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952868905564717362",
+    "in_reply_to_user_id": "1804054015552163842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952656451597418514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c_cmdz38356 这个真的很好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1952656438440153088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxk6r2Wa0AAf8Yc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1952656451597418514",
+        "created_at": "2025-08-05T23:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T00:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952868905564717362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1804054015552163842",
+              "start": 0,
+              "username": "c_cmdz38356"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952868905564717362",
+        "in_reply_to_user_id": "1804054015552163842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952656451597418514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c_cmdz38356 这个真的很好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952656438440153088"
+          ]
+        },
+        "author_id": "1804054015552163842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1952656451597418514",
+        "created_at": "2025-08-05T09:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T10:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952656451597418514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5tdpbzdTTR",
+              "end": 30,
+              "expanded_url": "https://x.com/c_cmdz38356/status/1952656451597418514/photo/1",
+              "media_key": "3_1952656438440153088",
+              "start": 7,
+              "url": "https://t.co/5tdpbzdTTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952656451597418514",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 16062,
+          "like_count": 343,
+          "quote_count": 2,
+          "reply_count": 75,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真正的美味… https://t.co/5tdpbzdTTR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 185,
+          "like_count": 1022,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 463
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T07:29:43.000Z",
+        "description": "精力极低认知不足观点不详 恋爱中 互关欢迎私信。 &https://t.co/rrogY6T4fc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cmdz1999",
+                "end": 49,
+                "expanded_url": "https://ngl.link/cmdz1999",
+                "start": 26,
+                "url": "https://t.co/rrogY6T4fc"
+              }
+            ]
+          }
+        },
+        "id": "1804054015552163842",
+        "name": "沉默断章",
+        "pinned_tweet_id": "1807851562070597935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941863364029788160/Dkpi5a-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 211,
+          "like_count": 8216,
+          "listed_count": 3,
+          "media_count": 483,
+          "tweet_count": 5543
+        },
+        "username": "c_cmdz38356",
+        "verified": false
+      }
+    ]
+  }
+}

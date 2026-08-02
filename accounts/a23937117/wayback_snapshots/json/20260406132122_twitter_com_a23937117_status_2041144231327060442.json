@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041117415397085184",
+        "3_2041117415384489984"
+      ],
+      "media_source_tweet_id": [
+        "2041117430588772856",
+        "2041117430588772856"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2041144231327060442",
+    "created_at": "2026-04-06T13:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T14:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041144231327060442"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "足控"
+        },
+        {
+          "end": 91,
+          "start": 86,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "线下"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "反差"
+        },
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "门槛"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1406782857654251520",
+          "start": 3,
+          "username": "Konoha46452093"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/33c7ygCWLj",
+          "end": 127,
+          "expanded_url": "https://x.com/Konoha46452093/status/2041117430588772856/photo/1",
+          "media_key": "3_2041117415397085184",
+          "start": 104,
+          "url": "https://t.co/33c7ygCWLj"
+        },
+        {
+          "display_url": "pic.x.com/33c7ygCWLj",
+          "end": 127,
+          "expanded_url": "https://x.com/Konoha46452093/status/2041117430588772856/photo/1",
+          "media_key": "3_2041117415384489984",
+          "start": 104,
+          "url": "https://t.co/33c7ygCWLj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041144231327060442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041117430588772856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Konoha46452093: hello 小小小雪儿呀!\n06年168cm|45kg\n坐标不定全国可✈️\n喜欢我的贝贝欢迎入🚪\n欢迎小女孩互转互fo \n #足控 #金主爸爸 #线下 #反差 #门槛 https://t.co/33c7ygCWLj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041117415397085184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOBeZmbUAAeGU8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1588,
+        "media_key": "3_2041117415384489984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOBeZjbIAAwM54.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041117415397085184",
+            "3_2041117415384489984"
+          ],
+          "media_source_tweet_id": [
+            "2041117430588772856",
+            "2041117430588772856"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2041144231327060442",
+        "created_at": "2026-04-06T13:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041144231327060442"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "足控"
+            },
+            {
+              "end": 91,
+              "start": 86,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "线下"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "反差"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "门槛"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1406782857654251520",
+              "start": 3,
+              "username": "Konoha46452093"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/33c7ygCWLj",
+              "end": 127,
+              "expanded_url": "https://x.com/Konoha46452093/status/2041117430588772856/photo/1",
+              "media_key": "3_2041117415397085184",
+              "start": 104,
+              "url": "https://t.co/33c7ygCWLj"
+            },
+            {
+              "display_url": "pic.x.com/33c7ygCWLj",
+              "end": 127,
+              "expanded_url": "https://x.com/Konoha46452093/status/2041117430588772856/photo/1",
+              "media_key": "3_2041117415384489984",
+              "start": 104,
+              "url": "https://t.co/33c7ygCWLj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041144231327060442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041117430588772856",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Konoha46452093: hello 小小小雪儿呀!\n06年168cm|45kg\n坐标不定全国可✈️\n喜欢我的贝贝欢迎入🚪\n欢迎小女孩互转互fo \n #足控 #金主爸爸 #线下 #反差 #门槛 https://t.co/33c7ygCWLj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041117415397085184",
+            "3_2041117415384489984"
+          ]
+        },
+        "author_id": "1406782857654251520",
+        "conversation_id": "2041117430588772856",
+        "created_at": "2026-04-06T11:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041117430588772856"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "足控"
+            },
+            {
+              "end": 71,
+              "start": 66,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "线下"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "反差"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "门槛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/33c7ygCWLj",
+              "end": 107,
+              "expanded_url": "https://x.com/Konoha46452093/status/2041117430588772856/photo/1",
+              "media_key": "3_2041117415397085184",
+              "start": 84,
+              "url": "https://t.co/33c7ygCWLj"
+            },
+            {
+              "display_url": "pic.x.com/33c7ygCWLj",
+              "end": 107,
+              "expanded_url": "https://x.com/Konoha46452093/status/2041117430588772856/photo/1",
+              "media_key": "3_2041117415384489984",
+              "start": 84,
+              "url": "https://t.co/33c7ygCWLj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041117430588772856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 436,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "hello 小小小雪儿呀!\n06年168cm|45kg\n坐标不定全国可✈️\n喜欢我的贝贝欢迎入🚪\n欢迎小女孩互转互fo \n #足控 #金主爸爸 #线下 #反差 #门槛 https://t.co/33c7ygCWLj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 205,
+          "like_count": 1400,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 689
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-21T01:16:04.000Z",
+        "description": "喜欢我的宝宝可以投喂o、欢迎宝宝找我互转互fo",
+        "id": "1406782857654251520",
+        "name": "小小小雪儿呀!",
+        "pinned_tweet_id": "2041117430588772856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035355471394254848/9zWKC2L1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 0,
+          "like_count": 46,
+          "listed_count": 5,
+          "media_count": 23,
+          "tweet_count": 158
+        },
+        "username": "Konoha46452093",
+        "verified": false
+      }
+    ]
+  }
+}

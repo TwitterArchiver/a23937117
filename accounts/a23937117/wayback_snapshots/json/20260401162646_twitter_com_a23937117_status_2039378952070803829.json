@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Sagittarius ",
+          "id": "1138889680588402688",
+          "name": "Sagittarius "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sagittarius ",
+          "id": "1138889680588402688",
+          "name": "Sagittarius "
+        }
+      }
+    ],
+    "conversation_id": "2039378952070803829",
+    "created_at": "2026-04-01T16:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T17:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039378952070803829"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 137,
+          "start": 133,
+          "tag": "门槛哥"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1820766607817449472",
+          "start": 3,
+          "username": "Zainal401199607"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039378952070803829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037699121600168440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @Zainal401199607: 大家好 我叫菲菲 165 20岁 96斤 射手座 胸围B罩杯 转x之前是兼职ktv陪酒 喝伤了身体无法工作 但又要赚钱交房租和学费 迫于压力来到x发展  求求哥哥们都来过我的🚪 🥹🥹帮我度过这个困难时期 本人支持视频验证～ #门槛哥 #…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1551,
+        "media_key": "3_2037699110057435136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdci14aYAAdwc6.jpg",
+        "width": 1166
+      },
+      {
+        "height": 1528,
+        "media_key": "3_2037699109977825281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdci1lboAE9Akq.jpg",
+        "width": 1112
+      },
+      {
+        "height": 1543,
+        "media_key": "3_2037699109981974528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdci1ma8AAA2mt.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037699109956853760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdci1gboAALMNx.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Sagittarius ",
+              "id": "1138889680588402688",
+              "name": "Sagittarius "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sagittarius ",
+              "id": "1138889680588402688",
+              "name": "Sagittarius "
+            }
+          }
+        ],
+        "conversation_id": "2039378952070803829",
+        "created_at": "2026-04-01T16:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039378952070803829"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "门槛哥"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1820766607817449472",
+              "start": 3,
+              "username": "Zainal401199607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039378952070803829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037699121600168440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @Zainal401199607: 大家好 我叫菲菲 165 20岁 96斤 射手座 胸围B罩杯 转x之前是兼职ktv陪酒 喝伤了身体无法工作 但又要赚钱交房租和学费 迫于压力来到x发展  求求哥哥们都来过我的🚪 🥹🥹帮我度过这个困难时期 本人支持视频验证～ #门槛哥 #…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037699110057435136",
+            "3_2037699109977825281",
+            "3_2037699109981974528",
+            "3_2037699109956853760"
+          ]
+        },
+        "author_id": "1820766607817449472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Sagittarius ",
+              "id": "1138889680588402688",
+              "name": "Sagittarius "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sagittarius ",
+              "id": "1138889680588402688",
+              "name": "Sagittarius "
+            }
+          }
+        ],
+        "conversation_id": "2037699121600168440",
+        "created_at": "2026-03-28T01:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T02:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037699121600168440"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 116,
+              "start": 112,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "福利姬"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "陪玩"
+            },
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "女大学生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oHnU15IY0N",
+              "end": 155,
+              "expanded_url": "https://x.com/Zainal401199607/status/2037699121600168440/photo/1",
+              "media_key": "3_2037699110057435136",
+              "start": 132,
+              "url": "https://t.co/oHnU15IY0N"
+            },
+            {
+              "display_url": "pic.x.com/oHnU15IY0N",
+              "end": 155,
+              "expanded_url": "https://x.com/Zainal401199607/status/2037699121600168440/photo/1",
+              "media_key": "3_2037699109977825281",
+              "start": 132,
+              "url": "https://t.co/oHnU15IY0N"
+            },
+            {
+              "display_url": "pic.x.com/oHnU15IY0N",
+              "end": 155,
+              "expanded_url": "https://x.com/Zainal401199607/status/2037699121600168440/photo/1",
+              "media_key": "3_2037699109981974528",
+              "start": 132,
+              "url": "https://t.co/oHnU15IY0N"
+            },
+            {
+              "display_url": "pic.x.com/oHnU15IY0N",
+              "end": 155,
+              "expanded_url": "https://x.com/Zainal401199607/status/2037699121600168440/photo/1",
+              "media_key": "3_2037699109956853760",
+              "start": 132,
+              "url": "https://t.co/oHnU15IY0N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037699121600168440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5462,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 32
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "大家好 我叫菲菲 165 20岁 96斤 射手座 胸围B罩杯 转x之前是兼职ktv陪酒 喝伤了身体无法工作 但又要赚钱交房租和学费 迫于压力来到x发展  求求哥哥们都来过我的🚪 🥹🥹帮我度过这个困难时期 本人支持视频验证～ #门槛哥 #福利姬 #陪玩 #女大学生 https://t.co/oHnU15IY0N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 203,
+          "like_count": 1394,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 800
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T10:19:30.000Z",
+        "description": "上海广州深圳香港常驻 身高165 体重96斤 20岁 射手座 支持验证本人",
+        "id": "1820766607817449472",
+        "name": "Feifei@",
+        "pinned_tweet_id": "2037699121600168440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035486621152526336/Yz8bARpN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 1,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 24
+        },
+        "username": "Zainal401199607",
+        "verified": false
+      }
+    ]
+  }
+}

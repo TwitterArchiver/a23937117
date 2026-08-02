@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962118404145324143",
+    "created_at": "2025-08-31T11:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T12:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962118404145324143"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 119,
+          "start": 115,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 124,
+          "start": 120,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 131,
+          "start": 126,
+          "tag": "线下非绿"
+        },
+        {
+          "end": 137,
+          "start": 133,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1923700730415939585",
+          "start": 3,
+          "username": "baleliujin333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962118404145324143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931788527941111953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baleliujin333: 弄个置顶🔝\n身高164cm\n体重94斤 杯罩A+\n🚪有 188.288.388.520.1314上不封顶欢迎投喂喵（288门解锁线下）\n转关此帖抽5个188口令，抽到直接私信口令，记得查收💕\n#门槛哥 #爸爸活  #线下非绿  #门槛妹 h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1100,
+        "media_key": "3_1931788520957558784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs8XbLzaQAAWXpj.jpg",
+        "width": 828
+      },
+      {
+        "height": 1077,
+        "media_key": "3_1931788520970215425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs8XbL2bYAE0QSt.jpg",
+        "width": 828
+      },
+      {
+        "height": 1093,
+        "media_key": "3_1931788520945061888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs8XbLwbkAAyE5v.jpg",
+        "width": 828
+      },
+      {
+        "height": 448,
+        "media_key": "3_1931788520957616128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs8XbLzbIAAlgAA.jpg",
+        "width": 746
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1962118404145324143",
+        "created_at": "2025-08-31T11:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T12:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962118404145324143"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 119,
+              "start": 115,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 124,
+              "start": 120,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "线下非绿"
+            },
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "门槛妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1923700730415939585",
+              "start": 3,
+              "username": "baleliujin333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962118404145324143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931788527941111953",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baleliujin333: 弄个置顶🔝\n身高164cm\n体重94斤 杯罩A+\n🚪有 188.288.388.520.1314上不封顶欢迎投喂喵（288门解锁线下）\n转关此帖抽5个188口令，抽到直接私信口令，记得查收💕\n#门槛哥 #爸爸活  #线下非绿  #门槛妹 h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931788520957558784",
+            "3_1931788520970215425",
+            "3_1931788520945061888",
+            "3_1931788520957616128"
+          ]
+        },
+        "author_id": "1923700730415939585",
+        "conversation_id": "1931788527941111953",
+        "created_at": "2025-06-08T19:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T20:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931788527941111953"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 112,
+              "start": 107,
+              "tag": "线下非绿"
+            },
+            {
+              "end": 118,
+              "start": 114,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QNtpYVP5LF",
+              "end": 142,
+              "expanded_url": "https://x.com/baleliujin333/status/1931788527941111953/photo/1",
+              "media_key": "3_1931788520957558784",
+              "start": 119,
+              "url": "https://t.co/QNtpYVP5LF"
+            },
+            {
+              "display_url": "pic.x.com/QNtpYVP5LF",
+              "end": 142,
+              "expanded_url": "https://x.com/baleliujin333/status/1931788527941111953/photo/1",
+              "media_key": "3_1931788520970215425",
+              "start": 119,
+              "url": "https://t.co/QNtpYVP5LF"
+            },
+            {
+              "display_url": "pic.x.com/QNtpYVP5LF",
+              "end": 142,
+              "expanded_url": "https://x.com/baleliujin333/status/1931788527941111953/photo/1",
+              "media_key": "3_1931788520945061888",
+              "start": 119,
+              "url": "https://t.co/QNtpYVP5LF"
+            },
+            {
+              "display_url": "pic.x.com/QNtpYVP5LF",
+              "end": 142,
+              "expanded_url": "https://x.com/baleliujin333/status/1931788527941111953/photo/1",
+              "media_key": "3_1931788520957616128",
+              "start": 119,
+              "url": "https://t.co/QNtpYVP5LF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931788527941111953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 22680,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "弄个置顶🔝\n身高164cm\n体重94斤 杯罩A+\n🚪有 188.288.388.520.1314上不封顶欢迎投喂喵（288门解锁线下）\n转关此帖抽5个188口令，抽到直接私信口令，记得查收💕\n#门槛哥 #爸爸活  #线下非绿  #门槛妹 https://t.co/QNtpYVP5LF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 208,
+          "like_count": 1137,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 658
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-17T11:23:41.000Z",
+        "description": "随便给点打发叫花子也可以( ･᷄ὢ･᷅ )微信好友位无🚪25朋友圈 188 线下 可以出cos见你➡️其他私信咨询 可语音 视频验证 我的身高体重164/47kg 罩杯是A+ 线上福利🚪388/520/1314 区别在于漏点与福利数量 转关此贴抽三个288，抽到直接私信口令，注意查收",
+        "id": "1923700730415939585",
+        "location": "上海",
+        "name": "扒皮",
+        "pinned_tweet_id": "1931788527941111953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954814726833319936/eiAd_dcG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 27,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 122
+        },
+        "username": "baleliujin333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943145517841543168",
+        "3_1943145517837357057"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1943145524426621278",
+    "created_at": "2025-07-10T03:09:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T04:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943145524426621278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/byfqqiIxCP",
+          "end": 67,
+          "expanded_url": "https://x.com/a23937117/status/1943145524426621278/photo/1",
+          "media_key": "3_1943145517841543168",
+          "start": 44,
+          "url": "https://t.co/byfqqiIxCP"
+        },
+        {
+          "display_url": "pic.x.com/byfqqiIxCP",
+          "end": 67,
+          "expanded_url": "https://x.com/a23937117/status/1943145524426621278/photo/1",
+          "media_key": "3_1943145517837357057",
+          "start": 44,
+          "url": "https://t.co/byfqqiIxCP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943145524426621278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "……其实都能接受……但是也都不太会，技巧几乎为0，都是当场教学的，而且容易害羞\nᘏ⑅ᘏ https://t.co/byfqqiIxCP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1943145524426621278].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1943145524426621278",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1943145524426621278"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1517,
+        "media_key": "3_1943145517841543168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvdwjaHWcAAWOoi.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1517,
+        "media_key": "3_1943145517837357057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvdwjaGWkAEg4Hc.jpg",
+        "width": 1179
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "kissing",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 132,
+          "like_count": 869,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 216
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

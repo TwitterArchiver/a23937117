@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1945637278187229654",
+    "created_at": "2025-07-17T03:57:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T04:57:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945694446416474159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1754795826713686016",
+          "start": 0,
+          "username": "xxxxinTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945694446416474159",
+    "in_reply_to_user_id": "1754795826713686016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945637278187229654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxxinTvT 爱自己，我就爱你宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1945637278187229654",
+        "created_at": "2025-07-17T03:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T04:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945694446416474159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1754795826713686016",
+              "start": 0,
+              "username": "xxxxinTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945694446416474159",
+        "in_reply_to_user_id": "1754795826713686016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945637278187229654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxxinTvT 爱自己，我就爱你宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754795826713686016",
+        "conversation_id": "1945637278187229654",
+        "created_at": "2025-07-17T00:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T01:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945637278187229654"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945637278187229654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 391,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果有人可以爱我 我怎么样都可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 162,
+          "like_count": 955,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 378
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T09:15:12.000Z",
+        "description": "乞丐",
+        "id": "1754795826713686016",
+        "location": "🚪50",
+        "name": "xxxxin",
+        "pinned_tweet_id": "1754800304498024517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840479748897849344/7GMzuxFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3442,
+          "following_count": 704,
+          "like_count": 19469,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 7992
+        },
+        "username": "xxxxinTvT",
+        "verified": false
+      }
+    ]
+  }
+}

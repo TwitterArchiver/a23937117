@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053826358917165492",
+    "created_at": "2026-05-11T13:15:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T14:15:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053826358917165492"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 71,
+          "start": 67,
+          "tag": "江浙沪"
+        },
+        {
+          "end": 77,
+          "start": 72,
+          "tag": "天津北京"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2037447301896282112",
+          "start": 3,
+          "username": "jwdn6zv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053826358917165492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053100140312007015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jwdn6zv: 置顶!转发关注这条帖子抽四个人20🧧  父母离异单亲家庭 需要自己养活自己 养的有一只小狗一只小猫 坐标在 #江浙沪 #天津北京  价格如下 图好感度很高可以每天打视频! 验证可以露脸验证指定任何数字和文字\n抖音万粉互关需要入门QwQ 可以升门 私信只…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053100066270015488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4Toepa8AAoTEs.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053100066249039872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4Toeka4AA6qyo.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 7033,
+        "height": 1280,
+        "media_key": "13_2053100066261680128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053100066261680128/img/JiGEWpznGpt6pux9.jpg",
+        "public_metrics": {
+          "view_count": 1161
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053100066261680128/vid/avc1/320x568/9NOv8IIrpY1DbgJ4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053100066261680128/vid/avc1/480x852/97jPi5QqW9BNVImR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053100066261680128/vid/avc1/720x1280/XxZxungUjsA2BNbq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053100066261680128/pl/z5JozkSErHhMhw5v.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1833,
+        "media_key": "3_2053100066269986816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4ToepagAA-QMi.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2053826358917165492",
+        "created_at": "2026-05-11T13:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053826358917165492"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 77,
+              "start": 72,
+              "tag": "天津北京"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2037447301896282112",
+              "start": 3,
+              "username": "jwdn6zv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053826358917165492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053100140312007015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jwdn6zv: 置顶!转发关注这条帖子抽四个人20🧧  父母离异单亲家庭 需要自己养活自己 养的有一只小狗一只小猫 坐标在 #江浙沪 #天津北京  价格如下 图好感度很高可以每天打视频! 验证可以露脸验证指定任何数字和文字\n抖音万粉互关需要入门QwQ 可以升门 私信只…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053100066270015488",
+            "3_2053100066249039872",
+            "13_2053100066261680128",
+            "3_2053100066269986816"
+          ]
+        },
+        "author_id": "2037447301896282112",
+        "conversation_id": "2053100140312007015",
+        "created_at": "2026-05-09T13:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053100140312007015"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 64,
+              "start": 59,
+              "tag": "天津北京"
+            },
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "非绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fLr6KuZl7r",
+              "end": 176,
+              "expanded_url": "https://x.com/jwdn6zv/status/2053100140312007015/video/1",
+              "media_key": "3_2053100066270015488",
+              "start": 153,
+              "url": "https://t.co/fLr6KuZl7r"
+            },
+            {
+              "display_url": "pic.x.com/fLr6KuZl7r",
+              "end": 176,
+              "expanded_url": "https://x.com/jwdn6zv/status/2053100140312007015/video/1",
+              "media_key": "3_2053100066249039872",
+              "start": 153,
+              "url": "https://t.co/fLr6KuZl7r"
+            },
+            {
+              "display_url": "pic.x.com/fLr6KuZl7r",
+              "end": 176,
+              "expanded_url": "https://x.com/jwdn6zv/status/2053100140312007015/video/1",
+              "media_key": "13_2053100066261680128",
+              "start": 153,
+              "url": "https://t.co/fLr6KuZl7r"
+            },
+            {
+              "display_url": "pic.x.com/fLr6KuZl7r",
+              "end": 176,
+              "expanded_url": "https://x.com/jwdn6zv/status/2053100140312007015/video/1",
+              "media_key": "3_2053100066269986816",
+              "start": 153,
+              "url": "https://t.co/fLr6KuZl7r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053100140312007015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4104,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "置顶!转发关注这条帖子抽四个人20🧧  父母离异单亲家庭 需要自己养活自己 养的有一只小狗一只小猫 坐标在 #江浙沪 #天津北京  价格如下 图好感度很高可以每天打视频! 验证可以露脸验证指定任何数字和文字\n抖音万粉互关需要入门QwQ 可以升门 私信只回口令 不要耽误彼此时间 我接任何线下非绿 \n#非绿 https://t.co/fLr6KuZl7r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 202,
+          "like_count": 1408,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 744
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T08:31:47.000Z",
+        "description": "",
+        "id": "2037447301896282112",
+        "name": "jwd",
+        "pinned_tweet_id": "2053100140312007015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037447680562286592/wLo1ethZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2542,
+          "following_count": 8,
+          "like_count": 76,
+          "listed_count": 12,
+          "media_count": 159,
+          "tweet_count": 248
+        },
+        "username": "jwdn6zv",
+        "verified": false
+      }
+    ]
+  }
+}

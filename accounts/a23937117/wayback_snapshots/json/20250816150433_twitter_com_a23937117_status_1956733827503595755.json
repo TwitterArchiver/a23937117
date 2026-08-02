@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1956733827503595755",
+    "created_at": "2025-08-16T15:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T16:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956733827503595755"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "上海"
+        },
+        {
+          "end": 101,
+          "start": 96,
+          "tag": "上海线下"
+        },
+        {
+          "end": 107,
+          "start": 102,
+          "tag": "一日女友"
+        },
+        {
+          "end": 114,
+          "start": 108,
+          "tag": "cos委托"
+        },
+        {
+          "end": 119,
+          "start": 115,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 124,
+          "start": 120,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "纯绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1761082812864835585",
+          "start": 3,
+          "username": "yuuuu648721972"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956733827503595755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950317507711291821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuuuu648721972: 顶置｜我是u叽\n接上海线下｜求互转🥺\n已成年/160/84｜报销路费全国飞🆗\n私信只回过门，赞赏请带号码\n女孩子互fo互转大欢迎！转关抽奶茶🥤\n#上海 #上海线下 #一日女友 #cos委托 #门槛妹 #门槛哥 #纯绿 https://t.…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1956733827503595755].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1956733827503595755",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1956733827503595755"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1230,
+        "media_key": "3_1950317477092872193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDraYVbUAEikDK.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950317477097058304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDraYWbMAA6RV5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950317477092872193",
+            "3_1950317477097058304"
+          ]
+        },
+        "author_id": "1761082812864835585",
+        "conversation_id": "1950317507711291821",
+        "created_at": "2025-07-29T22:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T23:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950317507711291821"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "上海"
+            },
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "上海线下"
+            },
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "一日女友"
+            },
+            {
+              "end": 94,
+              "start": 88,
+              "tag": "cos委托"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "纯绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mKvXeYC6RP",
+              "end": 132,
+              "expanded_url": "https://x.com/yuuuu648721972/status/1950317507711291821/photo/1",
+              "media_key": "3_1950317477092872193",
+              "start": 109,
+              "url": "https://t.co/mKvXeYC6RP"
+            },
+            {
+              "display_url": "pic.x.com/mKvXeYC6RP",
+              "end": 132,
+              "expanded_url": "https://x.com/yuuuu648721972/status/1950317507711291821/photo/1",
+              "media_key": "3_1950317477097058304",
+              "start": 109,
+              "url": "https://t.co/mKvXeYC6RP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950317507711291821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 10764,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "顶置｜我是u叽\n接上海线下｜求互转🥺\n已成年/160/84｜报销路费全国飞🆗\n私信只回过门，赞赏请带号码\n女孩子互fo互转大欢迎！转关抽奶茶🥤\n#上海 #上海线下 #一日女友 #cos委托 #门槛妹 #门槛哥 #纯绿 https://t.co/mKvXeYC6RP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 207,
+          "like_count": 1099,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 626
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T17:37:27.000Z",
+        "description": "我是u叽喵*^O^*！｜🚪52/152/252哦！提前谢谢哥哥入门！｜坐标上海-160-84｜女孩子互fo互转大欢迎哦！｜只回复口令/赞赏捏",
+        "id": "1761082812864835585",
+        "location": "Singapore",
+        "name": "u叽汪汪",
+        "pinned_tweet_id": "1950317507711291821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950319171893678081/-GHjCvt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 16,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 80
+        },
+        "username": "yuuuu648721972",
+        "verified": false
+      }
+    ]
+  }
+}

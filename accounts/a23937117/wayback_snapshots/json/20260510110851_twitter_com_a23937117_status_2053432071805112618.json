@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053432071805112618",
+    "created_at": "2026-05-10T11:08:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T12:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053432071805112618"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 99,
+          "start": 95,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 104,
+          "start": 100,
+          "tag": "求包养"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "反差"
+        },
+        {
+          "end": 113,
+          "start": 109,
+          "tag": "腰臀比"
+        },
+        {
+          "end": 119,
+          "start": 114,
+          "tag": "端游陪玩"
+        },
+        {
+          "end": 125,
+          "start": 120,
+          "tag": "一日女友"
+        },
+        {
+          "end": 129,
+          "start": 126,
+          "tag": "线下"
+        },
+        {
+          "end": 133,
+          "start": 130,
+          "tag": "线上"
+        },
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "连麦"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "729237790899118081",
+          "start": 3,
+          "username": "samir9158"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053432071805112618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040209402645655844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @samir9158: 木木不想挨饿\n要自己独自面对生活压力😕\n想接D交房租和买喜欢的衣服包包\n过我门我会很热情❤️懂付出\n对支持我的宝宝情绪价值拉满\n大欢迎女宝宝们和我互fo互转呀\n#门槛妹 #求包养 #反差 #腰臀比 #端游陪玩 #一日女友 #线下 #线上 #连麦 #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053432071805112618].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053432071805112618",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053432071805112618"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1684,
+        "media_key": "3_2040209391119712256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFBHobkbQAAKcx9.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2040209391329353728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFBHocWaIAAl5J3.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040209391119712256",
+            "3_2040209391329353728"
+          ]
+        },
+        "author_id": "729237790899118081",
+        "conversation_id": "2040209402645655844",
+        "created_at": "2026-04-03T23:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T00:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040209402645655844"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "求包养"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "反差"
+            },
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "腰臀比"
+            },
+            {
+              "end": 104,
+              "start": 99,
+              "tag": "端游陪玩"
+            },
+            {
+              "end": 110,
+              "start": 105,
+              "tag": "一日女友"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "线下"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "线上"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "连麦"
+            },
+            {
+              "end": 128,
+              "start": 123,
+              "tag": "可甜可咸"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "视频"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DmnyemP25g",
+              "end": 156,
+              "expanded_url": "https://x.com/samir9158/status/2040209402645655844/photo/1",
+              "media_key": "3_2040209391119712256",
+              "start": 133,
+              "url": "https://t.co/DmnyemP25g"
+            },
+            {
+              "display_url": "pic.x.com/DmnyemP25g",
+              "end": 156,
+              "expanded_url": "https://x.com/samir9158/status/2040209402645655844/photo/1",
+              "media_key": "3_2040209391329353728",
+              "start": 133,
+              "url": "https://t.co/DmnyemP25g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040209402645655844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "木木不想挨饿\n要自己独自面对生活压力😕\n想接D交房租和买喜欢的衣服包包\n过我门我会很热情❤️懂付出\n对支持我的宝宝情绪价值拉满\n大欢迎女宝宝们和我互fo互转呀\n#门槛妹 #求包养 #反差 #腰臀比 #端游陪玩 #一日女友 #线下 #线上 #连麦 #可甜可咸 #视频 https://t.co/DmnyemP25g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 202,
+          "like_count": 1402,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 733
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-08T09:13:32.000Z",
+        "description": "前世被奸人所害😾欢迎来找我玩呀｜有🚪｜已过验证喵｜坐标20r｜希望能被宝宝们喜欢💕",
+        "id": "729237790899118081",
+        "name": "林木木.",
+        "pinned_tweet_id": "2040209402645655844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038286175098769408/WNeuqo4e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 19,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 30
+        },
+        "username": "samir9158",
+        "verified": false
+      }
+    ]
+  }
+}

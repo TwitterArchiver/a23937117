@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926128370623959040"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1926128376831468021",
+    "created_at": "2025-05-24T04:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T05:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926128376831468021"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1WMdb6ZDul",
+          "end": 46,
+          "expanded_url": "https://x.com/a23937117/status/1926128376831468021/photo/1",
+          "media_key": "3_1926128370623959040",
+          "start": 23,
+          "url": "https://t.co/1WMdb6ZDul"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926128376831468021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喝到吐了还要趴在马桶上p图，这就是cos吗？ https://t.co/1WMdb6ZDul"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1926128376831468021].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1926128376831468021",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1926128376831468021"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926128370623959040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grr7jErX0AApgix.jpg",
+        "width": 1211
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "讨厌我的人有福了 因为我真的过的很惨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 99,
+          "like_count": 668,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 66
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

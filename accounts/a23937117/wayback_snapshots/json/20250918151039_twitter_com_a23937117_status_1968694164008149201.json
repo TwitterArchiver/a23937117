@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1968305540335022235",
+    "created_at": "2025-09-18T15:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T16:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968694164008149201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678769453654511617",
+          "start": 0,
+          "username": "Bestmcmuffin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968694164008149201",
+    "in_reply_to_user_id": "1678769453654511617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968305540335022235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bestmcmuffin 7.猪丑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1968305540335022235",
+        "created_at": "2025-09-18T15:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T16:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968694164008149201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678769453654511617",
+              "start": 0,
+              "username": "Bestmcmuffin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968694164008149201",
+        "in_reply_to_user_id": "1678769453654511617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968305540335022235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bestmcmuffin 7.猪丑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678769453654511617",
+        "conversation_id": "1968305540335022235",
+        "created_at": "2025-09-17T13:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968305540335022235"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968305540335022235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 73749,
+          "like_count": 626,
+          "quote_count": 5,
+          "reply_count": 37,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "喜猪的危害:\n1.猪一般都很胖，和猪在一起很难尝试多种sex姿势;\n2.跟猪做爱像在耕地;\n3.猪很容易出汗，平时身上会很黏摸起来恶心死人;\n4.猪普遍比较能吃，每次跟猪出去都要一直吃，一点也不好玩;\n5.猪吃的很多，养一只猪需要花养3只熊5只猴子的钱，比较费钱;\n6.猪非常容易得“三高\"，很难陪你到老最后"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88—谈恋爱了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 215,
+          "like_count": 1211,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 683
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T14:13:34.000Z",
+        "description": "🚪520，除口令不回，发骚扰私信死死死死",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kugou.cloud/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://kugou.cloud/#/register?code=zMMqItfI",
+                "start": 0,
+                "url": "https://t.co/yeyHsuKLjA"
+              }
+            ]
+          }
+        },
+        "id": "1678769453654511617",
+        "location": "自用🪜➡️",
+        "name": "麦",
+        "pinned_tweet_id": "1822552131607683498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846992327921025024/AVL_zln5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40790,
+          "following_count": 501,
+          "like_count": 16618,
+          "listed_count": 148,
+          "media_count": 273,
+          "tweet_count": 8471
+        },
+        "url": "https://t.co/yeyHsuKLjA",
+        "username": "Bestmcmuffin",
+        "verified": false
+      }
+    ]
+  }
+}

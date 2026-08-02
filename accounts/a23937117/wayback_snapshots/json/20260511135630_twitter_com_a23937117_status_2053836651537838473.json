@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053836651537838473",
+    "created_at": "2026-05-11T13:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T14:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053836651537838473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1925431326196604929",
+          "start": 3,
+          "username": "yangyangbbw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053836651537838473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043808492793049156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yangyangbbw: 鼠鼠的新置顶\n努力赚钱独自生活中接线下，纯绿半绿非绿 \n朋友圈有萌萌照 主页照片是为了发推单独拍的 都是本人(・ω・)ノ\n喜欢发一些碎碎念和小日常/如果你喜欢我的话那我也喜欢你❤️\n可以验证 谢谢哥哥爸爸喜欢💕\n欢迎女孩子找我互转fo~\n #门…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053836651537838473].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053836651537838473",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053836651537838473"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043808471330762752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF0Q-eKasAARgLP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 621,
+        "media_key": "3_2043808471334957057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF0Q-eLasAEQfoR.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043808471330762752",
+            "3_2043808471334957057"
+          ]
+        },
+        "author_id": "1925431326196604929",
+        "conversation_id": "2043808492793049156",
+        "created_at": "2026-04-13T21:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T22:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043808492793049156"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 120,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 130,
+              "start": 125,
+              "tag": "线下可约"
+            },
+            {
+              "end": 137,
+              "start": 131,
+              "tag": "视频1v1"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "陪玩"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "陪聊"
+            },
+            {
+              "end": 151,
+              "start": 146,
+              "tag": "定制任务"
+            },
+            {
+              "end": 157,
+              "start": 152,
+              "tag": "一日女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sRnReBvqzu",
+              "end": 181,
+              "expanded_url": "https://x.com/yangyangbbw/status/2043808492793049156/photo/1",
+              "media_key": "3_2043808471330762752",
+              "start": 158,
+              "url": "https://t.co/sRnReBvqzu"
+            },
+            {
+              "display_url": "pic.x.com/sRnReBvqzu",
+              "end": 181,
+              "expanded_url": "https://x.com/yangyangbbw/status/2043808492793049156/photo/1",
+              "media_key": "3_2043808471334957057",
+              "start": 158,
+              "url": "https://t.co/sRnReBvqzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043808492793049156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 25745,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "鼠鼠的新置顶\n努力赚钱独自生活中接线下，纯绿半绿非绿 \n朋友圈有萌萌照 主页照片是为了发推单独拍的 都是本人(・ω・)ノ\n喜欢发一些碎碎念和小日常/如果你喜欢我的话那我也喜欢你❤️\n可以验证 谢谢哥哥爸爸喜欢💕\n欢迎女孩子找我互转fo~\n #门槛妹 #线下可约 #视频1v1 #陪玩 #陪聊 #定制任务 #一日女友 https://t.co/sRnReBvqzu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 202,
+          "like_count": 1408,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 754
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-22T05:59:43.000Z",
+        "description": "🚪88/288/520好友位➕福利/线下约会 喜欢有礼貌的哥哥 支持口令，坐标20哟💕",
+        "id": "1925431326196604929",
+        "location": "🚪88/288/520",
+        "name": "优栗鼠",
+        "pinned_tweet_id": "2043808492793049156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031791875804577795/wIV-09iF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 73,
+          "like_count": 10,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 516
+        },
+        "username": "yangyangbbw",
+        "verified": false
+      }
+    ]
+  }
+}

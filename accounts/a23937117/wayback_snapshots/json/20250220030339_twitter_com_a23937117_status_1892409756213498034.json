@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1891896699221934138",
+    "created_at": "2025-02-20T03:03:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T04:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892409756213498034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1853419200922132480",
+          "start": 0,
+          "username": "Variety07007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892409756213498034",
+    "in_reply_to_user_id": "1853419200922132480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891896699221934138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Variety07007 老婆冷吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1891896689826594819",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkFeBATaAAMoEbz.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1891896689830809600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkFeBAUaUAAtiqQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1891896699221934138",
+        "created_at": "2025-02-20T03:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T04:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892409756213498034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853419200922132480",
+              "start": 0,
+              "username": "Variety07007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892409756213498034",
+        "in_reply_to_user_id": "1853419200922132480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891896699221934138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Variety07007 老婆冷吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891896689826594819",
+            "3_1891896689830809600"
+          ]
+        },
+        "author_id": "1853419200922132480",
+        "conversation_id": "1891896699221934138",
+        "created_at": "2025-02-18T17:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T18:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891896699221934138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oWknyhW3w0",
+              "end": 42,
+              "expanded_url": "https://x.com/Variety07007/status/1891896699221934138/photo/1",
+              "media_key": "3_1891896689826594819",
+              "start": 19,
+              "url": "https://t.co/oWknyhW3w0"
+            },
+            {
+              "display_url": "pic.x.com/oWknyhW3w0",
+              "end": 42,
+              "expanded_url": "https://x.com/Variety07007/status/1891896699221934138/photo/1",
+              "media_key": "3_1891896689830809600",
+              "start": 19,
+              "url": "https://t.co/oWknyhW3w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891896699221934138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 97711,
+          "like_count": 1547,
+          "quote_count": 2,
+          "reply_count": 43,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "在铁锅炖门口爽拍了 东北蕾子是这样的 https://t.co/oWknyhW3w0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——严重露出lover 最喜欢可爱的东西 美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877871932521009152/ENngS7iN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 77,
+          "like_count": 504,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 32
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T12:49:19.000Z",
+        "description": "因为我想看看你幸福的表情",
+        "id": "1853419200922132480",
+        "name": "玲娘",
+        "pinned_tweet_id": "1892128288132251704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854543796773732352/TVf9yXet_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7556,
+          "following_count": 252,
+          "like_count": 1190,
+          "listed_count": 16,
+          "media_count": 91,
+          "tweet_count": 525
+        },
+        "username": "Variety07007",
+        "verified": false
+      }
+    ]
+  }
+}

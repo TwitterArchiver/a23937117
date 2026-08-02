@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953190122964553728"
+      ],
+      "media_source_tweet_id": [
+        "1953190136780603873"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1954985643781820511",
+    "created_at": "2025-08-11T19:17:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T20:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954985643781820511"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 69,
+          "start": 66,
+          "tag": "门槛"
+        },
+        {
+          "end": 73,
+          "start": 70,
+          "tag": "过门"
+        },
+        {
+          "end": 78,
+          "start": 74,
+          "tag": "爸爸活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1731619388388741120",
+          "start": 3,
+          "username": "lin12_qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YtlJlU4xR5",
+          "end": 102,
+          "expanded_url": "https://x.com/lin12_qwq/status/1953190136780603873/photo/1",
+          "media_key": "3_1953190122964553728",
+          "start": 79,
+          "url": "https://t.co/YtlJlU4xR5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954985643781820511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953190136780603873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lin12_qwq: 可以叫我郁or琳\ninfp社恐社交障碍极速版咖喱炖社会边缘人一大串儿来报道鸟＝ω＝\n请多多关照！吱。\n#门槛 #过门 #爸爸活 https://t.co/YtlJlU4xR5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953190122964553728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxsgEYIakAAAJg9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953190122964553728"
+          ],
+          "media_source_tweet_id": [
+            "1953190136780603873"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "1954985643781820511",
+        "created_at": "2025-08-11T19:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T20:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954985643781820511"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "门槛"
+            },
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "过门"
+            },
+            {
+              "end": 78,
+              "start": 74,
+              "tag": "爸爸活"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1731619388388741120",
+              "start": 3,
+              "username": "lin12_qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YtlJlU4xR5",
+              "end": 102,
+              "expanded_url": "https://x.com/lin12_qwq/status/1953190136780603873/photo/1",
+              "media_key": "3_1953190122964553728",
+              "start": 79,
+              "url": "https://t.co/YtlJlU4xR5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954985643781820511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953190136780603873",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lin12_qwq: 可以叫我郁or琳\ninfp社恐社交障碍极速版咖喱炖社会边缘人一大串儿来报道鸟＝ω＝\n请多多关照！吱。\n#门槛 #过门 #爸爸活 https://t.co/YtlJlU4xR5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953190122964553728"
+          ]
+        },
+        "author_id": "1731619388388741120",
+        "conversation_id": "1953190136780603873",
+        "created_at": "2025-08-06T20:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T21:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953190136780603873"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "门槛"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "过门"
+            },
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YtlJlU4xR5",
+              "end": 87,
+              "expanded_url": "https://x.com/lin12_qwq/status/1953190136780603873/photo/1",
+              "media_key": "3_1953190122964553728",
+              "start": 64,
+              "url": "https://t.co/YtlJlU4xR5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953190136780603873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2339,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "可以叫我郁or琳\ninfp社恐社交障碍极速版咖喱炖社会边缘人一大串儿来报道鸟＝ω＝\n请多多关照！吱。\n#门槛 #过门 #爸爸活 https://t.co/YtlJlU4xR5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 200,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 507
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-04T10:20:24.000Z",
+        "description": "村里连网线了:3可以叫我郁/琳_ ̫ _ 社会边缘老鼠人 💸 焦り 🚪88/152/200纯绿吱～偶尔掉落视频///回复有些慢局促是不太会说话不是高冷 互fo大欢迎💟",
+        "id": "1731619388388741120",
+        "name": "郁🍫",
+        "pinned_tweet_id": "1953190136780603873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953329872920604672/0-7ACiR3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 60,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 73
+        },
+        "username": "lin12_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

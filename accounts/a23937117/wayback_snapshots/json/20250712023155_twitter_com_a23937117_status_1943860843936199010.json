@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1943852152784662846",
+    "created_at": "2025-07-12T02:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T03:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943860843936199010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1891753275785113600",
+          "start": 0,
+          "username": "Seven_77kk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943860843936199010",
+    "in_reply_to_user_id": "1891753275785113600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943852152784662846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seven_77kk 老婆我心疼你……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 754,
+        "media_key": "3_1943852143502319617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvnzOb1WYAElet_.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1509,
+        "media_key": "3_1943852143297040384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvnzObEaEAAEvH_.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1943852152784662846",
+        "created_at": "2025-07-12T02:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T03:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943860843936199010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1891753275785113600",
+              "start": 0,
+              "username": "Seven_77kk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943860843936199010",
+        "in_reply_to_user_id": "1891753275785113600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943852152784662846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seven_77kk 老婆我心疼你……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943852143502319617",
+            "3_1943852143297040384"
+          ]
+        },
+        "author_id": "1891753275785113600",
+        "conversation_id": "1943852152784662846",
+        "created_at": "2025-07-12T01:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T02:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943852152784662846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ynOMoIHiZJ",
+              "end": 32,
+              "expanded_url": "https://x.com/Seven_77kk/status/1943852152784662846/photo/1",
+              "media_key": "3_1943852143502319617",
+              "start": 9,
+              "url": "https://t.co/ynOMoIHiZJ"
+            },
+            {
+              "display_url": "pic.x.com/ynOMoIHiZJ",
+              "end": 32,
+              "expanded_url": "https://x.com/Seven_77kk/status/1943852152784662846/photo/1",
+              "media_key": "3_1943852143297040384",
+              "start": 9,
+              "url": "https://t.co/ynOMoIHiZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943852152784662846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对我好点吧。。。 https://t.co/ynOMoIHiZJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 141,
+          "like_count": 904,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 268
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T07:35:12.000Z",
+        "description": "77的碎碎念/想当一辈子私宅/猫猫教忠实信徒/说话歹毒且厌蠢/🈚🚪不加任何 互关除外/另一个7👉🏻@ln_77ff 只过互关眼熟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "ln_77ff"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/seven_77kk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/seven_77kk",
+                "start": 0,
+                "url": "https://t.co/3FfoDNGVeC"
+              }
+            ]
+          }
+        },
+        "id": "1891753275785113600",
+        "location": "霖岛",
+        "name": "猛啃翘屁嫩男大腚反被捆",
+        "pinned_tweet_id": "1933815339529425035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927655821397331968/Y_AEhmS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 324,
+          "like_count": 9150,
+          "listed_count": 1,
+          "media_count": 455,
+          "tweet_count": 4343
+        },
+        "url": "https://t.co/3FfoDNGVeC",
+        "username": "Seven_77kk",
+        "verified": false
+      }
+    ]
+  }
+}

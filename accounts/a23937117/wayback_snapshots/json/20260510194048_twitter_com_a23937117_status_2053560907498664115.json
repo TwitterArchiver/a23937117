@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034773939449470978"
+      ],
+      "media_source_tweet_id": [
+        "2034773964396880179"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053560907498664115",
+    "created_at": "2026-05-10T19:40:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T20:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053560907498664115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1904559428197834752",
+          "start": 3,
+          "username": "ovonmsl1314"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GMniZRnBA9",
+          "end": 133,
+          "expanded_url": "https://x.com/ovonmsl1314/status/2034773964396880179/photo/1",
+          "media_key": "3_2034773939449470978",
+          "start": 110,
+          "url": "https://t.co/GMniZRnBA9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053560907498664115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034773964396880179",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ovonmsl1314: 我是小骨\n门槛52/128/300/520/1314\n520和1314门开定制和线下\n1314线下抵600\n入了门槛我将一直骚扰你\n喜欢我就入好不好呀？（口令或者找我要收款码都可以！） https://t.co/GMniZRnBA9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053560907498664115].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053560907498664115",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053560907498664115"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034773939449470978",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDz4HgMboAISyy_.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034773939449470978"
+          ]
+        },
+        "author_id": "1904559428197834752",
+        "conversation_id": "2034773964396880179",
+        "created_at": "2026-03-19T23:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T00:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034773964396880179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GMniZRnBA9",
+              "end": 116,
+              "expanded_url": "https://x.com/ovonmsl1314/status/2034773964396880179/photo/1",
+              "media_key": "3_2034773939449470978",
+              "start": 93,
+              "url": "https://t.co/GMniZRnBA9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034773964396880179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 51805,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "我是小骨\n门槛52/128/300/520/1314\n520和1314门开定制和线下\n1314线下抵600\n入了门槛我将一直骚扰你\n喜欢我就入好不好呀？（口令或者找我要收款码都可以！） https://t.co/GMniZRnBA9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 202,
+          "like_count": 1406,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 752
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T15:42:21.000Z",
+        "description": "已读不回死全家",
+        "id": "1904559428197834752",
+        "name": "白起哥哥断了大",
+        "pinned_tweet_id": "2034773964396880179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007277159115526144/79EVMASN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 122,
+          "like_count": 10,
+          "listed_count": 10,
+          "media_count": 115,
+          "tweet_count": 1078
+        },
+        "username": "ovonmsl1314",
+        "verified": false
+      }
+    ]
+  }
+}

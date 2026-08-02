@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962892018952159232",
+        "3_1962892018960547840"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "Fighting",
+          "id": "1047520229192912896",
+          "name": "Combat sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "description": "WWE",
+          "id": "852587148666589184",
+          "name": "WWE"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544341584474112",
+          "name": "Wrestling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "WWE",
+          "id": "852587148666589184",
+          "name": "WWE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fighting",
+          "id": "1047520229192912896",
+          "name": "Combat sports"
+        }
+      }
+    ],
+    "conversation_id": "1962892028745756902",
+    "created_at": "2025-09-02T14:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T15:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962892028745756902"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 14,
+          "start": 10,
+          "tag": "明日香"
+        },
+        {
+          "end": 21,
+          "start": 15,
+          "tag": "ASUKA"
+        },
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "eva"
+        },
+        {
+          "end": 31,
+          "start": 27,
+          "tag": "cos"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "门槛"
+        },
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "女高中生"
+        },
+        {
+          "end": 47,
+          "start": 42,
+          "tag": "反差女高"
+        },
+        {
+          "end": 53,
+          "start": 48,
+          "tag": "电子女友"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xHVs7g9qhn",
+          "end": 77,
+          "expanded_url": "https://x.com/a23937117/status/1962892028745756902/photo/1",
+          "media_key": "3_1962892018952159232",
+          "start": 54,
+          "url": "https://t.co/xHVs7g9qhn"
+        },
+        {
+          "display_url": "pic.x.com/xHVs7g9qhn",
+          "end": 77,
+          "expanded_url": "https://x.com/a23937117/status/1962892028745756902/photo/1",
+          "media_key": "3_1962892018960547840",
+          "start": 54,
+          "url": "https://t.co/xHVs7g9qhn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962892028745756902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“你是笨蛋吗？”\n\n#明日香 #ASUKA #eva #cos #门槛 #女高中生 #反差女高 #电子女友 https://t.co/xHVs7g9qhn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962892028745756902].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962892028745756902",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962892028745756902"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962892018952159232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz2X5DIXwAAkqWE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962892018960547840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz2X5DKXwAAAaBO.jpg",
+        "width": 1582
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 202,
+          "like_count": 1142,
+          "listed_count": 2,
+          "media_count": 178,
+          "tweet_count": 700
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1951932814850764807",
+    "created_at": "2025-08-04T14:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T15:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952370475947921693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1863784648498884608",
+          "start": 0,
+          "username": "bkel222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952370475947921693",
+    "in_reply_to_user_id": "1863784648498884608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951932814850764807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bkel222 我想喝我喜欢可口可乐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1951932814850764807",
+        "created_at": "2025-08-04T14:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T15:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952370475947921693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1863784648498884608",
+              "start": 0,
+              "username": "bkel222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952370475947921693",
+        "in_reply_to_user_id": "1863784648498884608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951932814850764807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bkel222 我想喝我喜欢可口可乐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863784648498884608",
+        "conversation_id": "1951932814850764807",
+        "created_at": "2025-08-03T09:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T10:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951932814850764807"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951932814850764807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 53044,
+          "like_count": 235,
+          "quote_count": 0,
+          "reply_count": 144,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人和冰可乐互关！！！（我是可口可乐）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 184,
+          "like_count": 1006,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 453
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T03:17:55.000Z",
+        "description": "06/白羊/infp/休学/泛性恋/柏拉图/不聊骚不约不kp/纯交友/王者/金铲铲/\n请叫我可乐！！\n欢迎礼貌宝宝互关我！！家妻善妒 @yotin295455\nhttps://t.co/nwfnzaeFbF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 67,
+                "username": "yotin295455"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bkel222",
+                "end": 103,
+                "expanded_url": "https://ngl.link/bkel222",
+                "start": 80,
+                "url": "https://t.co/nwfnzaeFbF"
+              }
+            ]
+          }
+        },
+        "id": "1863784648498884608",
+        "location": "一杯冰ke樂，欢迎续杯",
+        "name": "一杯冰ke樂",
+        "pinned_tweet_id": "1951941076077465884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944792642178392064/Ga1CfO-x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 315,
+          "like_count": 859,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 611
+        },
+        "username": "bkel222",
+        "verified": false
+      }
+    ]
+  }
+}

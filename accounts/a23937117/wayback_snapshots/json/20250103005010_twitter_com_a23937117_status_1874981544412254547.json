@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1874981511423799296",
+        "3_1874981511448956928",
+        "3_1874981511675400192"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1874981544412254547",
+    "created_at": "2025-01-03T00:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T01:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1874981544412254547"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xfttXgLVdz",
+          "end": 31,
+          "expanded_url": "https://x.com/a23937117/status/1874981544412254547/photo/1",
+          "media_key": "3_1874981511423799296",
+          "start": 8,
+          "url": "https://t.co/xfttXgLVdz"
+        },
+        {
+          "display_url": "pic.x.com/xfttXgLVdz",
+          "end": 31,
+          "expanded_url": "https://x.com/a23937117/status/1874981544412254547/photo/1",
+          "media_key": "3_1874981511448956928",
+          "start": 8,
+          "url": "https://t.co/xfttXgLVdz"
+        },
+        {
+          "display_url": "pic.x.com/xfttXgLVdz",
+          "end": 31,
+          "expanded_url": "https://x.com/a23937117/status/1874981544412254547/photo/1",
+          "media_key": "3_1874981511675400192",
+          "start": 8,
+          "url": "https://t.co/xfttXgLVdz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874981544412254547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我怎么还不死啊 https://t.co/xfttXgLVdz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1874981544412254547].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1874981544412254547",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1874981544412254547"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1874981511423799296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgVFwCTXMAAuE43.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1874981511448956928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgVFwCZXEAA5YBq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1404,
+        "media_key": "3_1874981511675400192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgVFwDPWUAAiPG5.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——阿根廷裔 中文/西文/英文/数媒艺备考ing 司岚重度依赖 负能发言 brat-sub",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585964829608665089/Y3G7Z8Ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 65,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 19
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

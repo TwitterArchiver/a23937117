@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962538245494829256",
+    "created_at": "2025-09-01T15:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T16:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962538245494829256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1954163623213076480",
+          "start": 3,
+          "username": "xiao_yi43979"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962538245494829256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960581485070835844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @xiao_yi43979: 发个置顶🔝这里是曲调\n🚪188基础门解锁线下！发的信息看到会回➕开放朋友圈➕随机掉落\n325会主动找你说说话➕部分福利视频➕随机掉落➕一条免费原味\n520全部福利视频➕随机掉落➕三条露脸视频指定➕免费原味➕无聊的时候可以打电话\n1314半个月…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960581468901793797",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzVidVca4AUO_I3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1363,
+        "media_key": "3_1960581468889210886",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzVidVZa4AYAV9o.jpg",
+        "width": 1002
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1962538245494829256",
+        "created_at": "2025-09-01T15:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T16:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962538245494829256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1954163623213076480",
+              "start": 3,
+              "username": "xiao_yi43979"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962538245494829256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960581485070835844",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @xiao_yi43979: 发个置顶🔝这里是曲调\n🚪188基础门解锁线下！发的信息看到会回➕开放朋友圈➕随机掉落\n325会主动找你说说话➕部分福利视频➕随机掉落➕一条免费原味\n520全部福利视频➕随机掉落➕三条露脸视频指定➕免费原味➕无聊的时候可以打电话\n1314半个月…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960581468901793797",
+            "3_1960581468889210886"
+          ]
+        },
+        "author_id": "1954163623213076480",
+        "conversation_id": "1960581485070835844",
+        "created_at": "2025-08-27T05:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T06:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960581485070835844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zgwutPpFRD",
+              "end": 171,
+              "expanded_url": "https://x.com/xiao_yi43979/status/1960581485070835844/photo/1",
+              "media_key": "3_1960581468901793797",
+              "start": 148,
+              "url": "https://t.co/zgwutPpFRD"
+            },
+            {
+              "display_url": "pic.x.com/zgwutPpFRD",
+              "end": 171,
+              "expanded_url": "https://x.com/xiao_yi43979/status/1960581485070835844/photo/1",
+              "media_key": "3_1960581468889210886",
+              "start": 148,
+              "url": "https://t.co/zgwutPpFRD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960581485070835844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4166,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "发个置顶🔝这里是曲调\n🚪188基础门解锁线下！发的信息看到会回➕开放朋友圈➕随机掉落\n325会主动找你说说话➕部分福利视频➕随机掉落➕一条免费原味\n520全部福利视频➕随机掉落➕三条露脸视频指定➕免费原味➕无聊的时候可以打电话\n1314半个月的电子女友干什么都可以\n转此条参与红包抽奖三个188 https://t.co/zgwutPpFRD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 201,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 681
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-09T12:51:57.000Z",
+        "description": "坐标江浙沪以及周边 可验证 164/59kg 只回复门槛口令",
+        "id": "1954163623213076480",
+        "location": "🚪188 288 520 1314",
+        "name": "曲调",
+        "pinned_tweet_id": "1960581485070835844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960582107321040896/bU0LiAcu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 14,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 195
+        },
+        "username": "xiao_yi43979",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962960222709780899",
+    "created_at": "2025-09-02T19:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T20:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962960222709780899"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "门槛"
+        },
+        {
+          "end": 133,
+          "start": 129,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 138,
+          "start": 134,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1792935259467640832",
+          "start": 3,
+          "username": "Owovo_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962960222709780899",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962936055839260968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Owovo_0: 把这个当🔝吧\n\n喜欢我请过我🚪♡\n52→解锁日常聊天\n188→解锁聊天加定制照片视频\n288→解锁线下\n非绿请给我转的米大于500再说谢谢泥\n\n图1有vx赞赏码如无法转账请口令红包喵\n女孩子可以找我互fo互转吗🥺我会很高兴\n#门槛 #门槛哥 #门槛妹…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1962936013753548800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz2_54iaAAA__qL.jpg",
+        "width": 2000
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962936013757808640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz2_54jbAAA2r1x.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1962960222709780899",
+        "created_at": "2025-09-02T19:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T20:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962960222709780899"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "门槛"
+            },
+            {
+              "end": 133,
+              "start": 129,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "门槛妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1792935259467640832",
+              "start": 3,
+              "username": "Owovo_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962960222709780899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962936055839260968",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Owovo_0: 把这个当🔝吧\n\n喜欢我请过我🚪♡\n52→解锁日常聊天\n188→解锁聊天加定制照片视频\n288→解锁线下\n非绿请给我转的米大于500再说谢谢泥\n\n图1有vx赞赏码如无法转账请口令红包喵\n女孩子可以找我互fo互转吗🥺我会很高兴\n#门槛 #门槛哥 #门槛妹…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962936013753548800",
+            "3_1962936013757808640"
+          ]
+        },
+        "author_id": "1792935259467640832",
+        "conversation_id": "1962936055839260968",
+        "created_at": "2025-09-02T17:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T18:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962936055839260968"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "门槛"
+            },
+            {
+              "end": 120,
+              "start": 116,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 130,
+              "start": 126,
+              "tag": "求过门"
+            },
+            {
+              "end": 135,
+              "start": 131,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 141,
+              "start": 136,
+              "tag": "北京线下"
+            },
+            {
+              "end": 147,
+              "start": 142,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 152,
+              "start": 148,
+              "tag": "求包养"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mD5O48oWSe",
+              "end": 176,
+              "expanded_url": "https://x.com/Owovo_0/status/1962936055839260968/photo/1",
+              "media_key": "3_1962936013753548800",
+              "start": 153,
+              "url": "https://t.co/mD5O48oWSe"
+            },
+            {
+              "display_url": "pic.x.com/mD5O48oWSe",
+              "end": 176,
+              "expanded_url": "https://x.com/Owovo_0/status/1962936055839260968/photo/1",
+              "media_key": "3_1962936013757808640",
+              "start": 153,
+              "url": "https://t.co/mD5O48oWSe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962936055839260968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "把这个当🔝吧\n\n喜欢我请过我🚪♡\n52→解锁日常聊天\n188→解锁聊天加定制照片视频\n288→解锁线下\n非绿请给我转的米大于500再说谢谢泥\n\n图1有vx赞赏码如无法转账请口令红包喵\n女孩子可以找我互fo互转吗🥺我会很高兴\n#门槛 #门槛哥 #门槛妹 #求过门 #爸爸活 #北京线下 #金主爸爸 #求包养 https://t.co/mD5O48oWSe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 203,
+          "like_count": 1142,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 704
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-21T15:07:39.000Z",
+        "description": "只回复口令 | 线下纯/半绿 给的多可以非绿 | 女孩子扩fo大欢迎| 金钱主义至上",
+        "id": "1792935259467640832",
+        "location": "52/188/288🚪",
+        "name": "我没招了",
+        "pinned_tweet_id": "1962936055839260968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962926103296946176/fIZKMF85_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 24,
+          "like_count": 488,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "username": "Owovo_0",
+        "verified": false
+      }
+    ]
+  }
+}

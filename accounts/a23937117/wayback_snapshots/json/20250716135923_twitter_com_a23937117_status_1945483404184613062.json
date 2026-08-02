@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945483390112690177"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1945483404184613062",
+    "created_at": "2025-07-16T13:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T14:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945483404184613062"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DfM0AAz95D",
+          "end": 47,
+          "expanded_url": "https://x.com/a23937117/status/1945483404184613062/photo/1",
+          "media_key": "3_1945483390112690177",
+          "start": 24,
+          "url": "https://t.co/DfM0AAz95D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945483404184613062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给我投喂吧！豹要饿死了（理直气壮）（走来走去） https://t.co/DfM0AAz95D"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1945483404184613062].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1945483404184613062",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1945483404184613062"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1124,
+        "media_key": "3_1945483390112690177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv--1fAW8AEb_E5.jpg",
+        "width": 828
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1944721626525761843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 162,
+          "like_count": 945,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 343
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

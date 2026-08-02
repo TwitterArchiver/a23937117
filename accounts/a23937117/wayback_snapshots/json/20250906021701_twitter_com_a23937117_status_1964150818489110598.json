@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1963595404974415928",
+    "created_at": "2025-09-06T02:17:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T03:17:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964150818489110598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964150818489110598",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963595404974415928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 像中国高中，禁止提及学习以外的词语 ^ ╸▵╺ ^ ੭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1436,
+        "media_key": "3_1963545251366281216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz_qALgXoAA0Dr6.jpg",
+        "width": 2054
+      },
+      {
+        "height": 2300,
+        "media_key": "3_1963545378675888128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz_qHlxWEAAHeC8.jpg",
+        "width": 1606
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1963595404974415928",
+        "created_at": "2025-09-06T02:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T03:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964150818489110598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964150818489110598",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963595404974415928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 像中国高中，禁止提及学习以外的词语 ^ ╸▵╺ ^ ੭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963545251366281216",
+            "3_1963545378675888128"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1963595404974415928",
+        "created_at": "2025-09-04T13:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T14:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963595404974415928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mEcmLEvTUf",
+              "end": 84,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1963595404974415928/photo/1",
+              "media_key": "3_1963545251366281216",
+              "start": 61,
+              "url": "https://t.co/mEcmLEvTUf"
+            },
+            {
+              "display_url": "pic.x.com/mEcmLEvTUf",
+              "end": 84,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1963595404974415928/photo/1",
+              "media_key": "3_1963545378675888128",
+              "start": 61,
+              "url": "https://t.co/mEcmLEvTUf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963595404974415928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 227,
+          "impression_count": 685626,
+          "like_count": 2766,
+          "quote_count": 19,
+          "reply_count": 213,
+          "retweet_count": 172
+        },
+        "reply_settings": "everyone",
+        "text": "93阅兵期间，网友在微博发帖问「为什么女兵化妆男兵不化妆」，结果直接被禁言7 天。随后系统通知显示，理由是“宣扬仇恨”。 https://t.co/mEcmLEvTUf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 206,
+          "like_count": 1155,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 725
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1961459295813312811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2096686,
+          "following_count": 986,
+          "like_count": 8048,
+          "listed_count": 8325,
+          "media_count": 34445,
+          "tweet_count": 41223
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

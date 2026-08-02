@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961444756526936064"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1961444768061231495",
+    "created_at": "2025-08-29T15:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T16:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961444768061231495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2WkbGrozQq",
+          "end": 36,
+          "expanded_url": "https://x.com/a23937117/status/1961444768061231495/photo/1",
+          "media_key": "3_1961444756526936064",
+          "start": 13,
+          "url": "https://t.co/2WkbGrozQq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961444768061231495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的不自杀了，放过我吧 https://t.co/2WkbGrozQq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1961444768061231495].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1961444768061231495",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1961444768061231495"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1961444756526936064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzhznSdXMAAEGXM.jpg",
+        "width": 1000
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰--子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1960490344723706120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 209,
+          "like_count": 1131,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 644
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

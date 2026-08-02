@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984343723409657856",
+        "3_1984343727868194816",
+        "3_1984343732578369543",
+        "3_1984343736701370370"
+      ],
+      "media_source_tweet_id": [
+        "1984343739356365154",
+        "1984343739356365154",
+        "1984343739356365154",
+        "1984343739356365154"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1985312677875306913",
+    "created_at": "2025-11-03T11:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T12:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985312677875306913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1826907740188659712",
+          "start": 3,
+          "username": "l76842369240"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mRtIdd4EnB",
+          "end": 63,
+          "expanded_url": "https://x.com/l76842369240/status/1984343739356365154/photo/1",
+          "media_key": "3_1984343723409657856",
+          "start": 40,
+          "url": "https://t.co/mRtIdd4EnB"
+        },
+        {
+          "display_url": "pic.x.com/mRtIdd4EnB",
+          "end": 63,
+          "expanded_url": "https://x.com/l76842369240/status/1984343739356365154/photo/1",
+          "media_key": "3_1984343727868194816",
+          "start": 40,
+          "url": "https://t.co/mRtIdd4EnB"
+        },
+        {
+          "display_url": "pic.x.com/mRtIdd4EnB",
+          "end": 63,
+          "expanded_url": "https://x.com/l76842369240/status/1984343739356365154/photo/1",
+          "media_key": "3_1984343732578369543",
+          "start": 40,
+          "url": "https://t.co/mRtIdd4EnB"
+        },
+        {
+          "display_url": "pic.x.com/mRtIdd4EnB",
+          "end": 63,
+          "expanded_url": "https://x.com/l76842369240/status/1984343739356365154/photo/1",
+          "media_key": "3_1984343736701370370",
+          "start": 40,
+          "url": "https://t.co/mRtIdd4EnB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985312677875306913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984343739356365154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @l76842369240: 反差吗各位哥哥们，我b好痒啊快来入🚪🌿我吧 https://t.co/mRtIdd4EnB"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1985312677875306913].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1985312677875306913",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1985312677875306913"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1984343723409657856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4nOGlob0AAOQy-.jpg",
+        "width": 962
+      },
+      {
+        "height": 1247,
+        "media_key": "3_1984343727868194816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4nOG2PbsAAHLSh.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1984343732578369543",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4nOHHybQAcYYjM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 952,
+        "media_key": "3_1984343736701370370",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4nOHXJbQAINdGl.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984343723409657856",
+            "3_1984343727868194816",
+            "3_1984343732578369543",
+            "3_1984343736701370370"
+          ]
+        },
+        "author_id": "1826907740188659712",
+        "conversation_id": "1984343739356365154",
+        "created_at": "2025-10-31T19:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T20:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984343739356365154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mRtIdd4EnB",
+              "end": 45,
+              "expanded_url": "https://x.com/l76842369240/status/1984343739356365154/photo/1",
+              "media_key": "3_1984343723409657856",
+              "start": 22,
+              "url": "https://t.co/mRtIdd4EnB"
+            },
+            {
+              "display_url": "pic.x.com/mRtIdd4EnB",
+              "end": 45,
+              "expanded_url": "https://x.com/l76842369240/status/1984343739356365154/photo/1",
+              "media_key": "3_1984343727868194816",
+              "start": 22,
+              "url": "https://t.co/mRtIdd4EnB"
+            },
+            {
+              "display_url": "pic.x.com/mRtIdd4EnB",
+              "end": 45,
+              "expanded_url": "https://x.com/l76842369240/status/1984343739356365154/photo/1",
+              "media_key": "3_1984343732578369543",
+              "start": 22,
+              "url": "https://t.co/mRtIdd4EnB"
+            },
+            {
+              "display_url": "pic.x.com/mRtIdd4EnB",
+              "end": 45,
+              "expanded_url": "https://x.com/l76842369240/status/1984343739356365154/photo/1",
+              "media_key": "3_1984343736701370370",
+              "start": 22,
+              "url": "https://t.co/mRtIdd4EnB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984343739356365154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3775,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "反差吗各位哥哥们，我b好痒啊快来入🚪🌿我吧 https://t.co/mRtIdd4EnB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 220,
+          "like_count": 1338,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 747
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T09:02:10.000Z",
+        "description": "168cm/50kg",
+        "id": "1826907740188659712",
+        "location": "188/288/520/1314入🚪各位哥哥快来吧",
+        "name": "小猫（入🚪私我）",
+        "pinned_tweet_id": "1984343739356365154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984336003256238081/H2y_SZk1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 4,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 105
+        },
+        "username": "l76842369240",
+        "verified": false
+      }
+    ]
+  }
+}

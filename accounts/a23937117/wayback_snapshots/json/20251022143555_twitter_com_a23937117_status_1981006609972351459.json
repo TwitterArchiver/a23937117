@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980953321608183808",
+        "3_1980953321654398977"
+      ],
+      "media_source_tweet_id": [
+        "1980953345331454441",
+        "1980953345331454441"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1981006609972351459",
+    "created_at": "2025-10-22T14:35:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T15:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981006609972351459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1809947164627656704",
+          "start": 3,
+          "username": "Ann05133"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZaWf4SEVeZ",
+          "end": 47,
+          "expanded_url": "https://x.com/Ann05133/status/1980953345331454441/photo/1",
+          "media_key": "3_1980953321608183808",
+          "start": 24,
+          "url": "https://t.co/ZaWf4SEVeZ"
+        },
+        {
+          "display_url": "pic.x.com/ZaWf4SEVeZ",
+          "end": 47,
+          "expanded_url": "https://x.com/Ann05133/status/1980953345331454441/photo/1",
+          "media_key": "3_1980953321654398977",
+          "start": 24,
+          "url": "https://t.co/ZaWf4SEVeZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981006609972351459",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980953345331454441",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ann05133: &gt;_&lt; https://t.co/ZaWf4SEVeZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1981006609972351459].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1981006609972351459",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1981006609972351459"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 968,
+        "media_key": "3_1980953321608183808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G33CjOsWAAAVKE5.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980953321654398977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G33CjO3XMAEUFZ5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980953321608183808",
+            "3_1980953321654398977"
+          ]
+        },
+        "author_id": "1809947164627656704",
+        "conversation_id": "1980953345331454441",
+        "created_at": "2025-10-22T11:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T12:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980953345331454441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZaWf4SEVeZ",
+              "end": 33,
+              "expanded_url": "https://x.com/Ann05133/status/1980953345331454441/photo/1",
+              "media_key": "3_1980953321608183808",
+              "start": 10,
+              "url": "https://t.co/ZaWf4SEVeZ"
+            },
+            {
+              "display_url": "pic.x.com/ZaWf4SEVeZ",
+              "end": 33,
+              "expanded_url": "https://x.com/Ann05133/status/1980953345331454441/photo/1",
+              "media_key": "3_1980953321654398977",
+              "start": 10,
+              "url": "https://t.co/ZaWf4SEVeZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980953345331454441",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 118,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "&gt;_&lt; https://t.co/ZaWf4SEVeZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 221,
+          "like_count": 1304,
+          "listed_count": 3,
+          "media_count": 198,
+          "tweet_count": 726
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T13:46:54.000Z",
+        "description": "不接线下 非绿。谢谢哥哥姐姐投喂(｡ì _ í｡)",
+        "id": "1809947164627656704",
+        "name": "kiki",
+        "pinned_tweet_id": "1980953345331454441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953645214238912512/EvMzZv-O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 86,
+          "like_count": 651,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 80
+        },
+        "username": "Ann05133",
+        "verified": false
+      }
+    ]
+  }
+}

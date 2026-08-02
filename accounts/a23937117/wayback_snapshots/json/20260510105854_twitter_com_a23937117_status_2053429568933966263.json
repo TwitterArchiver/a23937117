@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053429568933966263",
+    "created_at": "2026-05-10T10:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053429568933966263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "944167391277154305",
+          "start": 3,
+          "username": "anshu9anshu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053429568933966263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050305995944194294",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anshu9anshu: 188解锁线下/388可以闲聊/520开放黄线上陪聊黄色图库\n/1314电子女友半个月包括以上\n坐标广州可全国入🚪才能预约\n验证20(视频语音都可以)\n线下非绿半绿都接\n可以免费问我一个问题剩下的要付费\n收支付宝口令或者赞赏码 ~求打赏喵ovo…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2042,
+        "media_key": "3_2050305978609070080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHQmbK_acAAJtXP.jpg",
+        "width": 1522
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050305978604896256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHQmbK-awAAIzwi.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2050305978592280576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHQmbK7aQAAEmqy.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2053429568933966263",
+        "created_at": "2026-05-10T10:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053429568933966263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "944167391277154305",
+              "start": 3,
+              "username": "anshu9anshu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053429568933966263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050305995944194294",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anshu9anshu: 188解锁线下/388可以闲聊/520开放黄线上陪聊黄色图库\n/1314电子女友半个月包括以上\n坐标广州可全国入🚪才能预约\n验证20(视频语音都可以)\n线下非绿半绿都接\n可以免费问我一个问题剩下的要付费\n收支付宝口令或者赞赏码 ~求打赏喵ovo…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050305978609070080",
+            "3_2050305978604896256",
+            "3_2050305978592280576"
+          ]
+        },
+        "author_id": "944167391277154305",
+        "conversation_id": "2050305995944194294",
+        "created_at": "2026-05-01T20:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T21:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050305995944194294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rcp5HL4fbA",
+              "end": 146,
+              "expanded_url": "https://x.com/anshu9anshu/status/2050305995944194294/photo/1",
+              "media_key": "3_2050305978609070080",
+              "start": 123,
+              "url": "https://t.co/Rcp5HL4fbA"
+            },
+            {
+              "display_url": "pic.x.com/Rcp5HL4fbA",
+              "end": 146,
+              "expanded_url": "https://x.com/anshu9anshu/status/2050305995944194294/photo/1",
+              "media_key": "3_2050305978604896256",
+              "start": 123,
+              "url": "https://t.co/Rcp5HL4fbA"
+            },
+            {
+              "display_url": "pic.x.com/Rcp5HL4fbA",
+              "end": 146,
+              "expanded_url": "https://x.com/anshu9anshu/status/2050305995944194294/photo/1",
+              "media_key": "3_2050305978592280576",
+              "start": 123,
+              "url": "https://t.co/Rcp5HL4fbA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050305995944194294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6690,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "188解锁线下/388可以闲聊/520开放黄线上陪聊黄色图库\n/1314电子女友半个月包括以上\n坐标广州可全国入🚪才能预约\n验证20(视频语音都可以)\n线下非绿半绿都接\n可以免费问我一个问题剩下的要付费\n收支付宝口令或者赞赏码 ~求打赏喵ovo https://t.co/Rcp5HL4fbA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 202,
+          "like_count": 1402,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 715
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-22T11:27:02.000Z",
+        "description": "只回口令我很反差入🚪就知道了~互fo互转欢迎爱大家 私信总被吞记得多发几条！",
+        "id": "944167391277154305",
+        "location": "India",
+        "name": "猫脑子",
+        "pinned_tweet_id": "2050305995944194294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050144369261383680/fhMkUhMT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 52,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 245
+        },
+        "username": "anshu9anshu",
+        "verified": false
+      }
+    ]
+  }
+}

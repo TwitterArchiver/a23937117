@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955010229000867995",
+    "created_at": "2025-08-11T20:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T21:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955010229000867995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879214313308868609",
+          "start": 3,
+          "username": "Mitang_TvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955010229000867995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950269945604112732",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mitang_TvT: 发一个新置顶！这里是米汤！前世3k粉丝重生归来。整理了好久门哥对我的一些评价和一点点小日常，遇到了很多很好很善良的门哥，也希望有新门哥愿意认识我😽如果愿意和我交朋友我会非常开心的！有缘人千里来相会！！每个过门的门哥都将获得我的封号，被我封为王，与…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955010229000867995].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955010229000867995",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955010229000867995"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950269914721480704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDAJ4sa8AAA4yf.jpg",
+        "width": 1365
+      },
+      {
+        "height": 1537,
+        "media_key": "3_1950269915056975872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDAJ58aMAAEnIh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1950269915111575553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDAJ6JbUAEH1ko.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950269915593932800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDAJ78bgAAsZ8V.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950269914721480704",
+            "3_1950269915056975872",
+            "3_1950269915111575553",
+            "3_1950269915593932800"
+          ]
+        },
+        "author_id": "1879214313308868609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1950269945604112732",
+        "created_at": "2025-07-29T18:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T19:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950269945604112732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q0gYJdFSTe",
+              "end": 161,
+              "expanded_url": "https://x.com/shenMi_liwU/status/1950269945604112732/photo/1",
+              "media_key": "3_1950269914721480704",
+              "start": 138,
+              "url": "https://t.co/Q0gYJdFSTe"
+            },
+            {
+              "display_url": "pic.x.com/Q0gYJdFSTe",
+              "end": 161,
+              "expanded_url": "https://x.com/shenMi_liwU/status/1950269945604112732/photo/1",
+              "media_key": "3_1950269915056975872",
+              "start": 138,
+              "url": "https://t.co/Q0gYJdFSTe"
+            },
+            {
+              "display_url": "pic.x.com/Q0gYJdFSTe",
+              "end": 161,
+              "expanded_url": "https://x.com/shenMi_liwU/status/1950269945604112732/photo/1",
+              "media_key": "3_1950269915111575553",
+              "start": 138,
+              "url": "https://t.co/Q0gYJdFSTe"
+            },
+            {
+              "display_url": "pic.x.com/Q0gYJdFSTe",
+              "end": 161,
+              "expanded_url": "https://x.com/shenMi_liwU/status/1950269945604112732/photo/1",
+              "media_key": "3_1950269915593932800",
+              "start": 138,
+              "url": "https://t.co/Q0gYJdFSTe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950269945604112732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14856,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "发一个新置顶！这里是米汤！前世3k粉丝重生归来。整理了好久门哥对我的一些评价和一点点小日常，遇到了很多很好很善良的门哥，也希望有新门哥愿意认识我😽如果愿意和我交朋友我会非常开心的！有缘人千里来相会！！每个过门的门哥都将获得我的封号，被我封为王，与我并肩而立。\n米汤大王献上😎 https://t.co/Q0gYJdFSTe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 218,
+          "like_count": 1072,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 530
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T17:10:00.000Z",
+        "description": "小⭕️贝/m/brat\n鲜衣怒马少年郎 超级无敌米汤王 \n若有门哥入门来 祝你鸡巴十米长(ᐡ т  ̫ т ᐡ)\n                               🚪66/138/288/520/1314",
+        "id": "1879214313308868609",
+        "location": "恩师：孙笑川 恩师不是我烫的😭我是米汤不是小米粥",
+        "name": "米汤大王（线性代数我草泥马）",
+        "pinned_tweet_id": "1950269945604112732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950434727418331136/e2pyv5zM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 496,
+          "like_count": 656,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 353
+        },
+        "username": "Mitang_TvT",
+        "verified": false
+      }
+    ]
+  }
+}

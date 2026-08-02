@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963922386933444608",
+        "3_1963922386979614720",
+        "3_1963922386887319552"
+      ],
+      "media_source_tweet_id": [
+        "1963922396332904533",
+        "1963922396332904533",
+        "1963922396332904533"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1964389926373388313",
+    "created_at": "2025-09-06T18:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T19:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964389926373388313"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 81,
+          "start": 77,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 86,
+          "start": 82,
+          "tag": "求金主"
+        },
+        {
+          "end": 91,
+          "start": 87,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 97,
+          "start": 92,
+          "tag": "ATM奴"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1786742440281686016",
+          "start": 3,
+          "username": "umasan82"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rnUBfbg2dO",
+          "end": 121,
+          "expanded_url": "https://x.com/umasan82/status/1963922396332904533/photo/1",
+          "media_key": "3_1963922386933444608",
+          "start": 98,
+          "url": "https://t.co/rnUBfbg2dO"
+        },
+        {
+          "display_url": "pic.x.com/rnUBfbg2dO",
+          "end": 121,
+          "expanded_url": "https://x.com/umasan82/status/1963922396332904533/photo/1",
+          "media_key": "3_1963922386979614720",
+          "start": 98,
+          "url": "https://t.co/rnUBfbg2dO"
+        },
+        {
+          "display_url": "pic.x.com/rnUBfbg2dO",
+          "end": 121,
+          "expanded_url": "https://x.com/umasan82/status/1963922396332904533/photo/1",
+          "media_key": "3_1963922386887319552",
+          "start": 98,
+          "url": "https://t.co/rnUBfbg2dO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964389926373388313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963922396332904533",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @umasan82: 你好我是小柊！\n🚪88/198/288/520 区别请看p1\n谢谢喜欢我的宝宝呀！\n过门不退 要想好哦(&gt;﹏&lt;)\n#门槛妹 #求金主 #爸爸活 #ATM奴 https://t.co/rnUBfbg2dO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 882,
+        "media_key": "3_1963922386933444608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0FBAW-a8AAmhaB.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1963922386979614720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0FBAXJbcAA3LP6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1963922386887319552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0FBAWzbIAAux7n.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963922386933444608",
+            "3_1963922386979614720",
+            "3_1963922386887319552"
+          ],
+          "media_source_tweet_id": [
+            "1963922396332904533",
+            "1963922396332904533",
+            "1963922396332904533"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "1964389926373388313",
+        "created_at": "2025-09-06T18:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T19:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964389926373388313"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 77,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "求金主"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 97,
+              "start": 92,
+              "tag": "ATM奴"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1786742440281686016",
+              "start": 3,
+              "username": "umasan82"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rnUBfbg2dO",
+              "end": 121,
+              "expanded_url": "https://x.com/umasan82/status/1963922396332904533/photo/1",
+              "media_key": "3_1963922386933444608",
+              "start": 98,
+              "url": "https://t.co/rnUBfbg2dO"
+            },
+            {
+              "display_url": "pic.x.com/rnUBfbg2dO",
+              "end": 121,
+              "expanded_url": "https://x.com/umasan82/status/1963922396332904533/photo/1",
+              "media_key": "3_1963922386979614720",
+              "start": 98,
+              "url": "https://t.co/rnUBfbg2dO"
+            },
+            {
+              "display_url": "pic.x.com/rnUBfbg2dO",
+              "end": 121,
+              "expanded_url": "https://x.com/umasan82/status/1963922396332904533/photo/1",
+              "media_key": "3_1963922386887319552",
+              "start": 98,
+              "url": "https://t.co/rnUBfbg2dO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964389926373388313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963922396332904533",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @umasan82: 你好我是小柊！\n🚪88/198/288/520 区别请看p1\n谢谢喜欢我的宝宝呀！\n过门不退 要想好哦(&gt;﹏&lt;)\n#门槛妹 #求金主 #爸爸活 #ATM奴 https://t.co/rnUBfbg2dO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963922386933444608",
+            "3_1963922386979614720",
+            "3_1963922386887319552"
+          ]
+        },
+        "author_id": "1786742440281686016",
+        "conversation_id": "1963922396332904533",
+        "created_at": "2025-09-05T11:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T12:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963922396332904533"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "求金主"
+            },
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 83,
+              "start": 78,
+              "tag": "ATM奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rnUBfbg2dO",
+              "end": 107,
+              "expanded_url": "https://x.com/umasan82/status/1963922396332904533/photo/1",
+              "media_key": "3_1963922386933444608",
+              "start": 84,
+              "url": "https://t.co/rnUBfbg2dO"
+            },
+            {
+              "display_url": "pic.x.com/rnUBfbg2dO",
+              "end": 107,
+              "expanded_url": "https://x.com/umasan82/status/1963922396332904533/photo/1",
+              "media_key": "3_1963922386979614720",
+              "start": 84,
+              "url": "https://t.co/rnUBfbg2dO"
+            },
+            {
+              "display_url": "pic.x.com/rnUBfbg2dO",
+              "end": 107,
+              "expanded_url": "https://x.com/umasan82/status/1963922396332904533/photo/1",
+              "media_key": "3_1963922386887319552",
+              "start": 84,
+              "url": "https://t.co/rnUBfbg2dO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963922396332904533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1635,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "你好我是小柊！\n🚪88/198/288/520 区别请看p1\n谢谢喜欢我的宝宝呀！\n过门不退 要想好哦(&gt;﹏&lt;)\n#门槛妹 #求金主 #爸爸活 #ATM奴 https://t.co/rnUBfbg2dO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 209,
+          "like_count": 1156,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 647
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T12:59:43.000Z",
+        "description": "女高 贫乳🚪支持赞赏码/口令红包 问坐标10r 过门请看置顶呀！",
+        "id": "1786742440281686016",
+        "name": "小柊（求过门版）",
+        "pinned_tweet_id": "1963922396332904533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963526214871912450/rbvlbAXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 16,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 56
+        },
+        "username": "umasan82",
+        "verified": false
+      }
+    ]
+  }
+}

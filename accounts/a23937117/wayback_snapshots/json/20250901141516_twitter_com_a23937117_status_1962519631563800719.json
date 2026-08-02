@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962519631563800719",
+    "created_at": "2025-09-01T14:15:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T15:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962519631563800719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1601451966525100032",
+          "start": 3,
+          "username": "hoshiharashinra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962519631563800719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953637614776668348",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshiharashinra: 置顶🔝\n我是森罗 \n03/165cm/90kg \nbbw | 地雷女 | coser\n门槛52/88/上不封顶 问坐标20 其他业务过门解锁（很好说话）\n有精神疾病需要费用治疗😢喜欢我请支持我🥺\n欢迎宝宝们互转互fo 转抽两个免门槛😺…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962519631563800719].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962519631563800719",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962519631563800719"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953637589711564810",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxy3CXqbsAoG_hL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1953637587731820544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxy3CQSbMAAyxrp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2382,
+        "media_key": "3_1953637587731853314",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxy3CQSbsAIoaI5.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1953637587731767296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxy3CQSaYAAnUf1.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953637589711564810",
+            "3_1953637587731820544",
+            "3_1953637587731853314",
+            "3_1953637587731767296"
+          ]
+        },
+        "author_id": "1601451966525100032",
+        "conversation_id": "1953637614776668348",
+        "created_at": "2025-08-08T02:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T03:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953637614776668348"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "坦克"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "母猪"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "反差"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "雌竞"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "母狗"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "母畜"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "调教"
+            },
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "女大"
+            },
+            {
+              "end": 154,
+              "start": 151,
+              "tag": "肥女"
+            },
+            {
+              "end": 158,
+              "start": 155,
+              "tag": "胖妹"
+            },
+            {
+              "end": 162,
+              "start": 159,
+              "tag": "肥猪"
+            },
+            {
+              "end": 168,
+              "start": 163,
+              "tag": "200斤"
+            },
+            {
+              "end": 172,
+              "start": 169,
+              "tag": "恋肥"
+            },
+            {
+              "end": 177,
+              "start": 173,
+              "tag": "BBW"
+            },
+            {
+              "end": 182,
+              "start": 178,
+              "tag": "地雷女"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i6bYaC3WhE",
+              "end": 206,
+              "expanded_url": "https://x.com/hoshiharashinra/status/1953637614776668348/photo/1",
+              "media_key": "3_1953637589711564810",
+              "start": 183,
+              "url": "https://t.co/i6bYaC3WhE"
+            },
+            {
+              "display_url": "pic.x.com/i6bYaC3WhE",
+              "end": 206,
+              "expanded_url": "https://x.com/hoshiharashinra/status/1953637614776668348/photo/1",
+              "media_key": "3_1953637587731820544",
+              "start": 183,
+              "url": "https://t.co/i6bYaC3WhE"
+            },
+            {
+              "display_url": "pic.x.com/i6bYaC3WhE",
+              "end": 206,
+              "expanded_url": "https://x.com/hoshiharashinra/status/1953637614776668348/photo/1",
+              "media_key": "3_1953637587731853314",
+              "start": 183,
+              "url": "https://t.co/i6bYaC3WhE"
+            },
+            {
+              "display_url": "pic.x.com/i6bYaC3WhE",
+              "end": 206,
+              "expanded_url": "https://x.com/hoshiharashinra/status/1953637614776668348/photo/1",
+              "media_key": "3_1953637587731767296",
+              "start": 183,
+              "url": "https://t.co/i6bYaC3WhE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953637614776668348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 20371,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "置顶🔝\n我是森罗 \n03/165cm/90kg \nbbw | 地雷女 | coser\n门槛52/88/上不封顶 问坐标20 其他业务过门解锁（很好说话）\n有精神疾病需要费用治疗😢喜欢我请支持我🥺\n欢迎宝宝们互转互fo 转抽两个免门槛😺\n#坦克 #母猪  #反差 #雌竞 #母狗 #母畜 #调教 #女大 #肥女 #胖妹 #肥猪 #200斤 #恋肥 #BBW #地雷女 https://t.co/i6bYaC3WhE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 211,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 662
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T05:41:36.000Z",
+        "description": "🚪88好友位\n🚪188好友位+陪聊+福利 \n            上不封顶\n            皮下顺直女可验证",
+        "id": "1601451966525100032",
+        "name": "センチメンタルな愛慕心",
+        "pinned_tweet_id": "1953637614776668348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677752832076976128/JYzYdxIX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 139,
+          "like_count": 738,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 906
+        },
+        "username": "hoshiharashinra",
+        "verified": false
+      }
+    ]
+  }
+}

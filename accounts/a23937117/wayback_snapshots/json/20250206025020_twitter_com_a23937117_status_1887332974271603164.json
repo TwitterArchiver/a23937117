@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887332967531315200"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1887332974271603164",
+    "created_at": "2025-02-06T02:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T03:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887332974271603164"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 3,
+          "tag": "m"
+        },
+        {
+          "end": 11,
+          "start": 6,
+          "tag": "brat"
+        },
+        {
+          "end": 15,
+          "start": 12,
+          "tag": "反差"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d3JCHUK26w",
+          "end": 39,
+          "expanded_url": "https://x.com/a23937117/status/1887332974271603164/photo/1",
+          "media_key": "3_1887332967531315200",
+          "start": 16,
+          "url": "https://t.co/d3JCHUK26w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887332974271603164",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "睡了\n#m #brat #反差 https://t.co/d3JCHUK26w"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1887332974271603164].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1887332974271603164",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1887332974271603164"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1887332967531315200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjEnVZ6WgAAVKNj.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——严重露出lover  中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877871932521009152/ENngS7iN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 71,
+          "like_count": 487,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 29
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

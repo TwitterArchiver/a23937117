@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1978071945980559687",
+    "created_at": "2025-10-16T18:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T19:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978890950127616430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1545708657752477696",
+          "start": 0,
+          "username": "Yichi71"
+        },
+        {
+          "end": 23,
+          "id": "1535434592622026752",
+          "start": 9,
+          "username": "QingshuMeishu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978890950127616430",
+    "in_reply_to_user_id": "1545708657752477696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978422758049497359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yichi71 @QingshuMeishu 笑死我了那很渴了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1978071945980559687",
+        "created_at": "2025-10-16T18:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T19:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978890950127616430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1545708657752477696",
+              "start": 0,
+              "username": "Yichi71"
+            },
+            {
+              "end": 23,
+              "id": "1535434592622026752",
+              "start": 9,
+              "username": "QingshuMeishu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978890950127616430",
+        "in_reply_to_user_id": "1545708657752477696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978422758049497359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yichi71 @QingshuMeishu 笑死我了那很渴了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545708657752477696",
+        "conversation_id": "1978071945980559687",
+        "created_at": "2025-10-15T11:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T12:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978422758049497359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1535434592622026752",
+              "start": 0,
+              "username": "QingshuMeishu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978422758049497359",
+        "in_reply_to_user_id": "1535434592622026752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12150,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978071945980559687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QingshuMeishu 喝水干啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 人在海外 人在海外！！！ 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 217,
+          "like_count": 1292,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 701
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T09:57:35.000Z",
+        "description": "与其讨好全世界不如讨好小狗 \n删掉了一些帖子和音频\n发着玩 自己爱发 有点数好吗🤭\n我也不是好人\n对谁都有占有欲的水象./",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yichi71",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yichi71",
+                "start": 0,
+                "url": "https://t.co/KhtKV1hkor"
+              }
+            ]
+          }
+        },
+        "id": "1545708657752477696",
+        "location": "Hong Kong",
+        "name": "7号小行星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940062992692891649/C5KLO7ja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 62,
+          "like_count": 1423,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 556
+        },
+        "url": "https://t.co/KhtKV1hkor",
+        "username": "Yichi71",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T01:31:59.000Z",
+        "description": "手工，缚手，任务定制(写的慢见谅)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "beidouge.vercel.app",
+                "end": 23,
+                "expanded_url": "https://beidouge.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/nMRpz7GcMW"
+              }
+            ]
+          }
+        },
+        "id": "1535434592622026752",
+        "location": "链接是土豆的小任务和其他",
+        "name": "旧土豆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947320766401265664/amdooWNi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3734,
+          "following_count": 5,
+          "like_count": 14,
+          "listed_count": 12,
+          "media_count": 12,
+          "tweet_count": 15
+        },
+        "url": "https://t.co/nMRpz7GcMW",
+        "username": "QingshuMeishu",
+        "verified": true
+      }
+    ]
+  }
+}

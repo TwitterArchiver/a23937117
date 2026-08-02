@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961249642319888384"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1961249651551858720",
+    "created_at": "2025-08-29T02:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T03:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961249651551858720"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/i1AWGHkLtR",
+          "end": 28,
+          "expanded_url": "https://x.com/a23937117/status/1961249651551858720/photo/1",
+          "media_key": "3_1961249642319888384",
+          "start": 5,
+          "url": "https://t.co/i1AWGHkLtR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961249651551858720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "剪头发了 https://t.co/i1AWGHkLtR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1961249651551858720].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1961249651551858720",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1961249651551858720"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1961249642319888384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzfCKJZWwAAmKqq.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰--子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1960490344723706120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 208,
+          "like_count": 1130,
+          "listed_count": 2,
+          "media_count": 172,
+          "tweet_count": 639
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

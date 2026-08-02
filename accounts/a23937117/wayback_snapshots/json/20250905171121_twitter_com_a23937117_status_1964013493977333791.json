@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1964013493977333791",
+    "created_at": "2025-09-05T17:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T18:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964013493977333791"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 80,
+          "start": 76,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 85,
+          "start": 81,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 90,
+          "start": 86,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 96,
+          "start": 91,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 102,
+          "start": 97,
+          "tag": "一日女友"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "线下"
+        },
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "长沙"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "包养"
+        },
+        {
+          "end": 119,
+          "start": 115,
+          "tag": "门槛姐"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "湖南"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1862187198558162944",
+          "start": 3,
+          "username": "yu2470601533935"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/4v",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/4v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964013493977333791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877777737244627122",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yu2470601533935: 我的新置顶🥰\n09年 | 159 58\n线下🚪解锁288才接\n小女孩来找我互fo互转都欢迎\n只收口令赞赏码哦\n#爸爸活 #门槛妹 #门槛哥 #金主爸爸 #一日女友 #线下 #长沙 #包养 #门槛姐 #湖南 https://t.co/4v…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1964013493977333791].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1964013493977333791",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1964013493977333791"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1877777678163681280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg802XIaoAAlomz.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1877777678159482880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg802XHakAAjMJH.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1966,
+        "media_key": "3_1877777678155292672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg802XGaoAA-G2z.jpg",
+        "width": 1043
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877777678163681280",
+            "3_1877777678159482880",
+            "3_1877777678155292672"
+          ]
+        },
+        "author_id": "1862187198558162944",
+        "conversation_id": "1877777737244627122",
+        "created_at": "2025-01-10T18:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T19:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877777737244627122"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 64,
+              "start": 60,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "一日女友"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "线下"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "长沙"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "包养"
+            },
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "湖南"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4voZYMsfAr",
+              "end": 126,
+              "expanded_url": "https://x.com/yu2470601533935/status/1877777737244627122/photo/1",
+              "media_key": "3_1877777678163681280",
+              "start": 103,
+              "url": "https://t.co/4voZYMsfAr"
+            },
+            {
+              "display_url": "pic.x.com/4voZYMsfAr",
+              "end": 126,
+              "expanded_url": "https://x.com/yu2470601533935/status/1877777737244627122/photo/1",
+              "media_key": "3_1877777678159482880",
+              "start": 103,
+              "url": "https://t.co/4voZYMsfAr"
+            },
+            {
+              "display_url": "pic.x.com/4voZYMsfAr",
+              "end": 126,
+              "expanded_url": "https://x.com/yu2470601533935/status/1877777737244627122/photo/1",
+              "media_key": "3_1877777678155292672",
+              "start": 103,
+              "url": "https://t.co/4voZYMsfAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877777737244627122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 73665,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "我的新置顶🥰\n09年 | 159 58\n线下🚪解锁288才接\n小女孩来找我互fo互转都欢迎\n只收口令赞赏码哦\n#爸爸活 #门槛妹 #门槛哥 #金主爸爸 #一日女友 #线下 #长沙 #包养 #门槛姐 #湖南 https://t.co/4voZYMsfAr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 206,
+          "like_count": 1153,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 722
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-28T17:30:16.000Z",
+        "description": "只回口令门槛 小女孩欢迎互fo互转 可验证 没钱别问我求你们了",
+        "id": "1862187198558162944",
+        "location": "🚪52 88 288 520 1314",
+        "name": "街边小咪",
+        "pinned_tweet_id": "1877777737244627122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894832600222482433/kSW4Vt6j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 59,
+          "like_count": 100,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 566
+        },
+        "username": "yu2470601533935",
+        "verified": false
+      }
+    ]
+  }
+}

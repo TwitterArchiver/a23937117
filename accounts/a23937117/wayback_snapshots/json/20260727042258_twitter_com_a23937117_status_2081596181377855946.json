@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2081585107320598919",
+    "created_at": "2026-07-27T04:22:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T05:22:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081596181377855946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796566410338111488",
+          "start": 0,
+          "username": "jiegeng_KK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081596181377855946",
+    "in_reply_to_user_id": "1796566410338111488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081585107320598919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiegeng_KK 姐姐大笨蛋我来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2081585094087561216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONGnUbWUAASTmM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2081585107320598919",
+        "created_at": "2026-07-27T04:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T05:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081596181377855946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796566410338111488",
+              "start": 0,
+              "username": "jiegeng_KK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081596181377855946",
+        "in_reply_to_user_id": "1796566410338111488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081585107320598919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiegeng_KK 姐姐大笨蛋我来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081585094087561216"
+          ]
+        },
+        "author_id": "1796566410338111488",
+        "conversation_id": "2081585107320598919",
+        "created_at": "2026-07-27T03:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T04:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081585107320598919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y7veJ9b6hQ",
+              "end": 30,
+              "expanded_url": "https://x.com/jiegeng_KK/status/2081585107320598919/photo/1",
+              "media_key": "3_2081585094087561216",
+              "start": 7,
+              "url": "https://t.co/y7veJ9b6hQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081585107320598919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女仆装好难穿 https://t.co/y7veJ9b6hQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 \n🚪88/188/288/388/520\n长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 189,
+          "like_count": 1464,
+          "listed_count": 2,
+          "media_count": 265,
+          "tweet_count": 818
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T15:36:39.000Z",
+        "description": "06 || entp || 🚪请看下面，只过QQ只过QQ只过QQ！过了🚪一概不退请理解 || 喜欢礼貌的人 女孩子请私信我互关！|| 推广请自辨 ||",
+        "id": "1796566410338111488",
+        "location": "🚪198/298",
+        "name": "桔梗桔梗",
+        "pinned_tweet_id": "1847943234988990966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942086668011405312/deasG91P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3219,
+          "following_count": 459,
+          "like_count": 5852,
+          "listed_count": 8,
+          "media_count": 154,
+          "tweet_count": 2594
+        },
+        "url": "",
+        "username": "jiegeng_KK",
+        "verified": false
+      }
+    ]
+  }
+}

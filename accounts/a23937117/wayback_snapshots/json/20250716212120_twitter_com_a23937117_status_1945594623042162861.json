@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1944957734950199435",
+    "created_at": "2025-07-16T21:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T22:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945594623042162861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780609759122718721",
+          "start": 0,
+          "username": "7lxxora_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945594623042162861",
+    "in_reply_to_user_id": "1780609759122718721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944957734950199435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7lxxora_qwq 你如果知道我在乌斯怀亚不小心跑到高级赛道，连走带爬走了1000多米下来你也会觉得我很惨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944957722669277185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv3gvnLa4AEin-g.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1944957734950199435",
+        "created_at": "2025-07-16T21:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T22:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945594623042162861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780609759122718721",
+              "start": 0,
+              "username": "7lxxora_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945594623042162861",
+        "in_reply_to_user_id": "1780609759122718721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944957734950199435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7lxxora_qwq 你如果知道我在乌斯怀亚不小心跑到高级赛道，连走带爬走了1000多米下来你也会觉得我很惨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944957722669277185"
+          ]
+        },
+        "author_id": "1780609759122718721",
+        "conversation_id": "1944957734950199435",
+        "created_at": "2025-07-15T03:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T04:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944957734950199435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/96HNkYa11m",
+              "end": 40,
+              "expanded_url": "https://x.com/7lxxora_qwq/status/1944957734950199435/photo/1",
+              "media_key": "3_1944957722669277185",
+              "start": 17,
+              "url": "https://t.co/96HNkYa11m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944957734950199435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1935,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "俺昨天去滑雪了 结果是摔得很惨🥲 https://t.co/96HNkYa11m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1944721626525761843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 162,
+          "like_count": 946,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 358
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T14:50:47.000Z",
+        "description": "07｜enfj｜switch｜欢迎女宝来找我互fo 一起玩^_^｜白菜塔罗占卜🔮｜置顶关评推广自辨｜不加任何联系方式｜自用蜂鸟vpn：https://t.co/gieez6LYfn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 90,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=byewBiys",
+                "start": 67,
+                "url": "https://t.co/gieez6LYfn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bluetsavage_i7",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bluetsavage_i7",
+                "start": 0,
+                "url": "https://t.co/KKyVATwBIp"
+              }
+            ]
+          }
+        },
+        "id": "1780609759122718721",
+        "name": "芒果魚",
+        "pinned_tweet_id": "1921593091716268431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912551787850264577/Z7I4EAZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2105,
+          "following_count": 389,
+          "like_count": 5528,
+          "listed_count": 3,
+          "media_count": 148,
+          "tweet_count": 2621
+        },
+        "url": "https://t.co/KKyVATwBIp",
+        "username": "7lxxora_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

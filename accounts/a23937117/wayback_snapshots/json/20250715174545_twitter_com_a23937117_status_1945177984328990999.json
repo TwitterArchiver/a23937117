@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945177973214068736"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1945177984328990999",
+    "created_at": "2025-07-15T17:45:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T18:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945177984328990999"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mMyRlyTepo",
+          "end": 29,
+          "expanded_url": "https://x.com/a23937117/status/1945177984328990999/photo/1",
+          "media_key": "3_1945177973214068736",
+          "start": 6,
+          "url": "https://t.co/mMyRlyTepo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945177984328990999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "牵着我的手 https://t.co/mMyRlyTepo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1945177984328990999].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1945177984328990999",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1945177984328990999"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1945177973214068736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv6pD4ZWwAAG6O5.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1944721626525761843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 158,
+          "like_count": 929,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 328
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033643995902148608",
+        "3_2033643995906383872",
+        "3_2033643995906318336"
+      ],
+      "media_source_tweet_id": [
+        "2033644022326300977",
+        "2033644022326300977",
+        "2033644022326300977"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2036953185609203985",
+    "created_at": "2026-03-25T23:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T00:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036953185609203985"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 101,
+          "start": 97,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "门槛"
+        },
+        {
+          "end": 109,
+          "start": 106,
+          "tag": "杭州"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2033247667221123072",
+          "start": 3,
+          "username": "AKami34038"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ot2wR3LAkK",
+          "end": 133,
+          "expanded_url": "https://x.com/AKami34038/status/2033644022326300977/photo/1",
+          "media_key": "3_2033643995902148608",
+          "start": 110,
+          "url": "https://t.co/Ot2wR3LAkK"
+        },
+        {
+          "display_url": "pic.x.com/Ot2wR3LAkK",
+          "end": 133,
+          "expanded_url": "https://x.com/AKami34038/status/2033644022326300977/photo/1",
+          "media_key": "3_2033643995906383872",
+          "start": 110,
+          "url": "https://t.co/Ot2wR3LAkK"
+        },
+        {
+          "display_url": "pic.x.com/Ot2wR3LAkK",
+          "end": 133,
+          "expanded_url": "https://x.com/AKami34038/status/2033644022326300977/photo/1",
+          "media_key": "3_2033643995906318336",
+          "start": 110,
+          "url": "https://t.co/Ot2wR3LAkK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036953185609203985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033644022326300977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AKami34038: 我是Yamazaki/小崎\n坐标杭州 经常去上海\n我喜欢可爱的人 \n女孩子们请找我玩😼互fo互转呀\n52🚪好友位  88🚪聊天➕解锁业务\n非常感谢 请和我交朋友\n#门槛妹 #门槛 #杭州 https://t.co/Ot2wR3LAkK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033643995902148608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDj0cIdagAAGbXA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1538,
+        "media_key": "3_2033643995906383872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDj0cIebIAAOG7q.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033643995906318336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDj0cIeaIAAFSnk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033643995902148608",
+            "3_2033643995906383872",
+            "3_2033643995906318336"
+          ],
+          "media_source_tweet_id": [
+            "2033644022326300977",
+            "2033644022326300977",
+            "2033644022326300977"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2036953185609203985",
+        "created_at": "2026-03-25T23:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T00:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036953185609203985"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 97,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "门槛"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "杭州"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2033247667221123072",
+              "start": 3,
+              "username": "AKami34038"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ot2wR3LAkK",
+              "end": 133,
+              "expanded_url": "https://x.com/AKami34038/status/2033644022326300977/photo/1",
+              "media_key": "3_2033643995902148608",
+              "start": 110,
+              "url": "https://t.co/Ot2wR3LAkK"
+            },
+            {
+              "display_url": "pic.x.com/Ot2wR3LAkK",
+              "end": 133,
+              "expanded_url": "https://x.com/AKami34038/status/2033644022326300977/photo/1",
+              "media_key": "3_2033643995906383872",
+              "start": 110,
+              "url": "https://t.co/Ot2wR3LAkK"
+            },
+            {
+              "display_url": "pic.x.com/Ot2wR3LAkK",
+              "end": 133,
+              "expanded_url": "https://x.com/AKami34038/status/2033644022326300977/photo/1",
+              "media_key": "3_2033643995906318336",
+              "start": 110,
+              "url": "https://t.co/Ot2wR3LAkK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036953185609203985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033644022326300977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AKami34038: 我是Yamazaki/小崎\n坐标杭州 经常去上海\n我喜欢可爱的人 \n女孩子们请找我玩😼互fo互转呀\n52🚪好友位  88🚪聊天➕解锁业务\n非常感谢 请和我交朋友\n#门槛妹 #门槛 #杭州 https://t.co/Ot2wR3LAkK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033643995902148608",
+            "3_2033643995906383872",
+            "3_2033643995906318336"
+          ]
+        },
+        "author_id": "2033247667221123072",
+        "conversation_id": "2033644022326300977",
+        "created_at": "2026-03-16T20:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T21:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033644022326300977"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 81,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "门槛"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "杭州"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ot2wR3LAkK",
+              "end": 117,
+              "expanded_url": "https://x.com/AKami34038/status/2033644022326300977/photo/1",
+              "media_key": "3_2033643995902148608",
+              "start": 94,
+              "url": "https://t.co/Ot2wR3LAkK"
+            },
+            {
+              "display_url": "pic.x.com/Ot2wR3LAkK",
+              "end": 117,
+              "expanded_url": "https://x.com/AKami34038/status/2033644022326300977/photo/1",
+              "media_key": "3_2033643995906383872",
+              "start": 94,
+              "url": "https://t.co/Ot2wR3LAkK"
+            },
+            {
+              "display_url": "pic.x.com/Ot2wR3LAkK",
+              "end": 117,
+              "expanded_url": "https://x.com/AKami34038/status/2033644022326300977/photo/1",
+              "media_key": "3_2033643995906318336",
+              "start": 94,
+              "url": "https://t.co/Ot2wR3LAkK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033644022326300977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3764,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我是Yamazaki/小崎\n坐标杭州 经常去上海\n我喜欢可爱的人 \n女孩子们请找我玩😼互fo互转呀\n52🚪好友位  88🚪聊天➕解锁业务\n非常感谢 请和我交朋友\n#门槛妹 #门槛 #杭州 https://t.co/Ot2wR3LAkK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover  谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1980120686774591794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 198,
+          "like_count": 1367,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 780
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T18:23:21.000Z",
+        "description": "除了过🚪不回私信",
+        "id": "2033247667221123072",
+        "name": "A ya kami",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033247979021438977/A98Dq__A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 4,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 13
+        },
+        "username": "AKami34038",
+        "verified": false
+      }
+    ]
+  }
+}

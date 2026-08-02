@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962119367597928767",
+    "created_at": "2025-08-31T11:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T12:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962119367597928767"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 118,
+          "start": 114,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 123,
+          "start": 119,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "门槛"
+        },
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "上海"
+        },
+        {
+          "end": 138,
+          "start": 133,
+          "tag": "反差女友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2804026250",
+          "start": 3,
+          "username": "ihsanullah94"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962119367597928767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 154
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956242694935863602",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ihsanullah94: 哈喽我是旺仔小美💕164.49 d \n坐标 苏州 上海 真女生 支持验证验证20\n接爸爸活线下 关注转发三连抽奖🧧52*2\n🧧520月底开 互转互fo的宝宝私信我 \n🚪188/288/520 #爸爸活 #门槛妹  #门槛 #上海 #反差女友…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962119367597928767].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962119367597928767",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962119367597928767"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956242686425620481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyX4W9La4AEc15o.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1572,
+        "media_key": "3_1956242686408843266",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyX4W9Ha4AIRe7v.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956242686425620481",
+            "3_1956242686408843266"
+          ]
+        },
+        "author_id": "2804026250",
+        "conversation_id": "1956242694935863602",
+        "created_at": "2025-08-15T06:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T07:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956242694935863602"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "门槛"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "上海"
+            },
+            {
+              "end": 120,
+              "start": 115,
+              "tag": "反差女友"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nSHGR59KeO",
+              "end": 148,
+              "expanded_url": "https://x.com/ihsanullah94/status/1956242694935863602/photo/1",
+              "media_key": "3_1956242686425620481",
+              "start": 125,
+              "url": "https://t.co/nSHGR59KeO"
+            },
+            {
+              "display_url": "pic.x.com/nSHGR59KeO",
+              "end": 148,
+              "expanded_url": "https://x.com/ihsanullah94/status/1956242694935863602/photo/1",
+              "media_key": "3_1956242686408843266",
+              "start": 125,
+              "url": "https://t.co/nSHGR59KeO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956242694935863602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 23034,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "哈喽我是旺仔小美💕164.49 d \n坐标 苏州 上海 真女生 支持验证验证20\n接爸爸活线下 关注转发三连抽奖🧧52*2\n🧧520月底开 互转互fo的宝宝私信我 \n🚪188/288/520 #爸爸活 #门槛妹  #门槛 #上海 #反差女友 #线下 https://t.co/nSHGR59KeO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 208,
+          "like_count": 1137,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 664
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-11T17:15:57.000Z",
+        "description": "常驻 江苏 有🚪入门费可抵线下不入门别私信我 互转会回 只回入门口令🧧 kh男滚 已读不回4了骗验证s全家",
+        "id": "2804026250",
+        "location": "只回入门",
+        "name": "困困😴（只回口令）",
+        "pinned_tweet_id": "1956242694935863602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962102030316851200/LBW3tVaH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 47,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 195
+        },
+        "username": "ihsanullah94",
+        "verified": false
+      }
+    ]
+  }
+}

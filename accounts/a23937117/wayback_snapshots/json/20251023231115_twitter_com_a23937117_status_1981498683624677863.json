@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981498677966360576"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1981498683624677863",
+    "created_at": "2025-10-23T23:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T00:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981498683624677863"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/58oEJXKXTn",
+          "end": 69,
+          "expanded_url": "https://x.com/a23937117/status/1981498683624677863/photo/1",
+          "media_key": "3_1981498677966360576",
+          "start": 46,
+          "url": "https://t.co/58oEJXKXTn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981498683624677863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "甚至答的很保守……因为我觉得我有点没招了，所以很多事无所谓了，没关系，我知道我永远都过不去 https://t.co/58oEJXKXTn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1981498683624677863].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1981498683624677863",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1981498683624677863"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1981498677966360576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3-yjJcXUAAMbF3.jpg",
+        "width": 945
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 221,
+          "like_count": 1309,
+          "listed_count": 3,
+          "media_count": 200,
+          "tweet_count": 729
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

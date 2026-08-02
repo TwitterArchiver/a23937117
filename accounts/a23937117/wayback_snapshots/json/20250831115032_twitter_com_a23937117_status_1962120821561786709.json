@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962120821561786709",
+    "created_at": "2025-08-31T11:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T12:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962120821561786709"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 90,
+          "start": 87,
+          "tag": "门槛"
+        },
+        {
+          "end": 95,
+          "start": 91,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 101,
+          "start": 96,
+          "tag": "租借女友"
+        },
+        {
+          "end": 106,
+          "start": 102,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 111,
+          "start": 107,
+          "tag": "江浙沪"
+        },
+        {
+          "end": 117,
+          "start": 112,
+          "tag": "金主爸爸"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1834456857047359488",
+          "start": 3,
+          "username": "yukki20n"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/cyyT0KGt",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/cyyT0KGt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962120821561786709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834621015755816965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yukki20n: 新顶置\n这里是沂沂\n求溺爱求投喂\n来过我🚪我会很开心\n🚪188/288/520\n坐标宁波 江浙沪随机刷新\n我接线下爸爸活\n欢迎女孩子互fo互转呀\n#门槛 #门槛哥 #租借女友 #爸爸活 #江浙沪 #金主爸爸 https://t.co/cyyT0KGt…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962120821561786709].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962120821561786709",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962120821561786709"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1834619352965849088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXXglM-WIAAblyD.jpg",
+        "width": 1266
+      },
+      {
+        "height": 750,
+        "media_key": "3_1834619436256415744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXXgqDQXUAAgRSe.jpg",
+        "width": 574
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1834619436310962176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXXgqDdXoAA2v0l.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834619352965849088",
+            "3_1834619436256415744",
+            "3_1834619436310962176"
+          ]
+        },
+        "author_id": "1834456857047359488",
+        "conversation_id": "1834621015755816965",
+        "created_at": "2024-09-13T15:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T16:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834621015755816965"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "门槛"
+            },
+            {
+              "end": 81,
+              "start": 77,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "租借女友"
+            },
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "金主爸爸"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cyyT0KGtoe",
+              "end": 127,
+              "expanded_url": "https://x.com/yukki20n/status/1834621015755816965/photo/1",
+              "media_key": "3_1834619352965849088",
+              "start": 104,
+              "url": "https://t.co/cyyT0KGtoe"
+            },
+            {
+              "display_url": "pic.x.com/cyyT0KGtoe",
+              "end": 127,
+              "expanded_url": "https://x.com/yukki20n/status/1834621015755816965/photo/1",
+              "media_key": "3_1834619436256415744",
+              "start": 104,
+              "url": "https://t.co/cyyT0KGtoe"
+            },
+            {
+              "display_url": "pic.x.com/cyyT0KGtoe",
+              "end": 127,
+              "expanded_url": "https://x.com/yukki20n/status/1834621015755816965/photo/1",
+              "media_key": "3_1834619436310962176",
+              "start": 104,
+              "url": "https://t.co/cyyT0KGtoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834621015755816965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 87280,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "新顶置\n这里是沂沂\n求溺爱求投喂\n来过我🚪我会很开心\n🚪188/288/520\n坐标宁波 江浙沪随机刷新\n我接线下爸爸活\n欢迎女孩子互fo互转呀\n#门槛 #门槛哥 #租借女友 #爸爸活 #江浙沪 #金主爸爸 https://t.co/cyyT0KGtoe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 208,
+          "like_count": 1136,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 677
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T04:59:43.000Z",
+        "description": "🚪188/288/520",
+        "id": "1834456857047359488",
+        "location": "江浙沪随机刷新",
+        "name": "沂沂",
+        "pinned_tweet_id": "1834621015755816965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834621678275444736/lBU3M_Gd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 97,
+          "like_count": 0,
+          "listed_count": 3,
+          "media_count": 30,
+          "tweet_count": 277
+        },
+        "username": "yukki20n",
+        "verified": false
+      }
+    ]
+  }
+}

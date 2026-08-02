@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955010048293548312",
+    "created_at": "2025-08-11T20:54:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T21:54:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955010048293548312"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 43,
+          "tag": "江浙沪"
+        },
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "门槛"
+        },
+        {
+          "end": 108,
+          "start": 104,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "金主"
+        },
+        {
+          "end": 118,
+          "start": 113,
+          "tag": "电子女友"
+        },
+        {
+          "end": 124,
+          "start": 119,
+          "tag": "电子宠物"
+        },
+        {
+          "end": 129,
+          "start": 125,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 133,
+          "start": 130,
+          "tag": "吃土"
+        },
+        {
+          "end": 138,
+          "start": 134,
+          "tag": "江浙沪"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1746663929076486144",
+          "start": 3,
+          "username": "garrett_krause"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955010048293548312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952652212406227358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @garrett_krause: 我又营业了闺蜜们帮我转转呢🥺\n我是空空，坐标 #江浙沪 ，长期接线下，推发的比较清水喜欢我就过门吧💓\n我不是骗子皮下男盗图欢迎任何方式验证，不过门问价不回复！\n#门槛 #门槛妹 #金主 #电子女友 #电子宠物 #门槛哥 #吃土 #江浙沪…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955010048293548312].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955010048293548312",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955010048293548312"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1952652201412964352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxk21OMasAAyU_X.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1559,
+        "media_key": "3_1952652201412968448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxk21OMawAAVTT5.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1952652201408839680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxk21OLbwAAWH6w.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1991,
+        "media_key": "3_1952652201412939776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxk21OMaUAAw0zH.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952652201412964352",
+            "3_1952652201412968448",
+            "3_1952652201408839680",
+            "3_1952652201412939776"
+          ]
+        },
+        "author_id": "1746663929076486144",
+        "conversation_id": "1952652212406227358",
+        "created_at": "2025-08-05T08:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T09:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952652212406227358"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "门槛"
+            },
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "金主"
+            },
+            {
+              "end": 98,
+              "start": 93,
+              "tag": "电子女友"
+            },
+            {
+              "end": 104,
+              "start": 99,
+              "tag": "电子宠物"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "吃土"
+            },
+            {
+              "end": 118,
+              "start": 114,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "线下"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "4i"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "1i"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "半绿"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "非绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BNMA2gCIR7",
+              "end": 162,
+              "expanded_url": "https://x.com/garrett_krause/status/1952652212406227358/photo/1",
+              "media_key": "3_1952652201412964352",
+              "start": 139,
+              "url": "https://t.co/BNMA2gCIR7"
+            },
+            {
+              "display_url": "pic.x.com/BNMA2gCIR7",
+              "end": 162,
+              "expanded_url": "https://x.com/garrett_krause/status/1952652212406227358/photo/1",
+              "media_key": "3_1952652201412968448",
+              "start": 139,
+              "url": "https://t.co/BNMA2gCIR7"
+            },
+            {
+              "display_url": "pic.x.com/BNMA2gCIR7",
+              "end": 162,
+              "expanded_url": "https://x.com/garrett_krause/status/1952652212406227358/photo/1",
+              "media_key": "3_1952652201408839680",
+              "start": 139,
+              "url": "https://t.co/BNMA2gCIR7"
+            },
+            {
+              "display_url": "pic.x.com/BNMA2gCIR7",
+              "end": 162,
+              "expanded_url": "https://x.com/garrett_krause/status/1952652212406227358/photo/1",
+              "media_key": "3_1952652201412939776",
+              "start": 139,
+              "url": "https://t.co/BNMA2gCIR7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952652212406227358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 19149,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "我又营业了闺蜜们帮我转转呢🥺\n我是空空，坐标 #江浙沪 ，长期接线下，推发的比较清水喜欢我就过门吧💓\n我不是骗子皮下男盗图欢迎任何方式验证，不过门问价不回复！\n#门槛 #门槛妹 #金主 #电子女友 #电子宠物 #门槛哥 #吃土 #江浙沪 #线下 #4i #1i #半绿 #非绿 https://t.co/BNMA2gCIR7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 216,
+          "like_count": 1072,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 529
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T22:42:05.000Z",
+        "description": "🚪188/288/520/1314 不是皮下男支持任何方式免费验证 会按时清互转可以找我重转！",
+        "id": "1746663929076486144",
+        "location": "江浙沪",
+        "name": "地球猫",
+        "pinned_tweet_id": "1952652212406227358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925185560324554752/YxqZ7T0f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 14,
+          "like_count": 29,
+          "listed_count": 7,
+          "media_count": 45,
+          "tweet_count": 154
+        },
+        "username": "garrett_krause",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962520563991097713",
+    "created_at": "2025-09-01T14:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T15:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962520563991097713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1908748515872038915",
+          "start": 3,
+          "username": "yuyuliouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962520563991097713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953126002877710475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuyuliouo: 臭贝贝们我换置顶了😋\n我现实很缺钱 家里生活费全靠我一人承担 \n当然我也会买点qq内衣和好看的小裙子\n欢迎所有来入门找我玩的宝宝❤️\n只收口令和赞赞码付款（口令发我后带上自己的联系方式）\n欢迎宝宝们找我互fo互转呀！\n5888可以分期！ https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953125986306015232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxrlvIdawAAd28-.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1953125986247294976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxrlvIPawAAJZYz.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1953125986364780544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxrlvIrbcAAU1I1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1962520563991097713",
+        "created_at": "2025-09-01T14:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T15:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962520563991097713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1908748515872038915",
+              "start": 3,
+              "username": "yuyuliouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962520563991097713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953126002877710475",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuyuliouo: 臭贝贝们我换置顶了😋\n我现实很缺钱 家里生活费全靠我一人承担 \n当然我也会买点qq内衣和好看的小裙子\n欢迎所有来入门找我玩的宝宝❤️\n只收口令和赞赞码付款（口令发我后带上自己的联系方式）\n欢迎宝宝们找我互fo互转呀！\n5888可以分期！ https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953125986306015232",
+            "3_1953125986247294976",
+            "3_1953125986364780544"
+          ]
+        },
+        "author_id": "1908748515872038915",
+        "conversation_id": "1953126002877710475",
+        "created_at": "2025-08-06T16:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T17:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953126002877710475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EpgLEFcSxb",
+              "end": 142,
+              "expanded_url": "https://x.com/yuyuliouo/status/1953126002877710475/photo/1",
+              "media_key": "3_1953125986306015232",
+              "start": 119,
+              "url": "https://t.co/EpgLEFcSxb"
+            },
+            {
+              "display_url": "pic.x.com/EpgLEFcSxb",
+              "end": 142,
+              "expanded_url": "https://x.com/yuyuliouo/status/1953126002877710475/photo/1",
+              "media_key": "3_1953125986247294976",
+              "start": 119,
+              "url": "https://t.co/EpgLEFcSxb"
+            },
+            {
+              "display_url": "pic.x.com/EpgLEFcSxb",
+              "end": 142,
+              "expanded_url": "https://x.com/yuyuliouo/status/1953126002877710475/photo/1",
+              "media_key": "3_1953125986364780544",
+              "start": 119,
+              "url": "https://t.co/EpgLEFcSxb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953126002877710475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 27471,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "臭贝贝们我换置顶了😋\n我现实很缺钱 家里生活费全靠我一人承担 \n当然我也会买点qq内衣和好看的小裙子\n欢迎所有来入门找我玩的宝宝❤️\n只收口令和赞赞码付款（口令发我后带上自己的联系方式）\n欢迎宝宝们找我互fo互转呀！\n5888可以分期！ https://t.co/EpgLEFcSxb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 211,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 669
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T05:08:13.000Z",
+        "description": "这里是纸条 此女子很可怜 每天都过着苦逼生活 希望有门槛哥入门改善我的苦逼日常 坐标10验证20 不入门别私信了",
+        "id": "1908748515872038915",
+        "location": "入门➕tg",
+        "name": "纸条",
+        "pinned_tweet_id": "1953126002877710475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961693975800369152/9p4BYdDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 158,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 278
+        },
+        "username": "yuyuliouo",
+        "verified": false
+      }
+    ]
+  }
+}

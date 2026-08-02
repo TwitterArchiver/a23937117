@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2045342164045926739",
+    "created_at": "2026-04-18T03:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T04:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045342164045926739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1830184066475511808",
+          "start": 3,
+          "username": "Lilianrui407"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045342164045926739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043498968433459563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lilianrui407: 08女高中生重生回来做爸爸活~想要精神陪伴可以找我呀，本人话多温柔，\n我会宠爱每一个过我🚪的哥哥！还会珍惜每一位过门对我好的哥哥~p3是以往过🚪记录！\n可语音验证，暂时不线下~p1，2是以往的图包和本人的入门记录\n入🚪可享全部图包＋瑟瑟视频…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043498961663897600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFv3eozbMAACtDT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043498961651343360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFv3eowboAA9_um.jpg",
+        "width": 1172
+      },
+      {
+        "height": 1921,
+        "media_key": "3_2043498961705832448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFv3eo9bEAAMy6E.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2045342164045926739",
+        "created_at": "2026-04-18T03:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045342164045926739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1830184066475511808",
+              "start": 3,
+              "username": "Lilianrui407"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045342164045926739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043498968433459563",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lilianrui407: 08女高中生重生回来做爸爸活~想要精神陪伴可以找我呀，本人话多温柔，\n我会宠爱每一个过我🚪的哥哥！还会珍惜每一位过门对我好的哥哥~p3是以往过🚪记录！\n可语音验证，暂时不线下~p1，2是以往的图包和本人的入门记录\n入🚪可享全部图包＋瑟瑟视频…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043498961663897600",
+            "3_2043498961651343360",
+            "3_2043498961705832448"
+          ]
+        },
+        "author_id": "1830184066475511808",
+        "conversation_id": "2043498968433459563",
+        "created_at": "2026-04-13T01:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T02:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043498968433459563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ud8L1yP1FR",
+              "end": 170,
+              "expanded_url": "https://x.com/lilei20023/status/2043498968433459563/photo/1",
+              "media_key": "3_2043498961663897600",
+              "start": 147,
+              "url": "https://t.co/Ud8L1yP1FR"
+            },
+            {
+              "display_url": "pic.x.com/Ud8L1yP1FR",
+              "end": 170,
+              "expanded_url": "https://x.com/lilei20023/status/2043498968433459563/photo/1",
+              "media_key": "3_2043498961651343360",
+              "start": 147,
+              "url": "https://t.co/Ud8L1yP1FR"
+            },
+            {
+              "display_url": "pic.x.com/Ud8L1yP1FR",
+              "end": 170,
+              "expanded_url": "https://x.com/lilei20023/status/2043498968433459563/photo/1",
+              "media_key": "3_2043498961705832448",
+              "start": 147,
+              "url": "https://t.co/Ud8L1yP1FR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043498968433459563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 26026,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "08女高中生重生回来做爸爸活~想要精神陪伴可以找我呀，本人话多温柔，\n我会宠爱每一个过我🚪的哥哥！还会珍惜每一位过门对我好的哥哥~p3是以往过🚪记录！\n可语音验证，暂时不线下~p1，2是以往的图包和本人的入门记录\n入🚪可享全部图包＋瑟瑟视频\n每周更新3次图包，门槛越高更新越快越多哦，每天聊天 https://t.co/Ud8L1yP1FR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 203,
+          "like_count": 1406,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 691
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T10:01:13.000Z",
+        "description": "08 163 43kg芮芮临期女高\n可语音验证可接定制（不过分的）可接原味\n过🚪口令红包＋姓＋lxfs＋截图\n我会宠爱每一个对我好的哥哥   不接线下哦",
+        "id": "1830184066475511808",
+        "location": "🚪88/188/320/520/1314",
+        "name": "芮芮Sa",
+        "pinned_tweet_id": "2043498968433459563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043517328831524864/7FKBdVlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 52,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 122
+        },
+        "username": "Lilianrui407",
+        "verified": false
+      }
+    ]
+  }
+}

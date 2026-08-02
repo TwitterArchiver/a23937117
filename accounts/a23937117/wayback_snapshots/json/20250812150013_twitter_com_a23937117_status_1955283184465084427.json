@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952735948707688448",
+        "3_1952735948703444992",
+        "3_1952735948703469568",
+        "3_1952735948732768256"
+      ],
+      "media_source_tweet_id": [
+        "1952735996270817433",
+        "1952735996270817433",
+        "1952735996270817433",
+        "1952735996270817433"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955283184465084427",
+    "created_at": "2025-08-12T15:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T16:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955283184465084427"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 41,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 50,
+          "start": 46,
+          "tag": "江浙沪"
+        },
+        {
+          "end": 54,
+          "start": 51,
+          "tag": "门槛"
+        },
+        {
+          "end": 58,
+          "start": 55,
+          "tag": "缺钱"
+        },
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "金主"
+        },
+        {
+          "end": 67,
+          "start": 63,
+          "tag": "爸爸活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1940006941092106240",
+          "start": 3,
+          "username": "mfy31651576"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FRIaJPuSx6",
+          "end": 91,
+          "expanded_url": "https://x.com/mfy31651576/status/1952735996270817433/photo/1",
+          "media_key": "3_1952735948707688448",
+          "start": 68,
+          "url": "https://t.co/FRIaJPuSx6"
+        },
+        {
+          "display_url": "pic.x.com/FRIaJPuSx6",
+          "end": 91,
+          "expanded_url": "https://x.com/mfy31651576/status/1952735996270817433/photo/1",
+          "media_key": "3_1952735948703444992",
+          "start": 68,
+          "url": "https://t.co/FRIaJPuSx6"
+        },
+        {
+          "display_url": "pic.x.com/FRIaJPuSx6",
+          "end": 91,
+          "expanded_url": "https://x.com/mfy31651576/status/1952735996270817433/photo/1",
+          "media_key": "3_1952735948703469568",
+          "start": 68,
+          "url": "https://t.co/FRIaJPuSx6"
+        },
+        {
+          "display_url": "pic.x.com/FRIaJPuSx6",
+          "end": 91,
+          "expanded_url": "https://x.com/mfy31651576/status/1952735996270817433/photo/1",
+          "media_key": "3_1952735948732768256",
+          "start": 68,
+          "url": "https://t.co/FRIaJPuSx6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955283184465084427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952735996270817433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mfy31651576: 我又转生了 麻烦前世互关的宝宝们帮我转一下TT #门槛妹 #江浙沪 #门槛 #缺钱 #金主 #爸爸活 https://t.co/FRIaJPuSx6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1383,
+        "media_key": "3_1952735948707688448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxmC_9LbcAA4GvU.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1952735948703444992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxmC_9KasAAkKhL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1952735948703469568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxmC_9KbEAAfqZI.jpg",
+        "width": 864
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1952735948732768256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxmC_9RaIAAbLX5.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952735948707688448",
+            "3_1952735948703444992",
+            "3_1952735948703469568",
+            "3_1952735948732768256"
+          ],
+          "media_source_tweet_id": [
+            "1952735996270817433",
+            "1952735996270817433",
+            "1952735996270817433",
+            "1952735996270817433"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "1955283184465084427",
+        "created_at": "2025-08-12T15:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T16:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955283184465084427"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "门槛"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "缺钱"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "金主"
+            },
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "爸爸活"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1940006941092106240",
+              "start": 3,
+              "username": "mfy31651576"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRIaJPuSx6",
+              "end": 91,
+              "expanded_url": "https://x.com/mfy31651576/status/1952735996270817433/photo/1",
+              "media_key": "3_1952735948707688448",
+              "start": 68,
+              "url": "https://t.co/FRIaJPuSx6"
+            },
+            {
+              "display_url": "pic.x.com/FRIaJPuSx6",
+              "end": 91,
+              "expanded_url": "https://x.com/mfy31651576/status/1952735996270817433/photo/1",
+              "media_key": "3_1952735948703444992",
+              "start": 68,
+              "url": "https://t.co/FRIaJPuSx6"
+            },
+            {
+              "display_url": "pic.x.com/FRIaJPuSx6",
+              "end": 91,
+              "expanded_url": "https://x.com/mfy31651576/status/1952735996270817433/photo/1",
+              "media_key": "3_1952735948703469568",
+              "start": 68,
+              "url": "https://t.co/FRIaJPuSx6"
+            },
+            {
+              "display_url": "pic.x.com/FRIaJPuSx6",
+              "end": 91,
+              "expanded_url": "https://x.com/mfy31651576/status/1952735996270817433/photo/1",
+              "media_key": "3_1952735948732768256",
+              "start": 68,
+              "url": "https://t.co/FRIaJPuSx6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955283184465084427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952735996270817433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mfy31651576: 我又转生了 麻烦前世互关的宝宝们帮我转一下TT #门槛妹 #江浙沪 #门槛 #缺钱 #金主 #爸爸活 https://t.co/FRIaJPuSx6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952735948707688448",
+            "3_1952735948703444992",
+            "3_1952735948703469568",
+            "3_1952735948732768256"
+          ]
+        },
+        "author_id": "1940006941092106240",
+        "conversation_id": "1952735996270817433",
+        "created_at": "2025-08-05T14:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T15:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952735996270817433"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "门槛"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "缺钱"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "金主"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRIaJPuSx6",
+              "end": 74,
+              "expanded_url": "https://x.com/mfy31651576/status/1952735996270817433/photo/1",
+              "media_key": "3_1952735948707688448",
+              "start": 51,
+              "url": "https://t.co/FRIaJPuSx6"
+            },
+            {
+              "display_url": "pic.x.com/FRIaJPuSx6",
+              "end": 74,
+              "expanded_url": "https://x.com/mfy31651576/status/1952735996270817433/photo/1",
+              "media_key": "3_1952735948703444992",
+              "start": 51,
+              "url": "https://t.co/FRIaJPuSx6"
+            },
+            {
+              "display_url": "pic.x.com/FRIaJPuSx6",
+              "end": 74,
+              "expanded_url": "https://x.com/mfy31651576/status/1952735996270817433/photo/1",
+              "media_key": "3_1952735948703469568",
+              "start": 51,
+              "url": "https://t.co/FRIaJPuSx6"
+            },
+            {
+              "display_url": "pic.x.com/FRIaJPuSx6",
+              "end": 74,
+              "expanded_url": "https://x.com/mfy31651576/status/1952735996270817433/photo/1",
+              "media_key": "3_1952735948732768256",
+              "start": 51,
+              "url": "https://t.co/FRIaJPuSx6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952735996270817433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3496,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我又转生了 麻烦前世互关的宝宝们帮我转一下TT #门槛妹 #江浙沪 #门槛 #缺钱 #金主 #爸爸活 https://t.co/FRIaJPuSx6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 230,
+          "like_count": 1078,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 563
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T11:18:08.000Z",
+        "description": "坐标江浙沪",
+        "id": "1940006941092106240",
+        "name": "内绪",
+        "pinned_tweet_id": "1952735996270817433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952700131893272577/TnN8tsGv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 29
+        },
+        "username": "mfy31651576",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1982772400115871974",
+    "created_at": "2025-10-29T15:17:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T16:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983553880056356925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1883491513206034432",
+          "start": 0,
+          "username": "Maverickssurr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983553880056356925",
+    "in_reply_to_user_id": "1883491513206034432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982772400115871974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maverickssurr 穿过膝袜最瑟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1982772400115871974",
+        "created_at": "2025-10-29T15:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T16:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983553880056356925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1883491513206034432",
+              "start": 0,
+              "username": "Maverickssurr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983553880056356925",
+        "in_reply_to_user_id": "1883491513206034432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982772400115871974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maverickssurr 穿过膝袜最瑟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883491513206034432",
+        "conversation_id": "1982772400115871974",
+        "created_at": "2025-10-27T11:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T12:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982772400115871974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982772400115871974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14469,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "超级喜欢do的时候对方只穿穿袜子\n感觉比全裸色多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 220,
+          "like_count": 1326,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 746
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-26T12:26:51.000Z",
+        "description": "这个人又凶又饥渴 🚪52/88 大号@mavericks_surr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "mavericks_surr"
+              }
+            ]
+          }
+        },
+        "id": "1883491513206034432",
+        "location": "shandong",
+        "name": "水仙",
+        "pinned_tweet_id": "1969338276159815722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981031537232535554/GBXm87fA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7028,
+          "following_count": 151,
+          "like_count": 1556,
+          "listed_count": 13,
+          "media_count": 30,
+          "tweet_count": 441
+        },
+        "username": "Maverickssurr",
+        "verified": false
+      }
+    ]
+  }
+}

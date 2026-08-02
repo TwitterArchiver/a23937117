@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1954985003332358272",
+    "created_at": "2025-08-11T19:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T20:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954985003332358272"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "线下"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "御萝"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "白虎"
+        },
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "视频"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "福利"
+        },
+        {
+          "end": 120,
+          "start": 115,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "包养"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "定制"
+        },
+        {
+          "end": 134,
+          "start": 129,
+          "tag": "女友系列"
+        },
+        {
+          "end": 139,
+          "start": 135,
+          "tag": "cos"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1925431326196604929",
+          "start": 3,
+          "username": "yangyangbbw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954985003332358272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925465980861653251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yangyangbbw: 小🐑过🚪投喂指南（≧∇≦）\n\n感谢想要过门的主人耐心看完\n接线下，可全国✈️\n过🚪会发私密福利 可视频验证\n做主人的白虎小🐶\n超级乖保证可以愉快的线下约会\n#线下 #御萝 #白虎 #视频 #福利 #金主爸爸 #包养 #定制 #女友系列 #cos…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954985003332358272].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954985003332358272",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954985003332358272"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 633,
+        "media_key": "3_1925465968870047744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrihGN2aQAAYckU.jpg",
+        "width": 750
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1925465968878526468",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrihGN4boAQhkWX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925465968870047744",
+            "3_1925465968878526468"
+          ]
+        },
+        "author_id": "1925431326196604929",
+        "conversation_id": "1925465980861653251",
+        "created_at": "2025-05-22T08:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T09:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925465980861653251"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "线下"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "御萝"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "白虎"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "视频"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "福利"
+            },
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "包养"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "定制"
+            },
+            {
+              "end": 117,
+              "start": 112,
+              "tag": "女友系列"
+            },
+            {
+              "end": 122,
+              "start": 118,
+              "tag": "cos"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "原味"
+            },
+            {
+              "end": 131,
+              "start": 127,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H1wW5AZ5fB",
+              "end": 155,
+              "expanded_url": "https://x.com/yangyangbbw/status/1925465980861653251/photo/1",
+              "media_key": "3_1925465968870047744",
+              "start": 132,
+              "url": "https://t.co/H1wW5AZ5fB"
+            },
+            {
+              "display_url": "pic.x.com/H1wW5AZ5fB",
+              "end": 155,
+              "expanded_url": "https://x.com/yangyangbbw/status/1925465980861653251/photo/1",
+              "media_key": "3_1925465968878526468",
+              "start": 132,
+              "url": "https://t.co/H1wW5AZ5fB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925465980861653251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 56270,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "小🐑过🚪投喂指南（≧∇≦）\n\n感谢想要过门的主人耐心看完\n接线下，可全国✈️\n过🚪会发私密福利 可视频验证\n做主人的白虎小🐶\n超级乖保证可以愉快的线下约会\n#线下 #御萝 #白虎 #视频 #福利 #金主爸爸 #包养 #定制 #女友系列 #cos #原味 #门槛妹 https://t.co/H1wW5AZ5fB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 195,
+          "like_count": 1061,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 502
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-22T05:59:43.000Z",
+        "description": "我大一，很缺钱，接爸爸活，希望多多支持🥺🥺",
+        "id": "1925431326196604929",
+        "location": "坐标20～",
+        "name": "小羊",
+        "pinned_tweet_id": "1925465980861653251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925463483694698496/5oVagORv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 20,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 251
+        },
+        "username": "yangyangbbw",
+        "verified": false
+      }
+    ]
+  }
+}

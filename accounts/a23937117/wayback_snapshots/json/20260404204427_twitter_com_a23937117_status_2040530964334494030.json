@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040530956604329984",
+        "3_2040530956633665536",
+        "3_2040530956616929280"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2040530964334494030",
+    "created_at": "2026-04-04T20:44:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T21:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040530964334494030"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "烟代"
+        },
+        {
+          "end": 34,
+          "start": 32,
+          "tag": "烟"
+        },
+        {
+          "end": 38,
+          "start": 35,
+          "tag": "抽奖"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CzX4ddsJdp",
+          "end": 62,
+          "expanded_url": "https://x.com/a23937117/status/2040530964334494030/photo/1",
+          "media_key": "3_2040530956604329984",
+          "start": 39,
+          "url": "https://t.co/CzX4ddsJdp"
+        },
+        {
+          "display_url": "pic.x.com/CzX4ddsJdp",
+          "end": 62,
+          "expanded_url": "https://x.com/a23937117/status/2040530964334494030/photo/1",
+          "media_key": "3_2040530956633665536",
+          "start": 39,
+          "url": "https://t.co/CzX4ddsJdp"
+        },
+        {
+          "display_url": "pic.x.com/CzX4ddsJdp",
+          "end": 62,
+          "expanded_url": "https://x.com/a23937117/status/2040530964334494030/photo/1",
+          "media_key": "3_2040530956616929280",
+          "start": 39,
+          "url": "https://t.co/CzX4ddsJdp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040530964334494030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中奖的宝宝尽快给我发送收货信息哦，不然视为自动放弃~\n\n#烟代 #烟 #抽奖 https://t.co/CzX4ddsJdp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040530956604329984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFFsGAWW0AABkla.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040530956633665536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFFsGAdWcAAdno_.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040530956616929280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFFsGAZXEAAoMyF.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040530956604329984",
+            "3_2040530956633665536",
+            "3_2040530956616929280"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2040530964334494030",
+        "created_at": "2026-04-04T20:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T21:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040530964334494030"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "烟代"
+            },
+            {
+              "end": 34,
+              "start": 32,
+              "tag": "烟"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "抽奖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CzX4ddsJdp",
+              "end": 62,
+              "expanded_url": "https://x.com/a23937117/status/2040530964334494030/photo/1",
+              "media_key": "3_2040530956604329984",
+              "start": 39,
+              "url": "https://t.co/CzX4ddsJdp"
+            },
+            {
+              "display_url": "pic.x.com/CzX4ddsJdp",
+              "end": 62,
+              "expanded_url": "https://x.com/a23937117/status/2040530964334494030/photo/1",
+              "media_key": "3_2040530956633665536",
+              "start": 39,
+              "url": "https://t.co/CzX4ddsJdp"
+            },
+            {
+              "display_url": "pic.x.com/CzX4ddsJdp",
+              "end": 62,
+              "expanded_url": "https://x.com/a23937117/status/2040530964334494030/photo/1",
+              "media_key": "3_2040530956616929280",
+              "start": 39,
+              "url": "https://t.co/CzX4ddsJdp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040530964334494030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中奖的宝宝尽快给我发送收货信息哦，不然视为自动放弃~\n\n#烟代 #烟 #抽奖 https://t.co/CzX4ddsJdp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 204,
+          "like_count": 1397,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 686
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

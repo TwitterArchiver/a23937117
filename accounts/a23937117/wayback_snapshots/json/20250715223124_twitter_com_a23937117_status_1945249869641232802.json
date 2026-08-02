@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1943131469569737165",
+    "created_at": "2025-07-15T22:31:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T23:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945249869641232802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1751490018756231168",
+          "start": 0,
+          "username": "qwqwqo3o"
+        },
+        {
+          "end": 18,
+          "id": "1780857531214270464",
+          "start": 10,
+          "username": "0Aguiri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945249869641232802",
+    "in_reply_to_user_id": "1751490018756231168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943131469569737165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwqwqo3o @0Aguiri 好萌好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1290,
+        "media_key": "3_1943131460669788160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvdjxLEb0AAKjMj.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1943131460640342016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvdjxK9agAAQb8E.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1943131469569737165",
+        "created_at": "2025-07-15T22:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T23:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945249869641232802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1751490018756231168",
+              "start": 0,
+              "username": "qwqwqo3o"
+            },
+            {
+              "end": 18,
+              "id": "1780857531214270464",
+              "start": 10,
+              "username": "0Aguiri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945249869641232802",
+        "in_reply_to_user_id": "1751490018756231168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943131469569737165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwqwqo3o @0Aguiri 好萌好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943131460669788160",
+            "3_1943131460640342016"
+          ]
+        },
+        "author_id": "1751490018756231168",
+        "conversation_id": "1943131469569737165",
+        "created_at": "2025-07-10T02:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T03:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943131469569737165"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "门槛"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 120,
+              "start": 116,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 126,
+              "start": 121,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 132,
+              "start": 128,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 143,
+              "start": 138,
+              "tag": "女高中生"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "陪聊"
+            },
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "包养"
+            },
+            {
+              "end": 156,
+              "start": 152,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 164,
+              "start": 157,
+              "tag": "ATM打钱奴"
+            },
+            {
+              "end": 169,
+              "start": 166,
+              "tag": "金主"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IzPqmYqgw6",
+              "end": 193,
+              "expanded_url": "https://x.com/qwqwqo3o/status/1943131469569737165/photo/1",
+              "media_key": "3_1943131460669788160",
+              "start": 170,
+              "url": "https://t.co/IzPqmYqgw6"
+            },
+            {
+              "display_url": "pic.x.com/IzPqmYqgw6",
+              "end": 193,
+              "expanded_url": "https://x.com/qwqwqo3o/status/1943131469569737165/photo/1",
+              "media_key": "3_1943131460640342016",
+              "start": 170,
+              "url": "https://t.co/IzPqmYqgw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943131469569737165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 17110,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "爸爸们好 我是小静又重生啦  \n前世2k粉 遭贱人暗算！\n05女大休学在家 接爸爸活 半绿 非绿 \n过🚪仔细看p1 欢迎金主爸爸们过🚪\n关注转发点赞 抽88 x2 52 x2\n🈵1000fo开 欢迎宝宝互转互fo #门槛 #门槛哥 #门槛姐 #金主爸爸  #爸爸活 #门槛妹 #女高中生 #陪聊 #包养 #妈妈活 #ATM打钱奴  #金主 https://t.co/IzPqmYqgw6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1944721626525761843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 160,
+          "like_count": 936,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 335
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T06:19:08.000Z",
+        "description": "不是皮下男 防骗验证所以验证20r",
+        "id": "1751490018756231168",
+        "location": "20r支付宝口令",
+        "name": "静qwq",
+        "pinned_tweet_id": "1943131469569737165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943131624440217600/3plLyETe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 7,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 44
+        },
+        "username": "qwqwqo3o",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T07:15:36.000Z",
+        "description": "",
+        "id": "1780857531214270464",
+        "name": "小涵2.0",
+        "pinned_tweet_id": "1796916322107851247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796841216652226560/rvKUWDRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 75,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 200
+        },
+        "username": "0Aguiri",
+        "verified": false
+      }
+    ]
+  }
+}

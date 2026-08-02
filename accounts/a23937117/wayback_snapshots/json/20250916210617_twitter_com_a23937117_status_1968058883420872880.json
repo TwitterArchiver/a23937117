@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967298036343721984"
+      ],
+      "media_source_tweet_id": [
+        "1967358196223512595"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1968058883420872880",
+    "created_at": "2025-09-16T21:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T22:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968058883420872880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1261847754931830785",
+          "start": 3,
+          "username": "168viewss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S7xlKef799",
+          "end": 38,
+          "expanded_url": "https://x.com/168viewss/status/1967358196223512595/photo/1",
+          "media_key": "3_1967298036343721984",
+          "start": 15,
+          "url": "https://t.co/S7xlKef799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968058883420872880",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2458
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967358196223512595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @168viewss: https://t.co/S7xlKef799"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1967298036343721984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G00_JA-XUAAV0JR.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967298036343721984"
+          ],
+          "media_source_tweet_id": [
+            "1967358196223512595"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "1968058883420872880",
+        "created_at": "2025-09-16T21:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T22:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968058883420872880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1261847754931830785",
+              "start": 3,
+              "username": "168viewss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S7xlKef799",
+              "end": 38,
+              "expanded_url": "https://x.com/168viewss/status/1967358196223512595/photo/1",
+              "media_key": "3_1967298036343721984",
+              "start": 15,
+              "url": "https://t.co/S7xlKef799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968058883420872880",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2458
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967358196223512595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @168viewss: https://t.co/S7xlKef799"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967298036343721984"
+          ]
+        },
+        "author_id": "1261847754931830785",
+        "conversation_id": "1967358196223512595",
+        "created_at": "2025-09-14T22:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T23:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967358196223512595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S7xlKef799",
+              "end": 23,
+              "expanded_url": "https://x.com/168viewss/status/1967358196223512595/photo/1",
+              "media_key": "3_1967298036343721984",
+              "start": 0,
+              "url": "https://t.co/S7xlKef799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967358196223512595",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1469,
+          "impression_count": 595508,
+          "like_count": 13556,
+          "quote_count": 163,
+          "reply_count": 83,
+          "retweet_count": 2458
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/S7xlKef799"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 不收🚪—谈恋爱了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 214,
+          "like_count": 1203,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 668
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-17T02:35:36.000Z",
+        "description": "",
+        "id": "1261847754931830785",
+        "name": "168",
+        "pinned_tweet_id": "1954952880622080393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954709776836730880/WVZ4q8lY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106450,
+          "following_count": 10,
+          "like_count": 1289,
+          "listed_count": 1937,
+          "media_count": 172,
+          "tweet_count": 196
+        },
+        "username": "168viewss",
+        "verified": true
+      }
+    ]
+  }
+}

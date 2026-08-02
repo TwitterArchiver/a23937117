@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970107639419015168",
+        "3_1970107639318360064"
+      ],
+      "media_source_tweet_id": [
+        "1970107646733902235",
+        "1970107646733902235"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1972762504582574422",
+    "created_at": "2025-09-29T20:36:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T21:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972762504582574422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1115809099482980353",
+          "start": 3,
+          "username": "DKR_World"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3iuSGcXZZM",
+          "end": 50,
+          "expanded_url": "https://x.com/DKR_World/status/1970107646733902235/photo/1",
+          "media_key": "3_1970107639419015168",
+          "start": 27,
+          "url": "https://t.co/3iuSGcXZZM"
+        },
+        {
+          "display_url": "pic.x.com/3iuSGcXZZM",
+          "end": 50,
+          "expanded_url": "https://x.com/DKR_World/status/1970107646733902235/photo/1",
+          "media_key": "3_1970107639318360064",
+          "start": 27,
+          "url": "https://t.co/3iuSGcXZZM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972762504582574422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970107646733902235",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DKR_World: 希望大家能關照一下…… https://t.co/3iuSGcXZZM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1972762504582574422].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1972762504582574422",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1972762504582574422"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1115,
+        "media_key": "3_1970107639419015168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1c6dcDakAAl_cY.jpg",
+        "width": 1178
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1970107639318360064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1c6dbrasAAdPl1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970107639419015168",
+            "3_1970107639318360064"
+          ]
+        },
+        "author_id": "1115809099482980353",
+        "conversation_id": "1970107646733902235",
+        "created_at": "2025-09-22T12:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T13:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970107646733902235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3iuSGcXZZM",
+              "end": 35,
+              "expanded_url": "https://x.com/DKR_World/status/1970107646733902235/photo/1",
+              "media_key": "3_1970107639419015168",
+              "start": 12,
+              "url": "https://t.co/3iuSGcXZZM"
+            },
+            {
+              "display_url": "pic.x.com/3iuSGcXZZM",
+              "end": 35,
+              "expanded_url": "https://x.com/DKR_World/status/1970107646733902235/photo/1",
+              "media_key": "3_1970107639318360064",
+              "start": 12,
+              "url": "https://t.co/3iuSGcXZZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970107646733902235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7094,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "希望大家能關照一下…… https://t.co/3iuSGcXZZM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88—谈恋爱了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 215,
+          "like_count": 1254,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 694
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-10T02:49:54.000Z",
+        "description": "自我破壊と相互扶助の連帯の集団の下で、短命なコミューンを築こう！ 最後の指令：すべてと一緒に滅びろ。これは革命家と彼女の恋愛だ。◆🚪101",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dkr71262",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dkr71262",
+                "start": 0,
+                "url": "https://t.co/mvmC2vTXvo"
+              }
+            ]
+          }
+        },
+        "id": "1115809099482980353",
+        "location": "東京精神暴動支部",
+        "name": "◎東アジア躁鬱革委會",
+        "pinned_tweet_id": "1970107646733902235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971677200358502400/1oSdHM4m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 585,
+          "like_count": 25960,
+          "listed_count": 8,
+          "media_count": 365,
+          "tweet_count": 4336
+        },
+        "url": "https://t.co/mvmC2vTXvo",
+        "username": "DKR_World",
+        "verified": false
+      }
+    ]
+  }
+}

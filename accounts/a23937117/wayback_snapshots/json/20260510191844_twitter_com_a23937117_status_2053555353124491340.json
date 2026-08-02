@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053555353124491340",
+    "created_at": "2026-05-10T19:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T20:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053555353124491340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1775496744446685184",
+          "start": 3,
+          "username": "DianOdette64518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053555353124491340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042298597866438948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DianOdette64518: 瑶瑶大王来噜‼️  坐标广东\n家里没钱让我上大学 所以高中毕业就出社会了 爸爸妈妈都不管我 自己一个人在外面流浪.. \n下海就是因为想有个家 求老公们小小地助力窝会特别感谢 灰常真实的女推\n可验证！可验证！可验证！验证20\n 不骗验证费…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042298582301351936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFezvXNbIAAdCfd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1023,
+        "media_key": "3_2042298582318137346",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFezvXRbQAIiOqy.jpg",
+        "width": 853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2053555353124491340",
+        "created_at": "2026-05-10T19:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T20:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053555353124491340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1775496744446685184",
+              "start": 3,
+              "username": "DianOdette64518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053555353124491340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042298597866438948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DianOdette64518: 瑶瑶大王来噜‼️  坐标广东\n家里没钱让我上大学 所以高中毕业就出社会了 爸爸妈妈都不管我 自己一个人在外面流浪.. \n下海就是因为想有个家 求老公们小小地助力窝会特别感谢 灰常真实的女推\n可验证！可验证！可验证！验证20\n 不骗验证费…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042298582301351936",
+            "3_2042298582318137346"
+          ]
+        },
+        "author_id": "1775496744446685184",
+        "conversation_id": "2042298597866438948",
+        "created_at": "2026-04-09T17:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042298597866438948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UzSVrwwgxL",
+              "end": 165,
+              "expanded_url": "https://x.com/DianOdette64518/status/2042298597866438948/photo/1",
+              "media_key": "3_2042298582301351936",
+              "start": 142,
+              "url": "https://t.co/UzSVrwwgxL"
+            },
+            {
+              "display_url": "pic.x.com/UzSVrwwgxL",
+              "end": 165,
+              "expanded_url": "https://x.com/DianOdette64518/status/2042298597866438948/photo/1",
+              "media_key": "3_2042298582318137346",
+              "start": 142,
+              "url": "https://t.co/UzSVrwwgxL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042298597866438948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4771,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "瑶瑶大王来噜‼️  坐标广东\n家里没钱让我上大学 所以高中毕业就出社会了 爸爸妈妈都不管我 自己一个人在外面流浪.. \n下海就是因为想有个家 求老公们小小地助力窝会特别感谢 灰常真实的女推\n可验证！可验证！可验证！验证20\n 不骗验证费不骗钱跑路很真诚\n求可爱的女宝老婆萌互fo互转 https://t.co/UzSVrwwgxL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 202,
+          "like_count": 1405,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 743
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T12:13:18.000Z",
+        "description": "老公我在这里！",
+        "id": "1775496744446685184",
+        "location": "🚪88/188/288/520/1314",
+        "name": "除了发呆什么事都好难",
+        "pinned_tweet_id": "2042298597866438948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040680930940157952/EI3z_e9q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 14,
+          "like_count": 1,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 99
+        },
+        "username": "DianOdette64518",
+        "verified": false
+      }
+    ]
+  }
+}

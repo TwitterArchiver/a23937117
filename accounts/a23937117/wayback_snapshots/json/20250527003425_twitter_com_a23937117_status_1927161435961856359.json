@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1927161435961856359",
+    "created_at": "2025-05-27T00:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T01:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927161435961856359"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1927161435961856359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不想和男的做了，泡友时间短，男朋友技术差，都不如我自己小玩具来一发，就是手好酸……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1927161435961856359",
+        "created_at": "2025-05-27T00:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T01:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927161435961856359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927161435961856359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不想和男的做了，泡友时间短，男朋友技术差，都不如我自己小玩具来一发，就是手好酸……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "讨厌我的人有福了 因为我真的过的很惨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 105,
+          "like_count": 683,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 74
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

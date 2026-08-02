@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1954985970060632462",
+    "created_at": "2025-08-11T19:19:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T20:19:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954985970060632462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1915705588731858944",
+          "start": 3,
+          "username": "XTpeach00002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954985970060632462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943861336645284174",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XTpeach00002: 🔝这里是一个置顶~\n课表图1过门请看\n🚪52 88 128 188 300 520\n坐标10R\n不看置顶图1私信问价的，发自己坐标的拉黑\n线下666纯绿3h\n 888半绿3h（可口可足可手）\n1314非绿3h（重口暴力达咩）\n欢迎互fo互转~…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954985970060632462].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954985970060632462",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954985970060632462"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1943861320400744449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvn7kmcbsAE9ony.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1943861331901161472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvn7lRSWIAAs91Z.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1156,
+        "media_key": "3_1943861295993794560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvn7jLhXMAAFafu.jpg",
+        "width": 633
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943861320400744449",
+            "3_1943861331901161472",
+            "3_1943861295993794560"
+          ]
+        },
+        "author_id": "1915705588731858944",
+        "conversation_id": "1943861336645284174",
+        "created_at": "2025-07-12T02:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T03:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943861336645284174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O0r47YOxsn",
+              "end": 170,
+              "expanded_url": "https://x.com/XTpeach00002/status/1943861336645284174/photo/1",
+              "media_key": "3_1943861320400744449",
+              "start": 147,
+              "url": "https://t.co/O0r47YOxsn"
+            },
+            {
+              "display_url": "pic.x.com/O0r47YOxsn",
+              "end": 170,
+              "expanded_url": "https://x.com/XTpeach00002/status/1943861336645284174/photo/1",
+              "media_key": "3_1943861331901161472",
+              "start": 147,
+              "url": "https://t.co/O0r47YOxsn"
+            },
+            {
+              "display_url": "pic.x.com/O0r47YOxsn",
+              "end": 170,
+              "expanded_url": "https://x.com/XTpeach00002/status/1943861336645284174/photo/1",
+              "media_key": "3_1943861295993794560",
+              "start": 147,
+              "url": "https://t.co/O0r47YOxsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943861336645284174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 26958,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "🔝这里是一个置顶~\n课表图1过门请看\n🚪52 88 128 188 300 520\n坐标10R\n不看置顶图1私信问价的，发自己坐标的拉黑\n线下666纯绿3h\n 888半绿3h（可口可足可手）\n1314非绿3h（重口暴力达咩）\n欢迎互fo互转~\n私信只回口令其余不回\n会查主页哦不转皮下男... https://t.co/O0r47YOxsn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 203,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 510
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T09:53:09.000Z",
+        "description": "我重生了...🚪52 88 128 188 288 520 私信只回口令别的不回哦 口令和赞赏码都可",
+        "id": "1915705588731858944",
+        "location": "坐标10R，发自己坐标的拉黑",
+        "name": "虾桃",
+        "pinned_tweet_id": "1943861336645284174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943859601004228608/HV5nX0-d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 32,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 108
+        },
+        "username": "XTpeach00002",
+        "verified": false
+      }
+    ]
+  }
+}

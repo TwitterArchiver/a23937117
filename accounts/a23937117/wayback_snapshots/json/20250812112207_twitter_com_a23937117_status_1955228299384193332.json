@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955228299384193332",
+    "created_at": "2025-08-12T11:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T12:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955228299384193332"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/a23937117/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/a23937117/status/1951881170066579499",
+          "start": 9,
+          "url": "https://t.co/yALsMzryHA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955228299384193332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951881170066579499",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我怀念那个日子了 https://t.co/yALsMzryHA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1951881170066579499].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1951881170066579499",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1951881170066579499"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1955228299384193332",
+        "created_at": "2025-08-12T11:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T12:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955228299384193332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/a23937117/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/a23937117/status/1951881170066579499",
+              "start": 9,
+              "url": "https://t.co/yALsMzryHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955228299384193332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951881170066579499",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我怀念那个日子了 https://t.co/yALsMzryHA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 227,
+          "like_count": 1076,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 557
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

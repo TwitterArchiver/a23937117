@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926833685812154368"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1926833693521277396",
+    "created_at": "2025-05-26T02:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T03:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926833693521277396"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tb9vuynW3k",
+          "end": 47,
+          "expanded_url": "https://x.com/a23937117/status/1926833693521277396/photo/1",
+          "media_key": "3_1926833685812154368",
+          "start": 24,
+          "url": "https://t.co/tb9vuynW3k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926833693521277396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喝醉也被操\n不喝也被操\n我还是选择把自己灌晕吧 https://t.co/tb9vuynW3k"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1926833693521277396].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1926833693521277396",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1926833693521277396"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926833685812154368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr19B0gXEAAwk_2.jpg",
+        "width": 1612
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "讨厌我的人有福了 因为我真的过的很惨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 103,
+          "like_count": 681,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 73
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

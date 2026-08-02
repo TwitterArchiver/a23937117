@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038237811766423552",
+        "3_2038237811732803584"
+      ],
+      "media_source_tweet_id": [
+        "2038237817449730396",
+        "2038237817449730396"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053431912769671207",
+    "created_at": "2026-05-10T11:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T12:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053431912769671207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1894211254090436610",
+          "start": 3,
+          "username": "xuanbbTvT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LBj2pJIQI8",
+          "end": 102,
+          "expanded_url": "https://x.com/xuanbbTvT/status/2038237817449730396/photo/1",
+          "media_key": "3_2038237811766423552",
+          "start": 79,
+          "url": "https://t.co/LBj2pJIQI8"
+        },
+        {
+          "display_url": "pic.x.com/LBj2pJIQI8",
+          "end": 102,
+          "expanded_url": "https://x.com/xuanbbTvT/status/2038237817449730396/photo/1",
+          "media_key": "3_2038237811732803584",
+          "start": 79,
+          "url": "https://t.co/LBj2pJIQI8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053431912769671207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038237817449730396",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuanbbTvT: 我是xuan 原1.3w粉被封 开启2.0版本\n接线下 具体需要过门问\n现在入门88.88有300+照片视频福利和20个长视频 https://t.co/LBj2pJIQI8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053431912769671207].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053431912769671207",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053431912769671207"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2038237811766423552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HElGfaIbcAAepWh.jpg",
+        "width": 1440
+      },
+      {
+        "height": 843,
+        "media_key": "3_2038237811732803584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HElGfaAacAABlhO.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038237811766423552",
+            "3_2038237811732803584"
+          ]
+        },
+        "author_id": "1894211254090436610",
+        "conversation_id": "2038237817449730396",
+        "created_at": "2026-03-29T12:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T13:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038237817449730396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LBj2pJIQI8",
+              "end": 87,
+              "expanded_url": "https://x.com/xuanbbTvT/status/2038237817449730396/photo/1",
+              "media_key": "3_2038237811766423552",
+              "start": 64,
+              "url": "https://t.co/LBj2pJIQI8"
+            },
+            {
+              "display_url": "pic.x.com/LBj2pJIQI8",
+              "end": 87,
+              "expanded_url": "https://x.com/xuanbbTvT/status/2038237817449730396/photo/1",
+              "media_key": "3_2038237811732803584",
+              "start": 64,
+              "url": "https://t.co/LBj2pJIQI8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038237817449730396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6776,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我是xuan 原1.3w粉被封 开启2.0版本\n接线下 具体需要过门问\n现在入门88.88有300+照片视频福利和20个长视频 https://t.co/LBj2pJIQI8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 202,
+          "like_count": 1402,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 731
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T02:22:28.000Z",
+        "description": "大号被封@Cattyx_x04 开始重生.. 🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "Cattyx_x04"
+              }
+            ]
+          }
+        },
+        "id": "1894211254090436610",
+        "name": "xuan2.0",
+        "pinned_tweet_id": "2038237817449730396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018720121544744960/NhmmTBI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 1,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "username": "xuanbbTvT",
+        "verified": false
+      }
+    ]
+  }
+}

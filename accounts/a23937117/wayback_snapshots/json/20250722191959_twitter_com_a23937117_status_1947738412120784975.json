@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1947607798889779715",
+    "created_at": "2025-07-22T19:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T20:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947738412120784975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1507944418560512003",
+          "start": 0,
+          "username": "UmiLey_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947738412120784975",
+    "in_reply_to_user_id": "1507944418560512003",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947607798889779715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UmiLey_ 指尖很爽了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1947607798889779715",
+        "created_at": "2025-07-22T19:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T20:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947738412120784975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1507944418560512003",
+              "start": 0,
+              "username": "UmiLey_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947738412120784975",
+        "in_reply_to_user_id": "1507944418560512003",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947607798889779715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UmiLey_ 指尖很爽了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507944418560512003",
+        "conversation_id": "1947607798889779715",
+        "created_at": "2025-07-22T10:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T11:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947607798889779715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dirtyflashing/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/dirtyflashing/status/1947169082572521943",
+              "start": 5,
+              "url": "https://t.co/wE0Ohqpc6C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947607798889779715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947169082572521943",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已经会了 https://t.co/wE0Ohqpc6C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 166,
+          "like_count": 969,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 409
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-27T04:55:47.000Z",
+        "description": "Singer丨Producer丨DDLG丨R&B爱好者",
+        "id": "1507944418560512003",
+        "location": "Your heart",
+        "name": "Ley",
+        "pinned_tweet_id": "1917095827199430731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894420168119300097/8dyxWiL-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 87,
+          "like_count": 2842,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 64
+        },
+        "username": "UmiLey_",
+        "verified": false
+      }
+    ]
+  }
+}

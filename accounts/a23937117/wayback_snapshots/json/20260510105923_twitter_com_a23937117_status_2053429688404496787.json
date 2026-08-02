@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053429688404496787",
+    "created_at": "2026-05-10T10:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053429688404496787"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 116,
+          "start": 112,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "线下"
+        },
+        {
+          "end": 125,
+          "start": 121,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 131,
+          "start": 126,
+          "tag": "电子女友"
+        },
+        {
+          "end": 136,
+          "start": 132,
+          "tag": "妈妈活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1049672436243947520",
+          "start": 3,
+          "username": "7lvcw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053429688404496787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044088856082034835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7lvcw: 大家好惹！\n我是饺子07社恐女\n我是家里蹲没有钱钱 选择下海\n全国🉑✈️，我想要很多钱\n🚪88/188/288/520/1314线下其他费用dd\n我很喜欢宅家打游戏 我可以陪你打游戏聊聊天 我很乖的🥺\n#爸爸活 #线下 #门槛妹 #电子女友 #妈妈活 #站…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 965,
+        "media_key": "3_2044088849371140096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4P-nwakAAT2Zj.jpg",
+        "width": 750
+      },
+      {
+        "height": 972,
+        "media_key": "3_2044088849371148288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4P-nwasAAlxk3.jpg",
+        "width": 750
+      },
+      {
+        "height": 948,
+        "media_key": "3_2044088849736052737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4P-pHasAEut80.jpg",
+        "width": 750
+      },
+      {
+        "height": 802,
+        "media_key": "3_2044088849371123712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4P-nwaUAAZFih.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2053429688404496787",
+        "created_at": "2026-05-10T10:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053429688404496787"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 116,
+              "start": 112,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "线下"
+            },
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "电子女友"
+            },
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "妈妈活"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1049672436243947520",
+              "start": 3,
+              "username": "7lvcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053429688404496787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044088856082034835",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7lvcw: 大家好惹！\n我是饺子07社恐女\n我是家里蹲没有钱钱 选择下海\n全国🉑✈️，我想要很多钱\n🚪88/188/288/520/1314线下其他费用dd\n我很喜欢宅家打游戏 我可以陪你打游戏聊聊天 我很乖的🥺\n#爸爸活 #线下 #门槛妹 #电子女友 #妈妈活 #站…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044088849371140096",
+            "3_2044088849371148288",
+            "3_2044088849736052737",
+            "3_2044088849371123712"
+          ]
+        },
+        "author_id": "1049672436243947520",
+        "conversation_id": "2044088856082034835",
+        "created_at": "2026-04-14T16:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044088856082034835"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "线下"
+            },
+            {
+              "end": 114,
+              "start": 110,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 120,
+              "start": 115,
+              "tag": "电子女友"
+            },
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "站街"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/50AWW2DoHL",
+              "end": 153,
+              "expanded_url": "https://x.com/7lvcw/status/2044088856082034835/photo/1",
+              "media_key": "3_2044088849371140096",
+              "start": 130,
+              "url": "https://t.co/50AWW2DoHL"
+            },
+            {
+              "display_url": "pic.x.com/50AWW2DoHL",
+              "end": 153,
+              "expanded_url": "https://x.com/7lvcw/status/2044088856082034835/photo/1",
+              "media_key": "3_2044088849371148288",
+              "start": 130,
+              "url": "https://t.co/50AWW2DoHL"
+            },
+            {
+              "display_url": "pic.x.com/50AWW2DoHL",
+              "end": 153,
+              "expanded_url": "https://x.com/7lvcw/status/2044088856082034835/photo/1",
+              "media_key": "3_2044088849736052737",
+              "start": 130,
+              "url": "https://t.co/50AWW2DoHL"
+            },
+            {
+              "display_url": "pic.x.com/50AWW2DoHL",
+              "end": 153,
+              "expanded_url": "https://x.com/7lvcw/status/2044088856082034835/photo/1",
+              "media_key": "3_2044088849371123712",
+              "start": 130,
+              "url": "https://t.co/50AWW2DoHL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044088856082034835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 17503,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "大家好惹！\n我是饺子07社恐女\n我是家里蹲没有钱钱 选择下海\n全国🉑✈️，我想要很多钱\n🚪88/188/288/520/1314线下其他费用dd\n我很喜欢宅家打游戏 我可以陪你打游戏聊聊天 我很乖的🥺\n#爸爸活 #线下 #门槛妹 #电子女友 #妈妈活 #站街 https://t.co/50AWW2DoHL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 202,
+          "like_count": 1402,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 716
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-09T14:46:25.000Z",
+        "description": "我是饺子！162/90，坐标江浙沪，我喜欢家里蹲，我很需要钱买漂亮衣服，请入我🚪！我可以免费语音验证，视频验证请发我20口令，我喜欢直接发口令的哥哥！我想和女宝们互转互fo！",
+        "id": "1049672436243947520",
+        "location": "1km",
+        "name": "饺砸吃饺子",
+        "pinned_tweet_id": "2044088856082034835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039385369641381888/r5FSx_zl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 4,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 25
+        },
+        "username": "7lvcw",
+        "verified": false
+      }
+    ]
+  }
+}

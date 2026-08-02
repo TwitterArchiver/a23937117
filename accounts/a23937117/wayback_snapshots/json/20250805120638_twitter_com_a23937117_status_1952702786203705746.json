@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1952369807254294916",
+    "created_at": "2025-08-05T12:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T13:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952702786203705746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1218758725214916608",
+          "start": 0,
+          "username": "CanuhearME_0012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952702786203705746",
+    "in_reply_to_user_id": "1218758725214916608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952572329046720925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CanuhearME_0012 爱你爱你爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1952369807254294916",
+        "created_at": "2025-08-05T12:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T13:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952702786203705746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1218758725214916608",
+              "start": 0,
+              "username": "CanuhearME_0012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952702786203705746",
+        "in_reply_to_user_id": "1218758725214916608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952572329046720925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CanuhearME_0012 爱你爱你爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1218758725214916608",
+        "conversation_id": "1952369807254294916",
+        "created_at": "2025-08-05T03:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T04:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952572329046720925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442350932977610752",
+              "start": 0,
+              "username": "a23937117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952572329046720925",
+        "in_reply_to_user_id": "1442350932977610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952369807254294916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a23937117 太萌了宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 186,
+          "like_count": 1018,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 461
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-19T05:02:37.000Z",
+        "description": "我是说说｜喜欢漂亮脸蛋和好听声音和小猫和一切萌萌的事物，一个都不符合的敢给我发私信就死定了^ ^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=p7UpUJsp",
+                "start": 0,
+                "url": "https://t.co/zsaVtUrs2G"
+              }
+            ]
+          }
+        },
+        "id": "1218758725214916608",
+        "location": "自用蜂鸟VPN",
+        "name": "谁教你这么说的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929562057873272832/A6dh6lvY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 188,
+          "like_count": 8287,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 2427
+        },
+        "url": "https://t.co/zsaVtUrs2G",
+        "username": "CanuhearME_0012",
+        "verified": false
+      }
+    ]
+  }
+}

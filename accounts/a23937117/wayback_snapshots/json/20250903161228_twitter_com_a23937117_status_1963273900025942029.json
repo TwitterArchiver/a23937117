@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1963273900025942029",
+    "created_at": "2025-09-03T16:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T17:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963273900025942029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1138331212710178819",
+          "start": 3,
+          "username": "LaxmanC84148761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963273900025942029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951186399761191118",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LaxmanC84148761: 我是小茜\n08 | 153 | 37kg\n努力赚房租水电生活费中\n88/188/288/520/1314 区别请看P3\n入门p1p2有支付宝收款码或者支付宝口令红包\n请求也感谢大人们支持我努力生存⑉꒦ິ^꒦ິ⑉\n入门不退 请确认真的喜欢…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1951186345486954497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxQBpLVXsAE-Ihn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1951186345407246336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxQBpLCXcAAQR4y.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1951186345444986882",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxQBpLLXUAII1ZN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1963273900025942029",
+        "created_at": "2025-09-03T16:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T17:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963273900025942029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1138331212710178819",
+              "start": 3,
+              "username": "LaxmanC84148761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963273900025942029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951186399761191118",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LaxmanC84148761: 我是小茜\n08 | 153 | 37kg\n努力赚房租水电生活费中\n88/188/288/520/1314 区别请看P3\n入门p1p2有支付宝收款码或者支付宝口令红包\n请求也感谢大人们支持我努力生存⑉꒦ິ^꒦ິ⑉\n入门不退 请确认真的喜欢…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951186345486954497",
+            "3_1951186345407246336",
+            "3_1951186345444986882"
+          ]
+        },
+        "author_id": "1138331212710178819",
+        "conversation_id": "1951186399761191118",
+        "created_at": "2025-08-01T07:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T08:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951186399761191118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zww5Zuh0L8",
+              "end": 148,
+              "expanded_url": "https://x.com/LaxmanC84148761/status/1951186399761191118/photo/1",
+              "media_key": "3_1951186345486954497",
+              "start": 125,
+              "url": "https://t.co/zww5Zuh0L8"
+            },
+            {
+              "display_url": "pic.x.com/zww5Zuh0L8",
+              "end": 148,
+              "expanded_url": "https://x.com/LaxmanC84148761/status/1951186399761191118/photo/1",
+              "media_key": "3_1951186345407246336",
+              "start": 125,
+              "url": "https://t.co/zww5Zuh0L8"
+            },
+            {
+              "display_url": "pic.x.com/zww5Zuh0L8",
+              "end": 148,
+              "expanded_url": "https://x.com/LaxmanC84148761/status/1951186399761191118/photo/1",
+              "media_key": "3_1951186345444986882",
+              "start": 125,
+              "url": "https://t.co/zww5Zuh0L8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951186399761191118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 43204,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "我是小茜\n08 | 153 | 37kg\n努力赚房租水电生活费中\n88/188/288/520/1314 区别请看P3\n入门p1p2有支付宝收款码或者支付宝口令红包\n请求也感谢大人们支持我努力生存⑉꒦ິ^꒦ິ⑉\n入门不退 请确认真的喜欢我再入门🫶🏻 https://t.co/zww5Zuh0L8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 204,
+          "like_count": 1140,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 711
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-11T06:24:45.000Z",
+        "description": "距离奇迹发生还有＿天 备用号@samarab26676277",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "samarab26676277"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akane26634",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akane26634",
+                "start": 0,
+                "url": "https://t.co/5Ra3x0vJvv"
+              }
+            ]
+          }
+        },
+        "id": "1138331212710178819",
+        "location": "问坐标20r",
+        "name": "茜",
+        "pinned_tweet_id": "1951186399761191118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947569319358971904/JQ3fGSLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 28,
+          "like_count": 32,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 528
+        },
+        "url": "https://t.co/5Ra3x0vJvv",
+        "username": "LaxmanC84148761",
+        "verified": false
+      }
+    ]
+  }
+}

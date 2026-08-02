@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1941767198265180362",
+    "created_at": "2025-07-11T17:57:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T18:57:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943731389016240171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1879548539807977472",
+          "start": 0,
+          "username": "pu_xin30374"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943731389016240171",
+    "in_reply_to_user_id": "1879548539807977472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943208513255432336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pu_xin30374 好棒很厉害！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943208501976952832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvep1kTa8AA8Yep.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1941767198265180362",
+        "created_at": "2025-07-11T17:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T18:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943731389016240171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1879548539807977472",
+              "start": 0,
+              "username": "pu_xin30374"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943731389016240171",
+        "in_reply_to_user_id": "1879548539807977472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943208513255432336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pu_xin30374 好棒很厉害！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943208501976952832"
+          ]
+        },
+        "author_id": "1879548539807977472",
+        "conversation_id": "1941767198265180362",
+        "created_at": "2025-07-10T07:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T08:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943208513255432336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MK4L1MIkqz",
+              "end": 36,
+              "expanded_url": "https://x.com/pu_xin30374/status/1943208513255432336/photo/1",
+              "media_key": "3_1943208501976952832",
+              "start": 13,
+              "url": "https://t.co/MK4L1MIkqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943208513255432336",
+        "in_reply_to_user_id": "1879548539807977472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 329,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941767198265180362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "时隔三天，来夸夸这个主播 https://t.co/MK4L1MIkqz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 137,
+          "like_count": 901,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 256
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T15:17:58.000Z",
+        "description": "直男|enfp|备考",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rain59695",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rain59695",
+                "start": 0,
+                "url": "https://t.co/guTLbg0kOb"
+              }
+            ]
+          }
+        },
+        "id": "1879548539807977472",
+        "location": "cs",
+        "name": "rain",
+        "pinned_tweet_id": "1938998852243329418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902753277219061760/NEdGLE28_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 192,
+          "like_count": 361,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 267
+        },
+        "url": "https://t.co/guTLbg0kOb",
+        "username": "pu_xin30374",
+        "verified": false
+      }
+    ]
+  }
+}

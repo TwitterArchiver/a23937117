@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981236543982292992",
+        "3_1981236539783782400",
+        "3_1981236539943165952",
+        "3_1981236540031238144"
+      ],
+      "media_source_tweet_id": [
+        "1981236547484832192",
+        "1981236547484832192",
+        "1981236547484832192",
+        "1981236547484832192"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1982149061105828329",
+    "created_at": "2025-10-25T18:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T19:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982149061105828329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1910217734400724992",
+          "start": 3,
+          "username": "aiai520131"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PEbnR0wp8Z",
+          "end": 117,
+          "expanded_url": "https://x.com/aiai520131/status/1981236547484832192/photo/1",
+          "media_key": "3_1981236543982292992",
+          "start": 94,
+          "url": "https://t.co/PEbnR0wp8Z"
+        },
+        {
+          "display_url": "pic.x.com/PEbnR0wp8Z",
+          "end": 117,
+          "expanded_url": "https://x.com/aiai520131/status/1981236547484832192/photo/1",
+          "media_key": "3_1981236539783782400",
+          "start": 94,
+          "url": "https://t.co/PEbnR0wp8Z"
+        },
+        {
+          "display_url": "pic.x.com/PEbnR0wp8Z",
+          "end": 117,
+          "expanded_url": "https://x.com/aiai520131/status/1981236547484832192/photo/1",
+          "media_key": "3_1981236539943165952",
+          "start": 94,
+          "url": "https://t.co/PEbnR0wp8Z"
+        },
+        {
+          "display_url": "pic.x.com/PEbnR0wp8Z",
+          "end": 117,
+          "expanded_url": "https://x.com/aiai520131/status/1981236547484832192/photo/1",
+          "media_key": "3_1981236540031238144",
+          "start": 94,
+          "url": "https://t.co/PEbnR0wp8Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982149061105828329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981236547484832192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aiai520131: 哈喽我是爱爱弄个🔝 身高体重165cm 45kg 现坐标广州，也可接全国✈️约我线下过我🚪188，线下非绿半绿价格私信问我叭，想要陪聊可以过我520门槛🥹 https://t.co/PEbnR0wp8Z"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1982149061105828329].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1982149061105828329",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1982149061105828329"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1795,
+        "media_key": "3_1981236543982292992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G37EI8QWUAASJWJ.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2041,
+        "media_key": "3_1981236539783782400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G37EIsnWIAAEeXt.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1799,
+        "media_key": "3_1981236539943165952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G37EItNWIAA2Arv.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2043,
+        "media_key": "3_1981236540031238144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G37EItiWAAARyZK.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981236543982292992",
+            "3_1981236539783782400",
+            "3_1981236539943165952",
+            "3_1981236540031238144"
+          ]
+        },
+        "author_id": "1910217734400724992",
+        "conversation_id": "1981236547484832192",
+        "created_at": "2025-10-23T05:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T06:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981236547484832192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PEbnR0wp8Z",
+              "end": 101,
+              "expanded_url": "https://x.com/aiai520131/status/1981236547484832192/photo/1",
+              "media_key": "3_1981236543982292992",
+              "start": 78,
+              "url": "https://t.co/PEbnR0wp8Z"
+            },
+            {
+              "display_url": "pic.x.com/PEbnR0wp8Z",
+              "end": 101,
+              "expanded_url": "https://x.com/aiai520131/status/1981236547484832192/photo/1",
+              "media_key": "3_1981236539783782400",
+              "start": 78,
+              "url": "https://t.co/PEbnR0wp8Z"
+            },
+            {
+              "display_url": "pic.x.com/PEbnR0wp8Z",
+              "end": 101,
+              "expanded_url": "https://x.com/aiai520131/status/1981236547484832192/photo/1",
+              "media_key": "3_1981236539943165952",
+              "start": 78,
+              "url": "https://t.co/PEbnR0wp8Z"
+            },
+            {
+              "display_url": "pic.x.com/PEbnR0wp8Z",
+              "end": 101,
+              "expanded_url": "https://x.com/aiai520131/status/1981236547484832192/photo/1",
+              "media_key": "3_1981236540031238144",
+              "start": 78,
+              "url": "https://t.co/PEbnR0wp8Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981236547484832192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2586,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "哈喽我是爱爱弄个🔝 身高体重165cm 45kg 现坐标广州，也可接全国✈️约我线下过我🚪188，线下非绿半绿价格私信问我叭，想要陪聊可以过我520门槛🥹 https://t.co/PEbnR0wp8Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 219,
+          "like_count": 1308,
+          "listed_count": 3,
+          "media_count": 200,
+          "tweet_count": 733
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T06:26:20.000Z",
+        "description": "165/45kg",
+        "id": "1910217734400724992",
+        "location": "🚪188/520/1314",
+        "name": "爱爱",
+        "pinned_tweet_id": "1981236547484832192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910230474280382464/zTBjuWeA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 160
+        },
+        "username": "aiai520131",
+        "verified": false
+      }
+    ]
+  }
+}

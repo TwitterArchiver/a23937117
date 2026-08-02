@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952797723494891521",
+        "3_1952797762778742784"
+      ],
+      "media_source_tweet_id": [
+        "1952798107072381113",
+        "1952798107072381113"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1956086095331856654",
+    "created_at": "2025-08-14T20:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T21:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956086095331856654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1758104433282420736",
+          "start": 3,
+          "username": "KA0R1_TuT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MTBeArKzme",
+          "end": 131,
+          "expanded_url": "https://x.com/KA0R1_TuT/status/1952798107072381113/photo/1",
+          "media_key": "3_1952797723494891521",
+          "start": 108,
+          "url": "https://t.co/MTBeArKzme"
+        },
+        {
+          "display_url": "pic.x.com/MTBeArKzme",
+          "end": 131,
+          "expanded_url": "https://x.com/KA0R1_TuT/status/1952798107072381113/photo/1",
+          "media_key": "3_1952797762778742784",
+          "start": 108,
+          "url": "https://t.co/MTBeArKzme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956086095331856654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952798107072381113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KA0R1_TuT: -这是一条新置顶-\n❥这里小薰\n更多介绍可看p1^ω^ \np2是笨宝美照哼哼\n❥🚪槛相关\n🚪88：纯绿被动陪聊+朋友圈开放\n目前只有线上纯绿🚪 不接线下\n\n爱着你们 请一起好好活下去🫂 https://t.co/MTBeArKzme"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1956086095331856654].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1956086095331856654",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1956086095331856654"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1952797723494891521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxm7LuMawAE2GHt.jpg",
+        "width": 734
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1952797762778742784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxm7OAiawAAO-99.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952797723494891521",
+            "3_1952797762778742784"
+          ]
+        },
+        "author_id": "1758104433282420736",
+        "conversation_id": "1952798107072381113",
+        "created_at": "2025-08-05T18:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T19:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952798107072381113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MTBeArKzme",
+              "end": 116,
+              "expanded_url": "https://x.com/KA0R1_TuT/status/1952798107072381113/photo/1",
+              "media_key": "3_1952797723494891521",
+              "start": 93,
+              "url": "https://t.co/MTBeArKzme"
+            },
+            {
+              "display_url": "pic.x.com/MTBeArKzme",
+              "end": 116,
+              "expanded_url": "https://x.com/KA0R1_TuT/status/1952798107072381113/photo/1",
+              "media_key": "3_1952797762778742784",
+              "start": 93,
+              "url": "https://t.co/MTBeArKzme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952798107072381113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5796,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "-这是一条新置顶-\n❥这里小薰\n更多介绍可看p1^ω^ \np2是笨宝美照哼哼\n❥🚪槛相关\n🚪88：纯绿被动陪聊+朋友圈开放\n目前只有线上纯绿🚪 不接线下\n\n爱着你们 请一起好好活下去🫂 https://t.co/MTBeArKzme"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 235,
+          "like_count": 1090,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 600
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T12:22:25.000Z",
+        "description": "我一直在哭｜🚪88纯绿｜不接线下",
+        "id": "1758104433282420736",
+        "name": "我是個可愛的孩子",
+        "pinned_tweet_id": "1952798107072381113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817627953490198529/I8zE8GUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3585,
+          "following_count": 436,
+          "like_count": 643,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 1220
+        },
+        "username": "KA0R1_TuT",
+        "verified": false
+      }
+    ]
+  }
+}

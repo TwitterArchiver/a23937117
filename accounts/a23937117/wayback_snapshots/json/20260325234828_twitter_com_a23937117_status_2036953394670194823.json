@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2036953394670194823",
+    "created_at": "2026-03-25T23:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T00:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036953394670194823"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 111,
+          "start": 108,
+          "tag": "门槛"
+        },
+        {
+          "end": 116,
+          "start": 112,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 121,
+          "start": 117,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "萝莉"
+        },
+        {
+          "end": 129,
+          "start": 126,
+          "tag": "短发"
+        },
+        {
+          "end": 133,
+          "start": 130,
+          "tag": "陪聊"
+        },
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "纯绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1953765612834238466",
+          "start": 3,
+          "username": "NEVERTwT3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036953394670194823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034934613894996305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NEVERTwT3: 小伤伤重生转世！(´｡-ω(-ω-｡`)\n坐标广州｜08｜在校高中生\n接线下努力赚钱中 不接非绿不要骚扰我\n门槛详细看p2 入门支持口令/奖赏码\n私信不过门不回复 验证/问题一个10r\n#门槛 #爸爸活 #妈妈活 #萝莉 #短发 #陪聊 #纯绿 #…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034934589177962498",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2KOjEboAIZcNE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1179,
+        "media_key": "3_2034934589186351105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2KOjGboAES3us.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2036953394670194823",
+        "created_at": "2026-03-25T23:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T00:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036953394670194823"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "门槛"
+            },
+            {
+              "end": 116,
+              "start": 112,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "萝莉"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "短发"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "陪聊"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "纯绿"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1953765612834238466",
+              "start": 3,
+              "username": "NEVERTwT3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036953394670194823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034934613894996305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NEVERTwT3: 小伤伤重生转世！(´｡-ω(-ω-｡`)\n坐标广州｜08｜在校高中生\n接线下努力赚钱中 不接非绿不要骚扰我\n门槛详细看p2 入门支持口令/奖赏码\n私信不过门不回复 验证/问题一个10r\n#门槛 #爸爸活 #妈妈活 #萝莉 #短发 #陪聊 #纯绿 #…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034934589177962498",
+            "3_2034934589186351105"
+          ]
+        },
+        "author_id": "1953765612834238466",
+        "conversation_id": "2034934613894996305",
+        "created_at": "2026-03-20T10:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T11:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034934613894996305"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "门槛"
+            },
+            {
+              "end": 101,
+              "start": 97,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 106,
+              "start": 102,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "萝莉"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "短发"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "陪聊"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "纯绿"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "半绿"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "白虎"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "黑丝"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "金主"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gsmxziO5YJ",
+              "end": 162,
+              "expanded_url": "https://x.com/NEVERTwT3/status/2034934613894996305/photo/1",
+              "media_key": "3_2034934589177962498",
+              "start": 139,
+              "url": "https://t.co/gsmxziO5YJ"
+            },
+            {
+              "display_url": "pic.x.com/gsmxziO5YJ",
+              "end": 162,
+              "expanded_url": "https://x.com/NEVERTwT3/status/2034934613894996305/photo/1",
+              "media_key": "3_2034934589186351105",
+              "start": 139,
+              "url": "https://t.co/gsmxziO5YJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034934613894996305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 10971,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "小伤伤重生转世！(´｡-ω(-ω-｡`)\n坐标广州｜08｜在校高中生\n接线下努力赚钱中 不接非绿不要骚扰我\n门槛详细看p2 入门支持口令/奖赏码\n私信不过门不回复 验证/问题一个10r\n#门槛 #爸爸活 #妈妈活 #萝莉 #短发 #陪聊 #纯绿 #半绿 #白虎 #黑丝 #金主 https://t.co/gsmxziO5YJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover  谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1980120686774591794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 198,
+          "like_count": 1367,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 781
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T10:30:07.000Z",
+        "description": "我想过一种平静又幸福的生活…",
+        "id": "1953765612834238466",
+        "location": "🚪128/288",
+        "name": "当一辈子的透明水母",
+        "pinned_tweet_id": "2034934613894996305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029564009213784064/SSls3x_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 49,
+          "like_count": 231,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 223
+        },
+        "username": "NEVERTwT3",
+        "verified": false
+      }
+    ]
+  }
+}

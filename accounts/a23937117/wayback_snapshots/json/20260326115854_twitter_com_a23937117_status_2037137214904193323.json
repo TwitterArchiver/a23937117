@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2037137214904193323",
+    "created_at": "2026-03-26T11:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T12:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037137214904193323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "843483590042275841",
+          "start": 3,
+          "username": "vijayku18492586"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037137214904193323",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033016398117794120",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vijayku18492586: 这里猫猫\nʚ ₊˚⊹⁠♡——— 愛してる ———♡⊹⁠˚₊ ᨩ\n地雷系女子/双相治疗中/od/割手，请多关照\n需要买药和吃饭，很缺钱，如果喜欢请入门，我会非常感谢\n165/45kg\nBang Dream/明日方舟/pjsk/鸣潮/三角洲…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2037137214904193323].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2037137214904193323",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2037137214904193323"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2033016394590334976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDa5o7YaMAA6fsC.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033016387640418304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDa5ohfa4AAYu8G.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033016388047220739",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDa5ojAaMAMOK9j.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2033016384633057282",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDa5oWSaMAIcFUR.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033016394590334976",
+            "3_2033016387640418304",
+            "3_2033016388047220739",
+            "3_2033016384633057282"
+          ]
+        },
+        "author_id": "843483590042275841",
+        "conversation_id": "2033016398117794120",
+        "created_at": "2026-03-15T03:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T04:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033016398117794120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fS6GeeN6Zt",
+              "end": 193,
+              "expanded_url": "https://x.com/vijayku18492586/status/2033016398117794120/photo/1",
+              "media_key": "3_2033016394590334976",
+              "start": 170,
+              "url": "https://t.co/fS6GeeN6Zt"
+            },
+            {
+              "display_url": "pic.x.com/fS6GeeN6Zt",
+              "end": 193,
+              "expanded_url": "https://x.com/vijayku18492586/status/2033016398117794120/photo/1",
+              "media_key": "3_2033016387640418304",
+              "start": 170,
+              "url": "https://t.co/fS6GeeN6Zt"
+            },
+            {
+              "display_url": "pic.x.com/fS6GeeN6Zt",
+              "end": 193,
+              "expanded_url": "https://x.com/vijayku18492586/status/2033016398117794120/photo/1",
+              "media_key": "3_2033016388047220739",
+              "start": 170,
+              "url": "https://t.co/fS6GeeN6Zt"
+            },
+            {
+              "display_url": "pic.x.com/fS6GeeN6Zt",
+              "end": 193,
+              "expanded_url": "https://x.com/vijayku18492586/status/2033016398117794120/photo/1",
+              "media_key": "3_2033016384633057282",
+              "start": 170,
+              "url": "https://t.co/fS6GeeN6Zt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033016398117794120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 15867,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "这里猫猫\nʚ ₊˚⊹⁠♡——— 愛してる ———♡⊹⁠˚₊ ᨩ\n地雷系女子/双相治疗中/od/割手，请多关照\n需要买药和吃饭，很缺钱，如果喜欢请入门，我会非常感谢\n165/45kg\nBang Dream/明日方舟/pjsk/鸣潮/三角洲行动/瓦/边狱巴士在坑，玩过几部galgame，舞萌w2+\n接三角洲和瓦陪玩！\n想和小女孩互fo互转！ https://t.co/fS6GeeN6Zt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover  谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 198,
+          "like_count": 1367,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 795
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-19T15:25:33.000Z",
+        "description": "🚪52/88/188/288/520，前世@rokenho1974，问坐标10r视频验证20r，过🚪不退，详细看简介p1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "rokenho1974"
+              }
+            ]
+          }
+        },
+        "id": "843483590042275841",
+        "location": "洲，瓦陪玩找我哦",
+        "name": "你的吻是未愈的淤青",
+        "pinned_tweet_id": "2033016398117794120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033013401883127808/jh7DuByT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 26,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 154
+        },
+        "username": "vijayku18492586",
+        "verified": false
+      }
+    ]
+  }
+}

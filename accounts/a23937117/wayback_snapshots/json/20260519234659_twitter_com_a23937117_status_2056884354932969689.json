@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056884347114856449"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "733774222305038337",
+          "name": "Lionel Messi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "733774222305038337",
+          "name": "Lionel Messi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733774222305038337",
+          "name": "Lionel Messi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "2056884354932969689",
+    "created_at": "2026-05-19T23:46:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T00:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056884354932969689"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 54,
+          "tag": "世界杯"
+        },
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "足球"
+        },
+        {
+          "end": 67,
+          "start": 63,
+          "tag": "阿根廷"
+        },
+        {
+          "end": 71,
+          "start": 68,
+          "tag": "冠军"
+        },
+        {
+          "end": 77,
+          "start": 72,
+          "tag": "fifa"
+        },
+        {
+          "end": 81,
+          "start": 78,
+          "tag": "梅西"
+        },
+        {
+          "end": 88,
+          "start": 82,
+          "tag": "messi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3MKGlumOqB",
+          "end": 112,
+          "expanded_url": "https://x.com/a23937117/status/2056884354932969689/photo/1",
+          "media_key": "3_2056884347114856449",
+          "start": 89,
+          "url": "https://t.co/3MKGlumOqB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056884354932969689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有人想找我代购阿根廷梅西（or其他人）三星正版球衣啊，我八月到中国，需要的私信我可以走平台昂——嘻嘻\n\n#世界杯 #足球 #阿根廷 #冠军 #fifa #梅西 #messi https://t.co/3MKGlumOqB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2056884347114856449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIuFanXXoAEaTy7.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056884347114856449"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774222305038337",
+              "name": "Lionel Messi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774222305038337",
+              "name": "Lionel Messi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774222305038337",
+              "name": "Lionel Messi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2056884354932969689",
+        "created_at": "2026-05-19T23:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T00:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056884354932969689"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "世界杯"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "足球"
+            },
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "阿根廷"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "冠军"
+            },
+            {
+              "end": 77,
+              "start": 72,
+              "tag": "fifa"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "梅西"
+            },
+            {
+              "end": 88,
+              "start": 82,
+              "tag": "messi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3MKGlumOqB",
+              "end": 112,
+              "expanded_url": "https://x.com/a23937117/status/2056884354932969689/photo/1",
+              "media_key": "3_2056884347114856449",
+              "start": 89,
+              "url": "https://t.co/3MKGlumOqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056884354932969689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人想找我代购阿根廷梅西（or其他人）三星正版球衣啊，我八月到中国，需要的私信我可以走平台昂——嘻嘻\n\n#世界杯 #足球 #阿根廷 #冠军 #fifa #梅西 #messi https://t.co/3MKGlumOqB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 201,
+          "like_count": 1410,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 784
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

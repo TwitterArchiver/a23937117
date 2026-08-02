@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1926973332244553770",
+    "created_at": "2025-05-27T01:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T02:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927177462179377286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1896059136758161408",
+          "start": 0,
+          "username": "kawaiizeroo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927177462179377286",
+    "in_reply_to_user_id": "1896059136758161408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926973332244553770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawaiizeroo 宝宝我有你要不要~——"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1926973332244553770",
+        "created_at": "2025-05-27T01:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T02:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927177462179377286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1896059136758161408",
+              "start": 0,
+              "username": "kawaiizeroo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927177462179377286",
+        "in_reply_to_user_id": "1896059136758161408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926973332244553770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaiizeroo 宝宝我有你要不要~——"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896059136758161408",
+        "conversation_id": "1926973332244553770",
+        "created_at": "2025-05-26T12:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T13:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926973332244553770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1926973332244553770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1718,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么买到盐 我在淘宝上搜不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "讨厌我的人有福了 因为我真的过的很惨",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 110,
+          "like_count": 683,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 76
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T04:45:09.000Z",
+        "description": "06 163 95♡sub ♑enfp忧郁症✩︎‧₊相信的心是魔法♡求溺爱♡过门不退/🉑线下/有🚪199/520/1314/5200♡验证已过✨私信只回复口令🧧",
+        "id": "1896059136758161408",
+        "location": "江浙沪",
+        "name": "天使零",
+        "pinned_tweet_id": "1926883103336714353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921536702600065024/1LUWzXW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1840,
+          "following_count": 49,
+          "like_count": 1488,
+          "listed_count": 6,
+          "media_count": 21,
+          "tweet_count": 822
+        },
+        "username": "kawaiizeroo",
+        "verified": false
+      }
+    ]
+  }
+}

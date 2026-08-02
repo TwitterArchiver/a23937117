@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2037137150160839077",
+    "created_at": "2026-03-26T11:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T12:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037137150160839077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1835871291779502080",
+          "start": 3,
+          "username": "KThihin39232"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037137150160839077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985422829651968319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KThihin39232: Hey主人泥嚎 \n我叫小宅 很高兴认识你₍ᐢ..ᐢ₎ᐝ\n我尊嘟很宅 很呆  就这样笨笨的粘着你\n门槛就只有三档 刚丸还不知道怎么写 先试一下…如果没有人入门我就不玩推了TAT\n因为比较闲 分享欲也很强 一天当中大部分时间都会用在你身上  会一…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2037137150160839077].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2037137150160839077",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2037137150160839077"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985422821976391686",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G42jiZDbQAYJN90.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1201,
+        "media_key": "3_1985422821741449216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G42jiYLaUAA3R9i.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985422821976391686",
+            "3_1985422821741449216"
+          ]
+        },
+        "author_id": "1835871291779502080",
+        "conversation_id": "1985422829651968319",
+        "created_at": "2025-11-03T19:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T20:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985422829651968319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vilmUMmSHp",
+              "end": 170,
+              "expanded_url": "https://x.com/KThihin39232/status/1985422829651968319/photo/1",
+              "media_key": "3_1985422821976391686",
+              "start": 147,
+              "url": "https://t.co/vilmUMmSHp"
+            },
+            {
+              "display_url": "pic.x.com/vilmUMmSHp",
+              "end": 170,
+              "expanded_url": "https://x.com/KThihin39232/status/1985422829651968319/photo/1",
+              "media_key": "3_1985422821741449216",
+              "start": 147,
+              "url": "https://t.co/vilmUMmSHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985422829651968319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 78236,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "Hey主人泥嚎 \n我叫小宅 很高兴认识你₍ᐢ..ᐢ₎ᐝ\n我尊嘟很宅 很呆  就这样笨笨的粘着你\n门槛就只有三档 刚丸还不知道怎么写 先试一下…如果没有人入门我就不玩推了TAT\n因为比较闲 分享欲也很强 一天当中大部分时间都会用在你身上  会一直给你发信息 嫌我烦的慎重入门 想要粘人精的选我🐾 https://t.co/vilmUMmSHp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover  谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 198,
+          "like_count": 1367,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 794
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T02:40:33.000Z",
+        "description": "懒得写简介了 反正也没人看 更是没有人会入我的门 毁灭吧",
+        "id": "1835871291779502080",
+        "location": "🚪52/188/288/520/1314",
+        "name": "宅幼喵",
+        "pinned_tweet_id": "1985422829651968319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990728506968539136/7q34ChNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 14,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 391
+        },
+        "username": "KThihin39232",
+        "verified": false
+      }
+    ]
+  }
+}

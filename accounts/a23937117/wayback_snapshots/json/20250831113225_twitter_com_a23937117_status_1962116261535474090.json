@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962116250500321280",
+        "3_1962116250529640448",
+        "3_1962116250504458241",
+        "3_1962116250500222976"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962116261535474090",
+    "created_at": "2025-08-31T11:32:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T12:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962116261535474090"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 98,
+          "start": 93,
+          "tag": "电子女友"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "半绿"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "非绿"
+        },
+        {
+          "end": 111,
+          "start": 107,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "门槛"
+        },
+        {
+          "end": 120,
+          "start": 116,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 125,
+          "start": 121,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 129,
+          "start": 126,
+          "tag": "烟代"
+        },
+        {
+          "end": 133,
+          "start": 131,
+          "tag": "m"
+        },
+        {
+          "end": 138,
+          "start": 134,
+          "tag": "cos"
+        },
+        {
+          "end": 143,
+          "start": 139,
+          "tag": "地雷系"
+        },
+        {
+          "end": 154,
+          "start": 144,
+          "tag": "地雷系kawaii"
+        },
+        {
+          "end": 167,
+          "start": 155,
+          "tag": "地雷系さんと繋がりたい"
+        },
+        {
+          "end": 171,
+          "start": 168,
+          "tag": "华裔"
+        },
+        {
+          "end": 175,
+          "start": 172,
+          "tag": "海外"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6f8HVILJQQ",
+          "end": 199,
+          "expanded_url": "https://x.com/a23937117/status/1962116261535474090/photo/1",
+          "media_key": "3_1962116250500321280",
+          "start": 176,
+          "url": "https://t.co/6f8HVILJQQ"
+        },
+        {
+          "display_url": "pic.x.com/6f8HVILJQQ",
+          "end": 199,
+          "expanded_url": "https://x.com/a23937117/status/1962116261535474090/photo/1",
+          "media_key": "3_1962116250529640448",
+          "start": 176,
+          "url": "https://t.co/6f8HVILJQQ"
+        },
+        {
+          "display_url": "pic.x.com/6f8HVILJQQ",
+          "end": 199,
+          "expanded_url": "https://x.com/a23937117/status/1962116261535474090/photo/1",
+          "media_key": "3_1962116250504458241",
+          "start": 176,
+          "url": "https://t.co/6f8HVILJQQ"
+        },
+        {
+          "display_url": "pic.x.com/6f8HVILJQQ",
+          "end": 199,
+          "expanded_url": "https://x.com/a23937117/status/1962116261535474090/photo/1",
+          "media_key": "3_1962116250500222976",
+          "start": 176,
+          "url": "https://t.co/6f8HVILJQQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962116261535474090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新置顶——⸝⸝ ᳐ʚ̴̶̷̷ ‧̫ ʚ̴̶̷̷ ᳐⸝⸝🎁\n我是小豹，请给我投喂吧🚪88.88 \n164/45 19岁南美华裔，陪聊陪玩半绿，很需要投喂，特别会给情绪价值\n欢迎互fo互转\n#电子女友 #半绿 #非绿 #门槛妹 #门槛 #爸爸活 #妈妈活 #烟代  #m #cos #地雷系 #地雷系kawaii #地雷系さんと繋がりたい #华裔 #海外 https://t.co/6f8HVILJQQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962116261535474090].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962116261535474090",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962116261535474090"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962116250500321280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzrWVYcX0AAk3C_.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962116250529640448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzrWVYjXMAA0MLH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962116250504458241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzrWVYdW8AEmRI9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962116250500222976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzrWVYcWUAAdZFu.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰--子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1960490344723706120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 208,
+          "like_count": 1137,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 650
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

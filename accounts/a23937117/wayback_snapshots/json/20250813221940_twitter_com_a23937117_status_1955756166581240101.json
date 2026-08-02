@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950300342463451137",
+        "3_1950300344740958210"
+      ],
+      "media_source_tweet_id": [
+        "1950300348318695677",
+        "1950300348318695677"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955756166581240101",
+    "created_at": "2025-08-13T22:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T23:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955756166581240101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1944562899713703936",
+          "start": 3,
+          "username": "Lelya___RU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vCbtt8ZSwq",
+          "end": 118,
+          "expanded_url": "https://x.com/Lelya___RU/status/1950300348318695677/photo/1",
+          "media_key": "3_1950300342463451137",
+          "start": 95,
+          "url": "https://t.co/vCbtt8ZSwq"
+        },
+        {
+          "display_url": "pic.x.com/vCbtt8ZSwq",
+          "end": 118,
+          "expanded_url": "https://x.com/Lelya___RU/status/1950300348318695677/photo/1",
+          "media_key": "3_1950300344740958210",
+          "start": 95,
+          "url": "https://t.co/vCbtt8ZSwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955756166581240101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950300348318695677",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lelya___RU: 现 在 我  需 要 钱 来 救 赎 我 的 灵 魂。\nН а д е ю с ь, ж и з н ь  с т а н е т  л у ч ш е.😎 https://t.co/vCbtt8ZSwq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955756166581240101].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955756166581240101",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955756166581240101"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1950300342463451137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDb1A3bUAESAkn.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950300344740958210",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDb1JWbUAIJk2c.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950300342463451137",
+            "3_1950300344740958210"
+          ]
+        },
+        "author_id": "1944562899713703936",
+        "conversation_id": "1950300348318695677",
+        "created_at": "2025-07-29T21:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T22:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950300348318695677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vCbtt8ZSwq",
+              "end": 102,
+              "expanded_url": "https://x.com/Lelya___RU/status/1950300348318695677/photo/1",
+              "media_key": "3_1950300342463451137",
+              "start": 79,
+              "url": "https://t.co/vCbtt8ZSwq"
+            },
+            {
+              "display_url": "pic.x.com/vCbtt8ZSwq",
+              "end": 102,
+              "expanded_url": "https://x.com/Lelya___RU/status/1950300348318695677/photo/1",
+              "media_key": "3_1950300344740958210",
+              "start": 79,
+              "url": "https://t.co/vCbtt8ZSwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950300348318695677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 18497,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "现 在 我  需 要 钱 来 救 赎 我 的 灵 魂。\nН а д е ю с ь, ж и з н ь  с т а н е т  л у ч ш е.😎 https://t.co/vCbtt8ZSwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 232,
+          "like_count": 1084,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 592
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T01:02:09.000Z",
+        "description": "🚪52/女 大 生（2004.08.08）/语 言：简 体 中 文 俄 文/别 看 我 这 样 其 实 中 文 说 的 比 俄 文 还 要 好. Ясчастлив жить здесь.地 雷 系❤️/🏳️‍⚧️❤️/🇷🇺❤️",
+        "id": "1944562899713703936",
+        "location": "位 置 10 元 ",
+        "name": "🇷🇺Леля🇷🇺",
+        "pinned_tweet_id": "1950300348318695677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950280757903314946/_wkiH9yN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 23,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 72
+        },
+        "username": "Lelya___RU",
+        "verified": false
+      }
+    ]
+  }
+}

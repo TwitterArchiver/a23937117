@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078709197873573888"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2078709203632308332",
+    "created_at": "2026-07-19T05:11:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T06:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078709203632308332"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 3,
+          "tag": "福利姬"
+        },
+        {
+          "end": 12,
+          "start": 8,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "门槛"
+        },
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "反差"
+        },
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "露出"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6aydmsBIgs",
+          "end": 48,
+          "expanded_url": "https://x.com/a23937117/status/2078709203632308332/photo/1",
+          "media_key": "3_2078709197873573888",
+          "start": 25,
+          "url": "https://t.co/6aydmsBIgs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078709203632308332",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "豹\n\n#福利姬 #门槛妹 #门槛 #反差 #露出 https://t.co/6aydmsBIgs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078709197873573888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkPAIKXcAAjHHQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078709197873573888"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2078709203632308332",
+        "created_at": "2026-07-19T05:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078709203632308332"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 3,
+              "tag": "福利姬"
+            },
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "门槛"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "反差"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "露出"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6aydmsBIgs",
+              "end": 48,
+              "expanded_url": "https://x.com/a23937117/status/2078709203632308332/photo/1",
+              "media_key": "3_2078709197873573888",
+              "start": 25,
+              "url": "https://t.co/6aydmsBIgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078709203632308332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豹\n\n#福利姬 #门槛妹 #门槛 #反差 #露出 https://t.co/6aydmsBIgs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 190,
+          "like_count": 1445,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 798
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": true
+      }
+    ]
+  }
+}

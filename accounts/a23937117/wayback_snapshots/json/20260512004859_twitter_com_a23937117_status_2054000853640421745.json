@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054000845809688576",
+        "3_2054000845818081280"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2054000853640421745",
+    "created_at": "2026-05-12T00:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T01:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054000853640421745"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 67,
+          "start": 64,
+          "tag": "武汉"
+        },
+        {
+          "end": 71,
+          "start": 68,
+          "tag": "广州"
+        },
+        {
+          "end": 75,
+          "start": 72,
+          "tag": "门槛"
+        },
+        {
+          "end": 80,
+          "start": 76,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 84,
+          "start": 81,
+          "tag": "线下"
+        },
+        {
+          "end": 89,
+          "start": 85,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 94,
+          "start": 91,
+          "tag": "三陪"
+        },
+        {
+          "end": 99,
+          "start": 95,
+          "tag": "COS"
+        },
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "反差"
+        },
+        {
+          "end": 107,
+          "start": 104,
+          "tag": "女大"
+        },
+        {
+          "end": 111,
+          "start": 108,
+          "tag": "华裔"
+        },
+        {
+          "end": 118,
+          "start": 113,
+          "tag": "原味定制"
+        },
+        {
+          "end": 122,
+          "start": 119,
+          "tag": "原味"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qdnHPtEjCI",
+          "end": 146,
+          "expanded_url": "https://x.com/a23937117/status/2054000853640421745/photo/1",
+          "media_key": "3_2054000845809688576",
+          "start": 123,
+          "url": "https://t.co/qdnHPtEjCI"
+        },
+        {
+          "display_url": "pic.x.com/qdnHPtEjCI",
+          "end": 146,
+          "expanded_url": "https://x.com/a23937117/status/2054000853640421745/photo/1",
+          "media_key": "3_2054000845818081280",
+          "start": 123,
+          "url": "https://t.co/qdnHPtEjCI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054000853640421745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "需要很多钱，所以七八月难得回国，准备接几个线下，不接太多因为时间很急，有没有喜欢豹的，愿意来见豹~໒꒰ྀི ∩⸝⸝∩ ꒱ྀི১\n#武汉 #广州 #门槛 #门槛妹 #线下 #爸爸活  #三陪 #COS #反差 #女大 #华裔  #原味定制 #原味 https://t.co/qdnHPtEjCI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054000845809688576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFG4v7WoAAkvek.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054000845818081280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFG4v9WsAAeTcN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054000845809688576",
+            "3_2054000845818081280"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2054000853640421745",
+        "created_at": "2026-05-12T00:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T01:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054000853640421745"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "武汉"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "广州"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "门槛"
+            },
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "线下"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "三陪"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "COS"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "反差"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "女大"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "华裔"
+            },
+            {
+              "end": 118,
+              "start": 113,
+              "tag": "原味定制"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "原味"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qdnHPtEjCI",
+              "end": 146,
+              "expanded_url": "https://x.com/a23937117/status/2054000853640421745/photo/1",
+              "media_key": "3_2054000845809688576",
+              "start": 123,
+              "url": "https://t.co/qdnHPtEjCI"
+            },
+            {
+              "display_url": "pic.x.com/qdnHPtEjCI",
+              "end": 146,
+              "expanded_url": "https://x.com/a23937117/status/2054000853640421745/photo/1",
+              "media_key": "3_2054000845818081280",
+              "start": 123,
+              "url": "https://t.co/qdnHPtEjCI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054000853640421745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "需要很多钱，所以七八月难得回国，准备接几个线下，不接太多因为时间很急，有没有喜欢豹的，愿意来见豹~໒꒰ྀི ∩⸝⸝∩ ꒱ྀི১\n#武汉 #广州 #门槛 #门槛妹 #线下 #爸爸活  #三陪 #COS #反差 #女大 #华裔  #原味定制 #原味 https://t.co/qdnHPtEjCI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 202,
+          "like_count": 1409,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 765
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

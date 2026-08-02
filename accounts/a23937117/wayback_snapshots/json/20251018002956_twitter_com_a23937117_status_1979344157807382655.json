@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1979344157807382655",
+    "created_at": "2025-10-18T00:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T01:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979344157807382655"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/neahaigen/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/neahaigen/status/1978639702304399364",
+          "start": 16,
+          "url": "https://t.co/xisu3psr3l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979344157807382655",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978639702304399364",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好幸福，我也要送一个然后就去死 https://t.co/xisu3psr3l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_1978638760586670080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3WJeC-WcAA_7Mj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1979344157807382655",
+        "created_at": "2025-10-18T00:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T01:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979344157807382655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/neahaigen/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/neahaigen/status/1978639702304399364",
+              "start": 16,
+              "url": "https://t.co/xisu3psr3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979344157807382655",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978639702304399364",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好幸福，我也要送一个然后就去死 https://t.co/xisu3psr3l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978638760586670080"
+          ]
+        },
+        "author_id": "880979040785575936",
+        "conversation_id": "1978639702304399364",
+        "created_at": "2025-10-16T01:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T02:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978639702304399364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yXVHiGmtS4",
+              "end": 40,
+              "expanded_url": "https://x.com/NeahaigeN/status/1978639702304399364/photo/1",
+              "media_key": "3_1978638760586670080",
+              "start": 17,
+              "url": "https://t.co/yXVHiGmtS4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978639702304399364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 59025,
+          "like_count": 1312,
+          "quote_count": 9,
+          "reply_count": 23,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "一早起來看到這個故事\n心揪了一下 https://t.co/yXVHiGmtS4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 人在海外 人在海外！！！ 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 218,
+          "like_count": 1302,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 709
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-01T02:39:05.000Z",
+        "description": "攝影、OPED、精華、PV、轉場等影音製作\n諮詢、委託，皆可直接私訊推特或傳DC:maome775\n來訊不代表下委託，輕鬆自在禮貌地發訊息即可\n急件亦可 首次傳訊可留言提醒\n\n計費標準與部份作品 https://t.co/QpKZayrwgb\n委託作品皆可商用且開放加工，委託人發佈作品亦不需標明作者",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/anikizilla",
+                "end": 121,
+                "expanded_url": "http://linktr.ee/anikizilla",
+                "start": 98,
+                "url": "https://t.co/QpKZayrwgb"
+              }
+            ]
+          }
+        },
+        "id": "880979040785575936",
+        "name": "AnikiZilla📷開放各式影音映像委託，詳見簡介網址",
+        "pinned_tweet_id": "1907471973036470372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780920381013999616/LaUV_8Xn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 70,
+          "like_count": 1953,
+          "listed_count": 9,
+          "media_count": 95,
+          "tweet_count": 774
+        },
+        "username": "NeahaigeN",
+        "verified": false
+      }
+    ]
+  }
+}

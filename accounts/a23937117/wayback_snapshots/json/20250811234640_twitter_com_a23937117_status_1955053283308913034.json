@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943129962976022528"
+      ],
+      "media_source_tweet_id": [
+        "1943129971901219098"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955053283308913034",
+    "created_at": "2025-08-11T23:46:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T00:46:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955053283308913034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1869612258910932992",
+          "start": 3,
+          "username": "Amuamu75_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9etBk7wQjO",
+          "end": 131,
+          "expanded_url": "https://x.com/Amuamu75_/status/1943129971901219098/photo/1",
+          "media_key": "3_1943129962976022528",
+          "start": 108,
+          "url": "https://t.co/9etBk7wQjO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955053283308913034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943129971901219098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Amuamu75_: 新置顶🔝\n哈喽我是Nyan08 158｜45kg \n希望流量好起来\n求求你们了\n极度缺钱过🚪可以和我聊\n欢迎女孩子来找我互fo互转私信我就可以啦～\n求求你了 求求你了 求求大家帮帮我喵 https://t.co/9etBk7wQjO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955053283308913034].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955053283308913034",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955053283308913034"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1943129962976022528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvdiZ_uakAA5PV9.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943129962976022528"
+          ]
+        },
+        "author_id": "1869612258910932992",
+        "conversation_id": "1943129971901219098",
+        "created_at": "2025-07-10T02:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T03:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943129971901219098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9etBk7wQjO",
+              "end": 116,
+              "expanded_url": "https://x.com/Amuamu75_/status/1943129971901219098/photo/1",
+              "media_key": "3_1943129962976022528",
+              "start": 93,
+              "url": "https://t.co/9etBk7wQjO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943129971901219098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 19685,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "新置顶🔝\n哈喽我是Nyan08 158｜45kg \n希望流量好起来\n求求你们了\n极度缺钱过🚪可以和我聊\n欢迎女孩子来找我互fo互转私信我就可以啦～\n求求你了 求求你了 求求大家帮帮我喵 https://t.co/9etBk7wQjO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 230,
+          "like_count": 1075,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 550
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-19T05:14:53.000Z",
+        "description": "🚪88：好友位 188：开放朋友圈 偶尔回复 288：可以找我聊天 看到了就会回复  520:陪聊 1314：一月女友 不知道会不会有人入..我一直在等   不退门槛 我会伤心",
+        "id": "1869612258910932992",
+        "name": "Nyan",
+        "pinned_tweet_id": "1943129971901219098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916321594135498752/APrHnjFR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 165,
+          "like_count": 17,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 62
+        },
+        "username": "Amuamu75_",
+        "verified": false
+      }
+    ]
+  }
+}

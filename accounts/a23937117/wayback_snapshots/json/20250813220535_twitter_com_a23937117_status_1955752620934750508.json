@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955479831644372992",
+        "3_1955479831669551105"
+      ],
+      "media_source_tweet_id": [
+        "1955479885071483133",
+        "1955479885071483133"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955752620934750508",
+    "created_at": "2025-08-13T22:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T23:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955752620934750508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1955477311467425793",
+          "start": 3,
+          "username": "Ngv2nZ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kf8l5t3oEc",
+          "end": 115,
+          "expanded_url": "https://x.com/Ngv2nZ/status/1955479885071483133/photo/1",
+          "media_key": "3_1955479831644372992",
+          "start": 92,
+          "url": "https://t.co/kf8l5t3oEc"
+        },
+        {
+          "display_url": "pic.x.com/kf8l5t3oEc",
+          "end": 115,
+          "expanded_url": "https://x.com/Ngv2nZ/status/1955479885071483133/photo/1",
+          "media_key": "3_1955479831669551105",
+          "start": 92,
+          "url": "https://t.co/kf8l5t3oEc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955752620934750508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955479885071483133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ngv2nZ: 由于家里没人管我只好下海的小齐^_^              \n🚪52加好友聊天纯绿\n🚪128一部分图包加聊天\n🚪228全部图包聊天加一次语音聊天\n上不封顶 https://t.co/kf8l5t3oEc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955752620934750508].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955752620934750508",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955752620934750508"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955479831644372992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyNCi9qagAAKfp7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 806,
+        "media_key": "3_1955479831669551105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyNCi9wasAEl2A6.jpg",
+        "width": 803
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955479831644372992",
+            "3_1955479831669551105"
+          ]
+        },
+        "author_id": "1955477311467425793",
+        "conversation_id": "1955479885071483133",
+        "created_at": "2025-08-13T04:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T05:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955479885071483133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kf8l5t3oEc",
+              "end": 103,
+              "expanded_url": "https://x.com/Ngv2nZ/status/1955479885071483133/photo/1",
+              "media_key": "3_1955479831644372992",
+              "start": 80,
+              "url": "https://t.co/kf8l5t3oEc"
+            },
+            {
+              "display_url": "pic.x.com/kf8l5t3oEc",
+              "end": 103,
+              "expanded_url": "https://x.com/Ngv2nZ/status/1955479885071483133/photo/1",
+              "media_key": "3_1955479831669551105",
+              "start": 80,
+              "url": "https://t.co/kf8l5t3oEc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955479885071483133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2209,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "由于家里没人管我只好下海的小齐^_^              \n🚪52加好友聊天纯绿\n🚪128一部分图包加聊天\n🚪228全部图包聊天加一次语音聊天\n上不封顶 https://t.co/kf8l5t3oEc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 230,
+          "like_count": 1083,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 588
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T03:51:44.000Z",
+        "description": "",
+        "id": "1955477311467425793",
+        "name": "小齐",
+        "pinned_tweet_id": "1955479885071483133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955477513444134912/SaAX8VA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 8,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 72
+        },
+        "username": "Ngv2nZ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2039524058539213021",
+    "created_at": "2026-04-02T02:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T03:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039524058539213021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1747291885100744704",
+          "start": 3,
+          "username": "gracexiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039524058539213021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039263958218248427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gracexiya: 如何拧巴的人相处的方式\n\n因为自己曾是一位拧巴的人\n所以我现在已经充分掌握了这个技能\n\n对方说出“我讨厌你了”\n：又讨厌我了啊？那说说这次为什么讨厌我？\n\n对方说出“我不喜欢你”\n：可是我喜欢你耶 真的不喜欢我吗？\n\n对方说出“你在干嘛”\n：又想我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2039524058539213021",
+        "created_at": "2026-04-02T02:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T03:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039524058539213021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1747291885100744704",
+              "start": 3,
+              "username": "gracexiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039524058539213021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039263958218248427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gracexiya: 如何拧巴的人相处的方式\n\n因为自己曾是一位拧巴的人\n所以我现在已经充分掌握了这个技能\n\n对方说出“我讨厌你了”\n：又讨厌我了啊？那说说这次为什么讨厌我？\n\n对方说出“我不喜欢你”\n：可是我喜欢你耶 真的不喜欢我吗？\n\n对方说出“你在干嘛”\n：又想我…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747291885100744704",
+        "conversation_id": "2039263958218248427",
+        "created_at": "2026-04-01T08:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T09:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039263958218248427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039263958218248427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 269,
+                "start": 266,
+                "tag": "拧巴"
+              }
+            ]
+          },
+          "text": "如何拧巴的人相处的方式\n\n因为自己曾是一位拧巴的人\n所以我现在已经充分掌握了这个技能\n\n对方说出“我讨厌你了”\n：又讨厌我了啊？那说说这次为什么讨厌我？\n\n对方说出“我不喜欢你”\n：可是我喜欢你耶 真的不喜欢我吗？\n\n对方说出“你在干嘛”\n：又想我了吗？今天干什么了？\n\n对方说出“你走开”\n：走多久？不要走嘛 我好累 走不动\n\n真讨厌你的人会把你拉黑 \n拧巴的人拉黑你 会留个小门给你找ta的\n就看你找不找到了\n\n但我一定会先说明 我的耐心有限\n别每次都是我给对方台阶下\n\n拧巴不是借口 在我教导你的过程\n请你学会 如何好好沟通\n#拧巴"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 6535,
+          "like_count": 136,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "如何拧巴的人相处的方式\n\n因为自己曾是一位拧巴的人\n所以我现在已经充分掌握了这个技能\n\n对方说出“我讨厌你了”\n：又讨厌我了啊？那说说这次为什么讨厌我？\n\n对方说出“我不喜欢你”\n：可是我喜欢你耶 真的不喜欢我吗？\n\n对方说出“你在干嘛”\n：又想我了吗？今天干什么了？\n\n对方说出“你走开”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 204,
+          "like_count": 1397,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 797
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T16:17:30.000Z",
+        "description": "失眠好烦\n少关注我\n三观不正\n不聊骚 \n有对象",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/grace51066",
+                "end": 23,
+                "expanded_url": "https://ngl.link/grace51066",
+                "start": 0,
+                "url": "https://t.co/TuMWnxWHw6"
+              }
+            ]
+          }
+        },
+        "id": "1747291885100744704",
+        "name": "桉",
+        "pinned_tweet_id": "1920696799951511581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037130171866865664/MfTgtFAd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17015,
+          "following_count": 1,
+          "like_count": 25716,
+          "listed_count": 21,
+          "media_count": 736,
+          "tweet_count": 5932
+        },
+        "url": "https://t.co/TuMWnxWHw6",
+        "username": "gracexiya",
+        "verified": true
+      }
+    ]
+  }
+}

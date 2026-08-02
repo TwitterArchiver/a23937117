@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1944798816718188893",
+    "created_at": "2025-07-14T23:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T00:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944895591907254502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1943704460813041665",
+          "start": 0,
+          "username": "kasaikoxyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944895591907254502",
+    "in_reply_to_user_id": "1943704460813041665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944893203037216816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kasaikoxyg 来啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1944798816718188893",
+        "created_at": "2025-07-14T23:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T00:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944895591907254502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1943704460813041665",
+              "start": 0,
+              "username": "kasaikoxyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944895591907254502",
+        "in_reply_to_user_id": "1943704460813041665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944893203037216816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kasaikoxyg 来啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943704460813041665",
+        "conversation_id": "1944798816718188893",
+        "created_at": "2025-07-14T22:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T23:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944893203037216816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442350932977610752",
+              "start": 0,
+              "username": "a23937117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944893203037216816",
+        "in_reply_to_user_id": "1442350932977610752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944798816718188893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a23937117 好像很好玩！我要我要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 155,
+          "like_count": 927,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 320
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T16:10:40.000Z",
+        "description": "新人药娘hrt三个月，偶尔od，请多关照，本人有点小秘密，请期待",
+        "id": "1943704460813041665",
+        "name": "浅羽笠井子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943704888426582016/8p8MdfCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 141,
+          "like_count": 514,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 125
+        },
+        "username": "kasaikoxyg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1937026730574934060",
+    "created_at": "2025-06-24T01:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T02:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937325690120208416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1839576161707560960",
+          "start": 0,
+          "username": "h_lb225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937325690120208416",
+    "in_reply_to_user_id": "1839576161707560960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937026730574934060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h_lb225 黑鸦片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1937026730574934060",
+        "created_at": "2025-06-24T01:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T02:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937325690120208416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1839576161707560960",
+              "start": 0,
+              "username": "h_lb225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937325690120208416",
+        "in_reply_to_user_id": "1839576161707560960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937026730574934060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h_lb225 黑鸦片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839576161707560960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          }
+        ],
+        "conversation_id": "1937026730574934060",
+        "created_at": "2025-06-23T05:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T06:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937026730574934060"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937026730574934060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 5673,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 80,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "路过的都留下你们现在用的香水🤲\n想换香水了 现在用的阿玛尼玉龙有点腻了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "kissing",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 130,
+          "like_count": 814,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 154
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-27T08:02:07.000Z",
+        "description": "天天发财 不回私信\n很喜欢有趣的人也很喜欢有意思的人\nhttps://t.co/xp7AVnfXdZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lookinmy_eyes",
+                "end": 50,
+                "expanded_url": "https://ngl.link/lookinmy_eyes",
+                "start": 27,
+                "url": "https://t.co/xp7AVnfXdZ"
+              }
+            ]
+          }
+        },
+        "id": "1839576161707560960",
+        "location": "ฅ•ω•ฅ",
+        "name": "唠叨薯条",
+        "pinned_tweet_id": "1842819733789483273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927981039894548480/89qt3a97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 160,
+          "like_count": 834,
+          "listed_count": 4,
+          "media_count": 69,
+          "tweet_count": 388
+        },
+        "username": "h_lb225",
+        "verified": false
+      }
+    ]
+  }
+}

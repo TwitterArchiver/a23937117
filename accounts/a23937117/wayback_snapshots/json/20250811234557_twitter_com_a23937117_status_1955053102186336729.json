@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954769452433874944",
+        "3_1954769452450586624"
+      ],
+      "media_source_tweet_id": [
+        "1954769464148557868",
+        "1954769464148557868"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955053102186336729",
+    "created_at": "2025-08-11T23:45:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T00:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955053102186336729"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "门槛"
+        },
+        {
+          "end": 70,
+          "start": 66,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "非绿"
+        },
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "金主"
+        },
+        {
+          "end": 84,
+          "start": 80,
+          "tag": "求包养"
+        },
+        {
+          "end": 89,
+          "start": 85,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 93,
+          "start": 90,
+          "tag": "女大"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "反差"
+        },
+        {
+          "end": 101,
+          "start": 98,
+          "tag": "线下"
+        },
+        {
+          "end": 106,
+          "start": 102,
+          "tag": "爸爸活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1268918008354942977",
+          "start": 3,
+          "username": "Nirart_s"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nVyGCxG1hm",
+          "end": 130,
+          "expanded_url": "https://x.com/Nirart_s/status/1954769464148557868/photo/1",
+          "media_key": "3_1954769452433874944",
+          "start": 107,
+          "url": "https://t.co/nVyGCxG1hm"
+        },
+        {
+          "display_url": "pic.x.com/nVyGCxG1hm",
+          "end": 130,
+          "expanded_url": "https://x.com/Nirart_s/status/1954769464148557868/photo/1",
+          "media_key": "3_1954769452450586624",
+          "start": 107,
+          "url": "https://t.co/nVyGCxG1hm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955053102186336729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954769464148557868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nirart_s: 04 女大\n希望开一个属于自己的花店\n主打一个情绪价值\n欢迎哥哥入🚪找我玩\n互转互fo大欢迎！\n#门槛 #门槛妹 #非绿 #金主  #求包养 #爸爸活 #女大 #反差 #线下 #爸爸活 https://t.co/nVyGCxG1hm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955053102186336729].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955053102186336729",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955053102186336729"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1112,
+        "media_key": "3_1954769452433874944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyC8dc4bIAAQL8X.jpg",
+        "width": 1284
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1954769452450586624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyC8dc8aIAAL88_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954769452433874944",
+            "3_1954769452450586624"
+          ]
+        },
+        "author_id": "1268918008354942977",
+        "conversation_id": "1954769464148557868",
+        "created_at": "2025-08-11T04:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T05:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954769464148557868"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "门槛"
+            },
+            {
+              "end": 56,
+              "start": 52,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "非绿"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "金主"
+            },
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "求包养"
+            },
+            {
+              "end": 75,
+              "start": 71,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "女大"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "反差"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "线下"
+            },
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nVyGCxG1hm",
+              "end": 116,
+              "expanded_url": "https://x.com/Nirart_s/status/1954769464148557868/photo/1",
+              "media_key": "3_1954769452433874944",
+              "start": 93,
+              "url": "https://t.co/nVyGCxG1hm"
+            },
+            {
+              "display_url": "pic.x.com/nVyGCxG1hm",
+              "end": 116,
+              "expanded_url": "https://x.com/Nirart_s/status/1954769464148557868/photo/1",
+              "media_key": "3_1954769452450586624",
+              "start": 93,
+              "url": "https://t.co/nVyGCxG1hm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954769464148557868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 621,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "04 女大\n希望开一个属于自己的花店\n主打一个情绪价值\n欢迎哥哥入🚪找我玩\n互转互fo大欢迎！\n#门槛 #门槛妹 #非绿 #金主  #求包养 #爸爸活 #女大 #反差 #线下 #爸爸活 https://t.co/nVyGCxG1hm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 228,
+          "like_count": 1075,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 548
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-05T14:50:13.000Z",
+        "description": "04 女大 坐标20r 欢迎女宝找我互转互fo ！",
+        "id": "1268918008354942977",
+        "name": "小欣（接线下版）",
+        "pinned_tweet_id": "1954769464148557868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945682979142926336/jcUAZO01_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 44,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 188
+        },
+        "username": "Nirart_s",
+        "verified": false
+      }
+    ]
+  }
+}

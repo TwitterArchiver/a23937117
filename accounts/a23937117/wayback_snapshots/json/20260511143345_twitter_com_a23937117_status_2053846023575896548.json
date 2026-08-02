@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053673232457433317",
+    "created_at": "2026-05-11T14:33:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T15:33:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053846023575896548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1755369367624110080",
+          "start": 0,
+          "username": "nanakau_le"
+        },
+        {
+          "end": 22,
+          "id": "1868117602356359168",
+          "start": 12,
+          "username": "maimaiRC_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053846023575896548",
+    "in_reply_to_user_id": "1755369367624110080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053802524269002960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanakau_le @maimaiRC_ 笑死我了，小言怎么会在这看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2053673232457433317",
+        "created_at": "2026-05-11T14:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053846023575896548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1755369367624110080",
+              "start": 0,
+              "username": "nanakau_le"
+            },
+            {
+              "end": 22,
+              "id": "1868117602356359168",
+              "start": 12,
+              "username": "maimaiRC_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053846023575896548",
+        "in_reply_to_user_id": "1755369367624110080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053802524269002960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanakau_le @maimaiRC_ 笑死我了，小言怎么会在这看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755369367624110080",
+        "conversation_id": "2053673232457433317",
+        "created_at": "2026-05-11T11:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053802524269002960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1868117602356359168",
+              "start": 0,
+              "username": "maimaiRC_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053802524269002960",
+        "in_reply_to_user_id": "1868117602356359168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053673232457433317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maimaiRC_ 我有宰猪场老板电话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 202,
+          "like_count": 1409,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 756
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T23:14:21.000Z",
+        "description": "no",
+        "id": "1755369367624110080",
+        "name": "nanakau",
+        "pinned_tweet_id": "1942673920471228540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942655867322552320/cSu50SPU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2919,
+          "following_count": 132,
+          "like_count": 316,
+          "listed_count": 16,
+          "media_count": 16,
+          "tweet_count": 179
+        },
+        "username": "nanakau_le",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T02:15:26.000Z",
+        "description": "交友投稿| 情感分析|大赛举办｜分享宝宝们的日常｜偶尔抽奖|接正规有偿转发｜所有投稿均已认证｜可接认证｜推广自辨｜私信容易被吞 若未回复滴我✈️ https://t.co/6DZKgy1VqO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/shaobei_XZ",
+                "end": 96,
+                "expanded_url": "https://t.me/shaobei_XZ",
+                "start": 73,
+                "url": "https://t.co/6DZKgy1VqO"
+              }
+            ]
+          }
+        },
+        "id": "1868117602356359168",
+        "location": "爱这里💙",
+        "name": "烧杯学长",
+        "pinned_tweet_id": "2027673517630824782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003105127641808896/f4vQS7RF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174652,
+          "following_count": 257,
+          "like_count": 945,
+          "listed_count": 224,
+          "media_count": 1860,
+          "tweet_count": 2705
+        },
+        "username": "maimaiRC_",
+        "verified": true
+      }
+    ]
+  }
+}

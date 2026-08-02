@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1981368495645610390",
+    "created_at": "2025-10-24T01:26:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T02:26:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981532825011597714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "764109768587751424",
+          "start": 0,
+          "username": "DSPTracy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981532825011597714",
+    "in_reply_to_user_id": "764109768587751424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981368495645610390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DSPTracy 创伤低不代表好啊，代表和家庭割裂冷漠，正常人都在两百左右浮动的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1143,
+        "media_key": "3_1981368486375940096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G388I_-XYAAq6BN.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1981368495645610390",
+        "created_at": "2025-10-24T01:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T02:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981532825011597714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "764109768587751424",
+              "start": 0,
+              "username": "DSPTracy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981532825011597714",
+        "in_reply_to_user_id": "764109768587751424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981368495645610390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DSPTracy 创伤低不代表好啊，代表和家庭割裂冷漠，正常人都在两百左右浮动的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981368486375940096"
+          ]
+        },
+        "author_id": "764109768587751424",
+        "conversation_id": "1981368495645610390",
+        "created_at": "2025-10-23T14:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T15:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981368495645610390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j91al9JgW2",
+              "end": 88,
+              "expanded_url": "https://x.com/DSPTracy/status/1981368495645610390/photo/1",
+              "media_key": "3_1981368486375940096",
+              "start": 65,
+              "url": "https://t.co/j91al9JgW2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981368495645610390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2448,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟风也测一个。其实作为一个打记事起就没有和父母待过完整一天的孩子，我对我原生家庭的问题是很清楚的，不知道为什么测出来创伤这么低🫠 https://t.co/j91al9JgW2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 221,
+          "like_count": 1309,
+          "listed_count": 3,
+          "media_count": 200,
+          "tweet_count": 730
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-12T14:42:20.000Z",
+        "description": "Our shadow is taller than our soul. 止推. 其他@rep_tracy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "rep_tracy"
+              }
+            ]
+          }
+        },
+        "id": "764109768587751424",
+        "name": "DesperT",
+        "pinned_tweet_id": "1754171324245930115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859782418489802761/WXXMCQzN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 61,
+          "like_count": 9827,
+          "listed_count": 7,
+          "media_count": 420,
+          "tweet_count": 4241
+        },
+        "username": "DSPTracy",
+        "verified": false
+      }
+    ]
+  }
+}

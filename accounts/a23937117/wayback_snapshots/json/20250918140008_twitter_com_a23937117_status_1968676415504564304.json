@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1968357106505146401",
+    "created_at": "2025-09-18T14:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T15:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968676415504564304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1950521580288884736",
+          "start": 0,
+          "username": "AmeKam10623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968676415504564304",
+    "in_reply_to_user_id": "1950521580288884736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968357106505146401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmeKam10623 他们只生不养，我们只是想活下去，没有做错任何事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1968357106505146401",
+        "created_at": "2025-09-18T14:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T15:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968676415504564304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1950521580288884736",
+              "start": 0,
+              "username": "AmeKam10623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968676415504564304",
+        "in_reply_to_user_id": "1950521580288884736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968357106505146401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeKam10623 他们只生不养，我们只是想活下去，没有做错任何事情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950521580288884736",
+        "conversation_id": "1968357106505146401",
+        "created_at": "2025-09-17T16:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T17:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968357106505146401"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968357106505146401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 27429,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "甚至我家欠了幾百萬，我要怎麼辦，他們沒有錢撫養我，我就不能出賣身體了嗎，錢可以解決一切問題，有了錢我才能活下去我想帶爸爸媽媽過上好日子，我衹是下海了，我到底惹誰了，沒錢怎麼活怎麼活怎麼活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88—谈恋爱了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 215,
+          "like_count": 1206,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 679
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T11:39:27.000Z",
+        "description": "花沢あめ/花泽雨ame 再多了解我一点吧",
+        "id": "1950521580288884736",
+        "location": "🚪199/288/388/520/1314",
+        "name": "ここはあめよ",
+        "pinned_tweet_id": "1956656944619696412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953031902992175104/BS0-iCNw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4864,
+          "following_count": 95,
+          "like_count": 190,
+          "listed_count": 9,
+          "media_count": 31,
+          "tweet_count": 217
+        },
+        "username": "AmeKam10623",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1943369415057350819",
+    "created_at": "2025-07-10T20:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T21:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943408584403845367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916074220108582912",
+          "start": 0,
+          "username": "GlyndaMcdo97923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943408584403845367",
+    "in_reply_to_user_id": "1916074220108582912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943369415057350819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GlyndaMcdo97923 小荠！萌物"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1943369391367741440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvg8Kj_XYAAA5SD.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3088,
+        "media_key": "3_1943369391543914497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvg8KkpXkAEymC2.jpg",
+        "width": 2316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1943369415057350819",
+        "created_at": "2025-07-10T20:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T21:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943408584403845367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916074220108582912",
+              "start": 0,
+              "username": "GlyndaMcdo97923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943408584403845367",
+        "in_reply_to_user_id": "1916074220108582912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943369415057350819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GlyndaMcdo97923 小荠！萌物"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943369391367741440",
+            "3_1943369391543914497"
+          ]
+        },
+        "author_id": "1916074220108582912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1542074970544566273",
+              "name": "よふかしのうた"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          }
+        ],
+        "conversation_id": "1943369415057350819",
+        "created_at": "2025-07-10T17:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T18:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943369415057350819"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "七草荠"
+            },
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "彻夜之歌"
+            },
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "七草ナズナ"
+            },
+            {
+              "end": 26,
+              "start": 18,
+              "tag": "よふかしのうた"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ozUxX6ohZj",
+              "end": 59,
+              "expanded_url": "https://x.com/GlyndaMcdo97923/status/1943369415057350819/photo/1",
+              "media_key": "3_1943369391367741440",
+              "start": 36,
+              "url": "https://t.co/ozUxX6ohZj"
+            },
+            {
+              "display_url": "pic.x.com/ozUxX6ohZj",
+              "end": 59,
+              "expanded_url": "https://x.com/GlyndaMcdo97923/status/1943369415057350819/photo/1",
+              "media_key": "3_1943369391543914497",
+              "start": 36,
+              "url": "https://t.co/ozUxX6ohZj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943369415057350819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#七草荠 #彻夜之歌 #七草ナズナ #よふかしのうた 试试彻夜不眠吧~ https://t.co/ozUxX6ohZj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 134,
+          "like_count": 875,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 231
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです!🚪88/128/288/520爱我请打钱!纯绿纯绿纯绿 让我不舒服我会直接删除 底线很顽强不用问了仅纯绿",
+        "id": "1916074220108582912",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "1930674013401182714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930605203939827712/FSWOWu3Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 59,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 344
+        },
+        "username": "GlyndaMcdo97923",
+        "verified": false
+      }
+    ]
+  }
+}

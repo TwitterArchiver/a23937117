@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951438181607546881",
+        "3_1951438181611831296"
+      ],
+      "media_source_tweet_id": [
+        "1951438195494887516",
+        "1951438195494887516"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962538853371113651",
+    "created_at": "2025-09-01T15:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T16:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962538853371113651"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "非绿"
+        },
+        {
+          "end": 89,
+          "start": 86,
+          "tag": "线下"
+        },
+        {
+          "end": 95,
+          "start": 90,
+          "tag": "线下足交"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "半绿"
+        },
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "全绿"
+        },
+        {
+          "end": 108,
+          "start": 104,
+          "tag": "江浙沪"
+        },
+        {
+          "end": 113,
+          "start": 109,
+          "tag": "爸爸活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1911658626764226560",
+          "start": 3,
+          "username": "8v7Jns4Rfl28594"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uSsRzOaIlR",
+          "end": 137,
+          "expanded_url": "https://x.com/8v7Jns4Rfl28594/status/1951438195494887516/photo/1",
+          "media_key": "3_1951438181607546881",
+          "start": 114,
+          "url": "https://t.co/uSsRzOaIlR"
+        },
+        {
+          "display_url": "pic.x.com/uSsRzOaIlR",
+          "end": 137,
+          "expanded_url": "https://x.com/8v7Jns4Rfl28594/status/1951438195494887516/photo/1",
+          "media_key": "3_1951438181611831296",
+          "start": 114,
+          "url": "https://t.co/uSsRzOaIlR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962538853371113651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951438195494887516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8v7Jns4Rfl28594: 欢迎来过ano的门槛啦 爸爸们我爱你们 \n女宝可以互of互转！ 女宝欢迎 男宝过门槛哦！ 爱你们 抽转发里三个188红包🧧#非绿 #线下 #线下足交 #半绿 #全绿 #江浙沪 #爸爸活 https://t.co/uSsRzOaIlR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1951438181607546881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxTmr9_aIAEy9Ic.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1951438181611831296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxTmr-AbgAAlrww.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951438181607546881",
+            "3_1951438181611831296"
+          ],
+          "media_source_tweet_id": [
+            "1951438195494887516",
+            "1951438195494887516"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "1962538853371113651",
+        "created_at": "2025-09-01T15:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T16:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962538853371113651"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "非绿"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "线下"
+            },
+            {
+              "end": 95,
+              "start": 90,
+              "tag": "线下足交"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "半绿"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "全绿"
+            },
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 113,
+              "start": 109,
+              "tag": "爸爸活"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1911658626764226560",
+              "start": 3,
+              "username": "8v7Jns4Rfl28594"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uSsRzOaIlR",
+              "end": 137,
+              "expanded_url": "https://x.com/8v7Jns4Rfl28594/status/1951438195494887516/photo/1",
+              "media_key": "3_1951438181607546881",
+              "start": 114,
+              "url": "https://t.co/uSsRzOaIlR"
+            },
+            {
+              "display_url": "pic.x.com/uSsRzOaIlR",
+              "end": 137,
+              "expanded_url": "https://x.com/8v7Jns4Rfl28594/status/1951438195494887516/photo/1",
+              "media_key": "3_1951438181611831296",
+              "start": 114,
+              "url": "https://t.co/uSsRzOaIlR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962538853371113651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951438195494887516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8v7Jns4Rfl28594: 欢迎来过ano的门槛啦 爸爸们我爱你们 \n女宝可以互of互转！ 女宝欢迎 男宝过门槛哦！ 爱你们 抽转发里三个188红包🧧#非绿 #线下 #线下足交 #半绿 #全绿 #江浙沪 #爸爸活 https://t.co/uSsRzOaIlR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951438181607546881",
+            "3_1951438181611831296"
+          ]
+        },
+        "author_id": "1911658626764226560",
+        "conversation_id": "1951438195494887516",
+        "created_at": "2025-08-02T00:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T01:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951438195494887516"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "非绿"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "线下"
+            },
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "线下足交"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "半绿"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "全绿"
+            },
+            {
+              "end": 87,
+              "start": 83,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uSsRzOaIlR",
+              "end": 116,
+              "expanded_url": "https://x.com/8v7Jns4Rfl28594/status/1951438195494887516/photo/1",
+              "media_key": "3_1951438181607546881",
+              "start": 93,
+              "url": "https://t.co/uSsRzOaIlR"
+            },
+            {
+              "display_url": "pic.x.com/uSsRzOaIlR",
+              "end": 116,
+              "expanded_url": "https://x.com/8v7Jns4Rfl28594/status/1951438195494887516/photo/1",
+              "media_key": "3_1951438181611831296",
+              "start": 93,
+              "url": "https://t.co/uSsRzOaIlR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951438195494887516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 19381,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎来过ano的门槛啦 爸爸们我爱你们 \n女宝可以互of互转！ 女宝欢迎 男宝过门槛哦！ 爱你们 抽转发里三个188红包🧧#非绿 #线下 #线下足交 #半绿 #全绿 #江浙沪 #爸爸活 https://t.co/uSsRzOaIlR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 201,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 688
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T05:52:37.000Z",
+        "description": "欢迎女宝跟我互of互转 🚪99 /188/520 坐标江浙沪可以接线下！线下请过288 在ed中现身高165体重115 罩杯c",
+        "id": "1911658626764226560",
+        "name": "瑞穗（只回口令",
+        "pinned_tweet_id": "1951438195494887516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911658956545560576/9zikmWnu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 145,
+          "like_count": 8,
+          "listed_count": 3,
+          "media_count": 36,
+          "tweet_count": 383
+        },
+        "username": "8v7Jns4Rfl28594",
+        "verified": false
+      }
+    ]
+  }
+}

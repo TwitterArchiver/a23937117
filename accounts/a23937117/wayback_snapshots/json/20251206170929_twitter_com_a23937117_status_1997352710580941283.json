@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1997195777681314205",
+    "created_at": "2025-12-06T17:09:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T18:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997352710580941283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1844723689851699200",
+          "start": 0,
+          "username": "Mary365366"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997352710580941283",
+    "in_reply_to_user_id": "1844723689851699200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997239239411708269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mary365366 ꒦ິ^꒦ິ好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1997195777681314205",
+        "created_at": "2025-12-06T17:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T18:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997352710580941283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1844723689851699200",
+              "start": 0,
+              "username": "Mary365366"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997352710580941283",
+        "in_reply_to_user_id": "1844723689851699200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997239239411708269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mary365366 ꒦ິ^꒦ິ好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844723689851699200",
+        "conversation_id": "1997195777681314205",
+        "created_at": "2025-12-06T09:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T10:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997239239411708269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442350932977610752",
+              "start": 0,
+              "username": "a23937117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997239239411708269",
+        "in_reply_to_user_id": "1442350932977610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997195777681314205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a23937117 自慰就自慰呗，男生性能力本来就比不了女生，满足不了自己解决很正常，只要不出轨根本不是那回事，你跟男朋友说，他应该也会支持你的，有些男生还喜欢看自己女朋友自慰呢，甚至有时候想打游戏，女朋友自己自慰更省事，比如我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover  谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 215,
+          "like_count": 1340,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 754
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-11T12:56:28.000Z",
+        "description": "我能在抖音红薯上看美女自然也可以上推看美女",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com",
+                "end": 23,
+                "expanded_url": "http://www.bilibili.com",
+                "start": 0,
+                "url": "https://t.co/LKAKEt5qxn"
+              }
+            ]
+          }
+        },
+        "id": "1844723689851699200",
+        "location": "刚用脚趾扣出来的三室一厅",
+        "name": "Mary",
+        "pinned_tweet_id": "1963901922823524799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966723435910098944/mrrrpbhG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 212,
+          "like_count": 1267,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 788
+        },
+        "url": "https://t.co/LKAKEt5qxn",
+        "username": "Mary365366",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965283576918016003",
+        "3_1965283576972541954",
+        "3_1965283576913821701",
+        "3_1965283576901238789"
+      ],
+      "media_source_tweet_id": [
+        "1965283600661971301",
+        "1965283600661971301",
+        "1965283600661971301",
+        "1965283600661971301"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1968689692267761996",
+    "created_at": "2025-09-18T14:52:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T15:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968689692267761996"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "门槛"
+        },
+        {
+          "end": 71,
+          "start": 67,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 75,
+          "start": 72,
+          "tag": "非绿"
+        },
+        {
+          "end": 79,
+          "start": 76,
+          "tag": "线下"
+        },
+        {
+          "end": 84,
+          "start": 80,
+          "tag": "金主吧"
+        },
+        {
+          "end": 89,
+          "start": 85,
+          "tag": "求包养"
+        },
+        {
+          "end": 93,
+          "start": 90,
+          "tag": "女大"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "反差"
+        },
+        {
+          "end": 101,
+          "start": 98,
+          "tag": "金主"
+        },
+        {
+          "end": 106,
+          "start": 102,
+          "tag": "求入门"
+        },
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "巨乳"
+        },
+        {
+          "end": 115,
+          "start": 111,
+          "tag": "求入门"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "946813275437748225",
+          "start": 3,
+          "username": "shamim42328772"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OXsxUIaJPQ",
+          "end": 139,
+          "expanded_url": "https://x.com/shamim42328772/status/1965283600661971301/photo/1",
+          "media_key": "3_1965283576918016003",
+          "start": 116,
+          "url": "https://t.co/OXsxUIaJPQ"
+        },
+        {
+          "display_url": "pic.x.com/OXsxUIaJPQ",
+          "end": 139,
+          "expanded_url": "https://x.com/shamim42328772/status/1965283600661971301/photo/1",
+          "media_key": "3_1965283576972541954",
+          "start": 116,
+          "url": "https://t.co/OXsxUIaJPQ"
+        },
+        {
+          "display_url": "pic.x.com/OXsxUIaJPQ",
+          "end": 139,
+          "expanded_url": "https://x.com/shamim42328772/status/1965283600661971301/photo/1",
+          "media_key": "3_1965283576913821701",
+          "start": 116,
+          "url": "https://t.co/OXsxUIaJPQ"
+        },
+        {
+          "display_url": "pic.x.com/OXsxUIaJPQ",
+          "end": 139,
+          "expanded_url": "https://x.com/shamim42328772/status/1965283600661971301/photo/1",
+          "media_key": "3_1965283576901238789",
+          "start": 116,
+          "url": "https://t.co/OXsxUIaJPQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968689692267761996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965283600661971301",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shamim42328772: 小雨 🔝\n缺钱什么都卖！\n艰难生存中\n希望哥哥可以入门的！\n欢迎宝贝们互转互fo ～\n#门槛 #门槛妹 #非绿 #线下 #金主吧 #求包养 #女大 #反差 #金主 #求入门 #巨乳 #求入门 https://t.co/OXsxUIaJPQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1047,
+        "media_key": "3_1965283576918016003",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0YXAC0bgAMSapy.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1561,
+        "media_key": "3_1965283576972541954",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0YXADBbgAIWCVn.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1439,
+        "media_key": "3_1965283576913821701",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0YXACzbgAUhx4c.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1515,
+        "media_key": "3_1965283576901238789",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0YXACwbgAUQAqh.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965283576918016003",
+            "3_1965283576972541954",
+            "3_1965283576913821701",
+            "3_1965283576901238789"
+          ],
+          "media_source_tweet_id": [
+            "1965283600661971301",
+            "1965283600661971301",
+            "1965283600661971301",
+            "1965283600661971301"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "1968689692267761996",
+        "created_at": "2025-09-18T14:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T15:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968689692267761996"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "门槛"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "非绿"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "线下"
+            },
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "金主吧"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "求包养"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "女大"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "反差"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "金主"
+            },
+            {
+              "end": 106,
+              "start": 102,
+              "tag": "求入门"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "巨乳"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "求入门"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "946813275437748225",
+              "start": 3,
+              "username": "shamim42328772"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OXsxUIaJPQ",
+              "end": 139,
+              "expanded_url": "https://x.com/shamim42328772/status/1965283600661971301/photo/1",
+              "media_key": "3_1965283576918016003",
+              "start": 116,
+              "url": "https://t.co/OXsxUIaJPQ"
+            },
+            {
+              "display_url": "pic.x.com/OXsxUIaJPQ",
+              "end": 139,
+              "expanded_url": "https://x.com/shamim42328772/status/1965283600661971301/photo/1",
+              "media_key": "3_1965283576972541954",
+              "start": 116,
+              "url": "https://t.co/OXsxUIaJPQ"
+            },
+            {
+              "display_url": "pic.x.com/OXsxUIaJPQ",
+              "end": 139,
+              "expanded_url": "https://x.com/shamim42328772/status/1965283600661971301/photo/1",
+              "media_key": "3_1965283576913821701",
+              "start": 116,
+              "url": "https://t.co/OXsxUIaJPQ"
+            },
+            {
+              "display_url": "pic.x.com/OXsxUIaJPQ",
+              "end": 139,
+              "expanded_url": "https://x.com/shamim42328772/status/1965283600661971301/photo/1",
+              "media_key": "3_1965283576901238789",
+              "start": 116,
+              "url": "https://t.co/OXsxUIaJPQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968689692267761996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965283600661971301",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shamim42328772: 小雨 🔝\n缺钱什么都卖！\n艰难生存中\n希望哥哥可以入门的！\n欢迎宝贝们互转互fo ～\n#门槛 #门槛妹 #非绿 #线下 #金主吧 #求包养 #女大 #反差 #金主 #求入门 #巨乳 #求入门 https://t.co/OXsxUIaJPQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965283576918016003",
+            "3_1965283576972541954",
+            "3_1965283576913821701",
+            "3_1965283576901238789"
+          ]
+        },
+        "author_id": "946813275437748225",
+        "conversation_id": "1965283600661971301",
+        "created_at": "2025-09-09T05:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T06:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965283600661971301"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "门槛"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "非绿"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "线下"
+            },
+            {
+              "end": 64,
+              "start": 60,
+              "tag": "金主吧"
+            },
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "求包养"
+            },
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "女大"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "反差"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "金主"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "求入门"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "巨乳"
+            },
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "求入门"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OXsxUIaJPQ",
+              "end": 119,
+              "expanded_url": "https://x.com/shamim42328772/status/1965283600661971301/photo/1",
+              "media_key": "3_1965283576918016003",
+              "start": 96,
+              "url": "https://t.co/OXsxUIaJPQ"
+            },
+            {
+              "display_url": "pic.x.com/OXsxUIaJPQ",
+              "end": 119,
+              "expanded_url": "https://x.com/shamim42328772/status/1965283600661971301/photo/1",
+              "media_key": "3_1965283576972541954",
+              "start": 96,
+              "url": "https://t.co/OXsxUIaJPQ"
+            },
+            {
+              "display_url": "pic.x.com/OXsxUIaJPQ",
+              "end": 119,
+              "expanded_url": "https://x.com/shamim42328772/status/1965283600661971301/photo/1",
+              "media_key": "3_1965283576913821701",
+              "start": 96,
+              "url": "https://t.co/OXsxUIaJPQ"
+            },
+            {
+              "display_url": "pic.x.com/OXsxUIaJPQ",
+              "end": 119,
+              "expanded_url": "https://x.com/shamim42328772/status/1965283600661971301/photo/1",
+              "media_key": "3_1965283576901238789",
+              "start": 96,
+              "url": "https://t.co/OXsxUIaJPQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965283600661971301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 11080,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "小雨 🔝\n缺钱什么都卖！\n艰难生存中\n希望哥哥可以入门的！\n欢迎宝贝们互转互fo ～\n#门槛 #门槛妹 #非绿 #线下 #金主吧 #求包养 #女大 #反差 #金主 #求入门 #巨乳 #求入门 https://t.co/OXsxUIaJPQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88—谈恋爱了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 215,
+          "like_count": 1207,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 680
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-29T18:40:50.000Z",
+        "description": "带口令问问题 养成好习惯！ 欢迎互转互fo~",
+        "id": "946813275437748225",
+        "name": "时雨·",
+        "pinned_tweet_id": "1965283600661971301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955858863191941122/RCoyDcTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 137,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 179
+        },
+        "username": "shamim42328772",
+        "verified": false
+      }
+    ]
+  }
+}

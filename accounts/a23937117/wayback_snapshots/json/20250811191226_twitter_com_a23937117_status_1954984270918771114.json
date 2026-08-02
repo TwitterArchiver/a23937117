@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1954984270918771114",
+    "created_at": "2025-08-11T19:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T20:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954984270918771114"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 93,
+          "start": 90,
+          "tag": "半绿"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "纯绿"
+        },
+        {
+          "end": 102,
+          "start": 98,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 107,
+          "start": 103,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 111,
+          "start": 108,
+          "tag": "金主"
+        },
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "陪聊"
+        },
+        {
+          "end": 120,
+          "start": 116,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 126,
+          "start": 121,
+          "tag": "电子女友"
+        },
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "线下"
+        },
+        {
+          "end": 136,
+          "start": 131,
+          "tag": "线上女友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1904442689300639745",
+          "start": 3,
+          "username": "ccerfanc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954984270918771114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 111
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922996641256100215",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ccerfanc: 新置顶🔝\n这里是小饼\n不喜欢吃画的饼╭(╯3╰)╮\n父母不管了 宝宝没有钱生活\n喜欢我请入🚪\n我会给你给你情绪价值满满的～\n欢迎宝宝找我互转互fo ～\n#半绿 #纯绿 #爸爸活 #妈妈活 #金主 #陪聊 #门槛妹 #电子女友 #线下 #线上女友 #缺…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954984270918771114].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954984270918771114",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954984270918771114"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1922996624575393792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq_bPdgXcAAsfkv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1449,
+        "media_key": "3_1922996624520777728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq_bPdTWEAAdzs_.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922996624575393792",
+            "3_1922996624520777728"
+          ]
+        },
+        "author_id": "1904442689300639745",
+        "conversation_id": "1922996641256100215",
+        "created_at": "2025-05-15T12:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T13:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922996641256100215"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "半绿"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "纯绿"
+            },
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "金主"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "陪聊"
+            },
+            {
+              "end": 106,
+              "start": 102,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 112,
+              "start": 107,
+              "tag": "电子女友"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "线下"
+            },
+            {
+              "end": 122,
+              "start": 117,
+              "tag": "线上女友"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "缺钱"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "玉足"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OmDdKE6itE",
+              "end": 154,
+              "expanded_url": "https://x.com/ccerfanc/status/1922996641256100215/photo/1",
+              "media_key": "3_1922996624575393792",
+              "start": 131,
+              "url": "https://t.co/OmDdKE6itE"
+            },
+            {
+              "display_url": "pic.x.com/OmDdKE6itE",
+              "end": 154,
+              "expanded_url": "https://x.com/ccerfanc/status/1922996641256100215/photo/1",
+              "media_key": "3_1922996624520777728",
+              "start": 131,
+              "url": "https://t.co/OmDdKE6itE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922996641256100215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 38991,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "新置顶🔝\n这里是小饼\n不喜欢吃画的饼╭(╯3╰)╮\n父母不管了 宝宝没有钱生活\n喜欢我请入🚪\n我会给你给你情绪价值满满的～\n欢迎宝宝找我互转互fo ～\n#半绿 #纯绿 #爸爸活 #妈妈活 #金主 #陪聊 #门槛妹 #电子女友 #线下 #线上女友 #缺钱 #玉足 https://t.co/OmDdKE6itE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 189,
+          "like_count": 1056,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 496
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T07:58:25.000Z",
+        "description": "🚪88｜288只回口令 坐标20r 欢迎宝宝找我互转互fo（可语音或视频验证）",
+        "id": "1904442689300639745",
+        "name": "BB小饼",
+        "pinned_tweet_id": "1922996641256100215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904450343758667776/ELSVbdGD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 51,
+          "like_count": 189,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 385
+        },
+        "username": "ccerfanc",
+        "verified": false
+      }
+    ]
+  }
+}

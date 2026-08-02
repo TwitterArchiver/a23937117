@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053827263632732329",
+    "created_at": "2026-05-11T13:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T14:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053827263632732329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2033228233286762496",
+          "start": 3,
+          "username": "Dudu0307nian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053827263632732329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050774247610732817",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dudu0307nian: 🔝我是念念    前世700fo被害\n\n       欢迎女宝私信我互fo互转\n\n-08 172/117 不接受空降\n\n-门槛支持补差升级 入门不退考虑好再入\n\n-不提供任何线上服务 找我聊天会回但请不要过度像我索取情绪价值 我自己精神状态很…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050774108812742656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXQL75aEAASwkh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050774108808572928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXQL74acAAVom9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2050774108808597505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXQL74a0AEgpPu.jpg",
+        "width": 2048
+      },
+      {
+        "height": 652,
+        "media_key": "3_2050774108804435968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXQL73bUAA1UJm.jpg",
+        "width": 1011
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2053827263632732329",
+        "created_at": "2026-05-11T13:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053827263632732329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2033228233286762496",
+              "start": 3,
+              "username": "Dudu0307nian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053827263632732329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050774247610732817",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dudu0307nian: 🔝我是念念    前世700fo被害\n\n       欢迎女宝私信我互fo互转\n\n-08 172/117 不接受空降\n\n-门槛支持补差升级 入门不退考虑好再入\n\n-不提供任何线上服务 找我聊天会回但请不要过度像我索取情绪价值 我自己精神状态很…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050774108812742656",
+            "3_2050774108808572928",
+            "3_2050774108808597505",
+            "3_2050774108804435968"
+          ]
+        },
+        "author_id": "2033228233286762496",
+        "conversation_id": "2050774247610732817",
+        "created_at": "2026-05-03T03:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T04:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050774247610732817"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 130,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "线下"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "援交"
+            },
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "非绿"
+            },
+            {
+              "end": 155,
+              "start": 152,
+              "tag": "反差"
+            },
+            {
+              "end": 159,
+              "start": 156,
+              "tag": "江苏"
+            },
+            {
+              "end": 164,
+              "start": 160,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 170,
+              "start": 165,
+              "tag": "线下女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jeHeMjvuyr",
+              "end": 194,
+              "expanded_url": "https://x.com/Dudu0307nian/status/2050774247610732817/photo/1",
+              "media_key": "3_2050774108812742656",
+              "start": 171,
+              "url": "https://t.co/jeHeMjvuyr"
+            },
+            {
+              "display_url": "pic.x.com/jeHeMjvuyr",
+              "end": 194,
+              "expanded_url": "https://x.com/Dudu0307nian/status/2050774247610732817/photo/1",
+              "media_key": "3_2050774108808572928",
+              "start": 171,
+              "url": "https://t.co/jeHeMjvuyr"
+            },
+            {
+              "display_url": "pic.x.com/jeHeMjvuyr",
+              "end": 194,
+              "expanded_url": "https://x.com/Dudu0307nian/status/2050774247610732817/photo/1",
+              "media_key": "3_2050774108808597505",
+              "start": 171,
+              "url": "https://t.co/jeHeMjvuyr"
+            },
+            {
+              "display_url": "pic.x.com/jeHeMjvuyr",
+              "end": 194,
+              "expanded_url": "https://x.com/Dudu0307nian/status/2050774247610732817/photo/1",
+              "media_key": "3_2050774108804435968",
+              "start": 171,
+              "url": "https://t.co/jeHeMjvuyr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050774247610732817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3572,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "🔝我是念念    前世700fo被害\n\n       欢迎女宝私信我互fo互转\n\n-08 172/117 不接受空降\n\n-门槛支持补差升级 入门不退考虑好再入\n\n-不提供任何线上服务 找我聊天会回但请不要过度像我索取情绪价值 我自己精神状态很不好每天都要吃药\n#门槛哥 #爸爸活 #线下 #援交 #非绿\n#反差 #江苏 #门槛妹 #线下女友 https://t.co/jeHeMjvuyr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 202,
+          "like_count": 1408,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 749
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T17:06:11.000Z",
+        "description": "前世700fo被害 验证20 口令请带姓和vx号 没考虑好别私我 只回复过🚪口令相关 前世@heidedachuang 小号@dudunian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "heidedachuang"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "dudunian"
+              }
+            ]
+          }
+        },
+        "id": "2033228233286762496",
+        "name": "念念2.0",
+        "pinned_tweet_id": "2050774247610732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050659560738971648/suBzf50z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 42,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 268
+        },
+        "username": "Dudu0307nian",
+        "verified": false
+      }
+    ]
+  }
+}

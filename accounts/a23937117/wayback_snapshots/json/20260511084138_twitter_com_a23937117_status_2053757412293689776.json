@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040344612347514880"
+      ],
+      "media_source_tweet_id": [
+        "2040344637106528712"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053757412293689776",
+    "created_at": "2026-05-11T08:41:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T09:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053757412293689776"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 15,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1694776269655969792",
+          "start": 3,
+          "username": "lorenrp45"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HSxhxSyZ3S",
+          "end": 48,
+          "expanded_url": "https://x.com/nvmju92617719/status/2040344637106528712/photo/1",
+          "media_key": "3_2040344612347514880",
+          "start": 25,
+          "url": "https://t.co/HSxhxSyZ3S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053757412293689776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040344637106528712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lorenrp45: #门槛妹\n涨价了哦 https://t.co/HSxhxSyZ3S"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053757412293689776].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053757412293689776",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053757412293689776"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2040344612347514880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFDCnV5bEAAY0Fr.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040344612347514880"
+          ]
+        },
+        "author_id": "1694776269655969792",
+        "conversation_id": "2040344637106528712",
+        "created_at": "2026-04-04T08:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T09:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040344637106528712"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HSxhxSyZ3S",
+              "end": 33,
+              "expanded_url": "https://x.com/nvmju92617719/status/2040344637106528712/photo/1",
+              "media_key": "3_2040344612347514880",
+              "start": 10,
+              "url": "https://t.co/HSxhxSyZ3S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040344637106528712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 22899,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "#门槛妹\n涨价了哦 https://t.co/HSxhxSyZ3S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 202,
+          "like_count": 1408,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 742
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-24T18:19:00.000Z",
+        "description": "🚪妹 验证20/魔爪重度依赖/欢迎of\n行为情绪障碍/中性",
+        "id": "1694776269655969792",
+        "name": "loren2世",
+        "pinned_tweet_id": "2040344637106528712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053518787253837824/WFT0eLQI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 84,
+          "like_count": 145,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 182
+        },
+        "username": "lorenrp45",
+        "verified": false
+      }
+    ]
+  }
+}

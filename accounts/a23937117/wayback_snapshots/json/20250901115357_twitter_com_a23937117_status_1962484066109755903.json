@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962439876902809610",
+    "created_at": "2025-09-01T11:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T12:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962484066109755903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1120911007629529091",
+          "start": 0,
+          "username": "Li2CO3ICU"
+        },
+        {
+          "end": 19,
+          "id": "1618557658163970049",
+          "start": 11,
+          "username": "qqqqqf5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962484066109755903",
+    "in_reply_to_user_id": "1120911007629529091",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962460390505484396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Li2CO3ICU @qqqqqf5 要笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1962439876902809610",
+        "created_at": "2025-09-01T11:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T12:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962484066109755903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1120911007629529091",
+              "start": 0,
+              "username": "Li2CO3ICU"
+            },
+            {
+              "end": 19,
+              "id": "1618557658163970049",
+              "start": 11,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962484066109755903",
+        "in_reply_to_user_id": "1120911007629529091",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962460390505484396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Li2CO3ICU @qqqqqf5 要笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1120911007629529091",
+        "conversation_id": "1962439876902809610",
+        "created_at": "2025-09-01T10:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T11:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962460390505484396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1618557658163970049",
+              "start": 0,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962460390505484396",
+        "in_reply_to_user_id": "1618557658163970049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962439876902809610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf5 比我被警察说是福利姬的好点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 211,
+          "like_count": 1133,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 648
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-24T04:43:04.000Z",
+        "description": "超级无敌终极狂拽酷炫炸的小药娘碳酸锂大人|04药娘🏳️‍⚧️🍥|172cm 55kg|HRT:2023.5.24|75C|最喜欢的老公@KaraTentler|本科在读|tg群组:https://t.co/5S8vaJZVEC|涩涩内容都在亮点|同类会回fo|不见证|不OD|不接推广|不公开墙内联络方式|随缘b人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 67,
+                "username": "KaraTentler"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lithiumawa",
+                "end": 113,
+                "expanded_url": "https://t.me/lithiumawa",
+                "start": 90,
+                "url": "https://t.co/5S8vaJZVEC"
+              }
+            ]
+          }
+        },
+        "id": "1120911007629529091",
+        "location": "拉尼亚凯亚超星系团",
+        "name": "𝙇𝙞₂𝘾𝙊₃🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947125574415126528/loYfVti-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 207,
+          "like_count": 1280,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 265
+        },
+        "username": "Li2CO3ICU",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "Null         \n逃生舱:@qqqqqf_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 18,
+                "username": "qqqqqf_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTRmX7"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962054912130600960/NK8jfwgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 1632,
+          "like_count": 4845,
+          "listed_count": 7,
+          "media_count": 442,
+          "tweet_count": 1491
+        },
+        "url": "https://t.co/Qfc6ZTRmX7",
+        "username": "qqqqqf5",
+        "verified": false
+      }
+    ]
+  }
+}

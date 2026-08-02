@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1965456408926978291",
+    "created_at": "2025-09-09T16:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T17:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965456408926978291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1917864047678263296",
+          "start": 3,
+          "username": "hbgv232818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965456408926978291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965316853414445062",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hbgv232818: 我是小菡\n家里欠债一百多万 穷的没有饭吃了重度抑郁双向自甘堕落 求金主爸爸\n154/38kg 11年初中生处\n52/仅好友位\n168/好友位朋友圈不定时掉落\n218/好友位朋友圈回信息\n388/好友位朋友圈分享日常聊天\n520/电子女友包括以上全…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1965456408926978291].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1965456408926978291",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1965456408926978291"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1965316844904148992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Y1QfuacAAvDbY.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1965316844895813632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Y1QfsbQAAhKdn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1965316844866469889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Y1QflbgAEO1eT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965316844904148992",
+            "3_1965316844895813632",
+            "3_1965316844866469889"
+          ]
+        },
+        "author_id": "1917864047678263296",
+        "conversation_id": "1965316853414445062",
+        "created_at": "2025-09-09T07:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T08:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965316853414445062"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 144,
+              "start": 140,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 154,
+              "start": 150,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 158,
+              "start": 155,
+              "tag": "卖逼"
+            },
+            {
+              "end": 162,
+              "start": 159,
+              "tag": "处女"
+            },
+            {
+              "end": 166,
+              "start": 163,
+              "tag": "小狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hWJirU7NKj",
+              "end": 190,
+              "expanded_url": "https://x.com/hbgv232818/status/1965316853414445062/photo/1",
+              "media_key": "3_1965316844904148992",
+              "start": 167,
+              "url": "https://t.co/hWJirU7NKj"
+            },
+            {
+              "display_url": "pic.x.com/hWJirU7NKj",
+              "end": 190,
+              "expanded_url": "https://x.com/hbgv232818/status/1965316853414445062/photo/1",
+              "media_key": "3_1965316844895813632",
+              "start": 167,
+              "url": "https://t.co/hWJirU7NKj"
+            },
+            {
+              "display_url": "pic.x.com/hWJirU7NKj",
+              "end": 190,
+              "expanded_url": "https://x.com/hbgv232818/status/1965316853414445062/photo/1",
+              "media_key": "3_1965316844866469889",
+              "start": 167,
+              "url": "https://t.co/hWJirU7NKj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965316853414445062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 711,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "我是小菡\n家里欠债一百多万 穷的没有饭吃了重度抑郁双向自甘堕落 求金主爸爸\n154/38kg 11年初中生处\n52/仅好友位\n168/好友位朋友圈不定时掉落\n218/好友位朋友圈回信息\n388/好友位朋友圈分享日常聊天\n520/电子女友包括以上全部可定制两张\n有没有爸爸入我的门 #爸爸活 #门槛姐 #妈妈活 #卖逼 #处女 #小狗 https://t.co/hWJirU7NKj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 210,
+          "like_count": 1160,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 663
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T08:50:08.000Z",
+        "description": "小菡/39kg/154 真的很穷 不入门别骚扰 ip20解锁 皮下不是男20可视频验证 欢迎找我互转！问一大堆之后不回信息你家里人还好吗？",
+        "id": "1917864047678263296",
+        "name": "xxxxhya",
+        "pinned_tweet_id": "1965316853414445062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964661140388253696/n7MmbXVX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 34
+        },
+        "username": "hbgv232818",
+        "verified": false
+      }
+    ]
+  }
+}

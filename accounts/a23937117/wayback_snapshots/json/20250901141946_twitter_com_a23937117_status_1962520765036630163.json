@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962520765036630163",
+    "created_at": "2025-09-01T14:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T15:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962520765036630163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1921029040783388672",
+          "start": 3,
+          "username": "FunesGarre46144"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962520765036630163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962380803499037058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FunesGarre46144: 这里斯斯～\n08巨乳BBW萝莉 入门你会收获一个粘人小狗！\n有很严重的精神疾病 家里条件不好我需要钱来治病(&gt;﹏&lt;)\n现在入520及以上可抵线下哦🥳\n不退门 请谅解！\n全国可飞\n坐标成都\n我需要很多很多钱和很多很多爱\n快入门当我的老公大…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962520765036630163].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962520765036630163",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962520765036630163"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962380790110793729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzvG7nSasAEokOE.jpg",
+        "width": 946
+      },
+      {
+        "height": 994,
+        "media_key": "3_1962380790102421504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzvG7nQa8AAnVZQ.jpg",
+        "width": 1583
+      },
+      {
+        "height": 800,
+        "media_key": "3_1962380790110826497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzvG7nSbMAEMP-B.jpg",
+        "width": 1423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962380790110793729",
+            "3_1962380790102421504",
+            "3_1962380790110826497"
+          ]
+        },
+        "author_id": "1921029040783388672",
+        "conversation_id": "1962380803499037058",
+        "created_at": "2025-09-01T05:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T06:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962380803499037058"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 130,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "门哥"
+            },
+            {
+              "end": 144,
+              "start": 139,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 154,
+              "start": 150,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 158,
+              "start": 155,
+              "tag": "线下"
+            },
+            {
+              "end": 162,
+              "start": 159,
+              "tag": "非绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ucGdFuBS8w",
+              "end": 186,
+              "expanded_url": "https://x.com/FunesGarre46144/status/1962380803499037058/photo/1",
+              "media_key": "3_1962380790110793729",
+              "start": 163,
+              "url": "https://t.co/ucGdFuBS8w"
+            },
+            {
+              "display_url": "pic.x.com/ucGdFuBS8w",
+              "end": 186,
+              "expanded_url": "https://x.com/FunesGarre46144/status/1962380803499037058/photo/1",
+              "media_key": "3_1962380790102421504",
+              "start": 163,
+              "url": "https://t.co/ucGdFuBS8w"
+            },
+            {
+              "display_url": "pic.x.com/ucGdFuBS8w",
+              "end": 186,
+              "expanded_url": "https://x.com/FunesGarre46144/status/1962380803499037058/photo/1",
+              "media_key": "3_1962380790110826497",
+              "start": 163,
+              "url": "https://t.co/ucGdFuBS8w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962380803499037058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 879,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "这里斯斯～\n08巨乳BBW萝莉 入门你会收获一个粘人小狗！\n有很严重的精神疾病 家里条件不好我需要钱来治病(&gt;﹏&lt;)\n现在入520及以上可抵线下哦🥳\n不退门 请谅解！\n全国可飞\n坐标成都\n我需要很多很多钱和很多很多爱\n快入门当我的老公大人\ntag：#门槛妹 #门哥 #金主爸爸 #爸爸活 #妈妈活 #线下 #非绿 https://t.co/ucGdFuBS8w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 211,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 672
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T02:26:34.000Z",
+        "description": "🚪入门可抵线下 坐标成都全国可飞 只回复口令和过门相关 已读不回我会很伤心 赚点医药费～照片看媒体",
+        "id": "1921029040783388672",
+        "location": "88/188/520/1314",
+        "name": "斯斯酱（重生版",
+        "pinned_tweet_id": "1962380803499037058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937419544370515969/fLmFxGHv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 100,
+          "like_count": 3,
+          "listed_count": 3,
+          "media_count": 15,
+          "tweet_count": 295
+        },
+        "username": "FunesGarre46144",
+        "verified": false
+      }
+    ]
+  }
+}

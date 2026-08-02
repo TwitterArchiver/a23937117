@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962540282307662129",
+    "created_at": "2025-09-01T15:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T16:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962540282307662129"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 109,
+          "start": 105,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 115,
+          "start": 110,
+          "tag": "租借女友"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "郑州"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "半绿"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "纯绿"
+        },
+        {
+          "end": 132,
+          "start": 128,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 137,
+          "start": 133,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1830990427618697216",
+          "start": 3,
+          "username": "exclb29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962540282307662129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832826114269692339",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @exclb29: 新顶置\n这里是里见\n🚪188/288/520\n06/二次元/cos\n很喜欢聊天，喜欢我请来入我🚪\n线下接爸爸活，坐标郑州，目前只接纯绿半绿\n欢迎女孩子找我互fo互转\n私信只回有礼貌的\n#爸爸活 #租借女友 #郑州 #半绿 #纯绿 #门槛哥 #门槛妹 h…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962540282307662129].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962540282307662129",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962540282307662129"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 984,
+        "media_key": "3_1832823402153037824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GW9_LG1a0AAfU5Y.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1832823402186641408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GW9_LG9bkAADP8W.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832823402153037824",
+            "3_1832823402186641408"
+          ]
+        },
+        "author_id": "1830990427618697216",
+        "conversation_id": "1832826114269692339",
+        "created_at": "2024-09-08T16:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T17:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832826114269692339"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 96,
+              "start": 92,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 102,
+              "start": 97,
+              "tag": "租借女友"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "郑州"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "半绿"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "纯绿"
+            },
+            {
+              "end": 119,
+              "start": 115,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 124,
+              "start": 120,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZvMfUlPk5h",
+              "end": 148,
+              "expanded_url": "https://x.com/exclb29/status/1832826114269692339/photo/1",
+              "media_key": "3_1832823402153037824",
+              "start": 125,
+              "url": "https://t.co/ZvMfUlPk5h"
+            },
+            {
+              "display_url": "pic.x.com/ZvMfUlPk5h",
+              "end": 148,
+              "expanded_url": "https://x.com/exclb29/status/1832826114269692339/photo/1",
+              "media_key": "3_1832823402186641408",
+              "start": 125,
+              "url": "https://t.co/ZvMfUlPk5h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832826114269692339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 84763,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "新顶置\n这里是里见\n🚪188/288/520\n06/二次元/cos\n很喜欢聊天，喜欢我请来入我🚪\n线下接爸爸活，坐标郑州，目前只接纯绿半绿\n欢迎女孩子找我互fo互转\n私信只回有礼貌的\n#爸爸活 #租借女友 #郑州 #半绿 #纯绿 #门槛哥 #门槛妹 https://t.co/ZvMfUlPk5h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 201,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 696
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T15:25:18.000Z",
+        "description": "🚪188/288/520\n私信只回有礼貌的",
+        "id": "1830990427618697216",
+        "name": "里见",
+        "pinned_tweet_id": "1832826114269692339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832826669046046720/Z04jfZ-5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 97,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 256
+        },
+        "username": "exclb29",
+        "verified": false
+      }
+    ]
+  }
+}

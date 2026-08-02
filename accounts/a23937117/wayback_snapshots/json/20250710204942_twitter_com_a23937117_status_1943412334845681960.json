@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943223423699681280"
+      ],
+      "media_source_tweet_id": [
+        "1943223427621323086"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1943412334845681960",
+    "created_at": "2025-07-10T20:49:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T21:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943412334845681960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1817144107174957056",
+          "start": 3,
+          "username": "trydothebetter"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YWh9uIb3up",
+          "end": 43,
+          "expanded_url": "https://x.com/trydothebetter/status/1943223427621323086/photo/1",
+          "media_key": "3_1943223423699681280",
+          "start": 20,
+          "url": "https://t.co/YWh9uIb3up"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943412334845681960",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943223427621323086",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @trydothebetter: https://t.co/YWh9uIb3up"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 959,
+        "media_key": "3_1943223423699681280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gve3aIDWgAAGN64.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943223423699681280"
+          ],
+          "media_source_tweet_id": [
+            "1943223427621323086"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "1943412334845681960",
+        "created_at": "2025-07-10T20:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T21:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943412334845681960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1817144107174957056",
+              "start": 3,
+              "username": "trydothebetter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YWh9uIb3up",
+              "end": 43,
+              "expanded_url": "https://x.com/trydothebetter/status/1943223427621323086/photo/1",
+              "media_key": "3_1943223423699681280",
+              "start": 20,
+              "url": "https://t.co/YWh9uIb3up"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943412334845681960",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943223427621323086",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @trydothebetter: https://t.co/YWh9uIb3up"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943223423699681280"
+          ]
+        },
+        "author_id": "1817144107174957056",
+        "conversation_id": "1943223427621323086",
+        "created_at": "2025-07-10T08:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T09:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943223427621323086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YWh9uIb3up",
+              "end": 23,
+              "expanded_url": "https://x.com/trydothebetter/status/1943223427621323086/photo/1",
+              "media_key": "3_1943223423699681280",
+              "start": 0,
+              "url": "https://t.co/YWh9uIb3up"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943223427621323086",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 4800,
+          "like_count": 172,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YWh9uIb3up"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 134,
+          "like_count": 877,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 232
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T10:25:00.000Z",
+        "description": "09年生人丨身高180丨性别男丨音游人丨喜欢可爱的事物丨十分偶尔有腰照掉落丨Q群721460654丨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/12656805…",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/1265680561?from=search",
+                "start": 0,
+                "url": "https://t.co/F4f36RgkLU"
+              }
+            ]
+          }
+        },
+        "id": "1817144107174957056",
+        "location": "云南",
+        "name": "永雏塔菲喵喵喵喵喵喵喵喵喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922765981077606400/_FYIsboS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 1631,
+          "like_count": 7835,
+          "listed_count": 1,
+          "media_count": 400,
+          "tweet_count": 1431
+        },
+        "url": "https://t.co/F4f36RgkLU",
+        "username": "trydothebetter",
+        "verified": false
+      }
+    ]
+  }
+}

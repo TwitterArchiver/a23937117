@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1943658062511759674",
+    "created_at": "2025-07-11T13:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T14:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943663574888435898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1525172701366693888",
+          "start": 0,
+          "username": "wook29880826"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943663574888435898",
+    "in_reply_to_user_id": "1525172701366693888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943658062511759674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wook29880826 一群贱货罢了，小宝别理他们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1943658062511759674",
+        "created_at": "2025-07-11T13:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T14:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943663574888435898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1525172701366693888",
+              "start": 0,
+              "username": "wook29880826"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943663574888435898",
+        "in_reply_to_user_id": "1525172701366693888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943658062511759674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wook29880826 一群贱货罢了，小宝别理他们"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525172701366693888",
+        "conversation_id": "1943658062511759674",
+        "created_at": "2025-07-11T13:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T14:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943658062511759674"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943658062511759674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 593,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草受不了了…..我什么时候卖过逼了…….纯绿的线下吃个饭都没敢答应过…那条帖子下面看到好几个说我不是卖逼的吗 嘴巴一张就来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 136,
+          "like_count": 887,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 245
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-13T17:54:49.000Z",
+        "description": "不接推广不线下/🚪请直接口令288录音/520瑟瑟视频/1314//5200即可获得一只赛博小猫🐈‍⬛/盗图盗音频替我挡灾/请用我梯👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw03.damoplane1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw03.damoplane1.com/#/register?code=Lvx0umNo",
+                "start": 0,
+                "url": "https://t.co/RvOm4iTIeK"
+              }
+            ]
+          }
+        },
+        "id": "1525172701366693888",
+        "name": "jshzjsk-.-",
+        "pinned_tweet_id": "1932784444521451643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729217681029828608/BIbcX17g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72465,
+          "following_count": 479,
+          "like_count": 3313,
+          "listed_count": 187,
+          "media_count": 400,
+          "tweet_count": 3226
+        },
+        "url": "https://t.co/RvOm4iTIeK",
+        "username": "wook29880826",
+        "verified": false
+      }
+    ]
+  }
+}

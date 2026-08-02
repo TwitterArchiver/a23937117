@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1968311389342335005",
+    "created_at": "2025-09-17T18:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T19:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968383032383193336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1562858237657231361",
+          "start": 0,
+          "username": "yanyelove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968383032383193336",
+    "in_reply_to_user_id": "1562858237657231361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968311389342335005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanyelove 我玩具玩到没电都不去，断药一个礼拜十分钟去四次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1968311389342335005",
+        "created_at": "2025-09-17T18:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T19:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968383032383193336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1562858237657231361",
+              "start": 0,
+              "username": "yanyelove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968383032383193336",
+        "in_reply_to_user_id": "1562858237657231361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968311389342335005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyelove 我玩具玩到没电都不去，断药一个礼拜十分钟去四次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562858237657231361",
+        "conversation_id": "1968311389342335005",
+        "created_at": "2025-09-17T13:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968311389342335005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968311389342335005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pr害死我了自慰半天 就是不爽 我累了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88—谈恋爱了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 214,
+          "like_count": 1205,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 673
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T17:43:41.000Z",
+        "description": "革命家と彼女の恋愛 我是言葉的複製體 前世@yanyedawang 精神狀態不好⚠️注意自避 ｜🚪88純綠陪聊 沒有福利 只有陪聊🚪200纯绿线下🚪300半绿线下 🚪520非绿线下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "yanyedawang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoye44231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoye44231",
+                "start": 0,
+                "url": "https://t.co/IhqVPtqnud"
+              }
+            ]
+          }
+        },
+        "id": "1562858237657231361",
+        "location": "只有你我的地方 ",
+        "name": "言叶的happy sugar life",
+        "pinned_tweet_id": "1956069234133622908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936383796007305216/VDu1XEjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 87,
+          "like_count": 752,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 421
+        },
+        "url": "https://t.co/IhqVPtqnud",
+        "username": "yanyelove",
+        "verified": false
+      }
+    ]
+  }
+}

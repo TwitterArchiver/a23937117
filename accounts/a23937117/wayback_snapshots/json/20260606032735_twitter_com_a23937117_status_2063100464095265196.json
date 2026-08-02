@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2062718095928500412",
+    "created_at": "2026-06-06T03:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T04:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063100464095265196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2004802306873982977",
+          "start": 0,
+          "username": "Len10x0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063100464095265196",
+    "in_reply_to_user_id": "2004802306873982977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062884742589243579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Len10x0 直接找我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2062718095928500412",
+        "created_at": "2026-06-06T03:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063100464095265196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2004802306873982977",
+              "start": 0,
+              "username": "Len10x0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063100464095265196",
+        "in_reply_to_user_id": "2004802306873982977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062884742589243579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Len10x0 直接找我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004802306873982977",
+        "conversation_id": "2062718095928500412",
+        "created_at": "2026-06-05T13:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062884742589243579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442350932977610752",
+              "start": 0,
+              "username": "a23937117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062884742589243579",
+        "in_reply_to_user_id": "1442350932977610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062718095928500412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a23937117 我想买"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2062718095928500412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 194,
+          "like_count": 1411,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 763
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T06:31:44.000Z",
+        "description": "戒o戒割中一条活着网络的米虫｜高强度上网｜双相｜泛性恋｜11.8.7｜od｜日系｜自伤｜负能｜同类互fo 私信都会看的！很期待你们找我聊天…！匿名：https://t.co/jlxnXZMrxy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/haomaomao",
+                "end": 97,
+                "expanded_url": "https://ngl.link/haomaomao",
+                "start": 74,
+                "url": "https://t.co/jlxnXZMrxy"
+              }
+            ]
+          }
+        },
+        "id": "2004802306873982977",
+        "location": "🚪52/88/188上不封顶不退",
+        "name": "冷幻觉（恶俗版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020745173807026176/0nQdCQ8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 232,
+          "like_count": 1527,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1760
+        },
+        "username": "Len10x0",
+        "verified": false
+      }
+    ]
+  }
+}

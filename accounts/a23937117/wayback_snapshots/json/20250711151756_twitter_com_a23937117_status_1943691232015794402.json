@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1943598129892208687",
+    "created_at": "2025-07-11T15:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T16:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943691232015794402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1887194390134988801",
+          "start": 0,
+          "username": "istayinlove124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943691232015794402",
+    "in_reply_to_user_id": "1887194390134988801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943598129892208687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@istayinlove124 因为我的脸p的线下根本认不出来૮(˶ᵔ ᵕ ᵔ˶)ა"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1943598129892208687",
+        "created_at": "2025-07-11T15:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T16:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943691232015794402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1887194390134988801",
+              "start": 0,
+              "username": "istayinlove124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943691232015794402",
+        "in_reply_to_user_id": "1887194390134988801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943598129892208687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@istayinlove124 因为我的脸p的线下根本认不出来૮(˶ᵔ ᵕ ᵔ˶)ა"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887194390134988801",
+        "conversation_id": "1943598129892208687",
+        "created_at": "2025-07-11T09:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T10:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943598129892208687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943598129892208687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1439,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又漏脸又漏奶的你们是不是疯了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 136,
+          "like_count": 891,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 251
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T17:39:50.000Z",
+        "description": "我想要平静的生活 想要一根再也感受不到不安 心悸 急迫 愤怒和悲伤的神经",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/selamore",
+                "end": 23,
+                "expanded_url": "https://ngl.link/selamore",
+                "start": 0,
+                "url": "https://t.co/2ifW6PSOi4"
+              }
+            ]
+          }
+        },
+        "id": "1887194390134988801",
+        "location": "互关🉑➕v",
+        "name": "不可以掐我脖子哦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899123909620084736/GU095FM1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 85,
+          "like_count": 8702,
+          "listed_count": 4,
+          "media_count": 19,
+          "tweet_count": 471
+        },
+        "url": "https://t.co/2ifW6PSOi4",
+        "username": "istayinlove124",
+        "verified": false
+      }
+    ]
+  }
+}

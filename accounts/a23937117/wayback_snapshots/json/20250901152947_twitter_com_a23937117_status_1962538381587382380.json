@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962538381587382380",
+    "created_at": "2025-09-01T15:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T16:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962538381587382380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1939530951329218560",
+          "start": 3,
+          "username": "xiiecho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962538381587382380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958859019717681572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiiecho: 🔝2.0叫我小静～刚来x请多关照(&gt;﹏&lt;)\n坐标江浙沪 06年身高164体重55 \n🚪58/158/258/520/1314 线下🈚️定金 先代付车马费！ \n详情都在图上啦 可以看粉色方便点！谢谢宝宝们^з^有什么意向可以私聊我哦～ \n❌鸽子精骚扰口嗨…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962538381587382380].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962538381587382380",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962538381587382380"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958859009555144704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy9D5AWboAA2Mzx.jpg",
+        "width": 948
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1958859009517395969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy9D5ANboAEoYVD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958859009555144704",
+            "3_1958859009517395969"
+          ]
+        },
+        "author_id": "1939530951329218560",
+        "conversation_id": "1958859019717681572",
+        "created_at": "2025-08-22T11:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T12:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958859019717681572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q3p1MNh2OA",
+              "end": 188,
+              "expanded_url": "https://x.com/xiiecho/status/1958859019717681572/photo/1",
+              "media_key": "3_1958859009555144704",
+              "start": 165,
+              "url": "https://t.co/q3p1MNh2OA"
+            },
+            {
+              "display_url": "pic.x.com/q3p1MNh2OA",
+              "end": 188,
+              "expanded_url": "https://x.com/xiiecho/status/1958859019717681572/photo/1",
+              "media_key": "3_1958859009517395969",
+              "start": 165,
+              "url": "https://t.co/q3p1MNh2OA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958859019717681572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 7691,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "🔝2.0叫我小静～刚来x请多关照(&gt;﹏&lt;)\n坐标江浙沪 06年身高164体重55 \n🚪58/158/258/520/1314 线下🈚️定金 先代付车马费！ \n详情都在图上啦 可以看粉色方便点！谢谢宝宝们^з^有什么意向可以私聊我哦～ \n❌鸽子精骚扰口嗨已读不回骗子小额砍价以上都会拉黑 \n\n感谢你在万千之中选择了我～ https://t.co/q3p1MNh2OA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 201,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 683
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T03:46:39.000Z",
+        "description": "🚪58 06江浙沪 视频验证/坐标10r 口嗨的给我滚啊我会拉黑 皮下男4k+了么么哒 只有这一个号在推上看见我照片那就不是本人",
+        "id": "1939530951329218560",
+        "name": "妈妈说名字起的长就会有人念",
+        "pinned_tweet_id": "1958859019717681572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953926165070270464/guHacW5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 24,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 59
+        },
+        "username": "xiiecho",
+        "verified": false
+      }
+    ]
+  }
+}

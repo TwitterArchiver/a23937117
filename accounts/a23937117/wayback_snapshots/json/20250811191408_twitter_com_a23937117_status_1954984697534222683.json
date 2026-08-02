@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1954984697534222683",
+    "created_at": "2025-08-11T19:14:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T20:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954984697534222683"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 133,
+          "start": 129,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1861557910150750209",
+          "start": 3,
+          "username": "SakeSora613_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954984697534222683",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935275347244892427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakeSora613_: ☆更新置顶了🔝\nSora阿空/貓車☆\n坐标上海，接线下｜一日女友\n过门方式支持口令/赞赏，验证15，入任意门槛验证不收费，支持补门。\n努力与房租搏斗的打工战士，谢谢大家\n私信不闲聊，只回复入门私信。\n欢迎女宝找我互fo！\n#门槛妹 #线下 #…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935275336784064512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtt6qk-WsAAFHsY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1935275336758943744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtt6qk4XYAA0lxc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 966,
+        "media_key": "3_1935275336805081088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtt6qlDXYAAjsgF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1954984697534222683",
+        "created_at": "2025-08-11T19:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T20:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954984697534222683"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 129,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "线下"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1861557910150750209",
+              "start": 3,
+              "username": "SakeSora613_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954984697534222683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935275347244892427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SakeSora613_: ☆更新置顶了🔝\nSora阿空/貓車☆\n坐标上海，接线下｜一日女友\n过门方式支持口令/赞赏，验证15，入任意门槛验证不收费，支持补门。\n努力与房租搏斗的打工战士，谢谢大家\n私信不闲聊，只回复入门私信。\n欢迎女宝找我互fo！\n#门槛妹 #线下 #…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935275336784064512",
+            "3_1935275336758943744",
+            "3_1935275336805081088"
+          ]
+        },
+        "author_id": "1861557910150750209",
+        "conversation_id": "1935275347244892427",
+        "created_at": "2025-06-18T09:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T10:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935275347244892427"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "线下"
+            },
+            {
+              "end": 124,
+              "start": 120,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 130,
+              "start": 125,
+              "tag": "一日女友"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "上海"
+            },
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "纯绿"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "半绿"
+            },
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "非绿"
+            },
+            {
+              "end": 156,
+              "start": 152,
+              "tag": "妈妈活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TS5jIdppI1",
+              "end": 180,
+              "expanded_url": "https://x.com/SakeSora613_/status/1935275347244892427/photo/1",
+              "media_key": "3_1935275336784064512",
+              "start": 157,
+              "url": "https://t.co/TS5jIdppI1"
+            },
+            {
+              "display_url": "pic.x.com/TS5jIdppI1",
+              "end": 180,
+              "expanded_url": "https://x.com/SakeSora613_/status/1935275347244892427/photo/1",
+              "media_key": "3_1935275336758943744",
+              "start": 157,
+              "url": "https://t.co/TS5jIdppI1"
+            },
+            {
+              "display_url": "pic.x.com/TS5jIdppI1",
+              "end": 180,
+              "expanded_url": "https://x.com/SakeSora613_/status/1935275347244892427/photo/1",
+              "media_key": "3_1935275336805081088",
+              "start": 157,
+              "url": "https://t.co/TS5jIdppI1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935275347244892427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 34029,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "☆更新置顶了🔝\nSora阿空/貓車☆\n坐标上海，接线下｜一日女友\n过门方式支持口令/赞赏，验证15，入任意门槛验证不收费，支持补门。\n努力与房租搏斗的打工战士，谢谢大家\n私信不闲聊，只回复入门私信。\n欢迎女宝找我互fo！\n#门槛妹 #线下 #爸爸活 #一日女友 #上海 #江浙沪 #纯绿 #半绿 #非绿 #妈妈活 https://t.co/TS5jIdppI1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 191,
+          "like_count": 1057,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 498
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-26T23:50:15.000Z",
+        "description": "🚪52/99/188支持验证15/只回复口令私信，其他不回，讨厌我就别来问也别入门 ｜🌟坐标上海接线下｜女孩子互fo大欢迎｜里人格@kawash1ronitori｜你尊重我我也尊重你🥺｜防爆破小号@NyanCar_QWQ🐈‍⬛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 65,
+                "username": "kawash1ronitori"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "NyanCar_QWQ"
+              }
+            ]
+          }
+        },
+        "id": "1861557910150750209",
+        "location": "待チ人ハ来ズ☔️不回除了口令以外的任何私信",
+        "name": "貓車☆",
+        "pinned_tweet_id": "1935275347244892427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907115627652984833/6mVmL_n6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 46,
+          "like_count": 692,
+          "listed_count": 3,
+          "media_count": 136,
+          "tweet_count": 486
+        },
+        "username": "SakeSora613_",
+        "verified": false
+      }
+    ]
+  }
+}

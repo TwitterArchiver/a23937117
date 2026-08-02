@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1854277757078753301",
+        "3_1854277757095550979",
+        "3_1854277757082935301"
+      ],
+      "media_source_tweet_id": [
+        "1854278260462608589",
+        "1854278260462608589",
+        "1854278260462608589"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1965032603867873474",
+    "created_at": "2025-09-08T12:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T13:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965032603867873474"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 62,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "南京"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "线下"
+        },
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "原味"
+        },
+        {
+          "end": 83,
+          "start": 79,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 88,
+          "start": 84,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 93,
+          "start": 89,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "纯绿"
+        },
+        {
+          "end": 101,
+          "start": 98,
+          "tag": "半绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1848066322548363265",
+          "start": 3,
+          "username": "maomaoyuuu9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8ZcjRWJN6z",
+          "end": 125,
+          "expanded_url": "https://x.com/MannYvette93200/status/1854278260462608589/photo/1",
+          "media_key": "3_1854277757078753301",
+          "start": 102,
+          "url": "https://t.co/8ZcjRWJN6z"
+        },
+        {
+          "display_url": "pic.x.com/8ZcjRWJN6z",
+          "end": 125,
+          "expanded_url": "https://x.com/MannYvette93200/status/1854278260462608589/photo/1",
+          "media_key": "3_1854277757095550979",
+          "start": 102,
+          "url": "https://t.co/8ZcjRWJN6z"
+        },
+        {
+          "display_url": "pic.x.com/8ZcjRWJN6z",
+          "end": 125,
+          "expanded_url": "https://x.com/MannYvette93200/status/1854278260462608589/photo/1",
+          "media_key": "3_1854277757082935301",
+          "start": 102,
+          "url": "https://t.co/8ZcjRWJN6z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965032603867873474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854278260462608589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @maomaoyuuu9: 新顶置\n这里是猫猫雨，喜欢我请过我🚪，会一直粘着你，接南京线下 ，欢迎小女孩互fo互转\n #爸爸活 #南京 #线下 #原味 #门槛哥 #门槛妹 #爸爸活 #纯绿 #半绿 https://t.co/8ZcjRWJN6z"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1965032603867873474].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1965032603867873474",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1965032603867873474"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "3_1854277757078753301",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gbu3y7GWUBUsjpD.jpg",
+        "width": 574
+      },
+      {
+        "height": 736,
+        "media_key": "3_1854277757095550979",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gbu3y7KWoAMNp3Y.jpg",
+        "width": 574
+      },
+      {
+        "height": 732,
+        "media_key": "3_1854277757082935301",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gbu3y7HWIAUpsyK.jpg",
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854277757078753301",
+            "3_1854277757095550979",
+            "3_1854277757082935301"
+          ]
+        },
+        "author_id": "1848066322548363265",
+        "conversation_id": "1854278260462608589",
+        "created_at": "2024-11-06T21:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T22:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854278260462608589"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "南京"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "线下"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "原味"
+            },
+            {
+              "end": 66,
+              "start": 62,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "纯绿"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "半绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ZcjRWJN6z",
+              "end": 108,
+              "expanded_url": "https://x.com/MannYvette93200/status/1854278260462608589/photo/1",
+              "media_key": "3_1854277757078753301",
+              "start": 85,
+              "url": "https://t.co/8ZcjRWJN6z"
+            },
+            {
+              "display_url": "pic.x.com/8ZcjRWJN6z",
+              "end": 108,
+              "expanded_url": "https://x.com/MannYvette93200/status/1854278260462608589/photo/1",
+              "media_key": "3_1854277757095550979",
+              "start": 85,
+              "url": "https://t.co/8ZcjRWJN6z"
+            },
+            {
+              "display_url": "pic.x.com/8ZcjRWJN6z",
+              "end": 108,
+              "expanded_url": "https://x.com/MannYvette93200/status/1854278260462608589/photo/1",
+              "media_key": "3_1854277757082935301",
+              "start": 85,
+              "url": "https://t.co/8ZcjRWJN6z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854278260462608589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 41573,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "新顶置\n这里是猫猫雨，喜欢我请过我🚪，会一直粘着你，接南京线下 ，欢迎小女孩互fo互转\n #爸爸活 #南京 #线下 #原味 #门槛哥 #门槛妹 #爸爸活 #纯绿 #半绿 https://t.co/8ZcjRWJN6z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 209,
+          "like_count": 1160,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 660
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T18:18:58.000Z",
+        "description": "这里是猫猫雨\n🚪188/288/520\n接线下",
+        "id": "1848066322548363265",
+        "location": "南京",
+        "name": "猫猫雨",
+        "pinned_tweet_id": "1854278260462608589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853874490574278656/kb74cbju_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 62,
+          "like_count": 3,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 171
+        },
+        "username": "maomaoyuuu9",
+        "verified": false
+      }
+    ]
+  }
+}

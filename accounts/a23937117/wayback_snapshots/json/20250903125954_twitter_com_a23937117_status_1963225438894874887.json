@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1963225438894874887",
+    "created_at": "2025-09-03T12:59:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T13:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963225438894874887"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 93,
+          "start": 90,
+          "tag": "门槛"
+        },
+        {
+          "end": 98,
+          "start": 94,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 104,
+          "start": 99,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 109,
+          "start": 105,
+          "tag": "求包养"
+        },
+        {
+          "end": 114,
+          "start": 110,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "线下"
+        },
+        {
+          "end": 122,
+          "start": 119,
+          "tag": "非绿"
+        },
+        {
+          "end": 128,
+          "start": 123,
+          "tag": "线下女友"
+        },
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "反差"
+        },
+        {
+          "end": 136,
+          "start": 133,
+          "tag": "女大"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1910542598630236161",
+          "start": 3,
+          "username": "chenchenchem0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963225438894874887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954771027260780901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chenchenchem0: 我是小陈\n因为家里的原因欠了很多钱，还要养活自己\n04女大在线接爸爸活超级听话\n期待哥哥入🚪\n虽然大部分时间在吐槽！\n欢迎老婆们互推互fo~\n#门槛 #门槛妹 #金主爸爸 #求包养 #爸爸活 #线下 #非绿 #线下女友 #反差 #女大 #圆…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1963225438894874887].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1963225438894874887",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1963225438894874887"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1516,
+        "media_key": "3_1954771008688427008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyC94CYbEAA2mCc.jpg",
+        "width": 1284
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1954771008654897152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyC94CQbcAA28H1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954771008688427008",
+            "3_1954771008654897152"
+          ]
+        },
+        "author_id": "1910542598630236161",
+        "conversation_id": "1954771027260780901",
+        "created_at": "2025-08-11T05:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T06:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954771027260780901"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "门槛"
+            },
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "求包养"
+            },
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "线下"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "非绿"
+            },
+            {
+              "end": 109,
+              "start": 104,
+              "tag": "线下女友"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "反差"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "女大"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "圆角"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "巨乳"
+            },
+            {
+              "end": 130,
+              "start": 126,
+              "tag": "求入门"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QGQwDQjmq0",
+              "end": 154,
+              "expanded_url": "https://x.com/chenchenchem0/status/1954771027260780901/photo/1",
+              "media_key": "3_1954771008688427008",
+              "start": 131,
+              "url": "https://t.co/QGQwDQjmq0"
+            },
+            {
+              "display_url": "pic.x.com/QGQwDQjmq0",
+              "end": 154,
+              "expanded_url": "https://x.com/chenchenchem0/status/1954771027260780901/photo/1",
+              "media_key": "3_1954771008654897152",
+              "start": 131,
+              "url": "https://t.co/QGQwDQjmq0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954771027260780901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 23898,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "我是小陈\n因为家里的原因欠了很多钱，还要养活自己\n04女大在线接爸爸活超级听话\n期待哥哥入🚪\n虽然大部分时间在吐槽！\n欢迎老婆们互推互fo~\n#门槛 #门槛妹 #金主爸爸 #求包养 #爸爸活 #线下 #非绿 #线下女友 #反差 #女大 #圆角 #巨乳 #求入门 https://t.co/QGQwDQjmq0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 204,
+          "like_count": 1140,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 709
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T03:57:13.000Z",
+        "description": "爸爸快来入🚪，🚪｜99｜ 188｜388|｜520｜1314 ｜坐标验证20r的，只收口令，欢迎女宝来互推互fo~",
+        "id": "1910542598630236161",
+        "name": "陈陈陈-",
+        "pinned_tweet_id": "1954771027260780901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910543236520960002/_pMne8qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 174,
+          "like_count": 485,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 708
+        },
+        "username": "chenchenchem0",
+        "verified": false
+      }
+    ]
+  }
+}

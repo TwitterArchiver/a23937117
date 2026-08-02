@@ -1,0 +1,485 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074038754579562496"
+      ],
+      "media_source_tweet_id": [
+        "2074038757817553041"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1250915122278567936",
+          "name": "Obon Week"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1323336569109925888",
+          "name": "Tanabata"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1250915122278567936",
+          "name": "Obon Week"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1323336569109925888",
+          "name": "Tanabata"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1323336569109925888",
+          "name": "Tanabata"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2074720954329043177",
+    "created_at": "2026-07-08T05:03:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T06:03:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074720954329043177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1683140724680962048",
+          "start": 3,
+          "username": "August_2161"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AFOQ9MQPXg",
+          "end": 64,
+          "expanded_url": "https://x.com/August_2161/status/2074038757817553041/photo/1",
+          "media_key": "3_2074038754579562496",
+          "start": 41,
+          "url": "https://t.co/AFOQ9MQPXg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074720954329043177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2808
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074038757817553041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @August_2161: 浪人して何もしないまま3回目の七夕迎えて今これ https://t.co/AFOQ9MQPXg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074038754579562496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMh3QjEbwAAT8lc.jpg",
+        "width": 1492
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074038754579562496"
+          ],
+          "media_source_tweet_id": [
+            "2074038757817553041"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2074720954329043177",
+        "created_at": "2026-07-08T05:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074720954329043177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1683140724680962048",
+              "start": 3,
+              "username": "August_2161"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AFOQ9MQPXg",
+              "end": 64,
+              "expanded_url": "https://x.com/August_2161/status/2074038757817553041/photo/1",
+              "media_key": "3_2074038754579562496",
+              "start": 41,
+              "url": "https://t.co/AFOQ9MQPXg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074720954329043177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2808
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074038757817553041",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @August_2161: 浪人して何もしないまま3回目の七夕迎えて今これ https://t.co/AFOQ9MQPXg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074038754579562496"
+          ]
+        },
+        "author_id": "1683140724680962048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2074038757817553041",
+        "created_at": "2026-07-06T07:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074038757817553041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AFOQ9MQPXg",
+              "end": 47,
+              "expanded_url": "https://x.com/August_2161/status/2074038757817553041/photo/1",
+              "media_key": "3_2074038754579562496",
+              "start": 24,
+              "url": "https://t.co/AFOQ9MQPXg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074038757817553041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6338,
+          "impression_count": 2743589,
+          "like_count": 41123,
+          "quote_count": 336,
+          "reply_count": 293,
+          "retweet_count": 2808
+        },
+        "reply_settings": "everyone",
+        "text": "浪人して何もしないまま3回目の七夕迎えて今これ https://t.co/AFOQ9MQPXg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 189,
+          "like_count": 1420,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 779
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T15:43:20.000Z",
+        "description": "@Monthly_21XX　無限浪労牢老low　n=3　受験童貞",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "Monthly_21XX"
+              }
+            ]
+          }
+        },
+        "id": "1683140724680962048",
+        "name": "無職弁明Ⅲ〜予備校行ったら本気出す〜",
+        "pinned_tweet_id": "2074497069688172848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054882846184189952/x98PJUBb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 1917,
+          "like_count": 2638,
+          "listed_count": 1,
+          "media_count": 858,
+          "tweet_count": 3209
+        },
+        "url": "",
+        "username": "August_2161",
+        "verified": false
+      }
+    ]
+  }
+}

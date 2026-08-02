@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2038466899076411610",
+    "created_at": "2026-03-30T04:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T05:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038466899076411610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2037447301896282112",
+          "start": 3,
+          "username": "jwdn6zv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038466899076411610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037449267917561922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jwdn6zv: 这里是牙疼  因原生家庭不合父母离异现在一个人生活比较需要经济需求 我接任何线下 坐标天津北京 经常去江浙沪那边 哪里都可以去 露脸验证66🧧 语音验证免费 抖音一万粉丝 支持任何验证qwq 宝宝们可以找我互转互fo 转发关注抽取俩个188🧧 #天津北…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037449011481976832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZ5FMFaoAALpjL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037449011477815296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZ5FMEbIAAi8_b.jpg",
+        "width": 1537
+      },
+      {
+        "height": 1344,
+        "media_key": "3_2037449011490381824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZ5FMHa4AAmLIk.jpg",
+        "width": 1320
+      },
+      {
+        "duration_ms": 10006,
+        "height": 720,
+        "media_key": "13_2037449011490398208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037449011490398208/img/V0EBJtQmoQgKdzht.jpg",
+        "public_metrics": {
+          "view_count": 648
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037449011490398208/vid/avc1/480x270/qnGRo9s0mdo25aay.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037449011490398208/vid/avc1/640x360/wpy9Yjyb_EAVLc9k.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037449011490398208/vid/avc1/1280x720/P4Rcp15agEwo-31U.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037449011490398208/pl/caTx8BrPk4amGc8A.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2038466899076411610",
+        "created_at": "2026-03-30T04:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T05:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038466899076411610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2037447301896282112",
+              "start": 3,
+              "username": "jwdn6zv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038466899076411610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037449267917561922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jwdn6zv: 这里是牙疼  因原生家庭不合父母离异现在一个人生活比较需要经济需求 我接任何线下 坐标天津北京 经常去江浙沪那边 哪里都可以去 露脸验证66🧧 语音验证免费 抖音一万粉丝 支持任何验证qwq 宝宝们可以找我互转互fo 转发关注抽取俩个188🧧 #天津北…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037449011481976832",
+            "3_2037449011477815296",
+            "3_2037449011490381824",
+            "13_2037449011490398208"
+          ]
+        },
+        "author_id": "2037447301896282112",
+        "conversation_id": "2037449267917561922",
+        "created_at": "2026-03-27T08:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037449267917561922"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 122,
+              "tag": "天津北京"
+            },
+            {
+              "end": 132,
+              "start": 128,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 138,
+              "start": 133,
+              "tag": "一日女友"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "非绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V0D94t7CgL",
+              "end": 166,
+              "expanded_url": "https://x.com/jwdn6zv/status/2037449267917561922/video/1",
+              "media_key": "3_2037449011481976832",
+              "start": 143,
+              "url": "https://t.co/V0D94t7CgL"
+            },
+            {
+              "display_url": "pic.x.com/V0D94t7CgL",
+              "end": 166,
+              "expanded_url": "https://x.com/jwdn6zv/status/2037449267917561922/video/1",
+              "media_key": "3_2037449011477815296",
+              "start": 143,
+              "url": "https://t.co/V0D94t7CgL"
+            },
+            {
+              "display_url": "pic.x.com/V0D94t7CgL",
+              "end": 166,
+              "expanded_url": "https://x.com/jwdn6zv/status/2037449267917561922/video/1",
+              "media_key": "3_2037449011490381824",
+              "start": 143,
+              "url": "https://t.co/V0D94t7CgL"
+            },
+            {
+              "display_url": "pic.x.com/V0D94t7CgL",
+              "end": 166,
+              "expanded_url": "https://x.com/jwdn6zv/status/2037449267917561922/video/1",
+              "media_key": "13_2037449011490398208",
+              "start": 143,
+              "url": "https://t.co/V0D94t7CgL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037449267917561922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1762,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "这里是牙疼  因原生家庭不合父母离异现在一个人生活比较需要经济需求 我接任何线下 坐标天津北京 经常去江浙沪那边 哪里都可以去 露脸验证66🧧 语音验证免费 抖音一万粉丝 支持任何验证qwq 宝宝们可以找我互转互fo 转发关注抽取俩个188🧧 #天津北京 #爸爸活 #一日女友 #非绿 https://t.co/V0D94t7CgL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 201,
+          "like_count": 1381,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 786
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T08:31:47.000Z",
+        "description": "",
+        "id": "2037447301896282112",
+        "name": "jwd",
+        "pinned_tweet_id": "2037449267917561922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037447680562286592/wLo1ethZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 1,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 11
+        },
+        "username": "jwdn6zv",
+        "verified": false
+      }
+    ]
+  }
+}

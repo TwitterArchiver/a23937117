@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907626710381613056"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1907626716148683010",
+    "created_at": "2025-04-03T02:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T03:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907626716148683010"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "自残"
+        },
+        {
+          "end": 22,
+          "start": 20,
+          "tag": "血"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ajzrQxbUPy",
+          "end": 46,
+          "expanded_url": "https://x.com/a23937117/status/1907626716148683010/photo/1",
+          "media_key": "3_1907626710381613056",
+          "start": 23,
+          "url": "https://t.co/ajzrQxbUPy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907626716148683010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是你的小猫除了你什么都没有\n\n#自残 #血 https://t.co/ajzrQxbUPy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1907626716148683010].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1907626716148683010",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1907626716148683010"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 783,
+        "media_key": "3_1907626710381613056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnlAYtRX0AA30qr.jpg",
+        "width": 1524
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——喜欢被夸可爱 严重露出lover  od 自残 烟酒love 最喜欢可爱的东西 南美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892410780663824384/aNzm9Kzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 88,
+          "like_count": 581,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 42
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

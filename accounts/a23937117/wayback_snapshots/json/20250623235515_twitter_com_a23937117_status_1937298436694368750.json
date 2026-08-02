@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1937213314494566830",
+    "created_at": "2025-06-23T23:55:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T00:55:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937298436694368750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1691791250670895105",
+          "start": 0,
+          "username": "Kilig_i777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937298436694368750",
+    "in_reply_to_user_id": "1691791250670895105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937220707257319936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kilig_i777 为什么上学不教做爱啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1747,
+        "media_key": "3_1937220697014829058",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuJj9ckagAIYEXR.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1937213314494566830",
+        "created_at": "2025-06-23T23:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T00:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937298436694368750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1691791250670895105",
+              "start": 0,
+              "username": "Kilig_i777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937298436694368750",
+        "in_reply_to_user_id": "1691791250670895105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937220707257319936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kilig_i777 为什么上学不教做爱啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937220697014829058"
+          ]
+        },
+        "author_id": "1691791250670895105",
+        "conversation_id": "1937213314494566830",
+        "created_at": "2025-06-23T18:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T19:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937220707257319936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XgTgp7QEj4",
+              "end": 30,
+              "expanded_url": "https://x.com/Kilig_i777/status/1937220707257319936/photo/1",
+              "media_key": "3_1937220697014829058",
+              "start": 7,
+              "url": "https://t.co/XgTgp7QEj4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937220707257319936",
+        "in_reply_to_user_id": "1691791250670895105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 969,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937213918247817280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上学为啥不教 https://t.co/XgTgp7QEj4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "kissing",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 125,
+          "like_count": 808,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 149
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T12:37:33.000Z",
+        "description": "不想叫我宝宝可以叫我香香｜谢谢你的取关 |我没有小号别被骗|推广关评自辨｜匿名📪 https://t.co/xEONfKiwpu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%88%91%E6%9…",
+                "end": 64,
+                "expanded_url": "https://ngl.link/%E6%88%91%E6%9C%8D%E4%BA%86%E5%AE%9D%E5%AE%9D",
+                "start": 41,
+                "url": "https://t.co/xEONfKiwpu"
+              }
+            ]
+          }
+        },
+        "id": "1691791250670895105",
+        "location": "答应我会幸福",
+        "name": "我服了宝宝",
+        "pinned_tweet_id": "1930580592913007036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927900924237762560/_p_RRqEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7107,
+          "following_count": 231,
+          "like_count": 9047,
+          "listed_count": 12,
+          "media_count": 130,
+          "tweet_count": 4078
+        },
+        "username": "Kilig_i777",
+        "verified": false
+      }
+    ]
+  }
+}

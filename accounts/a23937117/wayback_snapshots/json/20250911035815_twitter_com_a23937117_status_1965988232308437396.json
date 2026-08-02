@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965988225647788032"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1965988232308437396",
+    "created_at": "2025-09-11T03:58:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T04:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965988232308437396"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lwh2XMLhLh",
+          "end": 30,
+          "expanded_url": "https://x.com/a23937117/status/1965988232308437396/photo/1",
+          "media_key": "3_1965988225647788032",
+          "start": 7,
+          "url": "https://t.co/Lwh2XMLhLh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965988232308437396",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我每天都很困 https://t.co/Lwh2XMLhLh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1965988232308437396].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1965988232308437396",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1965988232308437396"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965988225647788032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0iX3_5WQAAV4uN.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 210,
+          "like_count": 1193,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 659
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921890939645329409",
+        "3_1921890939674693632",
+        "3_1921890939842318336"
+      ],
+      "media_source_tweet_id": [
+        "1921890976370462822",
+        "1921890976370462822",
+        "1921890976370462822"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1963999676375376150",
+    "created_at": "2025-09-05T16:16:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T17:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963999676375376150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1829611317558394880",
+          "start": 3,
+          "username": "Younakawaii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zXs7opRnys",
+          "end": 107,
+          "expanded_url": "https://x.com/Younakawaii/status/1921890976370462822/photo/1",
+          "media_key": "3_1921890939645329409",
+          "start": 84,
+          "url": "https://t.co/zXs7opRnys"
+        },
+        {
+          "display_url": "pic.x.com/zXs7opRnys",
+          "end": 107,
+          "expanded_url": "https://x.com/Younakawaii/status/1921890976370462822/photo/1",
+          "media_key": "3_1921890939674693632",
+          "start": 84,
+          "url": "https://t.co/zXs7opRnys"
+        },
+        {
+          "display_url": "pic.x.com/zXs7opRnys",
+          "end": 107,
+          "expanded_url": "https://x.com/Younakawaii/status/1921890976370462822/photo/1",
+          "media_key": "3_1921890939842318336",
+          "start": 84,
+          "url": "https://t.co/zXs7opRnys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963999676375376150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921890976370462822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Younakawaii: 这里宥娜～04大学在读喵\n有双相和bpd但是希望和大家一起玩！\n问坐标10r，过门可看价格表⌯&gt;ᴗo\n不是皮下男，可语音认证！ https://t.co/zXs7opRnys"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1963999676375376150].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1963999676375376150",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1963999676375376150"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1921890939645329409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqvtoIKaAAE0YQA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 931,
+        "media_key": "3_1921890939674693632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqvtoIRaEAAWAYx.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1921890939842318336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqvtoI5X0AAq88B.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921890939645329409",
+            "3_1921890939674693632",
+            "3_1921890939842318336"
+          ]
+        },
+        "author_id": "1829611317558394880",
+        "conversation_id": "1921890976370462822",
+        "created_at": "2025-05-12T11:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T12:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921890976370462822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zXs7opRnys",
+              "end": 90,
+              "expanded_url": "https://x.com/Younakawaii/status/1921890976370462822/photo/1",
+              "media_key": "3_1921890939645329409",
+              "start": 67,
+              "url": "https://t.co/zXs7opRnys"
+            },
+            {
+              "display_url": "pic.x.com/zXs7opRnys",
+              "end": 90,
+              "expanded_url": "https://x.com/Younakawaii/status/1921890976370462822/photo/1",
+              "media_key": "3_1921890939674693632",
+              "start": 67,
+              "url": "https://t.co/zXs7opRnys"
+            },
+            {
+              "display_url": "pic.x.com/zXs7opRnys",
+              "end": 90,
+              "expanded_url": "https://x.com/Younakawaii/status/1921890976370462822/photo/1",
+              "media_key": "3_1921890939842318336",
+              "start": 67,
+              "url": "https://t.co/zXs7opRnys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921890976370462822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 29571,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "这里宥娜～04大学在读喵\n有双相和bpd但是希望和大家一起玩！\n问坐标10r，过门可看价格表⌯&gt;ᴗo\n不是皮下男，可语音认证！ https://t.co/zXs7opRnys"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 206,
+          "like_count": 1152,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 721
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T20:05:32.000Z",
+        "description": "🦴休学女大🦴不过门不要闲聊TT欢迎小女孩互fo互转❤️绝赞欠款中🐾暂不接非🐶 防走丢小号：@ZuttoNekonya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "ZuttoNekonya"
+              }
+            ]
+          }
+        },
+        "id": "1829611317558394880",
+        "name": "Youna🐾",
+        "pinned_tweet_id": "1921890976370462822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942938481376014336/E9CgBxRQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 155,
+          "like_count": 35,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 467
+        },
+        "username": "Younakawaii",
+        "verified": false
+      }
+    ]
+  }
+}

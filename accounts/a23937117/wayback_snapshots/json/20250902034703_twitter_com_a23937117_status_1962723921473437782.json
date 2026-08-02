@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1960593297849581568"
+      ],
+      "media_source_tweet_id": [
+        "1960593503504798069"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962723921473437782",
+    "created_at": "2025-09-02T03:47:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T04:47:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962723921473437782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1682640172033400832",
+          "start": 3,
+          "username": "fan_club_otter"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9bGWUWhynO",
+          "end": 62,
+          "expanded_url": "https://x.com/fan_club_otter/status/1960593503504798069/video/1",
+          "media_key": "7_1960593297849581568",
+          "start": 39,
+          "url": "https://t.co/9bGWUWhynO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962723921473437782",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960593503504798069",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fan_club_otter: Just spinning away https://t.co/9bGWUWhynO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21828,
+        "height": 1280,
+        "media_key": "7_1960593297849581568",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1960593297849581568/pu/img/EzE5JqvFtSeFjmpD.jpg",
+        "public_metrics": {
+          "view_count": 4689
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1960593297849581568/pu/vid/avc1/320x568/rE3s6_oe0DTT4kiL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1960593297849581568/pu/vid/avc1/480x852/j1DSI4FrnLajyM1Q.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1960593297849581568/pu/vid/avc1/720x1280/4lQ95aDlKadZTPV4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1960593297849581568/pu/pl/fKWaK684C1fKSdK3.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1960593297849581568"
+          ],
+          "media_source_tweet_id": [
+            "1960593503504798069"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "1962723921473437782",
+        "created_at": "2025-09-02T03:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T04:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962723921473437782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1682640172033400832",
+              "start": 3,
+              "username": "fan_club_otter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9bGWUWhynO",
+              "end": 62,
+              "expanded_url": "https://x.com/fan_club_otter/status/1960593503504798069/video/1",
+              "media_key": "7_1960593297849581568",
+              "start": 39,
+              "url": "https://t.co/9bGWUWhynO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962723921473437782",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960593503504798069",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fan_club_otter: Just spinning away https://t.co/9bGWUWhynO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1960593297849581568"
+          ]
+        },
+        "author_id": "1682640172033400832",
+        "conversation_id": "1960593503504798069",
+        "created_at": "2025-08-27T06:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T07:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960593503504798069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9bGWUWhynO",
+              "end": 42,
+              "expanded_url": "https://x.com/fan_club_otter/status/1960593503504798069/video/1",
+              "media_key": "7_1960593297849581568",
+              "start": 19,
+              "url": "https://t.co/9bGWUWhynO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960593503504798069",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 15007,
+          "like_count": 810,
+          "quote_count": 10,
+          "reply_count": 6,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "Just spinning away https://t.co/9bGWUWhynO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 201,
+          "like_count": 1138,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 689
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T06:34:57.000Z",
+        "description": "Welcome to @fan_club_otter 🦦we share daily #otter contents 🐾Follow us if you really love otter",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "otter"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "fan_club_otter"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "giftshopbox2.com",
+                "end": 23,
+                "expanded_url": "https://www.giftshopbox2.com/",
+                "start": 0,
+                "url": "https://t.co/kb8uWQmokV"
+              }
+            ]
+          }
+        },
+        "id": "1682640172033400832",
+        "location": "United States",
+        "name": "Otter lovers club",
+        "pinned_tweet_id": "1926621461122289820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682640630529527808/cYDZrTaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5285,
+          "following_count": 1252,
+          "like_count": 4367,
+          "listed_count": 16,
+          "media_count": 2244,
+          "tweet_count": 2293
+        },
+        "url": "https://t.co/kb8uWQmokV",
+        "username": "fan_club_otter",
+        "verified": false
+      }
+    ]
+  }
+}

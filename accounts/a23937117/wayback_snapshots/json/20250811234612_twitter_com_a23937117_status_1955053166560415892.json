@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955053166560415892",
+    "created_at": "2025-08-11T23:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T00:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955053166560415892"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "门槛"
+        },
+        {
+          "end": 108,
+          "start": 104,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 113,
+          "start": 109,
+          "tag": "门槛姐"
+        },
+        {
+          "end": 119,
+          "start": 114,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 125,
+          "start": 121,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 130,
+          "start": 126,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 136,
+          "start": 131,
+          "tag": "女高中生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1712427218993856512",
+          "start": 3,
+          "username": "youyouqvq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955053166560415892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878079303537299743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @youyouqvq: hi 我是小忧 我又重生啦 前世2k粉\n07女高 休学在家 接爸爸活 非绿 \n过🚪仔细看p1 欢迎金主爸爸们过🚪\n关注转发点赞 抽88x1 52x1 \n🈵1000fo开 #门槛 #门槛哥 #门槛姐 #金主爸爸  #爸爸活 #门槛妹 #女高中生 #陪…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1345,
+        "media_key": "3_1878079295173828608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhBHKyDaIAAVuXN.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1878079295178067968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhBHKyEa0AA7nOV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1955053166560415892",
+        "created_at": "2025-08-11T23:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T00:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955053166560415892"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "门槛"
+            },
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 113,
+              "start": 109,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 119,
+              "start": 114,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 130,
+              "start": 126,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 136,
+              "start": 131,
+              "tag": "女高中生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1712427218993856512",
+              "start": 3,
+              "username": "youyouqvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955053166560415892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878079303537299743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @youyouqvq: hi 我是小忧 我又重生啦 前世2k粉\n07女高 休学在家 接爸爸活 非绿 \n过🚪仔细看p1 欢迎金主爸爸们过🚪\n关注转发点赞 抽88x1 52x1 \n🈵1000fo开 #门槛 #门槛哥 #门槛姐 #金主爸爸  #爸爸活 #门槛妹 #女高中生 #陪…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878079295173828608",
+            "3_1878079295178067968"
+          ]
+        },
+        "author_id": "1712427218993856512",
+        "conversation_id": "1878079303537299743",
+        "created_at": "2025-01-11T13:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T14:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878079303537299743"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "门槛"
+            },
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 104,
+              "start": 99,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 121,
+              "start": 116,
+              "tag": "女高中生"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "陪聊"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "包养"
+            },
+            {
+              "end": 134,
+              "start": 130,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 142,
+              "start": 135,
+              "tag": "ATM打钱奴"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "金主"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l5ogJ08fzi",
+              "end": 171,
+              "expanded_url": "https://x.com/youyouqvq/status/1878079303537299743/photo/1",
+              "media_key": "3_1878079295173828608",
+              "start": 148,
+              "url": "https://t.co/l5ogJ08fzi"
+            },
+            {
+              "display_url": "pic.x.com/l5ogJ08fzi",
+              "end": 171,
+              "expanded_url": "https://x.com/youyouqvq/status/1878079303537299743/photo/1",
+              "media_key": "3_1878079295178067968",
+              "start": 148,
+              "url": "https://t.co/l5ogJ08fzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878079303537299743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 155755,
+          "like_count": 208,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 110
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "hi 我是小忧 我又重生啦 前世2k粉\n07女高 休学在家 接爸爸活 非绿 \n过🚪仔细看p1 欢迎金主爸爸们过🚪\n关注转发点赞 抽88x1 52x1 \n🈵1000fo开 #门槛 #门槛哥 #门槛姐 #金主爸爸  #爸爸活 #门槛妹 #女高中生 #陪聊 #包养 #妈妈活 #ATM打钱奴  #金主 https://t.co/l5ogJ08fzi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 229,
+          "like_count": 1075,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 549
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T11:17:35.000Z",
+        "description": "坐标20r",
+        "id": "1712427218993856512",
+        "name": "小忧2.0",
+        "pinned_tweet_id": "1878079303537299743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876884816618229760/xDoz_-X-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1633,
+          "following_count": 18,
+          "like_count": 90,
+          "listed_count": 3,
+          "media_count": 13,
+          "tweet_count": 67
+        },
+        "username": "youyouqvq",
+        "verified": false
+      }
+    ]
+  }
+}

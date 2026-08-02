@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1927122372009570355",
+    "created_at": "2025-05-27T11:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T12:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927318974112358880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1899975409124728833",
+          "start": 0,
+          "username": "Rose_jaune_uu"
+        },
+        {
+          "end": 28,
+          "id": "1867639848569372672",
+          "start": 15,
+          "username": "overdose_day"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927318974112358880",
+    "in_reply_to_user_id": "1899975409124728833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927122372009570355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rose_jaune_uu @overdose_day 好萌好萌呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30033,
+        "height": 1280,
+        "media_key": "13_1927122297963352064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1927122297963352064/img/xtbZ69Tu2tFpjs21.jpg",
+        "public_metrics": {
+          "view_count": 140
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927122297963352064/vid/avc1/320x568/LIi6UvekQlYoVTa1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927122297963352064/vid/avc1/480x852/Al5vowWYKaipNoei.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927122297963352064/vid/avc1/720x1280/9V8xXFR_Zi5HTrio.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1927122297963352064/pl/SQB1w9c60n40Bju-.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1927122372009570355",
+        "created_at": "2025-05-27T11:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T12:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927318974112358880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1899975409124728833",
+              "start": 0,
+              "username": "Rose_jaune_uu"
+            },
+            {
+              "end": 28,
+              "id": "1867639848569372672",
+              "start": 15,
+              "username": "overdose_day"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927318974112358880",
+        "in_reply_to_user_id": "1899975409124728833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927122372009570355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rose_jaune_uu @overdose_day 好萌好萌呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1927122297963352064"
+          ]
+        },
+        "author_id": "1899975409124728833",
+        "conversation_id": "1927122372009570355",
+        "created_at": "2025-05-26T21:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T22:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927122372009570355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pnk8zcl5Q5",
+              "end": 56,
+              "expanded_url": "https://x.com/Rose_jaune_uu/status/1927122372009570355/video/1",
+              "media_key": "13_1927122297963352064",
+              "start": 33,
+              "url": "https://t.co/Pnk8zcl5Q5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927122372009570355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 379,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果萌是死罪，那我就被枪毙五千二百万次了！！！┏ (^ω^)=凸 https://t.co/Pnk8zcl5Q5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "讨厌我的人有福了 因为我真的过的很惨",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 113,
+          "like_count": 689,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 83
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T00:07:02.000Z",
+        "description": "猫在上网",
+        "id": "1899975409124728833",
+        "name": "Evil cute u",
+        "pinned_tweet_id": "1905012355370738072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923369478181756928/1Pbt-wbE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 16,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 92
+        },
+        "username": "Rose_jaune_uu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T18:37:15.000Z",
+        "description": "官网:https://t.co/bwfCFLxfiI\n个人galgame站:https://t.co/iRTTcRxh1u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 26,
+                "expanded_url": "https://overdose.day",
+                "start": 3,
+                "url": "https://t.co/bwfCFLxfiI"
+              },
+              {
+                "display_url": "lsd.kim",
+                "end": 61,
+                "expanded_url": "https://lsd.kim/",
+                "start": 38,
+                "url": "https://t.co/iRTTcRxh1u"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/W009AsAI4T"
+              }
+            ]
+          }
+        },
+        "id": "1867639848569372672",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "1921444982461718757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909493731260289024/ezggnfUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3032,
+          "following_count": 1290,
+          "like_count": 740,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1146
+        },
+        "url": "https://t.co/W009AsAI4T",
+        "username": "overdose_day",
+        "verified": false
+      }
+    ]
+  }
+}

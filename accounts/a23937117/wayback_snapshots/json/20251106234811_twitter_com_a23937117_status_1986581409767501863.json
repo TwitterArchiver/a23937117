@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1986581409767501863",
+    "created_at": "2025-11-06T23:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T00:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986581409767501863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1959504161751392256",
+          "start": 3,
+          "username": "luciewest148206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986581409767501863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985936404241924123",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luciewest148206: 泥萌嚎呀我是小右\n已经是第三次重生了 希望大家多多支持\n🚪88，纯绿门槛对应图包，+v陪聊\n🚪258，半绿门槛对应图包，+v陪聊，情绪价值有问必答\n🚪588，非绿门解锁全图包，+vx，免费定制一次cos视频或图包\n🚪1314（暂时没想好…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1986581409767501863].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1986581409767501863",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1986581409767501863"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985936387343073282",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G492n1IbQAI-S14.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985936387598888960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G492n2FasAAnekx.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985936387619897348",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G492n2KbQAQ2Whc.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985936388207071232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G492n4Wa0AAsfd7.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985936387343073282",
+            "3_1985936387598888960",
+            "3_1985936387619897348",
+            "3_1985936388207071232"
+          ]
+        },
+        "author_id": "1959504161751392256",
+        "conversation_id": "1985936404241924123",
+        "created_at": "2025-11-05T05:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T06:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985936404241924123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v1Bryz5uc7",
+              "end": 169,
+              "expanded_url": "https://x.com/luciewest148206/status/1985936404241924123/photo/1",
+              "media_key": "3_1985936387343073282",
+              "start": 146,
+              "url": "https://t.co/v1Bryz5uc7"
+            },
+            {
+              "display_url": "pic.x.com/v1Bryz5uc7",
+              "end": 169,
+              "expanded_url": "https://x.com/luciewest148206/status/1985936404241924123/photo/1",
+              "media_key": "3_1985936387598888960",
+              "start": 146,
+              "url": "https://t.co/v1Bryz5uc7"
+            },
+            {
+              "display_url": "pic.x.com/v1Bryz5uc7",
+              "end": 169,
+              "expanded_url": "https://x.com/luciewest148206/status/1985936404241924123/photo/1",
+              "media_key": "3_1985936387619897348",
+              "start": 146,
+              "url": "https://t.co/v1Bryz5uc7"
+            },
+            {
+              "display_url": "pic.x.com/v1Bryz5uc7",
+              "end": 169,
+              "expanded_url": "https://x.com/luciewest148206/status/1985936404241924123/photo/1",
+              "media_key": "3_1985936388207071232",
+              "start": 146,
+              "url": "https://t.co/v1Bryz5uc7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985936404241924123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2381,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "泥萌嚎呀我是小右\n已经是第三次重生了 希望大家多多支持\n🚪88，纯绿门槛对应图包，+v陪聊\n🚪258，半绿门槛对应图包，+v陪聊，情绪价值有问必答\n🚪588，非绿门解锁全图包，+vx，免费定制一次cos视频或图包\n🚪1314（暂时没想好具体定什么但🉑免费纯绿线下一次）\n欢迎女孩子互fo互转 https://t.co/v1Bryz5uc7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 220,
+          "like_count": 1340,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 751
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T06:32:58.000Z",
+        "description": "重生三次归来\n这里是小右的简介:\n🚪88/258/588/1314/无封顶\n🉑私信询问喜欢有礼貌一些\n线下业务请先过门详谈",
+        "id": "1959504161751392256",
+        "name": "小右",
+        "pinned_tweet_id": "1985936404241924123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985933272946479104/hYw49uqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 49,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 85
+        },
+        "username": "luciewest148206",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1923481491012538587",
+    "created_at": "2025-05-16T20:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T21:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1923481491012538587"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1923481491012538587",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我💜：（刚do完趴在床上碎碎念）刚刚那么深，都说了轻一点，根本就不听我的，一点都不心疼我，一点都不爱我……\n📚：叽里咕噜说什么呢，一个字听不懂，那再do一次吧。\n💜：？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1923481491012538587",
+        "created_at": "2025-05-16T20:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T21:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923481491012538587"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923481491012538587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我💜：（刚do完趴在床上碎碎念）刚刚那么深，都说了轻一点，根本就不听我的，一点都不心疼我，一点都不爱我……\n📚：叽里咕噜说什么呢，一个字听不懂，那再do一次吧。\n💜：？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 96,
+          "like_count": 644,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 63
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1942216179843813669",
+    "created_at": "2025-07-08T03:52:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T04:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942431521538761025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1893688350076542976",
+          "start": 0,
+          "username": "drug_artist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942431521538761025",
+    "in_reply_to_user_id": "1893688350076542976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942216179843813669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drug_artist 我和闺蜜有时候也把喹硫平叫富马酸，然后莫名其妙的我们都能听懂在说哪个药^-ᯅ-^ ੭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1942216179843813669",
+        "created_at": "2025-07-08T03:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T04:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942431521538761025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1893688350076542976",
+              "start": 0,
+              "username": "drug_artist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942431521538761025",
+        "in_reply_to_user_id": "1893688350076542976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942216179843813669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist 我和闺蜜有时候也把喹硫平叫富马酸，然后莫名其妙的我们都能听懂在说哪个药^-ᯅ-^ ੭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893688350076542976",
+        "conversation_id": "1942216179843813669",
+        "created_at": "2025-07-07T13:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T14:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942216179843813669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942216179843813669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7632,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我见过最离谱的快手嗑药精神小伙\n把富马酸喹硫平叫成富马酸\n把草酸艾司西酞普兰叫成草酸艾司\n…\n真的绷不住"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "kissing",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 132,
+          "like_count": 864,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 210
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T15:44:29.000Z",
+        "description": "药物百科wiki主\n投稿请私信我\n愿每一位药物滥用者都能脱离深渊\n提供药物咨询\nim crazy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/hLxQwrcSWN"
+              }
+            ]
+          }
+        },
+        "id": "1893688350076542976",
+        "location": "Xanax天国2mg省",
+        "name": "沐雨",
+        "pinned_tweet_id": "1928368769098788885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923304720611024896/ImSJUBEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 146,
+          "like_count": 235,
+          "listed_count": 4,
+          "media_count": 17,
+          "tweet_count": 424
+        },
+        "url": "https://t.co/hLxQwrcSWN",
+        "username": "drug_artist",
+        "verified": false
+      }
+    ]
+  }
+}

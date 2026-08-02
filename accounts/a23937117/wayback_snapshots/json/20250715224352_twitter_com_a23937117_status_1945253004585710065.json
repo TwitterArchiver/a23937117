@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1936276071302963240",
+    "created_at": "2025-07-15T22:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T23:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945253004585710065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1833016272046678016",
+          "start": 0,
+          "username": "kuyashinon2955"
+        },
+        {
+          "end": 25,
+          "id": "1066451795155841025",
+          "start": 16,
+          "username": "yeabesra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945253004585710065",
+    "in_reply_to_user_id": "1833016272046678016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936276071302963240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuyashinon2955 @yeabesra 宝宝我想互fo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1489,
+        "media_key": "3_1936276049387491328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt8Izt7WkAAAE10.jpg",
+        "width": 783
+      },
+      {
+        "height": 1600,
+        "media_key": "3_1936276049379098625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt8Izt5WgAE3KBb.jpg",
+        "width": 1165
+      },
+      {
+        "height": 1500,
+        "media_key": "3_1936276049379098624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt8Izt5WgAAwhaL.jpg",
+        "width": 1004
+      },
+      {
+        "height": 724,
+        "media_key": "3_1936276049416867840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt8IzuCW0AAJjnM.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1936276071302963240",
+        "created_at": "2025-07-15T22:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T23:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945253004585710065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1833016272046678016",
+              "start": 0,
+              "username": "kuyashinon2955"
+            },
+            {
+              "end": 25,
+              "id": "1066451795155841025",
+              "start": 16,
+              "username": "yeabesra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945253004585710065",
+        "in_reply_to_user_id": "1833016272046678016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936276071302963240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuyashinon2955 @yeabesra 宝宝我想互fo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936276049387491328",
+            "3_1936276049379098625",
+            "3_1936276049379098624",
+            "3_1936276049416867840"
+          ]
+        },
+        "author_id": "1833016272046678016",
+        "conversation_id": "1936276071302963240",
+        "created_at": "2025-06-21T04:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T05:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936276071302963240"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "门槛"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "线下"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "上海"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 64,
+              "start": 60,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 70,
+              "start": 65,
+              "tag": "一日女友"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "包养"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "私信"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "纯绿"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "半绿"
+            },
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "女高中生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/psGeL2mfDS",
+              "end": 116,
+              "expanded_url": "https://x.com/kuyashinon2955/status/1936276071302963240/photo/1",
+              "media_key": "3_1936276049387491328",
+              "start": 93,
+              "url": "https://t.co/psGeL2mfDS"
+            },
+            {
+              "display_url": "pic.x.com/psGeL2mfDS",
+              "end": 116,
+              "expanded_url": "https://x.com/kuyashinon2955/status/1936276071302963240/photo/1",
+              "media_key": "3_1936276049379098625",
+              "start": 93,
+              "url": "https://t.co/psGeL2mfDS"
+            },
+            {
+              "display_url": "pic.x.com/psGeL2mfDS",
+              "end": 116,
+              "expanded_url": "https://x.com/kuyashinon2955/status/1936276071302963240/photo/1",
+              "media_key": "3_1936276049379098624",
+              "start": 93,
+              "url": "https://t.co/psGeL2mfDS"
+            },
+            {
+              "display_url": "pic.x.com/psGeL2mfDS",
+              "end": 116,
+              "expanded_url": "https://x.com/kuyashinon2955/status/1936276071302963240/photo/1",
+              "media_key": "3_1936276049416867840",
+              "start": 93,
+              "url": "https://t.co/psGeL2mfDS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936276071302963240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6296,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "新号ovo 可语音验证 我是等等 没钱了我需要生活 欢迎女孩和我互fo互转\n#门槛 #门槛妹 #线下 #上海 #爸爸活 #妈妈活 #一日女友 #包养 #私信 #纯绿 #半绿 #女高中生 https://t.co/psGeL2mfDS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1944721626525761843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 161,
+          "like_count": 945,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 337
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T05:35:16.000Z",
+        "description": "支付宝口令过门 欢迎女孩互fo互转",
+        "id": "1833016272046678016",
+        "location": "上海",
+        "name": "等等",
+        "pinned_tweet_id": "1936276071302963240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941567621746380800/y3bufDKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 25,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 48
+        },
+        "username": "kuyashinon2955",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-24T22:01:36.000Z",
+        "description": "欢迎互转互fo ～ 坐标验证20r 不过🚪 请不要骚扰 ！",
+        "id": "1066451795155841025",
+        "name": "可乐橘子5.0",
+        "pinned_tweet_id": "1943205300330467788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943204870414348288/fxkVvS4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 8,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 53
+        },
+        "username": "yeabesra",
+        "verified": false
+      }
+    ]
+  }
+}

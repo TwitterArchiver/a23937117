@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2055165630169358830",
+    "created_at": "2026-05-15T05:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T06:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055165630169358830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "3237911024",
+          "start": 3,
+          "username": "yuudai0111sato1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055165630169358830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055107083738185759",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuudai0111sato1: 我是小狗汪 这是我的第3次重生 我想找回前世门槛哥…...\n蹲主人 属性M 可调教\n所有门槛都有福利🥵骚萌反差\n门槛越高 福利越多 质量越高 可定制\n520 🚪送专属娇喘音频x1+定制照片1张1314 🚪送专属娇喘音频x2+定制照片3张…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1158,
+        "media_key": "3_2055107069188190208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIU0_bJbMAAutPR.jpg",
+        "width": 1179
+      },
+      {
+        "height": 904,
+        "media_key": "3_2055107068542251008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIU0_Yva8AAWnSr.jpg",
+        "width": 786
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2055165630169358830",
+        "created_at": "2026-05-15T05:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055165630169358830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "3237911024",
+              "start": 3,
+              "username": "yuudai0111sato1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055165630169358830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055107083738185759",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuudai0111sato1: 我是小狗汪 这是我的第3次重生 我想找回前世门槛哥…...\n蹲主人 属性M 可调教\n所有门槛都有福利🥵骚萌反差\n门槛越高 福利越多 质量越高 可定制\n520 🚪送专属娇喘音频x1+定制照片1张1314 🚪送专属娇喘音频x2+定制照片3张…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055107069188190208",
+            "3_2055107068542251008"
+          ]
+        },
+        "author_id": "3237911024",
+        "conversation_id": "2055107083738185759",
+        "created_at": "2026-05-15T02:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T03:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055107083738185759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bJKLe8qklY",
+              "end": 153,
+              "expanded_url": "https://x.com/yuudai0111sato1/status/2055107083738185759/photo/1",
+              "media_key": "3_2055107069188190208",
+              "start": 130,
+              "url": "https://t.co/bJKLe8qklY"
+            },
+            {
+              "display_url": "pic.x.com/bJKLe8qklY",
+              "end": 153,
+              "expanded_url": "https://x.com/yuudai0111sato1/status/2055107083738185759/photo/1",
+              "media_key": "3_2055107068542251008",
+              "start": 130,
+              "url": "https://t.co/bJKLe8qklY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055107083738185759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 105,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我是小狗汪 这是我的第3次重生 我想找回前世门槛哥…...\n蹲主人 属性M 可调教\n所有门槛都有福利🥵骚萌反差\n门槛越高 福利越多 质量越高 可定制\n520 🚪送专属娇喘音频x1+定制照片1张1314 🚪送专属娇喘音频x2+定制照片3张定制视频一个！\n🐶🔞🐾 https://t.co/bJKLe8qklY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 202,
+          "like_count": 1410,
+          "listed_count": 2,
+          "media_count": 234,
+          "tweet_count": 772
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-06T13:24:22.000Z",
+        "description": "就这样萌萌又窝囊的活着",
+        "id": "3237911024",
+        "name": "少说喜欢我（江浙沪",
+        "pinned_tweet_id": "2055107083738185759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040678919893135361/eSNwdKpg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 11,
+          "like_count": 2,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 162
+        },
+        "username": "yuudai0111sato1",
+        "verified": false
+      }
+    ]
+  }
+}

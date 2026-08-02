@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1971763786534244441",
+    "created_at": "2025-09-27T02:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T03:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971763786534244441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1783130866950213632",
+          "start": 3,
+          "username": "Ifeelsobad04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971763786534244441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971275450866597902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ifeelsobad04: 完全喜欢那种长得萌萌的 但其实很色情很下流的女生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1971763786534244441",
+        "created_at": "2025-09-27T02:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T03:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971763786534244441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1783130866950213632",
+              "start": 3,
+              "username": "Ifeelsobad04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971763786534244441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971275450866597902",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ifeelsobad04: 完全喜欢那种长得萌萌的 但其实很色情很下流的女生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783130866950213632",
+        "conversation_id": "1971275450866597902",
+        "created_at": "2025-09-25T18:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T19:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971275450866597902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971275450866597902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 162577,
+          "like_count": 1292,
+          "quote_count": 36,
+          "reply_count": 112,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "完全喜欢那种长得萌萌的 但其实很色情很下流的女生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88—谈恋爱了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 215,
+          "like_count": 1245,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 687
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T13:48:28.000Z",
+        "description": "这个人很无聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%9D%8F%E5%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%9D%8F%E5%92%96%E5%95%A11",
+                "start": 0,
+                "url": "https://t.co/LyDKZxayem"
+              }
+            ]
+          }
+        },
+        "id": "1783130866950213632",
+        "name": "坏咖啡",
+        "pinned_tweet_id": "1971469594805326322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922341005119934464/zAepbQuc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 444,
+          "like_count": 13240,
+          "listed_count": 4,
+          "media_count": 43,
+          "tweet_count": 510
+        },
+        "url": "https://t.co/LyDKZxayem",
+        "username": "Ifeelsobad04",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1954986974541975704",
+    "created_at": "2025-08-11T19:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T20:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954986974541975704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1938904756560502790",
+          "start": 3,
+          "username": "tutubao050820"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954986974541975704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949987991880925581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @tutubao050820: 泥嚎 我是小兔也是糖糖\n问价格定位10人验证20r\n200图包➕聊天➕陪玩 我爱打永劫\n300约线下➕图包\n400每周可视频半小时 可远程操控➕含上\n520电子女友线下半绿半小时➕八折卡➕含上\n1500含上所有➕非绿两小时\n门槛越高服务越好…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954986974541975704].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954986974541975704",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954986974541975704"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1256,
+        "media_key": "3_1949987913384517632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw-_rP2W4AAtwSu.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1949987913200226304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw-_rPKa0AAQPwC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 774,
+        "media_key": "3_1949987913384501249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw-_rP2WoAEfPrP.jpg",
+        "width": 656
+      },
+      {
+        "duration_ms": 13968,
+        "height": 1278,
+        "media_key": "13_1949987913338585088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1949987913338585088/img/PHuJVPGwarTVmHKB.jpg",
+        "public_metrics": {
+          "view_count": 4600
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949987913338585088/vid/avc1/320x568/Y8YaDmrFFPsbEYvl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949987913338585088/vid/avc1/480x852/X6CNo7T4fhfAUlwf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949987913338585088/vid/avc1/720x1278/4SZLh05RGg02BQUQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1949987913338585088/pl/AvSGh-orZMmbDuRm.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949987913384517632",
+            "3_1949987913200226304",
+            "3_1949987913384501249",
+            "13_1949987913338585088"
+          ]
+        },
+        "author_id": "1938904756560502790",
+        "conversation_id": "1949987991880925581",
+        "created_at": "2025-07-29T00:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T01:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949987991880925581"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "图包"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "魅魔"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "包养"
+            },
+            {
+              "end": 144,
+              "start": 139,
+              "tag": "电子女友"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "线下"
+            },
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "非绿"
+            },
+            {
+              "end": 156,
+              "start": 153,
+              "tag": "陪玩"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/79QtGMSpvZ",
+              "end": 180,
+              "expanded_url": "https://x.com/tutubao050820/status/1949987991880925581/video/1",
+              "media_key": "3_1949987913384517632",
+              "start": 157,
+              "url": "https://t.co/79QtGMSpvZ"
+            },
+            {
+              "display_url": "pic.x.com/79QtGMSpvZ",
+              "end": 180,
+              "expanded_url": "https://x.com/tutubao050820/status/1949987991880925581/video/1",
+              "media_key": "3_1949987913200226304",
+              "start": 157,
+              "url": "https://t.co/79QtGMSpvZ"
+            },
+            {
+              "display_url": "pic.x.com/79QtGMSpvZ",
+              "end": 180,
+              "expanded_url": "https://x.com/tutubao050820/status/1949987991880925581/video/1",
+              "media_key": "3_1949987913384501249",
+              "start": 157,
+              "url": "https://t.co/79QtGMSpvZ"
+            },
+            {
+              "display_url": "pic.x.com/79QtGMSpvZ",
+              "end": 180,
+              "expanded_url": "https://x.com/tutubao050820/status/1949987991880925581/video/1",
+              "media_key": "13_1949987913338585088",
+              "start": 157,
+              "url": "https://t.co/79QtGMSpvZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949987991880925581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 15920,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "泥嚎 我是小兔也是糖糖\n问价格定位10人验证20r\n200图包➕聊天➕陪玩 我爱打永劫\n300约线下➕图包\n400每周可视频半小时 可远程操控➕含上\n520电子女友线下半绿半小时➕八折卡➕含上\n1500含上所有➕非绿两小时\n门槛越高服务越好 外省也可接\n#图包 #魅魔 #包养 #电子女友 #线下 #非绿 #陪玩 https://t.co/79QtGMSpvZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 208,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 515
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T10:18:26.000Z",
+        "description": "🚪 200/400/520/1500/1900 门槛越高服务越好",
+        "id": "1938904756560502790",
+        "name": "一只兔兔",
+        "pinned_tweet_id": "1949987991880925581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949917291543744513/fiahUJ1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 63,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 46
+        },
+        "username": "tutubao050820",
+        "verified": false
+      }
+    ]
+  }
+}

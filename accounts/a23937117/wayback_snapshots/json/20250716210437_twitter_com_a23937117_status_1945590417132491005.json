@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1945468268233568667",
+    "created_at": "2025-07-16T21:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T22:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945590417132491005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1492166667710783490",
+          "start": 0,
+          "username": "Jiji_O_o_jiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945590417132491005",
+    "in_reply_to_user_id": "1492166667710783490",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945468268233568667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiji_O_o_jiiii 那就是我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1945468268233568667",
+        "created_at": "2025-07-16T21:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T22:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945590417132491005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1492166667710783490",
+              "start": 0,
+              "username": "Jiji_O_o_jiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945590417132491005",
+        "in_reply_to_user_id": "1492166667710783490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945468268233568667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiji_O_o_jiiii 那就是我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492166667710783490",
+        "conversation_id": "1945468268233568667",
+        "created_at": "2025-07-16T12:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T13:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945468268233568667"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945468268233568667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5370,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "停停停宝子们，要是我每张都p得不一样咋整🌚❓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1944721626525761843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 162,
+          "like_count": 945,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 356
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T16:00:39.000Z",
+        "description": "还没有成为贝斯高手｜绝望的平底锅｜ 小号@Jijichikkk 自用🪜：https://t.co/swSU51Fh4Y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "Jijichikkk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 59,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=aqu3VM3y",
+                "start": 36,
+                "url": "https://t.co/swSU51Fh4Y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiji1215",
+                "end": 23,
+                "expanded_url": "http://ngl.link/jiji1215",
+                "start": 0,
+                "url": "https://t.co/B75djz4pQx"
+              }
+            ]
+          }
+        },
+        "id": "1492166667710783490",
+        "location": "🚪98/198/328/648",
+        "name": "烟头烫你屁股",
+        "pinned_tweet_id": "1928138886573871369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938878441253666819/dcQhRoP1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 537,
+          "like_count": 3939,
+          "listed_count": 7,
+          "media_count": 582,
+          "tweet_count": 9005
+        },
+        "url": "https://t.co/B75djz4pQx",
+        "username": "Jiji_O_o_jiiii",
+        "verified": false
+      }
+    ]
+  }
+}

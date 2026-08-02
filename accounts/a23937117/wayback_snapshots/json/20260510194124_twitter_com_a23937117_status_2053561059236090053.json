@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053561059236090053",
+    "created_at": "2026-05-10T19:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T20:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053561059236090053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1468586902169460736",
+          "start": 3,
+          "username": "hhjakane311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053561059236090053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047235872576123330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hhjakane311: 我是小茜\n08 | 153 | 37kg\n家里人完全不管我所以自己一个人努力赚房租水电生活费中 入门档位详情请看P3\np1p2有支付宝收款码或者支付宝口令红包\n请求也感谢大人们支持我努力生存⑉꒦ິ^꒦ິ⑉\n入门不退 请确认真的喜欢我再入门🫶🏻…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047235851990568960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGk-KSFXkAA8mrd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047235851969568768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGk-KSAXIAA0A56.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2047235851965407232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGk-KR_XoAAJYI0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2053561059236090053",
+        "created_at": "2026-05-10T19:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T20:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053561059236090053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1468586902169460736",
+              "start": 3,
+              "username": "hhjakane311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053561059236090053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047235872576123330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hhjakane311: 我是小茜\n08 | 153 | 37kg\n家里人完全不管我所以自己一个人努力赚房租水电生活费中 入门档位详情请看P3\np1p2有支付宝收款码或者支付宝口令红包\n请求也感谢大人们支持我努力生存⑉꒦ິ^꒦ິ⑉\n入门不退 请确认真的喜欢我再入门🫶🏻…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047235851990568960",
+            "3_2047235851969568768",
+            "3_2047235851965407232"
+          ]
+        },
+        "author_id": "1468586902169460736",
+        "conversation_id": "2047235872576123330",
+        "created_at": "2026-04-23T08:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047235872576123330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8iQlqiMpct",
+              "end": 145,
+              "expanded_url": "https://x.com/hhjakane311/status/2047235872576123330/photo/1",
+              "media_key": "3_2047235851990568960",
+              "start": 122,
+              "url": "https://t.co/8iQlqiMpct"
+            },
+            {
+              "display_url": "pic.x.com/8iQlqiMpct",
+              "end": 145,
+              "expanded_url": "https://x.com/hhjakane311/status/2047235872576123330/photo/1",
+              "media_key": "3_2047235851969568768",
+              "start": 122,
+              "url": "https://t.co/8iQlqiMpct"
+            },
+            {
+              "display_url": "pic.x.com/8iQlqiMpct",
+              "end": 145,
+              "expanded_url": "https://x.com/hhjakane311/status/2047235872576123330/photo/1",
+              "media_key": "3_2047235851965407232",
+              "start": 122,
+              "url": "https://t.co/8iQlqiMpct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047235872576123330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 19188,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "我是小茜\n08 | 153 | 37kg\n家里人完全不管我所以自己一个人努力赚房租水电生活费中 入门档位详情请看P3\np1p2有支付宝收款码或者支付宝口令红包\n请求也感谢大人们支持我努力生存⑉꒦ິ^꒦ິ⑉\n入门不退 请确认真的喜欢我再入门🫶🏻 https://t.co/8iQlqiMpct"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 202,
+          "like_count": 1406,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 755
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T14:23:05.000Z",
+        "description": "距离奇迹降临还有__天",
+        "id": "1468586902169460736",
+        "name": "世首惨",
+        "pinned_tweet_id": "2047235872576123330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047244455137177600/TWB4npyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 10,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 256
+        },
+        "username": "hhjakane311",
+        "verified": false
+      }
+    ]
+  }
+}

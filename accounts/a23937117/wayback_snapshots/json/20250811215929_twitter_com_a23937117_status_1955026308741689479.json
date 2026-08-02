@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952595326357078016",
+        "3_1952595325165944832",
+        "3_1952595326348742656",
+        "3_1952595326357188608"
+      ],
+      "media_source_tweet_id": [
+        "1952595342840803522",
+        "1952595342840803522",
+        "1952595342840803522",
+        "1952595342840803522"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955026308741689479",
+    "created_at": "2025-08-11T21:59:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T22:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955026308741689479"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "门槛"
+        },
+        {
+          "end": 71,
+          "start": 67,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 75,
+          "start": 72,
+          "tag": "女大"
+        },
+        {
+          "end": 79,
+          "start": 76,
+          "tag": "反差"
+        },
+        {
+          "end": 83,
+          "start": 80,
+          "tag": "线下"
+        },
+        {
+          "end": 87,
+          "start": 84,
+          "tag": "非绿"
+        },
+        {
+          "end": 93,
+          "start": 88,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 98,
+          "start": 94,
+          "tag": "求包养"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3241555043",
+          "start": 3,
+          "username": "MMesenbet"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dFFoFQVkxu",
+          "end": 122,
+          "expanded_url": "https://x.com/MMesenbet/status/1952595342840803522/photo/1",
+          "media_key": "3_1952595326357078016",
+          "start": 99,
+          "url": "https://t.co/dFFoFQVkxu"
+        },
+        {
+          "display_url": "pic.x.com/dFFoFQVkxu",
+          "end": 122,
+          "expanded_url": "https://x.com/MMesenbet/status/1952595342840803522/photo/1",
+          "media_key": "3_1952595325165944832",
+          "start": 99,
+          "url": "https://t.co/dFFoFQVkxu"
+        },
+        {
+          "display_url": "pic.x.com/dFFoFQVkxu",
+          "end": 122,
+          "expanded_url": "https://x.com/MMesenbet/status/1952595342840803522/photo/1",
+          "media_key": "3_1952595326348742656",
+          "start": 99,
+          "url": "https://t.co/dFFoFQVkxu"
+        },
+        {
+          "display_url": "pic.x.com/dFFoFQVkxu",
+          "end": 122,
+          "expanded_url": "https://x.com/MMesenbet/status/1952595342840803522/photo/1",
+          "media_key": "3_1952595326357188608",
+          "start": 99,
+          "url": "https://t.co/dFFoFQVkxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955026308741689479",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952595342840803522",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MMesenbet: 这里小八\n我重生了\n真的不是皮下男\n放心入🚪\n欢迎哥哥入门 天天无聊到爆炸\n欢迎互转互fo ～\n#门槛 #门槛妹 #女大 #反差 #线下 #非绿 #金主爸爸 #求包养 https://t.co/dFFoFQVkxu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955026308741689479].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955026308741689479",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955026308741689479"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1377,
+        "media_key": "3_1952595326357078016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxkDGqGaAAAQCsp.jpg",
+        "width": 1232
+      },
+      {
+        "height": 1411,
+        "media_key": "3_1952595325165944832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxkDGlqawAAOnzw.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1204,
+        "media_key": "3_1952595326348742656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxkDGqEa0AAYaKO.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1546,
+        "media_key": "3_1952595326357188608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxkDGqGbsAA787P.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952595326357078016",
+            "3_1952595325165944832",
+            "3_1952595326348742656",
+            "3_1952595326357188608"
+          ]
+        },
+        "author_id": "3241555043",
+        "conversation_id": "1952595342840803522",
+        "created_at": "2025-08-05T04:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T05:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952595342840803522"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "门槛"
+            },
+            {
+              "end": 56,
+              "start": 52,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "女大"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "反差"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "线下"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "非绿"
+            },
+            {
+              "end": 78,
+              "start": 73,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 83,
+              "start": 79,
+              "tag": "求包养"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dFFoFQVkxu",
+              "end": 107,
+              "expanded_url": "https://x.com/MMesenbet/status/1952595342840803522/photo/1",
+              "media_key": "3_1952595326357078016",
+              "start": 84,
+              "url": "https://t.co/dFFoFQVkxu"
+            },
+            {
+              "display_url": "pic.x.com/dFFoFQVkxu",
+              "end": 107,
+              "expanded_url": "https://x.com/MMesenbet/status/1952595342840803522/photo/1",
+              "media_key": "3_1952595325165944832",
+              "start": 84,
+              "url": "https://t.co/dFFoFQVkxu"
+            },
+            {
+              "display_url": "pic.x.com/dFFoFQVkxu",
+              "end": 107,
+              "expanded_url": "https://x.com/MMesenbet/status/1952595342840803522/photo/1",
+              "media_key": "3_1952595326348742656",
+              "start": 84,
+              "url": "https://t.co/dFFoFQVkxu"
+            },
+            {
+              "display_url": "pic.x.com/dFFoFQVkxu",
+              "end": 107,
+              "expanded_url": "https://x.com/MMesenbet/status/1952595342840803522/photo/1",
+              "media_key": "3_1952595326357188608",
+              "start": 84,
+              "url": "https://t.co/dFFoFQVkxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952595342840803522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4091,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "这里小八\n我重生了\n真的不是皮下男\n放心入🚪\n欢迎哥哥入门 天天无聊到爆炸\n欢迎互转互fo ～\n#门槛 #门槛妹 #女大 #反差 #线下 #非绿 #金主爸爸 #求包养 https://t.co/dFFoFQVkxu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 225,
+          "like_count": 1074,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 539
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-08T07:07:09.000Z",
+        "description": "168cm/54kg 05 坐标验证20r 消息看到都会回复的 感谢理解🙏",
+        "id": "3241555043",
+        "name": "胖胖八（重启版",
+        "pinned_tweet_id": "1952595342840803522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952594588503588865/hxOyDtHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 32,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 56
+        },
+        "username": "MMesenbet",
+        "verified": false
+      }
+    ]
+  }
+}

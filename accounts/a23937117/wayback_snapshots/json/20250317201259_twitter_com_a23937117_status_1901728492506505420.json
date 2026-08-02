@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1901728423384408065"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1901728492506505420",
+    "created_at": "2025-03-17T20:12:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T21:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901728492506505420"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "反差"
+        },
+        {
+          "end": 48,
+          "start": 46,
+          "tag": "M"
+        },
+        {
+          "end": 54,
+          "start": 49,
+          "tag": "brat"
+        },
+        {
+          "end": 59,
+          "start": 55,
+          "tag": "地雷女"
+        },
+        {
+          "end": 63,
+          "start": 60,
+          "tag": "可爱"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/71b8AfDnjB",
+          "end": 87,
+          "expanded_url": "https://x.com/a23937117/status/1901728492506505420/video/1",
+          "media_key": "13_1901728423384408065",
+          "start": 64,
+          "url": "https://t.co/71b8AfDnjB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901728492506505420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只能和我在一起吧 只能和我kiss吧 男朋友什么都不懂 把你身边的人都赶走就好了！\n#反差 #M #brat #地雷女 #可爱 https://t.co/71b8AfDnjB"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1901728492506505420].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1901728492506505420",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1901728492506505420"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13366,
+        "height": 1280,
+        "media_key": "13_1901728423384408065",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1901728423384408065/img/km-TlTf02Ktuzpyk.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1901728423384408065/vid/avc1/320x568/erGV5pi0pNAltlW3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1901728423384408065/vid/avc1/480x852/gYeNxX9foqwnHpgX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1901728423384408065/vid/avc1/720x1280/un_5g2TkgoL3l0vj.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1901728423384408065/pl/kmTxM7s1xrTMOgcX.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/双相精神疾病治疗中——严重露出lover 最喜欢可爱的东西 美洲华裔 中文/西文/英文 地雷女 最喜欢男朋友 M-brat-sub",
+        "id": "1442350932977610752",
+        "name": "Kissing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892410780663824384/aNzm9Kzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 82,
+          "like_count": 526,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 36
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

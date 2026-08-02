@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039583425523490816",
+        "3_2039583425506754560",
+        "3_2039583425506717696",
+        "3_2039583425519329280"
+      ],
+      "media_source_tweet_id": [
+        "2039583434570641853",
+        "2039583434570641853",
+        "2039583434570641853",
+        "2039583434570641853"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2039742965959012436",
+    "created_at": "2026-04-02T16:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T17:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039742965959012436"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 56,
+          "tag": "门槛"
+        },
+        {
+          "end": 63,
+          "start": 60,
+          "tag": "金主"
+        },
+        {
+          "end": 67,
+          "start": 64,
+          "tag": "陪聊"
+        },
+        {
+          "end": 71,
+          "start": 68,
+          "tag": "非绿"
+        },
+        {
+          "end": 75,
+          "start": 72,
+          "tag": "女大"
+        },
+        {
+          "end": 79,
+          "start": 76,
+          "tag": "反差"
+        },
+        {
+          "end": 84,
+          "start": 80,
+          "tag": "爆金币"
+        },
+        {
+          "end": 88,
+          "start": 85,
+          "tag": "缺钱"
+        },
+        {
+          "end": 92,
+          "start": 89,
+          "tag": "入门"
+        },
+        {
+          "end": 98,
+          "start": 93,
+          "tag": "电子女友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "349049635",
+          "start": 3,
+          "username": "KaifengY"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z7bTajuuKT",
+          "end": 122,
+          "expanded_url": "https://x.com/KaifengY/status/2039583434570641853/photo/1",
+          "media_key": "3_2039583425523490816",
+          "start": 99,
+          "url": "https://t.co/z7bTajuuKT"
+        },
+        {
+          "display_url": "pic.x.com/z7bTajuuKT",
+          "end": 122,
+          "expanded_url": "https://x.com/KaifengY/status/2039583434570641853/photo/1",
+          "media_key": "3_2039583425506754560",
+          "start": 99,
+          "url": "https://t.co/z7bTajuuKT"
+        },
+        {
+          "display_url": "pic.x.com/z7bTajuuKT",
+          "end": 122,
+          "expanded_url": "https://x.com/KaifengY/status/2039583434570641853/photo/1",
+          "media_key": "3_2039583425506717696",
+          "start": 99,
+          "url": "https://t.co/z7bTajuuKT"
+        },
+        {
+          "display_url": "pic.x.com/z7bTajuuKT",
+          "end": 122,
+          "expanded_url": "https://x.com/KaifengY/status/2039583434570641853/photo/1",
+          "media_key": "3_2039583425519329280",
+          "start": 99,
+          "url": "https://t.co/z7bTajuuKT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039742965959012436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039583434570641853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KaifengY: 缺💰欠债被迫下海🥺\n求投喂求溺爱\n线上线下都接，可验证呀\n入门我会全程真心对待♥️\n#门槛 #金主 #陪聊 #非绿 #女大 #反差 #爆金币 #缺钱 #入门 #电子女友 https://t.co/z7bTajuuKT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 552,
+        "media_key": "3_2039583425523490816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4OUcAaIAAzzsF.jpg",
+        "width": 828
+      },
+      {
+        "height": 1084,
+        "media_key": "3_2039583425506754560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4OUb8awAAVug9.jpg",
+        "width": 798
+      },
+      {
+        "height": 1032,
+        "media_key": "3_2039583425506717696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4OUb8aMAAhzKS.jpg",
+        "width": 691
+      },
+      {
+        "height": 1064,
+        "media_key": "3_2039583425519329280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4OUb_aoAAf23Z.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039583425523490816",
+            "3_2039583425506754560",
+            "3_2039583425506717696",
+            "3_2039583425519329280"
+          ],
+          "media_source_tweet_id": [
+            "2039583434570641853",
+            "2039583434570641853",
+            "2039583434570641853",
+            "2039583434570641853"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2039742965959012436",
+        "created_at": "2026-04-02T16:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039742965959012436"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "门槛"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "金主"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "陪聊"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "非绿"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "女大"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "反差"
+            },
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "爆金币"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "缺钱"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "入门"
+            },
+            {
+              "end": 98,
+              "start": 93,
+              "tag": "电子女友"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "349049635",
+              "start": 3,
+              "username": "KaifengY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z7bTajuuKT",
+              "end": 122,
+              "expanded_url": "https://x.com/KaifengY/status/2039583434570641853/photo/1",
+              "media_key": "3_2039583425523490816",
+              "start": 99,
+              "url": "https://t.co/z7bTajuuKT"
+            },
+            {
+              "display_url": "pic.x.com/z7bTajuuKT",
+              "end": 122,
+              "expanded_url": "https://x.com/KaifengY/status/2039583434570641853/photo/1",
+              "media_key": "3_2039583425506754560",
+              "start": 99,
+              "url": "https://t.co/z7bTajuuKT"
+            },
+            {
+              "display_url": "pic.x.com/z7bTajuuKT",
+              "end": 122,
+              "expanded_url": "https://x.com/KaifengY/status/2039583434570641853/photo/1",
+              "media_key": "3_2039583425506717696",
+              "start": 99,
+              "url": "https://t.co/z7bTajuuKT"
+            },
+            {
+              "display_url": "pic.x.com/z7bTajuuKT",
+              "end": 122,
+              "expanded_url": "https://x.com/KaifengY/status/2039583434570641853/photo/1",
+              "media_key": "3_2039583425519329280",
+              "start": 99,
+              "url": "https://t.co/z7bTajuuKT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039742965959012436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039583434570641853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KaifengY: 缺💰欠债被迫下海🥺\n求投喂求溺爱\n线上线下都接，可验证呀\n入门我会全程真心对待♥️\n#门槛 #金主 #陪聊 #非绿 #女大 #反差 #爆金币 #缺钱 #入门 #电子女友 https://t.co/z7bTajuuKT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039583425523490816",
+            "3_2039583425506754560",
+            "3_2039583425506717696",
+            "3_2039583425519329280"
+          ]
+        },
+        "author_id": "349049635",
+        "conversation_id": "2039583434570641853",
+        "created_at": "2026-04-02T05:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T06:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039583434570641853"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "门槛"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "金主"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "陪聊"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "非绿"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "女大"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "反差"
+            },
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "爆金币"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "缺钱"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "入门"
+            },
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "电子女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z7bTajuuKT",
+              "end": 108,
+              "expanded_url": "https://x.com/KaifengY/status/2039583434570641853/photo/1",
+              "media_key": "3_2039583425523490816",
+              "start": 85,
+              "url": "https://t.co/z7bTajuuKT"
+            },
+            {
+              "display_url": "pic.x.com/z7bTajuuKT",
+              "end": 108,
+              "expanded_url": "https://x.com/KaifengY/status/2039583434570641853/photo/1",
+              "media_key": "3_2039583425506754560",
+              "start": 85,
+              "url": "https://t.co/z7bTajuuKT"
+            },
+            {
+              "display_url": "pic.x.com/z7bTajuuKT",
+              "end": 108,
+              "expanded_url": "https://x.com/KaifengY/status/2039583434570641853/photo/1",
+              "media_key": "3_2039583425506717696",
+              "start": 85,
+              "url": "https://t.co/z7bTajuuKT"
+            },
+            {
+              "display_url": "pic.x.com/z7bTajuuKT",
+              "end": 108,
+              "expanded_url": "https://x.com/KaifengY/status/2039583434570641853/photo/1",
+              "media_key": "3_2039583425519329280",
+              "start": 85,
+              "url": "https://t.co/z7bTajuuKT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039583434570641853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "缺💰欠债被迫下海🥺\n求投喂求溺爱\n线上线下都接，可验证呀\n入门我会全程真心对待♥️\n#门槛 #金主 #陪聊 #非绿 #女大 #反差 #爆金币 #缺钱 #入门 #电子女友 https://t.co/z7bTajuuKT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 203,
+          "like_count": 1395,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 685
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-05T13:15:50.000Z",
+        "description": "04女大，一个很活泼开朗的小女生💜很好说话^o^问坐标20. 只回复口令哦，过门请正确姿势，谢谢喜欢💕",
+        "id": "349049635",
+        "name": "小柿子o",
+        "pinned_tweet_id": "2039583434570641853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039255164591525888/Vbhoar0l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 43,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 41
+        },
+        "username": "KaifengY",
+        "verified": false
+      }
+    ]
+  }
+}

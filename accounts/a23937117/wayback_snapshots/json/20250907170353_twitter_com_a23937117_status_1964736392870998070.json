@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1964736392870998070",
+    "created_at": "2025-09-07T17:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T18:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964736392870998070"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 139,
+          "start": 135,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "926238436452810753",
+          "start": 3,
+          "username": "xiaoqing_5869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964736392870998070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963990423606882564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoqing_5869: 小清的新置顶🔝\n你好这里是小清 05/160/46kg\n可以御也可以萝\n日常穿jk/lolita/蕾服/cos(刚刚开始接触)\n具体坐标过🚪私\n欢迎萌妹子们互推互fo🥺被迫下海\n喜欢我的话多多投喂我好不好🥹\n求🚪哥溺爱 🚪哥快来吧!#门槛妹…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1964736392870998070].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1964736392870998070",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1964736392870998070"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1963990346477817858",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0F-0IAbUAIOaqA.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1963990346528178176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0F-0IMbwAAOvsM.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1963990346461069312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0F-0H8bwAAIrvY.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1155,
+        "media_key": "3_1963990346435858432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0F-0H2bEAAqWo6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963990346477817858",
+            "3_1963990346528178176",
+            "3_1963990346461069312",
+            "3_1963990346435858432"
+          ]
+        },
+        "author_id": "926238436452810753",
+        "conversation_id": "1963990423606882564",
+        "created_at": "2025-09-05T15:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T16:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963990423606882564"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 116,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 126,
+              "start": 121,
+              "tag": "女大母狗"
+            },
+            {
+              "end": 132,
+              "start": 127,
+              "tag": "小狗日记"
+            },
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 142,
+              "start": 138,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 147,
+              "start": 143,
+              "tag": "求投喂"
+            },
+            {
+              "end": 150,
+              "start": 148,
+              "tag": "m"
+            },
+            {
+              "end": 154,
+              "start": 151,
+              "tag": "缺钱"
+            },
+            {
+              "end": 160,
+              "start": 155,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 165,
+              "start": 161,
+              "tag": "求包养"
+            },
+            {
+              "end": 171,
+              "start": 166,
+              "tag": "电子宠物"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UkvkHxPDzB",
+              "end": 195,
+              "expanded_url": "https://x.com/xiaoqing_5869/status/1963990423606882564/photo/1",
+              "media_key": "3_1963990346477817858",
+              "start": 172,
+              "url": "https://t.co/UkvkHxPDzB"
+            },
+            {
+              "display_url": "pic.x.com/UkvkHxPDzB",
+              "end": 195,
+              "expanded_url": "https://x.com/xiaoqing_5869/status/1963990423606882564/photo/1",
+              "media_key": "3_1963990346528178176",
+              "start": 172,
+              "url": "https://t.co/UkvkHxPDzB"
+            },
+            {
+              "display_url": "pic.x.com/UkvkHxPDzB",
+              "end": 195,
+              "expanded_url": "https://x.com/xiaoqing_5869/status/1963990423606882564/photo/1",
+              "media_key": "3_1963990346461069312",
+              "start": 172,
+              "url": "https://t.co/UkvkHxPDzB"
+            },
+            {
+              "display_url": "pic.x.com/UkvkHxPDzB",
+              "end": 195,
+              "expanded_url": "https://x.com/xiaoqing_5869/status/1963990423606882564/photo/1",
+              "media_key": "3_1963990346435858432",
+              "start": 172,
+              "url": "https://t.co/UkvkHxPDzB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963990423606882564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2060,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "小清的新置顶🔝\n你好这里是小清 05/160/46kg\n可以御也可以萝\n日常穿jk/lolita/蕾服/cos(刚刚开始接触)\n具体坐标过🚪私\n欢迎萌妹子们互推互fo🥺被迫下海\n喜欢我的话多多投喂我好不好🥹\n求🚪哥溺爱 🚪哥快来吧!#门槛妹 #女大母狗 #小狗日记 #爸爸活 #妈妈活 #求投喂 #m #缺钱 #ATM奴 #求包养 #电子宠物 https://t.co/UkvkHxPDzB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 208,
+          "like_count": 1157,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 653
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-03T00:03:46.000Z",
+        "description": "小清 160/46kg 江西",
+        "id": "926238436452810753",
+        "location": "验证免费",
+        "name": "奶棠少女",
+        "pinned_tweet_id": "1963990423606882564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963986998798274560/tufQLVP3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 15,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 42
+        },
+        "username": "xiaoqing_5869",
+        "verified": false
+      }
+    ]
+  }
+}

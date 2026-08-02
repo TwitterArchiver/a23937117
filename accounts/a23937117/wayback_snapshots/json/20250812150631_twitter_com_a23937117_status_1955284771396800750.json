@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955284765004673024"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955284771396800750",
+    "created_at": "2025-08-12T15:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T16:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955284771396800750"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zxR8zQaQqq",
+          "end": 32,
+          "expanded_url": "https://x.com/a23937117/status/1955284771396800750/photo/1",
+          "media_key": "3_1955284765004673024",
+          "start": 9,
+          "url": "https://t.co/zxR8zQaQqq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955284771396800750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的抖音见鬼了吗 https://t.co/zxR8zQaQqq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955284771396800750].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955284771396800750",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955284771396800750"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_1955284765004673024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyKRIlzWMAA_87C.jpg",
+        "width": 1289
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 230,
+          "like_count": 1078,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 567
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

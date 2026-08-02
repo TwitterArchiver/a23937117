@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1957061711850082712",
+    "created_at": "2025-08-17T12:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T13:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957061711850082712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1556576672089907200",
+          "start": 3,
+          "username": "catcat_myomyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957061711850082712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954471575832461330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @catcat_myomyo: 哈喽这里幽灵猫，求互关互转\n在x交点二次元网友，顺便圈米o( ❛ᴗ❛ )o\n爱看点小动漫，打点小游戏，做点小手工\n转发➕关注，抽2人🧧52 10人🧧13.14钱少见谅\n关于圈米，是个爱钱的小女孩哈\n🚪188可➕vx，闲聊\n🚪520可游戏陪玩…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1954471561735639040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx-th7jbEAAHS_B.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1954471562159288320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx-th9IbcAAlZgB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1957061711850082712",
+        "created_at": "2025-08-17T12:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T13:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957061711850082712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1556576672089907200",
+              "start": 3,
+              "username": "catcat_myomyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957061711850082712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954471575832461330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @catcat_myomyo: 哈喽这里幽灵猫，求互关互转\n在x交点二次元网友，顺便圈米o( ❛ᴗ❛ )o\n爱看点小动漫，打点小游戏，做点小手工\n转发➕关注，抽2人🧧52 10人🧧13.14钱少见谅\n关于圈米，是个爱钱的小女孩哈\n🚪188可➕vx，闲聊\n🚪520可游戏陪玩…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954471561735639040",
+            "3_1954471562159288320"
+          ]
+        },
+        "author_id": "1556576672089907200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1954471575832461330",
+        "created_at": "2025-08-10T09:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T10:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954471575832461330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9V1ORG4H8i",
+              "end": 182,
+              "expanded_url": "https://x.com/catcat_myomyo/status/1954471575832461330/photo/1",
+              "media_key": "3_1954471561735639040",
+              "start": 159,
+              "url": "https://t.co/9V1ORG4H8i"
+            },
+            {
+              "display_url": "pic.x.com/9V1ORG4H8i",
+              "end": 182,
+              "expanded_url": "https://x.com/catcat_myomyo/status/1954471575832461330/photo/1",
+              "media_key": "3_1954471562159288320",
+              "start": 159,
+              "url": "https://t.co/9V1ORG4H8i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954471575832461330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3030,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "哈喽这里幽灵猫，求互关互转\n在x交点二次元网友，顺便圈米o( ❛ᴗ❛ )o\n爱看点小动漫，打点小游戏，做点小手工\n转发➕关注，抽2人🧧52 10人🧧13.14钱少见谅\n关于圈米，是个爱钱的小女孩哈\n🚪188可➕vx，闲聊\n🚪520可游戏陪玩，视频聊天\n🚪888做我的超好朋友，分享我的创作灵感，粘人程度up\n支持我叭 https://t.co/9V1ORG4H8i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 209,
+          "like_count": 1096,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 629
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T09:42:59.000Z",
+        "description": "科幻恐怖重度爱好者/\n沉浸在色彩与香气的世界，寻找剑与魔法 ☆ﾟ.*･   ｡☆ﾟ.*･｡ᕱᕱ\n                     ☆ﾟ.*･｡\n欢迎来到我的日记薄，关于艺术与垃圾场之间",
+        "id": "1556576672089907200",
+        "name": "幽灵猫",
+        "pinned_tweet_id": "1954471575832461330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835885661561528320/W6JoHvj9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 832,
+          "like_count": 1473,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 655
+        },
+        "username": "catcat_myomyo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2062718095928500412",
+    "created_at": "2026-06-05T10:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062845002871415249"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062845002871415249",
+    "in_reply_to_user_id": "1442350932977610752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062718095928500412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "开奖时间6月28号，转发人数满60（不然作废）公开随机数字从转发里抽。抽到发送私信32h内回复即可，超过时间会作废噢~可以折现，必须关注不然换人继续抽噢，解释权最终归我宝宝们，但是上一次得奖的公开不用多说了吧，我不至于为了这点钱坏自己的生意"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2062718089829978112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKA_LIgWkAALdaT.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2062718089918058496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKA_LI1WkAAWIN6.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2062718095928500412",
+        "created_at": "2026-06-05T10:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062845002871415249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062845002871415249",
+        "in_reply_to_user_id": "1442350932977610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062718095928500412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开奖时间6月28号，转发人数满60（不然作废）公开随机数字从转发里抽。抽到发送私信32h内回复即可，超过时间会作废噢~可以折现，必须关注不然换人继续抽噢，解释权最终归我宝宝们，但是上一次得奖的公开不用多说了吧，我不至于为了这点钱坏自己的生意"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062718089829978112",
+            "3_2062718089918058496"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2062718095928500412",
+        "created_at": "2026-06-05T02:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062718095928500412"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "纸烟"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "电子烟"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "烟代"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "百乐"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "爱喜"
+            },
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "铁塔猫"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "抽奖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nKPTg6h1EW",
+              "end": 116,
+              "expanded_url": "https://x.com/a23937117/status/2062718095928500412/photo/1",
+              "media_key": "3_2062718089829978112",
+              "start": 93,
+              "url": "https://t.co/nKPTg6h1EW"
+            },
+            {
+              "display_url": "pic.x.com/nKPTg6h1EW",
+              "end": 116,
+              "expanded_url": "https://x.com/a23937117/status/2062718095928500412/photo/1",
+              "media_key": "3_2062718089918058496",
+              "start": 93,
+              "url": "https://t.co/nKPTg6h1EW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062718095928500412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 410,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "600fo 福利抽奖/求转发（感谢大家喜欢）\n\n要求：关注转发\n转发里随机一个电子烟（鸭嘴兽or小黑条）口味随机可折现58\n\n#纸烟 #电子烟 #烟代 #百乐 #爱喜 #铁塔猫 #抽奖 https://t.co/nKPTg6h1EW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2062718095928500412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 194,
+          "like_count": 1414,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 766
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

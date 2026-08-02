@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1955283272335798497",
+    "created_at": "2025-08-12T15:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T16:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955283272335798497"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "门槛"
+        },
+        {
+          "end": 115,
+          "start": 111,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "女大"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "线下"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "非绿"
+        },
+        {
+          "end": 133,
+          "start": 128,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 138,
+          "start": 134,
+          "tag": "求包养"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "850547197275889665",
+          "start": 3,
+          "username": "NnnonTra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955283272335798497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951927770893685126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NnnonTra: 置顶🔝                                                 这里是琪琪\n希望哥哥入🚪的小女生\n真心欢迎入🚪的哥哥！\n女宝快来找我互转互fo～\n#门槛 #门槛妹 #女大 #线下 #非绿 #金主爸爸 #求包养…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_1951926692228009984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxai_B3akAAmn6w.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1106,
+        "media_key": "3_1951926692215406592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxai_B0aQAADPwN.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1955283272335798497",
+        "created_at": "2025-08-12T15:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T16:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955283272335798497"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "门槛"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "女大"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "线下"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "非绿"
+            },
+            {
+              "end": 133,
+              "start": 128,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "求包养"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "850547197275889665",
+              "start": 3,
+              "username": "NnnonTra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955283272335798497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951927770893685126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NnnonTra: 置顶🔝                                                 这里是琪琪\n希望哥哥入🚪的小女生\n真心欢迎入🚪的哥哥！\n女宝快来找我互转互fo～\n#门槛 #门槛妹 #女大 #线下 #非绿 #金主爸爸 #求包养…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951926692228009984",
+            "3_1951926692215406592"
+          ]
+        },
+        "author_id": "850547197275889665",
+        "conversation_id": "1951927770893685126",
+        "created_at": "2025-08-03T08:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T09:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951927770893685126"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "门槛"
+            },
+            {
+              "end": 101,
+              "start": 97,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "女大"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "线下"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "非绿"
+            },
+            {
+              "end": 119,
+              "start": 114,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 124,
+              "start": 120,
+              "tag": "求包养"
+            },
+            {
+              "end": 129,
+              "start": 125,
+              "tag": "求入门"
+            },
+            {
+              "end": 135,
+              "start": 130,
+              "tag": "女友系列"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "巨乳"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/szoj6uzHMQ",
+              "end": 163,
+              "expanded_url": "https://x.com/NnnonTra/status/1951927770893685126/photo/1",
+              "media_key": "3_1951926692228009984",
+              "start": 140,
+              "url": "https://t.co/szoj6uzHMQ"
+            },
+            {
+              "display_url": "pic.x.com/szoj6uzHMQ",
+              "end": 163,
+              "expanded_url": "https://x.com/NnnonTra/status/1951927770893685126/photo/1",
+              "media_key": "3_1951926692215406592",
+              "start": 140,
+              "url": "https://t.co/szoj6uzHMQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951927770893685126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 21574,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "置顶🔝                                                 这里是琪琪\n希望哥哥入🚪的小女生\n真心欢迎入🚪的哥哥！\n女宝快来找我互转互fo～\n#门槛 #门槛妹 #女大 #线下 #非绿 #金主爸爸 #求包养 #求入门 #女友系列 #巨乳 https://t.co/szoj6uzHMQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 230,
+          "like_count": 1078,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 564
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-08T03:13:49.000Z",
+        "description": "我是琪琪 女大 168/102 欢迎各位金主爸爸入🚪口令回复 可线下  下头男勿扰  先入门在问问题  可验证 坐标30r 欢迎女孩子互fo",
+        "id": "850547197275889665",
+        "name": "琪琪（重生版）",
+        "pinned_tweet_id": "1951927770893685126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951934854280695808/VKWerAqx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 4,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 80
+        },
+        "username": "NnnonTra",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962482649991188700",
+    "created_at": "2025-09-01T11:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T12:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962482649991188700"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "门槛"
+        },
+        {
+          "end": 130,
+          "start": 126,
+          "tag": "门槛姐"
+        },
+        {
+          "end": 135,
+          "start": 131,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "门槛"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1953734054156939265",
+          "start": 3,
+          "username": "TXU7YIe4lp29256"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962482649991188700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 117
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953744135330181575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @TXU7YIe4lp29256: 这里是娇娇呀！  05/166/98\n🚪费如下 新人有优惠！\n188/288/388\n本人线下很好相处 喜欢有礼貌的\n还有傻子别来 各种类型可以找我\n选择接哦  新人来啦 请各位认识认识呀！爱你们呀！\n#门槛 #门槛姐 #妈妈活 #门槛…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962482649991188700].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962482649991188700",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962482649991188700"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1453,
+        "media_key": "3_1953744124651483136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx0X7hPbsAALwAx.jpg",
+        "width": 1079
+      },
+      {
+        "height": 802,
+        "media_key": "3_1953744122831155203",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx0X7adbsAMICFD.jpg",
+        "width": 1078
+      },
+      {
+        "height": 1408,
+        "media_key": "3_1953744132331253760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx0X792bsAAyC4Z.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1156,
+        "media_key": "3_1953744130276044801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx0X72MbsAEm1hg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953744124651483136",
+            "3_1953744122831155203",
+            "3_1953744132331253760",
+            "3_1953744130276044801"
+          ]
+        },
+        "author_id": "1953734054156939265",
+        "conversation_id": "1953744135330181575",
+        "created_at": "2025-08-08T09:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T10:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953744135330181575"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "门槛"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 114,
+              "start": 110,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 119,
+              "start": 115,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "女大"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "缺钱"
+            },
+            {
+              "end": 135,
+              "start": 130,
+              "tag": "atm奴"
+            },
+            {
+              "end": 143,
+              "start": 136,
+              "tag": "atm打钱奴"
+            },
+            {
+              "end": 150,
+              "start": 145,
+              "tag": "电子女友"
+            },
+            {
+              "end": 156,
+              "start": 151,
+              "tag": "虚拟女友"
+            },
+            {
+              "end": 161,
+              "start": 157,
+              "tag": "大白腿"
+            },
+            {
+              "end": 165,
+              "start": 162,
+              "tag": "宝宝"
+            },
+            {
+              "end": 169,
+              "start": 166,
+              "tag": "fo"
+            },
+            {
+              "end": 173,
+              "start": 170,
+              "tag": "新人"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cuVwERiwkT",
+              "end": 197,
+              "expanded_url": "https://x.com/TXU7YIe4lp29256/status/1953744135330181575/photo/1",
+              "media_key": "3_1953744124651483136",
+              "start": 174,
+              "url": "https://t.co/cuVwERiwkT"
+            },
+            {
+              "display_url": "pic.x.com/cuVwERiwkT",
+              "end": 197,
+              "expanded_url": "https://x.com/TXU7YIe4lp29256/status/1953744135330181575/photo/1",
+              "media_key": "3_1953744122831155203",
+              "start": 174,
+              "url": "https://t.co/cuVwERiwkT"
+            },
+            {
+              "display_url": "pic.x.com/cuVwERiwkT",
+              "end": 197,
+              "expanded_url": "https://x.com/TXU7YIe4lp29256/status/1953744135330181575/photo/1",
+              "media_key": "3_1953744132331253760",
+              "start": 174,
+              "url": "https://t.co/cuVwERiwkT"
+            },
+            {
+              "display_url": "pic.x.com/cuVwERiwkT",
+              "end": 197,
+              "expanded_url": "https://x.com/TXU7YIe4lp29256/status/1953744135330181575/photo/1",
+              "media_key": "3_1953744130276044801",
+              "start": 174,
+              "url": "https://t.co/cuVwERiwkT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953744135330181575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 28299,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 117
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "这里是娇娇呀！  05/166/98\n🚪费如下 新人有优惠！\n188/288/388\n本人线下很好相处 喜欢有礼貌的\n还有傻子别来 各种类型可以找我\n选择接哦  新人来啦 请各位认识认识呀！爱你们呀！\n#门槛 #门槛姐 #妈妈活 #门槛哥 #女大 #缺钱   #atm奴 #atm打钱奴  #电子女友 #虚拟女友 #大白腿 #宝宝 #fo #新人 https://t.co/cuVwERiwkT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 211,
+          "like_count": 1133,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 646
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T08:24:47.000Z",
+        "description": "喜欢有礼貌的宝宝！没礼貌的勿扰 \n🚪188/288/388 \n直接zfb口令+联系方式  宝宝们！\n需要的直接来  讨厌没礼貌的 要先入🚪 已读不回是🐶 宝宝fo 位置不d",
+        "id": "1953734054156939265",
+        "name": "娇娇୧꒰•̀ᴗ•́꒱୨",
+        "pinned_tweet_id": "1953744135330181575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959717303752577024/oqRyHhl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 0,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 176
+        },
+        "username": "TXU7YIe4lp29256",
+        "verified": false
+      }
+    ]
+  }
+}

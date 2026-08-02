@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971761663775752192"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1971761671791432139",
+    "created_at": "2025-09-27T02:19:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T03:19:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971761671791432139"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6izUOx8cv8",
+          "end": 28,
+          "expanded_url": "https://x.com/a23937117/status/1971761671791432139/photo/1",
+          "media_key": "3_1971761663775752192",
+          "start": 5,
+          "url": "https://t.co/6izUOx8cv8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971761671791432139",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宝宝抽烟 https://t.co/6izUOx8cv8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1971761671791432139].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1971761671791432139",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1971761671791432139"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971761663775752192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G10ayU8WQAAlh7R.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88—谈恋爱了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 215,
+          "like_count": 1240,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 685
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

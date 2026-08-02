@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1834126452121387008",
+        "3_1834126479342407680"
+      ],
+      "media_source_tweet_id": [
+        "1834126485348626457",
+        "1834126485348626457"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962851373352996954",
+    "created_at": "2025-09-02T12:13:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T13:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962851373352996954"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 68,
+          "start": 65,
+          "tag": "门槛"
+        },
+        {
+          "end": 73,
+          "start": 69,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 78,
+          "start": 74,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 83,
+          "start": 79,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 87,
+          "start": 84,
+          "tag": "金主"
+        },
+        {
+          "end": 93,
+          "start": 88,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 98,
+          "start": 94,
+          "tag": "地雷系"
+        },
+        {
+          "end": 103,
+          "start": 99,
+          "tag": "求过门"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1833842147717468160",
+          "start": 3,
+          "username": "tamaktox"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wLrsifQgoc",
+          "end": 127,
+          "expanded_url": "https://x.com/tamaktox/status/1834126485348626457/photo/1",
+          "media_key": "3_1834126452121387008",
+          "start": 104,
+          "url": "https://t.co/wLrsifQgoc"
+        },
+        {
+          "display_url": "pic.x.com/wLrsifQgoc",
+          "end": 127,
+          "expanded_url": "https://x.com/tamaktox/status/1834126485348626457/photo/1",
+          "media_key": "3_1834126479342407680",
+          "start": 104,
+          "url": "https://t.co/wLrsifQgoc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962851373352996954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834126485348626457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @tamaktox: 你好我是小念 🚪188/288/520 线下接爸爸活 坐标西安 欢迎小女孩互fo转 喜欢我请来入我📷 #门槛 #爸爸活 #门槛妹 #门槛哥 #金主 #金主爸爸 #地雷系 #求过门 https://t.co/wLrsifQgoc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962851373352996954].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962851373352996954",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962851373352996954"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1834126452121387008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXQgSmPXwAAm344.jpg",
+        "width": 814
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1834126479342407680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXQgULpXkAAuGs5.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834126452121387008",
+            "3_1834126479342407680"
+          ]
+        },
+        "author_id": "1833842147717468160",
+        "conversation_id": "1834126485348626457",
+        "created_at": "2024-09-12T07:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T08:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834126485348626457"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "门槛"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 64,
+              "start": 60,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "金主"
+            },
+            {
+              "end": 79,
+              "start": 74,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "地雷系"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "求过门"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wLrsifQgoc",
+              "end": 113,
+              "expanded_url": "https://x.com/tamaktox/status/1834126485348626457/photo/1",
+              "media_key": "3_1834126452121387008",
+              "start": 90,
+              "url": "https://t.co/wLrsifQgoc"
+            },
+            {
+              "display_url": "pic.x.com/wLrsifQgoc",
+              "end": 113,
+              "expanded_url": "https://x.com/tamaktox/status/1834126485348626457/photo/1",
+              "media_key": "3_1834126479342407680",
+              "start": 90,
+              "url": "https://t.co/wLrsifQgoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834126485348626457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 38102,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 41
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "你好我是小念 🚪188/288/520 线下接爸爸活 坐标西安 欢迎小女孩互fo转 喜欢我请来入我📷 #门槛 #爸爸活 #门槛妹 #门槛哥 #金主 #金主爸爸 #地雷系 #求过门 https://t.co/wLrsifQgoc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 202,
+          "like_count": 1139,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 692
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T12:16:59.000Z",
+        "description": "🚪188\n爱我请给我钱",
+        "id": "1833842147717468160",
+        "name": "小念（求入门版）",
+        "pinned_tweet_id": "1834126485348626457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833962472979476480/dUSAL0Aj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 34,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 151
+        },
+        "username": "tamaktox",
+        "verified": false
+      }
+    ]
+  }
+}

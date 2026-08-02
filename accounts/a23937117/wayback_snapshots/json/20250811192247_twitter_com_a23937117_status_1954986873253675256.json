@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1954986873253675256",
+    "created_at": "2025-08-11T19:22:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T20:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954986873253675256"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 122,
+          "start": 118,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 127,
+          "start": 123,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 133,
+          "start": 128,
+          "tag": "ATM奴"
+        },
+        {
+          "end": 139,
+          "start": 134,
+          "tag": "小狗日记"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1431308412",
+          "start": 3,
+          "username": "Xiaoyu_ovo33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954986873253675256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947563336272646401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Xiaoyu_ovo33: 一女的\n04/165/45/B\n坐标江苏\n单纯喜欢钱，喜欢我就给我打钱吧～\n欢迎女宝宝找我互fo互转哦～\n纯绿半绿非绿都🉑\n过🚪仔细看p4想好再私，下头男麻烦滚远点！！！只回复口令或者🚪相关的问题。\n#爸爸活 #妈妈活 #ATM奴 #小狗日记…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954986873253675256].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954986873253675256",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954986873253675256"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1850,
+        "media_key": "3_1947563326894182403",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwcihvUbEAMCBY9.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1892,
+        "media_key": "3_1947563326906716160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwcihvXaUAA39GI.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1906,
+        "media_key": "3_1947563326898397184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwcihvVbYAA8HoG.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1517,
+        "media_key": "3_1947563326931931136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwcihvdbEAAwhM4.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947563326894182403",
+            "3_1947563326906716160",
+            "3_1947563326898397184",
+            "3_1947563326931931136"
+          ]
+        },
+        "author_id": "1431308412",
+        "conversation_id": "1947563336272646401",
+        "created_at": "2025-07-22T07:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T08:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947563336272646401"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 121,
+              "start": 116,
+              "tag": "小狗日记"
+            },
+            {
+              "end": 126,
+              "start": 122,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "缺钱"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "反差"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "互转"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "母狗"
+            },
+            {
+              "end": 148,
+              "start": 143,
+              "tag": "电子宠物"
+            },
+            {
+              "end": 153,
+              "start": 149,
+              "tag": "找金主"
+            },
+            {
+              "end": 158,
+              "start": 154,
+              "tag": "求投喂"
+            },
+            {
+              "end": 164,
+              "start": 159,
+              "tag": "线下非绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VvLIrCiFyi",
+              "end": 188,
+              "expanded_url": "https://x.com/Mermaidkatie13/status/1947563336272646401/photo/1",
+              "media_key": "3_1947563326894182403",
+              "start": 165,
+              "url": "https://t.co/VvLIrCiFyi"
+            },
+            {
+              "display_url": "pic.x.com/VvLIrCiFyi",
+              "end": 188,
+              "expanded_url": "https://x.com/Mermaidkatie13/status/1947563336272646401/photo/1",
+              "media_key": "3_1947563326906716160",
+              "start": 165,
+              "url": "https://t.co/VvLIrCiFyi"
+            },
+            {
+              "display_url": "pic.x.com/VvLIrCiFyi",
+              "end": 188,
+              "expanded_url": "https://x.com/Mermaidkatie13/status/1947563336272646401/photo/1",
+              "media_key": "3_1947563326898397184",
+              "start": 165,
+              "url": "https://t.co/VvLIrCiFyi"
+            },
+            {
+              "display_url": "pic.x.com/VvLIrCiFyi",
+              "end": 188,
+              "expanded_url": "https://x.com/Mermaidkatie13/status/1947563336272646401/photo/1",
+              "media_key": "3_1947563326931931136",
+              "start": 165,
+              "url": "https://t.co/VvLIrCiFyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947563336272646401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 26111,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "reply_settings": "following",
+        "text": "一女的\n04/165/45/B\n坐标江苏\n单纯喜欢钱，喜欢我就给我打钱吧～\n欢迎女宝宝找我互fo互转哦～\n纯绿半绿非绿都🉑\n过🚪仔细看p4想好再私，下头男麻烦滚远点！！！只回复口令或者🚪相关的问题。\n#爸爸活 #妈妈活 #ATM奴 #小狗日记 #门槛妹 #缺钱 #反差 #互转 #母狗 #电子宠物 #找金主 #求投喂 #线下非绿 https://t.co/VvLIrCiFyi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 207,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 514
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-15T19:27:05.000Z",
+        "description": "一女的04/165/45/B坐标江苏 单纯喜欢钱，爱我就给我打钱吧～欢迎女宝宝找我互fo互转 最喜欢直接甩口令的金主爸爸喽～🉑验证",
+        "id": "1431308412",
+        "location": "🚪68/298/369/520/1314/2888",
+        "name": "枕枕熊💤",
+        "pinned_tweet_id": "1947563336272646401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947557823342383105/913an4yM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 9,
+          "like_count": 10,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 149
+        },
+        "username": "Xiaoyu_ovo33",
+        "verified": false
+      }
+    ]
+  }
+}

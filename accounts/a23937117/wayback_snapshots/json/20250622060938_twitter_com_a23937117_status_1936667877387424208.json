@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936667867233046528",
+        "3_1936667867233021952"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1936667877387424208",
+    "created_at": "2025-06-22T06:09:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T07:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936667877387424208"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kJ1NBGQWbX",
+          "end": 42,
+          "expanded_url": "https://x.com/a23937117/status/1936667877387424208/photo/1",
+          "media_key": "3_1936667867233046528",
+          "start": 19,
+          "url": "https://t.co/kJ1NBGQWbX"
+        },
+        {
+          "display_url": "pic.x.com/kJ1NBGQWbX",
+          "end": 42,
+          "expanded_url": "https://x.com/a23937117/status/1936667877387424208/photo/1",
+          "media_key": "3_1936667867233021952",
+          "start": 19,
+          "url": "https://t.co/kJ1NBGQWbX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936667877387424208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "^ &gt;𖥦&lt; ^ ੭洗澡🛀 https://t.co/kJ1NBGQWbX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1936667877387424208].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1936667877387424208",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1936667877387424208"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1758,
+        "media_key": "3_1936667867233046528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuBtKhJW0AAIyIv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1936667867233021952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuBtKhJWcAA3z88.jpg",
+        "width": 2026
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "kissing",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912263641153392641/7XFuYbHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 120,
+          "like_count": 773,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 115
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

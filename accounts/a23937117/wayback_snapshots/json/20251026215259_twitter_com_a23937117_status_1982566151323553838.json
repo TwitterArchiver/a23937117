@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1982566151323553838",
+    "created_at": "2025-10-26T21:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T22:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982566151323553838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1982481283608608768",
+          "start": 3,
+          "username": "xndwoooool"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982566151323553838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982486550467453228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xndwoooool: 小暖的新置顶🔝\n你好这里是小暖 06/166/45kg\n可以御也可以萝\n日常穿jk/lolita/蕾服/cos(刚刚开始接触)\n具体坐标过🚪私\n欢迎萌妹子们互推互fo🥺被迫下海\n喜欢我的话多多投喂我好不好🥹\n求🚪哥溺爱 🚪哥快来吧! https:…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1982566151323553838].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1982566151323553838",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1982566151323553838"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 705,
+        "media_key": "3_1982486539209744384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4M1APWXIAA5xVJ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1325,
+        "media_key": "3_1982486545643741185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4M1AnUWIAEXdpD.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1443,
+        "media_key": "3_1982486544951787520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4M1AkvXwAAVRHr.jpg",
+        "width": 1180
+      },
+      {
+        "height": 1438,
+        "media_key": "3_1982486545614397440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4M1AnNWYAAoXBF.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982486539209744384",
+            "3_1982486545643741185",
+            "3_1982486544951787520",
+            "3_1982486545614397440"
+          ]
+        },
+        "author_id": "1982481283608608768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1982486550467453228",
+        "created_at": "2025-10-26T16:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T17:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982486550467453228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8VNlMWE7xI",
+              "end": 140,
+              "expanded_url": "https://x.com/xndwoooool/status/1982486550467453228/photo/1",
+              "media_key": "3_1982486539209744384",
+              "start": 117,
+              "url": "https://t.co/8VNlMWE7xI"
+            },
+            {
+              "display_url": "pic.x.com/8VNlMWE7xI",
+              "end": 140,
+              "expanded_url": "https://x.com/xndwoooool/status/1982486550467453228/photo/1",
+              "media_key": "3_1982486545643741185",
+              "start": 117,
+              "url": "https://t.co/8VNlMWE7xI"
+            },
+            {
+              "display_url": "pic.x.com/8VNlMWE7xI",
+              "end": 140,
+              "expanded_url": "https://x.com/xndwoooool/status/1982486550467453228/photo/1",
+              "media_key": "3_1982486544951787520",
+              "start": 117,
+              "url": "https://t.co/8VNlMWE7xI"
+            },
+            {
+              "display_url": "pic.x.com/8VNlMWE7xI",
+              "end": 140,
+              "expanded_url": "https://x.com/xndwoooool/status/1982486550467453228/photo/1",
+              "media_key": "3_1982486545614397440",
+              "start": 117,
+              "url": "https://t.co/8VNlMWE7xI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982486550467453228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 278,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "小暖的新置顶🔝\n你好这里是小暖 06/166/45kg\n可以御也可以萝\n日常穿jk/lolita/蕾服/cos(刚刚开始接触)\n具体坐标过🚪私\n欢迎萌妹子们互推互fo🥺被迫下海\n喜欢我的话多多投喂我好不好🥹\n求🚪哥溺爱 🚪哥快来吧! https://t.co/8VNlMWE7xI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 219,
+          "like_count": 1306,
+          "listed_count": 3,
+          "media_count": 200,
+          "tweet_count": 739
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T16:15:55.000Z",
+        "description": "不是皮下男可验证喜欢我的哥哥请多多投喂 非常的可怜小暖.",
+        "id": "1982481283608608768",
+        "location": "188/388/520/1314🚪",
+        "name": "小暖大王（可怜）",
+        "pinned_tweet_id": "1982486550467453228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982483279027515392/SvC3KErs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 313
+        },
+        "username": "xndwoooool",
+        "verified": false
+      }
+    ]
+  }
+}

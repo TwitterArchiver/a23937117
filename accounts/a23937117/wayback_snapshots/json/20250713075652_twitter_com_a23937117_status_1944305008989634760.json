@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1944127390416089257",
+    "created_at": "2025-07-13T07:56:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T08:56:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944305008989634760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1683424569556885504",
+          "start": 0,
+          "username": "evergree__n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944305008989634760",
+    "in_reply_to_user_id": "1683424569556885504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944127390416089257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@evergree__n 我的拥抱可以吗宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1944127390416089257",
+        "created_at": "2025-07-13T07:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T08:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944305008989634760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1683424569556885504",
+              "start": 0,
+              "username": "evergree__n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944305008989634760",
+        "in_reply_to_user_id": "1683424569556885504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944127390416089257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@evergree__n 我的拥抱可以吗宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683424569556885504",
+        "conversation_id": "1944127390416089257",
+        "created_at": "2025-07-12T20:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T21:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944127390416089257"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944127390416089257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1758,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心里的空洞究竟要怎样才能填满。用掉也掉不完的眼泪吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 中文/西文/英文 地雷女 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1926128376831468021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 148,
+          "like_count": 918,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 287
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T10:31:19.000Z",
+        "description": "我是你们的眼 ins：ocean_o02 抖音xiao_yan_n 無其他社交賬號 找我算塔罗25r可以加Feb_yan_n这个v",
+        "id": "1683424569556885504",
+        "location": "東京 千代田区",
+        "name": "付讫我心长青",
+        "pinned_tweet_id": "1912195599006593239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934811172416704513/EqosVkN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20247,
+          "following_count": 80,
+          "like_count": 3270,
+          "listed_count": 41,
+          "media_count": 636,
+          "tweet_count": 2542
+        },
+        "username": "evergree__n",
+        "verified": false
+      }
+    ]
+  }
+}

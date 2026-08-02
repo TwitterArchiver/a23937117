@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053827200663589343",
+    "created_at": "2026-05-11T13:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T14:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053827200663589343"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "门槛"
+        },
+        {
+          "end": 107,
+          "start": 103,
+          "tag": "江浙沪"
+        },
+        {
+          "end": 111,
+          "start": 108,
+          "tag": "武汉"
+        },
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "成都"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "非绿"
+        },
+        {
+          "end": 124,
+          "start": 120,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 129,
+          "start": 125,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 133,
+          "start": 130,
+          "tag": "线下"
+        },
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "门妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2000723611276173312",
+          "start": 3,
+          "username": "Bemylover_319"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053827200663589343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053730012059361791",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bemylover_319: =小骨 170/50/07\n关键词od自伤精神病 我很缺钱\n脾气很好情绪价值足 我接线下纯绿半绿非绿\n坐标江苏后面去武汉成都 常驻成都\n喜欢我请多投喂我T^T\n#门槛 #江浙沪 #武汉 #成都 #非绿 #爸爸活 #妈妈活 #线下 #门妹 #…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2053730002630541313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBQjmdbAAEG3m-.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1421,
+        "media_key": "3_2053730002638954496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBQjmfbYAA20Al.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053730002693423104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBQjmsagAAdkry.jpg",
+        "width": 1536
+      },
+      {
+        "height": 637,
+        "media_key": "3_2053730002626396160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBQjmcbwAAf1tb.jpg",
+        "width": 1060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2053827200663589343",
+        "created_at": "2026-05-11T13:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053827200663589343"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "门槛"
+            },
+            {
+              "end": 107,
+              "start": 103,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "武汉"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "成都"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "非绿"
+            },
+            {
+              "end": 124,
+              "start": 120,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 129,
+              "start": 125,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "线下"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "门妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2000723611276173312",
+              "start": 3,
+              "username": "Bemylover_319"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053827200663589343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053730012059361791",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bemylover_319: =小骨 170/50/07\n关键词od自伤精神病 我很缺钱\n脾气很好情绪价值足 我接线下纯绿半绿非绿\n坐标江苏后面去武汉成都 常驻成都\n喜欢我请多投喂我T^T\n#门槛 #江浙沪 #武汉 #成都 #非绿 #爸爸活 #妈妈活 #线下 #门妹 #…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053730002630541313",
+            "3_2053730002638954496",
+            "3_2053730002693423104",
+            "3_2053730002626396160"
+          ]
+        },
+        "author_id": "2000723611276173312",
+        "conversation_id": "2053730012059361791",
+        "created_at": "2026-05-11T06:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053730012059361791"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "门槛"
+            },
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "武汉"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "成都"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "非绿"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "线下"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "门妹"
+            },
+            {
+              "end": 124,
+              "start": 119,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 130,
+              "start": 125,
+              "tag": "电子女友"
+            },
+            {
+              "end": 136,
+              "start": 131,
+              "tag": "一日女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WYodBbLbEu",
+              "end": 160,
+              "expanded_url": "https://x.com/Bemylover_319/status/2053730012059361791/photo/1",
+              "media_key": "3_2053730002630541313",
+              "start": 137,
+              "url": "https://t.co/WYodBbLbEu"
+            },
+            {
+              "display_url": "pic.x.com/WYodBbLbEu",
+              "end": 160,
+              "expanded_url": "https://x.com/Bemylover_319/status/2053730012059361791/photo/1",
+              "media_key": "3_2053730002638954496",
+              "start": 137,
+              "url": "https://t.co/WYodBbLbEu"
+            },
+            {
+              "display_url": "pic.x.com/WYodBbLbEu",
+              "end": 160,
+              "expanded_url": "https://x.com/Bemylover_319/status/2053730012059361791/photo/1",
+              "media_key": "3_2053730002693423104",
+              "start": 137,
+              "url": "https://t.co/WYodBbLbEu"
+            },
+            {
+              "display_url": "pic.x.com/WYodBbLbEu",
+              "end": 160,
+              "expanded_url": "https://x.com/Bemylover_319/status/2053730012059361791/photo/1",
+              "media_key": "3_2053730002626396160",
+              "start": 137,
+              "url": "https://t.co/WYodBbLbEu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053730012059361791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 153,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "=小骨 170/50/07\n关键词od自伤精神病 我很缺钱\n脾气很好情绪价值足 我接线下纯绿半绿非绿\n坐标江苏后面去武汉成都 常驻成都\n喜欢我请多投喂我T^T\n#门槛 #江浙沪 #武汉 #成都 #非绿 #爸爸活 #妈妈活 #线下 #门妹 #ATM奴 #电子女友 #一日女友 https://t.co/WYodBbLbEu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 202,
+          "like_count": 1408,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 748
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-16T00:25:14.000Z",
+        "description": "=骨骼钉 od｜自傷｜雙向｜泛｜swtich\n聽點udg 查成分回fo",
+        "id": "2000723611276173312",
+        "location": "🚪88/188/288/520/1314",
+        "name": "319",
+        "pinned_tweet_id": "2052848281903042570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045901812201582592/3OyoefNE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 80,
+          "like_count": 268,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 263
+        },
+        "username": "Bemylover_319",
+        "verified": false
+      }
+    ]
+  }
+}

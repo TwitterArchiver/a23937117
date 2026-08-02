@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2078163560866488804",
+    "created_at": "2026-07-17T17:36:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T18:36:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078172040192807315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1755369367624110080",
+          "start": 0,
+          "username": "nanakau_le"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078172040192807315",
+    "in_reply_to_user_id": "1755369367624110080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078163560866488804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanakau_le 感觉他们是想故意被你骂然后就会很爽的臭臭的雄性生物"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078163537676148736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNceuhhbIAATiij.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2078163560866488804",
+        "created_at": "2026-07-17T17:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078172040192807315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1755369367624110080",
+              "start": 0,
+              "username": "nanakau_le"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078172040192807315",
+        "in_reply_to_user_id": "1755369367624110080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078163560866488804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanakau_le 感觉他们是想故意被你骂然后就会很爽的臭臭的雄性生物"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078163537676148736"
+          ]
+        },
+        "author_id": "1755369367624110080",
+        "conversation_id": "2078163560866488804",
+        "created_at": "2026-07-17T17:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078163560866488804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wNkHOUnBH3",
+              "end": 99,
+              "expanded_url": "https://x.com/nanakau_le/status/2078163560866488804/photo/1",
+              "media_key": "3_2078163537676148736",
+              "start": 76,
+              "url": "https://t.co/wNkHOUnBH3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078163560866488804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我哪个字骂人了 说事实你就急成这样这么活不起你赶紧去死吧好吗 怪不得没有女的愿意跟你做 别人被操的不爽不叫你以为人家侮辱你小几把不行 你去死呗好不好🌚 https://t.co/wNkHOUnBH3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 190,
+          "like_count": 1443,
+          "listed_count": 2,
+          "media_count": 254,
+          "tweet_count": 793
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-07T23:14:21.000Z",
+        "description": "08 154 37kg\n线上🚪520 线下🚪1314 坐标深圳 外地不接\n过🚪请发口令和姓氏",
+        "id": "1755369367624110080",
+        "name": "nanakau",
+        "pinned_tweet_id": "1942673920471228540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942655867322552320/cSu50SPU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4562,
+          "following_count": 127,
+          "like_count": 316,
+          "listed_count": 20,
+          "media_count": 35,
+          "tweet_count": 268
+        },
+        "url": "",
+        "username": "nanakau_le",
+        "verified": false
+      }
+    ]
+  }
+}

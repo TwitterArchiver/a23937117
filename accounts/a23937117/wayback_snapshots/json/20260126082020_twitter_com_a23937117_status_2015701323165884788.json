@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015701312868913152"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2015701323165884788",
+    "created_at": "2026-01-26T08:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T09:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015701323165884788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RE6zPqpDs7",
+          "end": 37,
+          "expanded_url": "https://x.com/a23937117/status/2015701323165884788/photo/1",
+          "media_key": "3_2015701312868913152",
+          "start": 14,
+          "url": "https://t.co/RE6zPqpDs7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015701323165884788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好久没这么爽了，你真的好美 https://t.co/RE6zPqpDs7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015701312868913152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_k1qhbXEAARp_N.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015701312868913152"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2015701323165884788",
+        "created_at": "2026-01-26T08:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T09:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015701323165884788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RE6zPqpDs7",
+              "end": 37,
+              "expanded_url": "https://x.com/a23937117/status/2015701323165884788/photo/1",
+              "media_key": "3_2015701312868913152",
+              "start": 14,
+              "url": "https://t.co/RE6zPqpDs7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015701323165884788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久没这么爽了，你真的好美 https://t.co/RE6zPqpDs7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲华裔 在海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover  谈恋爱ing有对象",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 206,
+          "like_count": 1351,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 760
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

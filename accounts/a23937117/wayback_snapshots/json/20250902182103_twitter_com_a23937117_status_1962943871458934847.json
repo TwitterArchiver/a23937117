@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962943871458934847",
+    "created_at": "2025-09-02T18:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T19:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962943871458934847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1588430939855560704",
+          "start": 3,
+          "username": "PearNiki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/bAUWe",
+          "end": 145,
+          "start": 127,
+          "url": "https://t.co/bAUWe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962943871458934847",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959572303169163678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PearNiki: 💕🎀🍰\n= 置顶 =\n寶寶你好！我是小绘\n很高興在這裡認識你V(^_^)V\ninfp 如果你喜欢我的话可以过一下我的🚪吗 🚪48 朋友圈很多我的日常&gt; &lt;\n\n如果有想和我互關互轉的寶寶的話也請直接私信我！爱你们🥰 https://t.co/bAUWe…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959572283682361344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzHMnBiWkAAjMdM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1962943871458934847",
+        "created_at": "2025-09-02T18:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T19:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962943871458934847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1588430939855560704",
+              "start": 3,
+              "username": "PearNiki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/bAUWe",
+              "end": 145,
+              "start": 127,
+              "url": "https://t.co/bAUWe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962943871458934847",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959572303169163678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PearNiki: 💕🎀🍰\n= 置顶 =\n寶寶你好！我是小绘\n很高興在這裡認識你V(^_^)V\ninfp 如果你喜欢我的话可以过一下我的🚪吗 🚪48 朋友圈很多我的日常&gt; &lt;\n\n如果有想和我互關互轉的寶寶的話也請直接私信我！爱你们🥰 https://t.co/bAUWe…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959572283682361344"
+          ]
+        },
+        "author_id": "1588430939855560704",
+        "conversation_id": "1959572303169163678",
+        "created_at": "2025-08-24T11:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T12:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959572303169163678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bAUWeW6vy0",
+              "end": 136,
+              "expanded_url": "https://x.com/PearNiki/status/1959572303169163678/photo/1",
+              "media_key": "3_1959572283682361344",
+              "start": 113,
+              "url": "https://t.co/bAUWeW6vy0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959572303169163678",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 314,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "💕🎀🍰\n= 置顶 =\n寶寶你好！我是小绘\n很高興在這裡認識你V(^_^)V\ninfp 如果你喜欢我的话可以过一下我的🚪吗 🚪48 朋友圈很多我的日常&gt; &lt;\n\n如果有想和我互關互轉的寶寶的話也請直接私信我！爱你们🥰 https://t.co/bAUWeW6vy0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 202,
+          "like_count": 1142,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 703
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T07:20:36.000Z",
+        "description": "Hi寶寶 希望你可以一直幸福🥰 🚪48",
+        "id": "1588430939855560704",
+        "location": "電子日記",
+        "name": "小绘酱:P",
+        "pinned_tweet_id": "1959572303169163678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855561895970779136/aGW4vYaG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1811,
+          "following_count": 641,
+          "like_count": 5817,
+          "listed_count": 3,
+          "media_count": 484,
+          "tweet_count": 2884
+        },
+        "username": "PearNiki",
+        "verified": false
+      }
+    ]
+  }
+}

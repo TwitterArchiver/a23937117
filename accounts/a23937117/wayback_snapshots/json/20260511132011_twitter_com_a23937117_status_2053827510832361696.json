@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010259442420625408",
+        "3_2010259441862811648"
+      ],
+      "media_source_tweet_id": [
+        "2010259457243316622",
+        "2010259457243316622"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2053827510832361696",
+    "created_at": "2026-05-11T13:20:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T14:20:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053827510832361696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1991688703241330688",
+          "start": 3,
+          "username": "ArchiboldM44769"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/91jIXrvVWM",
+          "end": 137,
+          "expanded_url": "https://x.com/ArchiboldM44769/status/2010259457243316622/photo/1",
+          "media_key": "3_2010259442420625408",
+          "start": 114,
+          "url": "https://t.co/91jIXrvVWM"
+        },
+        {
+          "display_url": "pic.x.com/91jIXrvVWM",
+          "end": 137,
+          "expanded_url": "https://x.com/ArchiboldM44769/status/2010259457243316622/photo/1",
+          "media_key": "3_2010259441862811648",
+          "start": 114,
+          "url": "https://t.co/91jIXrvVWM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053827510832361696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010259457243316622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ArchiboldM44769: 这里是广州的🫐一只🔝\n瘦不下去！​你快说胖胖的女生也很可爱啊 \n快说啊!呜呜呜​꒦ິ^꒦ິ\n支持视频验证20r(语音不要钱为了确保是本人 验证都会漏奶子!）\n真实微胖 🐻D罩杯快来揉！ https://t.co/91jIXrvVWM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053827510832361696].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053827510832361696",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053827510832361696"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010259442420625408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-XgT-PbMAAsgBM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 929,
+        "media_key": "3_2010259441862811648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-XgT8KboAA-pCV.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010259442420625408",
+            "3_2010259441862811648"
+          ]
+        },
+        "author_id": "1991688703241330688",
+        "conversation_id": "2010259457243316622",
+        "created_at": "2026-01-11T07:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T08:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010259457243316622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/91jIXrvVWM",
+              "end": 116,
+              "expanded_url": "https://x.com/ArchiboldM44769/status/2010259457243316622/photo/1",
+              "media_key": "3_2010259442420625408",
+              "start": 93,
+              "url": "https://t.co/91jIXrvVWM"
+            },
+            {
+              "display_url": "pic.x.com/91jIXrvVWM",
+              "end": 116,
+              "expanded_url": "https://x.com/ArchiboldM44769/status/2010259457243316622/photo/1",
+              "media_key": "3_2010259441862811648",
+              "start": 93,
+              "url": "https://t.co/91jIXrvVWM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010259457243316622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 71265,
+          "like_count": 119,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "这里是广州的🫐一只🔝\n瘦不下去！​你快说胖胖的女生也很可爱啊 \n快说啊!呜呜呜​꒦ິ^꒦ິ\n支持视频验证20r(语音不要钱为了确保是本人 验证都会漏奶子!）\n真实微胖 🐻D罩杯快来揉！ https://t.co/91jIXrvVWM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 202,
+          "like_count": 1408,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 750
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T02:02:46.000Z",
+        "description": "📍“in廣州Guang Zhou｜🗼",
+        "id": "1991688703241330688",
+        "name": "蓝莓果酱",
+        "pinned_tweet_id": "2010259457243316622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004984906137616384/SuYYL601_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 18,
+          "like_count": 3,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 240
+        },
+        "username": "ArchiboldM44769",
+        "verified": false
+      }
+    ]
+  }
+}

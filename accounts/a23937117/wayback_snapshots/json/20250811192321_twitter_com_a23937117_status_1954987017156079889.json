@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1954987017156079889",
+    "created_at": "2025-08-11T19:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T20:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954987017156079889"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "入门"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "门槛"
+        },
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "线下"
+        },
+        {
+          "end": 82,
+          "start": 79,
+          "tag": "包养"
+        },
+        {
+          "end": 87,
+          "start": 83,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 92,
+          "start": 88,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 98,
+          "start": 93,
+          "tag": "快来入门"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "非绿"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "半绿"
+        },
+        {
+          "end": 112,
+          "start": 107,
+          "tag": "一日女友"
+        },
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "缺钱"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "游戏"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1907309952814964737",
+          "start": 3,
+          "username": "keke06x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/9vSfq",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/9vSfq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954987017156079889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 151
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908373743635984751",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @keke06x: 哥哥们好\n宝宝喜欢玩游戏\n喜欢游戏里有好看的衣服穿\n攒的钱都换成衣服了\n喜欢宝宝的请入🚪\n请多多支持宝宝～\n#入门 #门槛 #线下 #包养 #爸爸活 #妈妈活 #快来入门 #非绿 #半绿 #一日女友 #缺钱 #游戏 https://t.co/9vSfq…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954987017156079889].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954987017156079889",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954987017156079889"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1908373729425690624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnvny8EbEAAmr69.jpg",
+        "width": 1536
+      },
+      {
+        "height": 669,
+        "media_key": "3_1908373729207599104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnvny7QbQAAIaT3.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908373729425690624",
+            "3_1908373729207599104"
+          ]
+        },
+        "author_id": "1907309952814964737",
+        "conversation_id": "1908373743635984751",
+        "created_at": "2025-04-05T04:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T05:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908373743635984751"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "入门"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "门槛"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "线下"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "包养"
+            },
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "快来入门"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "非绿"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "半绿"
+            },
+            {
+              "end": 99,
+              "start": 94,
+              "tag": "一日女友"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "缺钱"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "游戏"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9vSfqNHNLF",
+              "end": 131,
+              "expanded_url": "https://x.com/keke06x/status/1908373743635984751/photo/1",
+              "media_key": "3_1908373729425690624",
+              "start": 108,
+              "url": "https://t.co/9vSfqNHNLF"
+            },
+            {
+              "display_url": "pic.x.com/9vSfqNHNLF",
+              "end": 131,
+              "expanded_url": "https://x.com/keke06x/status/1908373743635984751/photo/1",
+              "media_key": "3_1908373729207599104",
+              "start": 108,
+              "url": "https://t.co/9vSfqNHNLF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908373743635984751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 78600,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 151
+        },
+        "reply_settings": "everyone",
+        "text": "哥哥们好\n宝宝喜欢玩游戏\n喜欢游戏里有好看的衣服穿\n攒的钱都换成衣服了\n喜欢宝宝的请入🚪\n请多多支持宝宝～\n#入门 #门槛 #线下 #包养 #爸爸活 #妈妈活 #快来入门 #非绿 #半绿 #一日女友 #缺钱 #游戏 https://t.co/9vSfqNHNLF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 209,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 516
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T05:51:52.000Z",
+        "description": "🚪88｜188｜288｜520 私信只回口令 20r验证坐标 感谢喜欢 欢迎宝宝找我互转互fo  可视频或语音验证",
+        "id": "1907309952814964737",
+        "name": "可ke",
+        "pinned_tweet_id": "1908373743635984751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917188027035824128/OWD0WTK3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 33,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 332
+        },
+        "username": "keke06x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2039904785290166744",
+    "created_at": "2026-04-03T03:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T04:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039904785290166744"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 134,
+          "start": 130,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 138,
+          "start": 135,
+          "tag": "甜妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1536662869",
+          "start": 3,
+          "username": "k_rekit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039904785290166744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027111669000982534",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k_rekit: 碎碎念也想有归处♥️\n这里是依依呀\n一个单身独居的可爱小女生🥺\n ✨努力接单面对生活中接线上线下\n喜欢陪伴爱玩游戏🎮有点小粘人\n朋友圈有萌萌的照片 都是为了能被喜欢💕\n可以支持各种验证（爆金币会很乖嘻嘻）\n欢迎互fo～看到都会回哦  #门槛妹 #甜妹…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027111657865089024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCG_UA8aEAAq0XZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 828,
+        "media_key": "3_2027111657869299712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCG_UA9aUAAz4Jh.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2039904785290166744",
+        "created_at": "2026-04-03T03:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T04:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039904785290166744"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 130,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "甜妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1536662869",
+              "start": 3,
+              "username": "k_rekit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039904785290166744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027111669000982534",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @k_rekit: 碎碎念也想有归处♥️\n这里是依依呀\n一个单身独居的可爱小女生🥺\n ✨努力接单面对生活中接线上线下\n喜欢陪伴爱玩游戏🎮有点小粘人\n朋友圈有萌萌的照片 都是为了能被喜欢💕\n可以支持各种验证（爆金币会很乖嘻嘻）\n欢迎互fo～看到都会回哦  #门槛妹 #甜妹…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027111657865089024",
+            "3_2027111657869299712"
+          ]
+        },
+        "author_id": "1536662869",
+        "conversation_id": "2027111669000982534",
+        "created_at": "2026-02-26T20:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T21:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027111669000982534"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "甜妹"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "线下"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "陪玩"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "三角洲"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "无畏"
+            },
+            {
+              "end": 148,
+              "start": 143,
+              "tag": "电子女子"
+            },
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "定制"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vXIU5y71QL",
+              "end": 176,
+              "expanded_url": "https://x.com/k_rekit/status/2027111669000982534/photo/1",
+              "media_key": "3_2027111657865089024",
+              "start": 153,
+              "url": "https://t.co/vXIU5y71QL"
+            },
+            {
+              "display_url": "pic.x.com/vXIU5y71QL",
+              "end": 176,
+              "expanded_url": "https://x.com/k_rekit/status/2027111669000982534/photo/1",
+              "media_key": "3_2027111657869299712",
+              "start": 153,
+              "url": "https://t.co/vXIU5y71QL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027111669000982534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 15612,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "碎碎念也想有归处♥️\n这里是依依呀\n一个单身独居的可爱小女生🥺\n ✨努力接单面对生活中接线上线下\n喜欢陪伴爱玩游戏🎮有点小粘人\n朋友圈有萌萌的照片 都是为了能被喜欢💕\n可以支持各种验证（爆金币会很乖嘻嘻）\n欢迎互fo～看到都会回哦  #门槛妹 #甜妹 #线下 #陪玩 #三角洲 #无畏 #电子女子 #定制 https://t.co/vXIU5y71QL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 203,
+          "like_count": 1396,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 675
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-21T14:32:56.000Z",
+        "description": "可是尊嘟好可爱ovo放心投喂❤️懂付出哦，宝宝问坐标记得20呀，看到都会回复哦✨",
+        "id": "1536662869",
+        "name": "是依依呀",
+        "pinned_tweet_id": "2027111669000982534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039252983981215744/j7hfUytg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 29,
+          "like_count": 1,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 110
+        },
+        "username": "k_rekit",
+        "verified": false
+      }
+    ]
+  }
+}

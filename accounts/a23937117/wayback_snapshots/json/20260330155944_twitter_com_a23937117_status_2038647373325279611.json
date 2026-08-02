@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2038647373325279611",
+    "created_at": "2026-03-30T15:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T16:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038647373325279611"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 98,
+          "start": 94,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 103,
+          "start": 99,
+          "tag": "求包养"
+        },
+        {
+          "end": 107,
+          "start": 104,
+          "tag": "反差"
+        },
+        {
+          "end": 112,
+          "start": 108,
+          "tag": "腰臀比"
+        },
+        {
+          "end": 118,
+          "start": 113,
+          "tag": "端游陪玩"
+        },
+        {
+          "end": 124,
+          "start": 119,
+          "tag": "一日女友"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "线下"
+        },
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "线上"
+        },
+        {
+          "end": 136,
+          "start": 133,
+          "tag": "连麦"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "729237790899118081",
+          "start": 3,
+          "username": "samir9158"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038647373325279611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038290108403908823",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @samir9158: 独居小女生\n要自己独自面对生活压力😕\n想接D交房租和买喜欢的衣服包包\n过我门我会很热情❤️懂付出\n对支持我的宝宝情绪价值拉满\n大欢迎女宝宝们和我互fo互转呀\n#门槛妹 #求包养 #反差 #腰臀比 #端游陪玩 #一日女友 #线下 #线上 #连麦 #可…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1684,
+        "media_key": "3_2038290096458452992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEl2CxyaUAAlKAO.jpg",
+        "width": 1279
+      },
+      {
+        "height": 994,
+        "media_key": "3_2038290096462680064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEl2Cxza0AAOy9Y.jpg",
+        "width": 774
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2038290096458489856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEl2Cxya4AA32do.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2038647373325279611",
+        "created_at": "2026-03-30T15:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T16:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038647373325279611"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "求包养"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "反差"
+            },
+            {
+              "end": 112,
+              "start": 108,
+              "tag": "腰臀比"
+            },
+            {
+              "end": 118,
+              "start": 113,
+              "tag": "端游陪玩"
+            },
+            {
+              "end": 124,
+              "start": 119,
+              "tag": "一日女友"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "线下"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "线上"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "连麦"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "729237790899118081",
+              "start": 3,
+              "username": "samir9158"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038647373325279611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038290108403908823",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @samir9158: 独居小女生\n要自己独自面对生活压力😕\n想接D交房租和买喜欢的衣服包包\n过我门我会很热情❤️懂付出\n对支持我的宝宝情绪价值拉满\n大欢迎女宝宝们和我互fo互转呀\n#门槛妹 #求包养 #反差 #腰臀比 #端游陪玩 #一日女友 #线下 #线上 #连麦 #可…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038290096458452992",
+            "3_2038290096462680064",
+            "3_2038290096458489856"
+          ]
+        },
+        "author_id": "729237790899118081",
+        "conversation_id": "2038290108403908823",
+        "created_at": "2026-03-29T16:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038290108403908823"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 79,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "求包养"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "反差"
+            },
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "腰臀比"
+            },
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "端游陪玩"
+            },
+            {
+              "end": 109,
+              "start": 104,
+              "tag": "一日女友"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "线下"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "线上"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "连麦"
+            },
+            {
+              "end": 127,
+              "start": 122,
+              "tag": "可甜可咸"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "视频"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mj4VSCs1P3",
+              "end": 155,
+              "expanded_url": "https://x.com/samir9158/status/2038290108403908823/photo/1",
+              "media_key": "3_2038290096458452992",
+              "start": 132,
+              "url": "https://t.co/Mj4VSCs1P3"
+            },
+            {
+              "display_url": "pic.x.com/Mj4VSCs1P3",
+              "end": 155,
+              "expanded_url": "https://x.com/samir9158/status/2038290108403908823/photo/1",
+              "media_key": "3_2038290096462680064",
+              "start": 132,
+              "url": "https://t.co/Mj4VSCs1P3"
+            },
+            {
+              "display_url": "pic.x.com/Mj4VSCs1P3",
+              "end": 155,
+              "expanded_url": "https://x.com/samir9158/status/2038290108403908823/photo/1",
+              "media_key": "3_2038290096458489856",
+              "start": 132,
+              "url": "https://t.co/Mj4VSCs1P3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038290108403908823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 559,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "独居小女生\n要自己独自面对生活压力😕\n想接D交房租和买喜欢的衣服包包\n过我门我会很热情❤️懂付出\n对支持我的宝宝情绪价值拉满\n大欢迎女宝宝们和我互fo互转呀\n#门槛妹 #求包养 #反差 #腰臀比 #端游陪玩 #一日女友 #线下 #线上 #连麦 #可甜可咸 #视频 https://t.co/Mj4VSCs1P3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 201,
+          "like_count": 1381,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 791
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-08T09:13:32.000Z",
+        "description": "前世被奸人所害😾欢迎来找我玩呀｜有🚪｜已过验证喵｜坐标20r｜希望能被宝宝们喜欢💕",
+        "id": "729237790899118081",
+        "name": "林木木.",
+        "pinned_tweet_id": "2038290108403908823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038286175098769408/WNeuqo4e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 14,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "username": "samir9158",
+        "verified": false
+      }
+    ]
+  }
+}

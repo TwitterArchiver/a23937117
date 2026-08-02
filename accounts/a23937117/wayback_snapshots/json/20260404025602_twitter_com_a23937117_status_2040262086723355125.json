@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "2040262086723355125",
+    "created_at": "2026-04-04T02:56:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T03:56:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040262086723355125"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "门槛"
+        },
+        {
+          "end": 104,
+          "start": 100,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 109,
+          "start": 105,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 114,
+          "start": 110,
+          "tag": "求入门"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "非绿"
+        },
+        {
+          "end": 122,
+          "start": 119,
+          "tag": "线下"
+        },
+        {
+          "end": 128,
+          "start": 123,
+          "tag": "电子女友"
+        },
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "反差"
+        },
+        {
+          "end": 138,
+          "start": 133,
+          "tag": "金主爸爸"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2040177777299558403",
+          "start": 3,
+          "username": "YxG6kr4aTk99876"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040262086723355125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040199368024945144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YxG6kr4aTk99876: 发个🆕🔝\n本人08已成年已  已成年\n跟家里吵架 目前休学\n现在闺蜜家住  养活不起自己了\n想自己租房子自己住 还想买小裙子\n所以没办法来接线下了😭\n#门槛 #门槛妹 #门槛哥 #求入门 #非绿 #线下 #电子女友 #反差 #金主爸爸…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1687,
+        "media_key": "3_2040199363671228416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFA-gwaaAAA1PPV.jpg",
+        "width": 1242
+      },
+      {
+        "height": 1687,
+        "media_key": "3_2040199362991812608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFA-gt4a8AAEY_0.jpg",
+        "width": 1237
+      },
+      {
+        "height": 1687,
+        "media_key": "3_2040199365038583808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFA-g1gaMAAnH1P.jpg",
+        "width": 1364
+      },
+      {
+        "height": 834,
+        "media_key": "3_2040199358701047808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFA-gd5bEAA3uig.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "2040262086723355125",
+        "created_at": "2026-04-04T02:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T03:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040262086723355125"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "门槛"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 114,
+              "start": 110,
+              "tag": "求入门"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "非绿"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "线下"
+            },
+            {
+              "end": 128,
+              "start": 123,
+              "tag": "电子女友"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "反差"
+            },
+            {
+              "end": 138,
+              "start": 133,
+              "tag": "金主爸爸"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2040177777299558403",
+              "start": 3,
+              "username": "YxG6kr4aTk99876"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040262086723355125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040199368024945144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YxG6kr4aTk99876: 发个🆕🔝\n本人08已成年已  已成年\n跟家里吵架 目前休学\n现在闺蜜家住  养活不起自己了\n想自己租房子自己住 还想买小裙子\n所以没办法来接线下了😭\n#门槛 #门槛妹 #门槛哥 #求入门 #非绿 #线下 #电子女友 #反差 #金主爸爸…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040199363671228416",
+            "3_2040199362991812608",
+            "3_2040199365038583808",
+            "3_2040199358701047808"
+          ]
+        },
+        "author_id": "2040177777299558403",
+        "conversation_id": "2040199368024945144",
+        "created_at": "2026-04-03T22:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T23:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040199368024945144"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "门槛"
+            },
+            {
+              "end": 83,
+              "start": 79,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "求入门"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "非绿"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "线下"
+            },
+            {
+              "end": 107,
+              "start": 102,
+              "tag": "电子女友"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "反差"
+            },
+            {
+              "end": 117,
+              "start": 112,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 122,
+              "start": 118,
+              "tag": "求包养"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFDmSoeAF8",
+              "end": 146,
+              "expanded_url": "https://x.com/YxG6kr4aTk99876/status/2040199368024945144/photo/1",
+              "media_key": "3_2040199363671228416",
+              "start": 123,
+              "url": "https://t.co/yFDmSoeAF8"
+            },
+            {
+              "display_url": "pic.x.com/yFDmSoeAF8",
+              "end": 146,
+              "expanded_url": "https://x.com/YxG6kr4aTk99876/status/2040199368024945144/photo/1",
+              "media_key": "3_2040199362991812608",
+              "start": 123,
+              "url": "https://t.co/yFDmSoeAF8"
+            },
+            {
+              "display_url": "pic.x.com/yFDmSoeAF8",
+              "end": 146,
+              "expanded_url": "https://x.com/YxG6kr4aTk99876/status/2040199368024945144/photo/1",
+              "media_key": "3_2040199365038583808",
+              "start": 123,
+              "url": "https://t.co/yFDmSoeAF8"
+            },
+            {
+              "display_url": "pic.x.com/yFDmSoeAF8",
+              "end": 146,
+              "expanded_url": "https://x.com/YxG6kr4aTk99876/status/2040199368024945144/photo/1",
+              "media_key": "3_2040199358701047808",
+              "start": 123,
+              "url": "https://t.co/yFDmSoeAF8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040199368024945144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "发个🆕🔝\n本人08已成年已  已成年\n跟家里吵架 目前休学\n现在闺蜜家住  养活不起自己了\n想自己租房子自己住 还想买小裙子\n所以没办法来接线下了😭\n#门槛 #门槛妹 #门槛哥 #求入门 #非绿 #线下 #电子女友 #反差 #金主爸爸 #求包养 https://t.co/yFDmSoeAF8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover 喜欢男朋友谈恋爱ing",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2036950672478810398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 203,
+          "like_count": 1396,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 682
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T21:21:14.000Z",
+        "description": "🚪188  388  588  888  1288   礼貌带🚪谢谢哥哥们",
+        "id": "2040177777299558403",
+        "location": "南京",
+        "name": "少萌主",
+        "pinned_tweet_id": "2040199368024945144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040178862374727680/V8TCw6Vx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "username": "YxG6kr4aTk99876",
+        "verified": false
+      }
+    ]
+  }
+}

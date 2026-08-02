@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960540637993775105"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1960540643744207344",
+    "created_at": "2025-08-27T03:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T04:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960540643744207344"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 12,
+          "start": 10,
+          "tag": "血"
+        },
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "自伤"
+        },
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "自残"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yh4xyUo1qt",
+          "end": 44,
+          "expanded_url": "https://x.com/a23937117/status/1960540643744207344/photo/1",
+          "media_key": "3_1960540637993775105",
+          "start": 21,
+          "url": "https://t.co/yh4xyUo1qt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960540643744207344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你憔悴我替你明媚\n\n#血 #自伤 #自残 https://t.co/yh4xyUo1qt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1960540643744207344].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1960540643744207344",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1960540643744207344"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1782,
+        "media_key": "3_1960540637993775105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzU9UqdWMAExljt.jpg",
+        "width": 1271
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰--子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1954948657901674855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 206,
+          "like_count": 1121,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 629
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

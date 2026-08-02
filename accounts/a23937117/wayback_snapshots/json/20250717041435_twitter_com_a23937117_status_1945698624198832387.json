@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1945655617089417684",
+    "created_at": "2025-07-17T04:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T05:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945698624198832387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1917988927409143812",
+          "start": 0,
+          "username": "OverSpeed_Wiki2"
+        },
+        {
+          "end": 28,
+          "id": "1943704460813041665",
+          "start": 17,
+          "username": "kasaikoxyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945698624198832387",
+    "in_reply_to_user_id": "1917988927409143812",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945696544126025856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpeed_Wiki2 @kasaikoxyg 啊啊啊啊不要啊不至于吧（哭哭）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1945655617089417684",
+        "created_at": "2025-07-17T04:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T05:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945698624198832387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1917988927409143812",
+              "start": 0,
+              "username": "OverSpeed_Wiki2"
+            },
+            {
+              "end": 28,
+              "id": "1943704460813041665",
+              "start": 17,
+              "username": "kasaikoxyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945698624198832387",
+        "in_reply_to_user_id": "1917988927409143812",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945696544126025856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpeed_Wiki2 @kasaikoxyg 啊啊啊啊不要啊不至于吧（哭哭）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "conversation_id": "1945655617089417684",
+        "created_at": "2025-07-17T04:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T05:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945696544126025856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442350932977610752",
+              "start": 0,
+              "username": "a23937117"
+            },
+            {
+              "end": 22,
+              "id": "1943704460813041665",
+              "start": 11,
+              "username": "kasaikoxyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945696544126025856",
+        "in_reply_to_user_id": "1442350932977610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945676617919156413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a23937117 @kasaikoxyg 好惨，正常人如果碰到什么金属到这个程度得颈部以下截肢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943481612970151936/0rVaYLvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 162,
+          "like_count": 955,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 379
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "此号为娱乐推，科学药物知识请关注一代目  @OverSpeed_Wiki（原账号）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "OverSpeed_Wiki"
+              }
+            ]
+          }
+        },
+        "id": "1917988927409143812",
+        "name": "OverSpeed_Wiki（2.0）",
+        "pinned_tweet_id": "1921225026600149428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917989340153880576/2tmSXWVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 131,
+          "like_count": 1454,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 667
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T16:10:40.000Z",
+        "description": "新人药娘hrt三个月，偶尔od，请多关照，本人有点小秘密，请期待",
+        "id": "1943704460813041665",
+        "name": "浅羽笠井子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943704888426582016/8p8MdfCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 180,
+          "like_count": 862,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 203
+        },
+        "username": "kasaikoxyg",
+        "verified": false
+      }
+    ]
+  }
+}

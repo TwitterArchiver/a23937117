@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948365174861418496",
+        "3_1948365174794223616"
+      ],
+      "media_source_tweet_id": [
+        "1948365203630108873",
+        "1948365203630108873"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962520499142922447",
+    "created_at": "2025-09-01T14:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T15:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962520499142922447"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 88,
+          "start": 85,
+          "tag": "金主"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1886798354606424064",
+          "start": 3,
+          "username": "oioicutte"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rB6PL5zsQM",
+          "end": 112,
+          "expanded_url": "https://x.com/oioicutte/status/1948365203630108873/photo/1",
+          "media_key": "3_1948365174861418496",
+          "start": 89,
+          "url": "https://t.co/rB6PL5zsQM"
+        },
+        {
+          "display_url": "pic.x.com/rB6PL5zsQM",
+          "end": 112,
+          "expanded_url": "https://x.com/oioicutte/status/1948365203630108873/photo/1",
+          "media_key": "3_1948365174794223616",
+          "start": 89,
+          "url": "https://t.co/rB6PL5zsQM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962520499142922447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948365203630108873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oioicutte: 来波老图好吗？\nhi大家可以看看～想说的都在图里了\n私信不过门一律不回复\n谢谢大家喜欢\n1588fo抽一个520面门槛～\n两个52～#门槛 #金主 https://t.co/rB6PL5zsQM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962520499142922447].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962520499142922447",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962520499142922447"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1948365174861418496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwn7zbxbUAA1OvH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1206,
+        "media_key": "3_1948365174794223616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwn7zbhaAAA8wER.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948365174861418496",
+            "3_1948365174794223616"
+          ]
+        },
+        "author_id": "1886798354606424064",
+        "conversation_id": "1948365203630108873",
+        "created_at": "2025-07-24T12:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T13:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948365203630108873"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "金主"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rB6PL5zsQM",
+              "end": 97,
+              "expanded_url": "https://x.com/oioicutte/status/1948365203630108873/photo/1",
+              "media_key": "3_1948365174861418496",
+              "start": 74,
+              "url": "https://t.co/rB6PL5zsQM"
+            },
+            {
+              "display_url": "pic.x.com/rB6PL5zsQM",
+              "end": 97,
+              "expanded_url": "https://x.com/oioicutte/status/1948365203630108873/photo/1",
+              "media_key": "3_1948365174794223616",
+              "start": 74,
+              "url": "https://t.co/rB6PL5zsQM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948365203630108873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 28159,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "来波老图好吗？\nhi大家可以看看～想说的都在图里了\n私信不过门一律不回复\n谢谢大家喜欢\n1588fo抽一个520面门槛～\n两个52～#门槛 #金主 https://t.co/rB6PL5zsQM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 211,
+          "like_count": 1135,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 668
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T15:26:05.000Z",
+        "description": "不过门不要烦我！防走失@Yiyi_600",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Yiyi_600"
+              }
+            ]
+          }
+        },
+        "id": "1886798354606424064",
+        "location": "🚪88/188/288/520/1314上不封顶❤️",
+        "name": "Linzz",
+        "pinned_tweet_id": "1948365203630108873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924166254450917376/UexH7I2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 41,
+          "like_count": 2,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 339
+        },
+        "username": "oioicutte",
+        "verified": false
+      }
+    ]
+  }
+}

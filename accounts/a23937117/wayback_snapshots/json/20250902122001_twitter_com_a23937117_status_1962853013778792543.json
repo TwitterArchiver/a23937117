@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1962853013778792543",
+    "created_at": "2025-09-02T12:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T13:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962853013778792543"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 85,
+          "start": 81,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 90,
+          "start": 86,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 96,
+          "start": 91,
+          "tag": "一日女友"
+        },
+        {
+          "end": 100,
+          "start": 97,
+          "tag": "线下"
+        },
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "金主"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "圆角"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "打瓦"
+        },
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "陪玩"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "非绿"
+        },
+        {
+          "end": 125,
+          "start": 121,
+          "tag": "cos"
+        },
+        {
+          "end": 129,
+          "start": 126,
+          "tag": "反差"
+        },
+        {
+          "end": 133,
+          "start": 130,
+          "tag": "馒头"
+        },
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "蜜桃"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1908594112112320516",
+          "start": 3,
+          "username": "baichacha01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962853013778792543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938114185725980920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baichacha01: 过🚪dd，福利多多➕非绿视频➕私密照，持续更新自录自拍\n任务接单dd，可得到定制1v1视频或者开视频，你想要的我都有欢迎投喂～\n#爸爸活 #门槛哥 #一日女友 #线下 #金主 #圆角 #打瓦 #陪玩 #非绿 #cos #反差 #馒头 #蜜桃 #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962853013778792543].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962853013778792543",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962853013778792543"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 664,
+        "media_key": "3_1938114175798284293",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuWQkwabEAUhdU2.jpg",
+        "width": 750
+      },
+      {
+        "height": 1996,
+        "media_key": "3_1938114175857004545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuWQkwobEAEJNCq.jpg",
+        "width": 1527
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938114175798284293",
+            "3_1938114175857004545"
+          ]
+        },
+        "author_id": "1908594112112320516",
+        "conversation_id": "1938114185725980920",
+        "created_at": "2025-06-26T05:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T06:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938114185725980920"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 73,
+              "start": 69,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 79,
+              "start": 74,
+              "tag": "一日女友"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "线下"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "金主"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "圆角"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "打瓦"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "陪玩"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "非绿"
+            },
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "cos"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "反差"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "馒头"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "蜜桃"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "缺钱"
+            },
+            {
+              "end": 130,
+              "start": 125,
+              "tag": "我爱门哥"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O2rlBgm3cS",
+              "end": 154,
+              "expanded_url": "https://x.com/baichacha01/status/1938114185725980920/photo/1",
+              "media_key": "3_1938114175798284293",
+              "start": 131,
+              "url": "https://t.co/O2rlBgm3cS"
+            },
+            {
+              "display_url": "pic.x.com/O2rlBgm3cS",
+              "end": 154,
+              "expanded_url": "https://x.com/baichacha01/status/1938114185725980920/photo/1",
+              "media_key": "3_1938114175857004545",
+              "start": 131,
+              "url": "https://t.co/O2rlBgm3cS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938114185725980920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 31056,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "过🚪dd，福利多多➕非绿视频➕私密照，持续更新自录自拍\n任务接单dd，可得到定制1v1视频或者开视频，你想要的我都有欢迎投喂～\n#爸爸活 #门槛哥 #一日女友 #线下 #金主 #圆角 #打瓦 #陪玩 #非绿 #cos #反差 #馒头 #蜜桃 #缺钱 #我爱门哥 https://t.co/O2rlBgm3cS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪：88.88 入🚪不退",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "椰-子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 202,
+          "like_count": 1139,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 695
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T18:54:41.000Z",
+        "description": "06｜c+杯｜165-42kg｜小反差｜线上视频｜线下约会｜王者吃鸡打瓦妈妈｜过门有福利～坐标20r｜入🚪私信请正确姿势～",
+        "id": "1908594112112320516",
+        "name": "清秋",
+        "pinned_tweet_id": "1938114185725980920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938115052915048449/uJtwc7RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 28,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 315
+        },
+        "username": "baichacha01",
+        "verified": false
+      }
+    ]
+  }
+}

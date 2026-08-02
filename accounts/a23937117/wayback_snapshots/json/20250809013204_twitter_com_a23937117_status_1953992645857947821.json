@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1953992645857947821",
+    "created_at": "2025-08-09T01:32:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T02:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953992645857947821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oore02086112/s…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/oore02086112/status/1953446564346908940",
+          "start": 14,
+          "url": "https://t.co/eHyGW8EPtR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953992645857947821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953446564346908940",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不敢笑我是真的弄不进去…… https://t.co/eHyGW8EPtR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1953992645857947821",
+        "created_at": "2025-08-09T01:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T02:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953992645857947821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oore02086112/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/oore02086112/status/1953446564346908940",
+              "start": 14,
+              "url": "https://t.co/eHyGW8EPtR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953992645857947821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953446564346908940",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不敢笑我是真的弄不进去…… https://t.co/eHyGW8EPtR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604154566206926848",
+        "conversation_id": "1953446564346908940",
+        "created_at": "2025-08-07T13:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T14:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953446564346908940"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953446564346908940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 747,
+          "impression_count": 703063,
+          "like_count": 9151,
+          "quote_count": 64,
+          "reply_count": 124,
+          "retweet_count": 255
+        },
+        "reply_settings": "everyone",
+        "text": "你故意把男朋友灌醉想趁着他睡着的时候干一些🔞的事情\n结果因为没什么经验\n肉棒在穴口蹭了半天，小穴都湿得一塌糊涂了也没插进去\n你急得满头大汗的时候听到一声轻笑\n他撑着头看着你，眼睛里清清亮亮没有丝毫醉意\n“好笨，要我教你吗？”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "pinned_tweet_id": "1945620693955018928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 188,
+          "like_count": 1041,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 475
+        },
+        "username": "a23937117",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T16:40:47.000Z",
+        "description": "叫我小o就好了☺️｜随便写写✍️｜录制前请先授权！发布请@ ｜接定制｜看置顶🔝",
+        "id": "1604154566206926848",
+        "name": "OO",
+        "pinned_tweet_id": "1917263464080498744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750602471830097921/4Mtu7c9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52295,
+          "following_count": 285,
+          "like_count": 4963,
+          "listed_count": 73,
+          "media_count": 199,
+          "tweet_count": 1669
+        },
+        "username": "OoRe02086112",
+        "verified": false
+      }
+    ]
+  }
+}

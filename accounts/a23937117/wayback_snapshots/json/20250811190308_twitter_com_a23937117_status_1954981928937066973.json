@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1442350932977610752",
+    "conversation_id": "1954981928937066973",
+    "created_at": "2025-08-11T19:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T20:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954981928937066973"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1954981928937066973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好喜欢sp，打屁股的时候都要痛哭了，结束的时候意犹未尽说还要(｡•́︿•̀｡)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442350932977610752",
+        "conversation_id": "1954981928937066973",
+        "created_at": "2025-08-11T19:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T20:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954981928937066973"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954981928937066973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好喜欢sp，打屁股的时候都要痛哭了，结束的时候意犹未尽说还要(｡•́︿•̀｡)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔  🚬代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-露出lover 🚪：88.88",
+        "id": "1442350932977610752",
+        "name": "椰子雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951155910740688896/dvHm4IiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 187,
+          "like_count": 1054,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 491
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}

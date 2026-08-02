@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974706766370721792",
+        "3_1974706766353973248",
+        "3_1974706766404263936"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "1974706784385564740",
+    "created_at": "2025-10-05T05:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T06:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974706784385564740"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hgSfiAGvpq",
+          "end": 25,
+          "expanded_url": "https://x.com/a23937117/status/1974706784385564740/photo/1",
+          "media_key": "3_1974706766370721792",
+          "start": 2,
+          "url": "https://t.co/hgSfiAGvpq"
+        },
+        {
+          "display_url": "pic.x.com/hgSfiAGvpq",
+          "end": 25,
+          "expanded_url": "https://x.com/a23937117/status/1974706784385564740/photo/1",
+          "media_key": "3_1974706766353973248",
+          "start": 2,
+          "url": "https://t.co/hgSfiAGvpq"
+        },
+        {
+          "display_url": "pic.x.com/hgSfiAGvpq",
+          "end": 25,
+          "expanded_url": "https://x.com/a23937117/status/1974706784385564740/photo/1",
+          "media_key": "3_1974706766404263936",
+          "start": 2,
+          "url": "https://t.co/hgSfiAGvpq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974706784385564740",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🌊 https://t.co/hgSfiAGvpq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1974706784385564740].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1974706784385564740",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1974706784385564740"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1974706766370721792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2eRV3EWUAA5ioA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974706766353973248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2eRV3AWwAAbh29.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974706766404263936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2eRV3MWIAA9ZPI.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病治疗中——南美洲华裔 人在海外 人在海外！！！ 烟代/塔罗占卜/中文/西文/英文 地雷女 泛性恋 M-brat-sub-K9 露出lover 🚪88.88— 谈恋爱有对象了",
+        "id": "1442350932977610752",
+        "location": "arg",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "1962116261535474090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 216,
+          "like_count": 1264,
+          "listed_count": 3,
+          "media_count": 188,
+          "tweet_count": 688
+        },
+        "username": "a23937117",
+        "verified": false
+      }
+    ]
+  }
+}
