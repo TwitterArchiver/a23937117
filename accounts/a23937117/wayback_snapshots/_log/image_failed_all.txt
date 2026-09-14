@@ -319,7 +319,6 @@ https://pbs.twimg.com/media/GyDJNmAbQAAWNvx.jpg
 https://pbs.twimg.com/media/Gxy3CQSaYAAnUf1.jpg
 https://pbs.twimg.com/media/GxhYhxCb0AEaFYj.jpg
 https://pbs.twimg.com/media/GyXTNKPW0AAHHLM.jpg
-https://pbs.twimg.com/media/GZ2mpiwasAEngg8.jpg
 https://pbs.twimg.com/media/GyCZkkcboAA2VJA.jpg
 https://pbs.twimg.com/media/GyXstc1WYAMADD0.jpg
 https://pbs.twimg.com/media/GpoW2_CbgAAl4SR.jpg
@@ -339,7 +338,6 @@ https://pbs.twimg.com/media/GyDJNfkbIAA3iIG.jpg
 https://pbs.twimg.com/media/GyZdr4_XMAACTLS.jpg
 https://pbs.twimg.com/media/GyFXxVvagAA1O_5.jpg
 https://pbs.twimg.com/media/GnwCXI7bYAEitH5.jpg
-https://pbs.twimg.com/media/GZ2mpiwbQAEKYwz.jpg
 https://pbs.twimg.com/media/GyZfZR-aQAAcrkW.jpg
 https://pbs.twimg.com/media/GyXTNXiXAAEwhej.jpg
 https://pbs.twimg.com/media/GyYfUJNa4AAEKBP.png
@@ -428,7 +426,6 @@ https://pbs.twimg.com/media/GzIolABbMAAsUZF.jpg
 https://pbs.twimg.com/media/Gs8XbLzaQAAWXpj.jpg
 https://pbs.twimg.com/media/GzbI0mMa4AEn9AU.jpg
 https://pbs.twimg.com/media/Gy_qJhgbUAAK6fu.jpg
-https://pbs.twimg.com/media/GytmzkjbUAA4DtF.jpg
 https://pbs.twimg.com/media/GzrWVYjXMAA0MLH.jpg
 https://pbs.twimg.com/media/GyScDEFbgAApQCf.jpg
 https://pbs.twimg.com/media/GzSFApga8AAtU8X.jpg
@@ -960,7 +957,6 @@ https://pbs.twimg.com/media/HD2EpJPboAYj-Jg.jpg
 https://pbs.twimg.com/media/HEobO1NbQAAdFkt.jpg
 https://pbs.twimg.com/media/HEZ5FMHa4AAmLIk.jpg
 https://pbs.twimg.com/media/HDvJOdvaoAAPH2K.jpg
-https://pbs.twimg.com/media/HD2AzNsboAIINLb.jpg
 https://pbs.twimg.com/media/HEopVoQbEAADW_I.jpg
 https://pbs.twimg.com/media/HEudy9EbMAA5Gb_.jpg
 https://pbs.twimg.com/media/HFFqbk0WIAACP3z.jpg
@@ -1229,3 +1225,7 @@ https://pbs.twimg.com/media/HID-wUoWEAAZucq.jpg
 https://pbs.twimg.com/media/HLzePURbwAEakLb.jpg
 https://pbs.twimg.com/media/HJs5yOGbUAAc2hX.jpg
 https://pbs.twimg.com/media/HLzePUPbcAAVpJG.jpg
+https://pbs.twimg.com/media/HQYW59oXkAAvTyt.jpg
+https://pbs.twimg.com/media/HQowPt4WIAAheSF.jpg
+https://pbs.twimg.com/media/HQu_kZFWAAA-VoJ.jpg
+https://pbs.twimg.com/media/HQowPt3WMAA7261.jpg
