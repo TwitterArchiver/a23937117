@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2105848625020473344"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2105848653101633979",
+    "created_at": "2026-10-02T02:33:38.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T03:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105848653101633979"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/y1juYon97h",
+          "end": 26,
+          "expanded_url": "https://x.com/a23937117/status/2105848653101633979/video/1",
+          "media_key": "13_2105848625020473344",
+          "start": 3,
+          "url": "https://t.co/y1juYon97h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105848653101633979",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2105848625020473344"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小茂 https://t.co/y1juYon97h"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7806,
+        "height": 1280,
+        "media_key": "13_2105848625020473344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105848625020473344/img/qbBFckRqsvxedtXy.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105848625020473344/vid/avc1/320x568/clEEEp0KyEyY1E-1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105848625020473344/vid/avc1/480x852/cAsM493wf1WizM2x.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105848625020473344/vid/avc1/720x1280/-effC9elQ94Z0gY3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105848625020473344/pl/0ygOfd3_WPm51JUW.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105848625020473344"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2105848653101633979",
+        "created_at": "2026-10-02T02:33:38.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T03:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105848653101633979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y1juYon97h",
+              "end": 26,
+              "expanded_url": "https://x.com/a23937117/status/2105848653101633979/video/1",
+              "media_key": "13_2105848625020473344",
+              "start": 3,
+              "url": "https://t.co/y1juYon97h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105848653101633979",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2105848625020473344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小茂 https://t.co/y1juYon97h"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 \n🚪88/188/288/388/520\n长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "is_identity_verified": false,
+        "location": "arg",
+        "most_recent_tweet_id": "2105848653101633979",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1442350932977610752/1666958468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103324203118166016/UuEx7NAf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 179,
+          "like_count": 1453,
+          "listed_count": 2,
+          "media_count": 254,
+          "tweet_count": 800
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

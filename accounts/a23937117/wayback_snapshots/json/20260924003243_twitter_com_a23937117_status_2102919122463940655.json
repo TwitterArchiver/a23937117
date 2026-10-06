@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102919117095247873"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2102919122463940655",
+    "created_at": "2026-09-24T00:32:43.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T01:32:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102919122463940655"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 4,
+          "tag": "门槛"
+        },
+        {
+          "end": 12,
+          "start": 8,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "反差"
+        },
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "电子女友"
+        },
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "陪聊"
+        },
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "原味"
+        },
+        {
+          "end": 34,
+          "start": 31,
+          "tag": "女大"
+        },
+        {
+          "end": 39,
+          "start": 35,
+          "tag": "福利姬"
+        },
+        {
+          "end": 42,
+          "start": 40,
+          "tag": "m"
+        },
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "烟代"
+        },
+        {
+          "end": 50,
+          "start": 47,
+          "tag": "甜妹"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IPkH2ivkbE",
+          "end": 74,
+          "expanded_url": "https://x.com/a23937117/status/2102919122463940655/photo/1",
+          "media_key": "3_2102919117095247873",
+          "start": 51,
+          "url": "https://t.co/IPkH2ivkbE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102919122463940655",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2102919117095247873"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啪叽\n\n#门槛 #门槛妹 #反差 #电子女友 #陪聊 #原味 #女大 #福利姬 #m #烟代 #甜妹 https://t.co/IPkH2ivkbE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1720,
+        "media_key": "3_2102919117095247873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS8Ry5XXIAEX7qo.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102919117095247873"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2102919122463940655",
+        "created_at": "2026-09-24T00:32:43.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T01:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102919122463940655"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "门槛"
+            },
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "反差"
+            },
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "电子女友"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "陪聊"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "原味"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "女大"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "福利姬"
+            },
+            {
+              "end": 42,
+              "start": 40,
+              "tag": "m"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "烟代"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "甜妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IPkH2ivkbE",
+              "end": 74,
+              "expanded_url": "https://x.com/a23937117/status/2102919122463940655/photo/1",
+              "media_key": "3_2102919117095247873",
+              "start": 51,
+              "url": "https://t.co/IPkH2ivkbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102919122463940655",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102919117095247873"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啪叽\n\n#门槛 #门槛妹 #反差 #电子女友 #陪聊 #原味 #女大 #福利姬 #m #烟代 #甜妹 https://t.co/IPkH2ivkbE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 \n🚪88/188/288/388/520\n长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "is_identity_verified": false,
+        "location": "arg",
+        "most_recent_tweet_id": "2102919122463940655",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1442350932977610752/1666958468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 181,
+          "like_count": 1452,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 803
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

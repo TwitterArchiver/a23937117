@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102877119151759360"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2102877126060126556",
+    "created_at": "2026-09-23T21:45:51.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T22:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102877126060126556"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gsd4FTG3nT",
+          "end": 32,
+          "expanded_url": "https://x.com/a23937117/status/2102877126060126556/photo/1",
+          "media_key": "3_2102877119151759360",
+          "start": 9,
+          "url": "https://t.co/gsd4FTG3nT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102877126060126556",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102877119151759360"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么一股男娘味 https://t.co/gsd4FTG3nT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1720,
+        "media_key": "3_2102877119151759360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS7rmS1WYAA4G4g.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102877119151759360"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2102877126060126556",
+        "created_at": "2026-09-23T21:45:51.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T22:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102877126060126556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gsd4FTG3nT",
+              "end": 32,
+              "expanded_url": "https://x.com/a23937117/status/2102877126060126556/photo/1",
+              "media_key": "3_2102877119151759360",
+              "start": 9,
+              "url": "https://t.co/gsd4FTG3nT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102877126060126556",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102877119151759360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么一股男娘味 https://t.co/gsd4FTG3nT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 \n🚪88/188/288/388/520\n长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "is_identity_verified": false,
+        "location": "arg",
+        "most_recent_tweet_id": "2102877126060126556",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1442350932977610752/1666958468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 181,
+          "like_count": 1452,
+          "listed_count": 2,
+          "media_count": 254,
+          "tweet_count": 801
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

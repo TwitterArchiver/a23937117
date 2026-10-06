@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102919540724105217",
+        "3_2102919540694753280"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2102919550941409752",
+    "created_at": "2026-09-24T00:34:25.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T01:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102919550941409752"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 12,
+          "start": 10,
+          "tag": "胸"
+        },
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "罩杯"
+        },
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "门槛"
+        },
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "反差"
+        },
+        {
+          "end": 35,
+          "start": 30,
+          "tag": "电子女友"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "陪聊"
+        },
+        {
+          "end": 43,
+          "start": 40,
+          "tag": "原味"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "女大"
+        },
+        {
+          "end": 52,
+          "start": 48,
+          "tag": "福利姬"
+        },
+        {
+          "end": 55,
+          "start": 53,
+          "tag": "m"
+        },
+        {
+          "end": 59,
+          "start": 56,
+          "tag": "烟代"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BC4oLCtazk",
+          "end": 83,
+          "expanded_url": "https://x.com/a23937117/status/2102919550941409752/photo/1",
+          "media_key": "3_2102919540724105217",
+          "start": 60,
+          "url": "https://t.co/BC4oLCtazk"
+        },
+        {
+          "display_url": "pic.x.com/BC4oLCtazk",
+          "end": 83,
+          "expanded_url": "https://x.com/a23937117/status/2102919550941409752/photo/1",
+          "media_key": "3_2102919540694753280",
+          "start": 60,
+          "url": "https://t.co/BC4oLCtazk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102919550941409752",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2102919540724105217"
+      },
+      {
+        "media_key": "3_2102919540694753280"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只想埋在你的胸口\n\n#胸 #罩杯 #门槛 #门槛妹 #反差 #电子女友 #陪聊 #原味 #女大 #福利姬 #m #烟代 https://t.co/BC4oLCtazk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2102919540724105217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS8SLjgWgAE0Snt.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2102919540694753280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS8SLjZWoAAGBGE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102919540724105217",
+            "3_2102919540694753280"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2102919550941409752",
+        "created_at": "2026-09-24T00:34:25.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T01:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102919550941409752"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 10,
+              "tag": "胸"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "罩杯"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "门槛"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "反差"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "电子女友"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "陪聊"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "原味"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "女大"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "福利姬"
+            },
+            {
+              "end": 55,
+              "start": 53,
+              "tag": "m"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "烟代"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BC4oLCtazk",
+              "end": 83,
+              "expanded_url": "https://x.com/a23937117/status/2102919550941409752/photo/1",
+              "media_key": "3_2102919540724105217",
+              "start": 60,
+              "url": "https://t.co/BC4oLCtazk"
+            },
+            {
+              "display_url": "pic.x.com/BC4oLCtazk",
+              "end": 83,
+              "expanded_url": "https://x.com/a23937117/status/2102919550941409752/photo/1",
+              "media_key": "3_2102919540694753280",
+              "start": 60,
+              "url": "https://t.co/BC4oLCtazk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102919550941409752",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102919540724105217"
+          },
+          {
+            "media_key": "3_2102919540694753280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只想埋在你的胸口\n\n#胸 #罩杯 #门槛 #门槛妹 #反差 #电子女友 #陪聊 #原味 #女大 #福利姬 #m #烟代 https://t.co/BC4oLCtazk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 \n🚪88/188/288/388/520\n长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "is_identity_verified": false,
+        "location": "arg",
+        "most_recent_tweet_id": "2102919550941409752",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1442350932977610752/1666958468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 181,
+          "like_count": 1452,
+          "listed_count": 2,
+          "media_count": 257,
+          "tweet_count": 804
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

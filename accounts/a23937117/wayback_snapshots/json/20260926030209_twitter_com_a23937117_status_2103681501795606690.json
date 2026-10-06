@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103681495160307712"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2103681501795606690",
+    "created_at": "2026-09-26T03:02:09.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T04:02:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103681501795606690"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "烟代"
+        },
+        {
+          "end": 28,
+          "start": 25,
+          "tag": "七星"
+        },
+        {
+          "end": 33,
+          "start": 29,
+          "tag": "电子烟"
+        },
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "香烟"
+        },
+        {
+          "end": 41,
+          "start": 38,
+          "tag": "纸烟"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "百乐"
+        },
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "爱喜"
+        },
+        {
+          "end": 53,
+          "start": 50,
+          "tag": "蓝星"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ENAZsQNR2W",
+          "end": 77,
+          "expanded_url": "https://x.com/a23937117/status/2103681501795606690/photo/1",
+          "media_key": "3_2103681495160307712",
+          "start": 54,
+          "url": "https://t.co/ENAZsQNR2W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103681501795606690",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103681495160307712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "随时问价 可以留联系 （电子烟也有）\n\n'#烟代 #七星 #电子烟 #香烟 #纸烟 #百乐 #爱喜 #蓝星 https://t.co/ENAZsQNR2W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1220,
+        "media_key": "3_2103681495160307712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTHHLI-XwAAH96S.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103681495160307712"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2103681501795606690",
+        "created_at": "2026-09-26T03:02:09.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T04:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103681501795606690"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "烟代"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "七星"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "电子烟"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "香烟"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "纸烟"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "百乐"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "爱喜"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "蓝星"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ENAZsQNR2W",
+              "end": 77,
+              "expanded_url": "https://x.com/a23937117/status/2103681501795606690/photo/1",
+              "media_key": "3_2103681495160307712",
+              "start": 54,
+              "url": "https://t.co/ENAZsQNR2W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103681501795606690",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103681495160307712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "随时问价 可以留联系 （电子烟也有）\n\n'#烟代 #七星 #电子烟 #香烟 #纸烟 #百乐 #爱喜 #蓝星 https://t.co/ENAZsQNR2W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 \n🚪88/188/288/388/520\n长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "is_identity_verified": false,
+        "location": "arg",
+        "most_recent_tweet_id": "2103681501795606690",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1442350932977610752/1666958468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103324203118166016/UuEx7NAf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 180,
+          "like_count": 1451,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 804
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

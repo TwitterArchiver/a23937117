@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106170765171097600"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2106170772712767704",
+    "created_at": "2026-10-02T23:53:37.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T00:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106170772712767704"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 51,
+          "tag": "oc"
+        },
+        {
+          "end": 58,
+          "start": 55,
+          "tag": "束涟"
+        },
+        {
+          "end": 61,
+          "start": 59,
+          "tag": "辰"
+        },
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "辰束"
+        },
+        {
+          "end": 71,
+          "start": 66,
+          "tag": "原创角色"
+        },
+        {
+          "end": 77,
+          "start": 72,
+          "tag": "稿件展示"
+        },
+        {
+          "end": 81,
+          "start": 79,
+          "tag": "稿"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7m33RF0qdC",
+          "end": 105,
+          "expanded_url": "https://x.com/a23937117/status/2106170772712767704/photo/1",
+          "media_key": "3_2106170765171097600",
+          "start": 82,
+          "url": "https://t.co/7m33RF0qdC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106170772712767704",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106170765171097600"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "束涟其实脑子里是空白的，还没有很好的了解人类文化，他并不能懂这是什么感觉。辰不语只是一味觉得好香。\n\n#oc #束涟 #辰 #辰束 #原创角色 #稿件展示  #稿 https://t.co/7m33RF0qdC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106170765171097600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTqfJuZWAAARkZG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106170765171097600"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2106170772712767704",
+        "created_at": "2026-10-02T23:53:37.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T00:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106170772712767704"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "oc"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "束涟"
+            },
+            {
+              "end": 61,
+              "start": 59,
+              "tag": "辰"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "辰束"
+            },
+            {
+              "end": 71,
+              "start": 66,
+              "tag": "原创角色"
+            },
+            {
+              "end": 77,
+              "start": 72,
+              "tag": "稿件展示"
+            },
+            {
+              "end": 81,
+              "start": 79,
+              "tag": "稿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7m33RF0qdC",
+              "end": 105,
+              "expanded_url": "https://x.com/a23937117/status/2106170772712767704/photo/1",
+              "media_key": "3_2106170765171097600",
+              "start": 82,
+              "url": "https://t.co/7m33RF0qdC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106170772712767704",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106170765171097600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "束涟其实脑子里是空白的，还没有很好的了解人类文化，他并不能懂这是什么感觉。辰不语只是一味觉得好香。\n\n#oc #束涟 #辰 #辰束 #原创角色 #稿件展示  #稿 https://t.co/7m33RF0qdC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 \n🚪188纯绿\n长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9",
+        "id": "1442350932977610752",
+        "is_identity_verified": false,
+        "location": "arg",
+        "most_recent_tweet_id": "2106170772712767704",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2106142585203073469",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1442350932977610752/1666958468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103324203118166016/UuEx7NAf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 179,
+          "like_count": 1444,
+          "listed_count": 2,
+          "media_count": 235,
+          "tweet_count": 782
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

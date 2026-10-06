@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2102916456564342785"
+      ]
+    },
+    "author_id": "1442350932977610752",
+    "conversation_id": "2102916480639664278",
+    "created_at": "2026-09-24T00:22:13.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T01:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102916480639664278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7BquvGmmsg",
+          "end": 28,
+          "expanded_url": "https://x.com/a23937117/status/2102916480639664278/video/1",
+          "media_key": "13_2102916456564342785",
+          "start": 5,
+          "url": "https://t.co/7BquvGmmsg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102916480639664278",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2102916456564342785"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无法忘记 https://t.co/7BquvGmmsg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16966,
+        "height": 960,
+        "media_key": "13_2102916456564342785",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102916456564342785/img/k0DLoiPq1xOW0CUR.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102916456564342785/vid/avc1/320x426/3wtqck1MHniiznrg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102916456564342785/vid/avc1/480x640/Jyy8F-RtZsMdkqtB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102916456564342785/vid/avc1/720x960/0zCzEzEao_nBecwY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102916456564342785/pl/crxtWcPwirDoTW3u.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102916456564342785"
+          ]
+        },
+        "author_id": "1442350932977610752",
+        "conversation_id": "2102916480639664278",
+        "created_at": "2026-09-24T00:22:13.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T01:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102916480639664278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7BquvGmmsg",
+              "end": 28,
+              "expanded_url": "https://x.com/a23937117/status/2102916480639664278/video/1",
+              "media_key": "13_2102916456564342785",
+              "start": 5,
+              "url": "https://t.co/7BquvGmmsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102916480639664278",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2102916456564342785"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无法忘记 https://t.co/7BquvGmmsg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-09-27T04:51:12.000Z",
+        "description": "本体是小豹/bpd/癔症/双相精神疾病——南美洲裔 \n🚪88/188/288/388/520\n长期海外 烟代/塔罗占卜/中文/西文/英文 泛性恋 M-brat-sub-K9 露出lover",
+        "id": "1442350932977610752",
+        "is_identity_verified": false,
+        "location": "arg",
+        "most_recent_tweet_id": "2102916480639664278",
+        "name": "🥥雪豹˗ˋˏ꒰ঌ✞໒꒱ˎˊ˗（烟代）（塔罗）",
+        "pinned_tweet_id": "2053428093323194691",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1442350932977610752/1666958468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 181,
+          "like_count": 1452,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 802
+        },
+        "url": "",
+        "username": "a23937117",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
